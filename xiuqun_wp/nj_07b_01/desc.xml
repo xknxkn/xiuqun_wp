@@ -2,7 +2,7 @@
 <package>
 	<book_id>nj_07b</book_id>
 	<unit_id>nj_07b_01</unit_id>
-	<version>10</version>
+	<version>1</version>
 	<unit>unit1</unit>
 	<title>Writing a travel guide</title>
 	<words>
@@ -48,40 +48,30 @@
 			<exercise type="2" index="7"/-->
 		</part>
 	</words>
-	<texts>
-		<part part_index="0" name="Shanghai-an interesting City" page="4">
-			<record rec_id="0" rec_time="20" sound="nj_07b_01.mp3">
-				<subrecord rec_id="1" rec_time="4" name="Shanghai  is in the east of China. " sound="nj_07b_01.mp3" from="  1:03.169" to="  1:05.570" allWordsNum="7"/>
-				<subrecord rec_id="2" rec_time="4" name="It is an international city. " sound="nj_07b_01.mp3" from="  1:06.595" to="  1:08.587" allWordsNum="5"/>
-				<subrecord rec_id="3" rec_time="5" name="Shanghai is famous for its night views. " sound="nj_07b_01.mp3" from="  1:09.700" to="  1:12.922" allWordsNum="7"/>
-				<subrecord rec_id="4" rec_time="5" name="It is one of the largest cities in the world. " sound="nj_07b_01.mp3" from="  1:14.181" to="  1:17.110" allWordsNum="10"/>
-			  </record>
-			<record rec_id="1" rec_time="22" sound="nj_07b_01.mp3">
-				<subrecord rec_id="5" rec_time="12" name="It is also known as a 'Shopping Paradise' because there are a lot of department stores and huge shopping centres. " sound="nj_07b_01.mp3" from="  1:18.235" to="  1:25.636" allWordsNum="22"/>
-				<subrecord rec_id="6" rec_time="10" name="Therefore, it is not surprising that many tourists come to visit Shanghai every year to shop!" sound="nj_07b_01.mp3" from="  1:26.878" to="  1:33.567" allWordsNum="16"/>
-				</record>
-			<record rec_id="2" rec_time="30" sound="nj_07b_01.mp3">
-				<subrecord rec_id="7" rec_time="5" name="People's Square is known as 'the centre of Shanghai'. " sound="nj_07b_01.mp3" from="  1:38.352" to="  1:41.912" allWordsNum="14"/>
-				<subrecord rec_id="8" rec_time="12" name="If you go there, you will see a huge open area with green grass, trees, fountains and pigeons. " sound="nj_07b_01.mp3" from="  1:42.972" to="  1:50.820" allWordsNum="18"/>
-				<subrecord rec_id="9" rec_time="4" name="There are many new buildings around the square. " sound="nj_07b_01.mp3" from="  1:51.284" to="  1:53.933" allWordsNum="8"/>
-	      <subrecord rec_id="10" rec_time="8" name="You will find Shanghai Grand Theatre and Shanghai Museum there. " sound="nj_07b_01.mp3" from="  1:54.943" to="  1:59.943" allWordsNum="10"/>
-		  </record>
-    <record rec_id="3" rec_time="35" sound="nj_07b_01.mp3">
-			 <subrecord rec_id="11" rec_time="5" name="Pudong New District is in the east of Shanghai. " sound="nj_07b_01.mp3" from="  2:05.010" to="  2:08.586" allWordsNum="9"/>
-			 <subrecord rec_id="12" rec_time="10" name="There are many bridges and tunnels, so it is convenient to travel between Pudong and Puxi. " sound="nj_07b_01.mp3" from="  2:10.126" to="  2:17.362" allWordsNum="16"/>
-			 <subrecord rec_id="13" rec_time="12" name="If you go to Pudong, you can see the Oriental Pearl TV Tower and Shanghai Science and Technology Museum. " sound="nj_07b_01.mp3" from="  2:18.736" to="  2:27.015" allWordsNum="19"/>
-			 <subrecord rec_id="14" rec_time="8" name="The Maglev takes you to the international airport in about eight minutes. " sound="nj_07b_01.mp3" from="  2:28.621" to="  2:33.753" allWordsNum="12"/>
-		  </record>
-    <record rec_id="4" rec_time="28" sound="nj_07b_01.mp3">
-			<subrecord rec_id="15" rec_time="10" name="If you go to Sheshan about 30 km south-west of the city, you will see Sheshan State Resort. " sound="nj_07b_01.mp3" from="  2:38.986" to="  2:47.297" allWordsNum="19"/>
-			<subrecord rec_id="16" rec_time="3" name="It has a huge park. " sound="nj_07b_01.mp3" from="  2:48.208" to="  2:49.864" allWordsNum="5"/>
-			<subrecord rec_id="17" rec_time="3" name="You can see many birds in the park. " sound="nj_07b_01.mp3" from="  2:50.940" to="  2:53.357" allWordsNum="8"/>
-			<subrecord rec_id="18" rec_time="5" name="You will also find a famous church and an observatory. " sound="nj_07b_01.mp3" from="  2:54.417" to="  2:58.391" allWordsNum="10"/>
-			<subrecord rec_id="19" rec_time="5" name="Tourists usually go there for sightseeing and fun. " sound="nj_07b_01.mp3" from="  2:59.864" to="  3:03.242" allWordsNum="8"/>
-			</record>
-			<exercise type="4" index="0"/>
-      </part>	
-      <part part_index="1" name="The 'Chinese yuan' travel guide" page="0" source="2">
+	<sentences>
+		<part part_index="0" name="Shanghai-an interesting City" page="4" img="Shanghai_an_interesting_City.png">
+				<record rec_id="1" rec_time="4" name="Shanghai  is in the east of China. " sound="nj_07b_01.mp3" from="  1:03.169" to="  1:05.570" allWordsNum="7"/>
+				<record rec_id="2" rec_time="4" name="It is an international city. " sound="nj_07b_01.mp3" from="  1:06.595" to="  1:08.587" allWordsNum="5"/>
+				<record rec_id="3" rec_time="5" name="Shanghai is famous for its night views. " sound="nj_07b_01.mp3" from="  1:09.700" to="  1:12.922" allWordsNum="7"/>
+				<record rec_id="4" rec_time="5" name="It is one of the largest cities in the world. " sound="nj_07b_01.mp3" from="  1:14.181" to="  1:17.110" allWordsNum="10"/>
+				<record rec_id="5" rec_time="12" name="It is also known as a 'Shopping Paradise' because there are a lot of department stores and huge shopping centres. " sound="nj_07b_01.mp3" from="  1:18.235" to="  1:25.636" allWordsNum="22"/>
+				<record rec_id="6" rec_time="10" name="Therefore, it is not surprising that many tourists come to visit Shanghai every year to shop!" sound="nj_07b_01.mp3" from="  1:26.878" to="  1:33.567" allWordsNum="16"/>
+				<record rec_id="7" rec_time="5" name="People's Square is known as 'the centre of Shanghai'. " sound="nj_07b_01.mp3" from="  1:38.352" to="  1:41.912" allWordsNum="14"/>
+				<record rec_id="8" rec_time="12" name="If you go there, you will see a huge open area with green grass, trees, fountains and pigeons. " sound="nj_07b_01.mp3" from="  1:42.972" to="  1:50.820" allWordsNum="18"/>
+				<record rec_id="9" rec_time="4" name="There are many new buildings around the square. " sound="nj_07b_01.mp3" from="  1:51.284" to="  1:53.933" allWordsNum="8"/>
+	            <record rec_id="10" rec_time="8" name="You will find Shanghai Grand Theatre and Shanghai Museum there. " sound="nj_07b_01.mp3" from="  1:54.943" to="  1:59.943" allWordsNum="10"/>
+			    <record rec_id="11" rec_time="5" name="Pudong New District is in the east of Shanghai. " sound="nj_07b_01.mp3" from="  2:05.010" to="  2:08.586" allWordsNum="9"/>
+			    <record rec_id="12" rec_time="10" name="There are many bridges and tunnels, so it is convenient to travel between Pudong and Puxi. " sound="nj_07b_01.mp3" from="  2:10.126" to="  2:17.362" allWordsNum="16"/>
+			    <record rec_id="13" rec_time="12" name="If you go to Pudong, you can see the Oriental Pearl TV Tower and Shanghai Science and Technology Museum. " sound="nj_07b_01.mp3" from="  2:18.736" to="  2:27.015" allWordsNum="19"/>
+			    <record rec_id="14" rec_time="8" name="The Maglev takes you to the international airport in about eight minutes. " sound="nj_07b_01.mp3" from="  2:28.621" to="  2:33.753" allWordsNum="12"/>
+			    <record rec_id="15" rec_time="10" name="If you go to Sheshan about 30 km south-west of the city, you will see Sheshan State Resort. " sound="nj_07b_01.mp3" from="  2:38.986" to="  2:47.297" allWordsNum="19"/>
+			    <record rec_id="16" rec_time="3" name="It has a huge park. " sound="nj_07b_01.mp3" from="  2:48.208" to="  2:49.864" allWordsNum="5"/>
+			    <record rec_id="17" rec_time="3" name="You can see many birds in the park. " sound="nj_07b_01.mp3" from="  2:50.940" to="  2:53.357" allWordsNum="8"/>
+			    <record rec_id="18" rec_time="5" name="You will also find a famous church and an observatory. " sound="nj_07b_01.mp3" from="  2:54.417" to="  2:58.391" allWordsNum="10"/>
+			    <record rec_id="19" rec_time="5" name="Tourists usually go there for sightseeing and fun. " sound="nj_07b_01.mp3" from="  2:59.864" to="  3:03.242" allWordsNum="8"/>
+			<exercise type="3" index="0"/>
+        </part>	
+        <!--<part part_index="1" name="The 'Chinese yuan' travel guide" page="0" source="2">
 			<record rec_id="0" rec_time="15" sound="7B Unit 1.mp3">
 				<subrecord rec_id="1" rec_time="7" name="Money can take you to a lot of places, especially China's yuan which may inspire your next great trip. " sound="7B Unit 1.mp3" from="  0:06.476" to="  0:13.968" allWordsNum="19"/>
 				<subrecord rec_id="2" rec_time="8" name="The Renminbi notes are not just good for buying things; they are also ready-made travel guides. " sound="7B Unit 1.mp3" from="  0:14.398" to="  0:21.561" allWordsNum="16"/>
@@ -155,8 +145,8 @@ How to get there: Take a minibus that goes halfway up the mountain, and from the
 					</question>
 					</section>
 			</exercise>
-    </part>
-	</texts>
+    </part>-->
+	</sentences>
 	<dialogs>
 		<part part_index="0" name="Tour suggestions" page="2">
 			<record rec_id="0" rec_time="5" name="Where can tourists go in Shanghai?" sound="nj_07b_01.mp3" from="  0:08.532" to="  0:12.046" allWordsNum="6"/>
