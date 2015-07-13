@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_09a</book_id>
+	<unit_id>nj_09a_04</unit_id>
+	<version>5</version>
+	<unit>unit4</unit>
+	<title>Computers</title>
+	<words>
+		<part part_index="0" page="69">
+			<record rec_id="0" rec_time="3" name="screen" symbol="skri:n" explain="n.屏幕" sound="nj_09a_04.mp3" from="  7:49.814" to="  7:50.915" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="recognize" symbol="5rekEgnaiz" explain="v.辨认出；认识" sound="nj_09a_04.mp3" from="  7:51.943" to="  7:53.131" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="desktop" symbol="5desktCp" explain="n.台式电脑" sound="nj_09a_04.mp3" from="  7:54.174" to="  7:55.174" allWordsNum="1"/>
+			<record rec_id="3" rec_time="3" name="laptop" symbol="5lAptCp" explain="n.便携式电脑" sound="nj_09a_04.mp3" from="  7:56.115" to="  7:57.144" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="palmtop" symbol="5pB:mtCp" explain="n.掌上电脑" sound="nj_09a_04.mp3" from="  7:58.187" to="  7:59.258" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="tiny" symbol="5taini" explain="adj.极小的；微小的" sound="nj_09a_04.mp3" from="  8:00.403" to="  8:01.388" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="unaware" symbol="7QnE5wZE(r)" explain="adj.没意识到；未察觉" sound="nj_09a_04.mp3" from="  8:02.373" to="  8:03.532" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="(be) unaware of" symbol="(bi:) QnE5wZE Cv" explain="没意识到；未察觉" sound="nj_09a_04.mp3" from="  8:04.705" to="  8:06.269" allWordsNum="3"/>
+			<record rec_id="8" rec_time="3" name="depend" symbol="di5pend" explain="v.依靠；依赖" sound="nj_09a_04.mp3" from="  8:07.834" to="  8:08.891" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="depend on" symbol="di5pend Cn" explain="依靠；依赖" sound="nj_09a_04.mp3" from="  8:09.949" to="  8:11.021" allWordsNum="2"/>
+			<record rec_id="10" rec_time="3" name="common" symbol="5kCmEn" explain="adj.常见的；普遍的" sound="nj_09a_04.mp3" from="  8:12.006" to="  8:12.976" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="knowledge" symbol="5nClidV" explain="n.知识；学问" sound="nj_09a_04.mp3" from="  8:13.657" to="  8:14.613" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="common knowledge" symbol="5kCmEn 5nClidV" explain="常识" sound="nj_09a_04.mp3" from="  8:15.613" to="  8:16.858" allWordsNum="2"/>
+			<record rec_id="13" rec_time="3" name="rarely" symbol="5rZEli" explain="adv.罕有；很少；不常" sound="nj_09a_04.mp3" from="  8:18.249" to="  8:19.075" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="print" symbol=" print" explain="v.打印；印刷" sound="nj_09a_04.mp3" from="  8:20.074" to="  8:20.972" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="importantly" symbol="im5pR:tntli" explain="adv.重要地" sound="nj_09a_04.mp3" from="  8:21.885" to="  8:23.015" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="operate" symbol="5CpEreit" explain="v.操作；控制；使运行" sound="nj_09a_04.mp3" from="  8:24.478" to="  8:25.405" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="aeroplane" symbol="5ZErEplein" explain="n.飞机" sound="nj_09a_04.mp3" from="  8:26.477" to="  8:27.665" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="spaceship" symbol="5speisFip" explain="n.宇宙飞船；航天器" sound="nj_09a_04.mp3" from="  8:28.751" to="  8:29.794" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="for the time being" symbol="fR: Ti: taim bi:iN" explain="暂时；眼下" sound="nj_09a_04.mp3" from="  8:30.823" to="  8:32.228" allWordsNum="4"/>
+			<record rec_id="20" rec_time="3" name="meaning" symbol="5mi:niN" explain="n.意义；意思" sound="nj_09a_04.mp3" from="  8:33.444" to="  8:34.444" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="command" symbol="kE5mB:nd" explain="n.命令；指令" sound="nj_09a_04.mp3" from="  8:35.313" to="  8:36.269" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="CD-ROM" symbol="7si:di:5rCm" explain="n.只读光盘" sound="nj_09a_04.mp3" from="  8:37.254" to="  8:38.413" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="DVD-ROM" symbol="7di:vi:di:5rCm" explain="n.数字只读光盘" sound="nj_09a_04.mp3" from="  8:39.760" to="  8:41.194" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="writing" symbol="5raitiN" explain="n.文章；著作" sound="nj_09a_04.mp3" from="  8:42.614" to="  8:43.599" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="aware" symbol="E5wZE(r)" explain="adj.意识到" sound="nj_09a_04.mp3" from="  8:44.642" to="  8:45.540" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="order" symbol="5R:dE(r)" explain="n. &amp; v.订购" sound="nj_09a_04.mp3" from="  8:46.481" to="  8:47.278" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="blank" symbol="blANk" explain="adj.空白的" sound="nj_09a_04.mp3" from="  8:48.336" to="  8:49.161" allWordsNum="1"/>
+			<record rec_id="28" rec_time="3" name="supply" symbol="sE5plai" explain="n. 贮备；供应量" sound="nj_09a_04.mp3" from="  8:50.117" to="  8:51.363" allWordsNum="1"/>
+			<record rec_id="29" rec_time="3" name="contact" symbol="5kCntAkt" explain="n.联系（人）" sound="nj_09a_04.mp3" from="  8:52.435" to="  8:53.768" allWordsNum="1"/>
+			<record rec_id="30" rec_time="3" name="reference" symbol="5refrEns" explain="n.编号；参考" sound="nj_09a_04.mp3" from="  8:54.796" to="  8:55.897" allWordsNum="1"/>
+			<record rec_id="31" rec_time="3" name="quantity" symbol="5kwCntEti" explain="n.数量" sound="nj_09a_04.mp3" from="  8:56.868" to="  8:58.026" allWordsNum="1"/>
+			<record rec_id="32" rec_time="3" name="length" symbol="leNW" explain="n.长度" sound="nj_09a_04.mp3" from="  8:58.982" to="  8:59.895" allWordsNum="1"/>
+			<record rec_id="33" rec_time="3" name="seat" symbol="si:t" explain="n.座位" sound="nj_09a_04.mp3" from="  9:00.938" to="  9:01.851" allWordsNum="1"/>
+			<record rec_id="34" rec_time="3" name="peak" symbol="pi:k" explain="n.山顶；山峰" sound="nj_09a_04.mp3" from="  9:02.865" to="  9:03.748" allWordsNum="1"/>
+			<record rec_id="35" rec_time="3" name="court" symbol="kR:t" explain="n.公寓大楼" sound="nj_09a_04.mp3" from="  9:04.762" to="  9:05.791" allWordsNum="1"/>
+			<record rec_id="36" rec_time="3" name="distance" symbol="5distEns" explain="n.距离；间距" sound="nj_09a_04.mp3" from="  9:06.892" to="  9:08.050" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Computer facts" page="55">
+			<record rec_id="0" rec_time="25" sound="nj_09a_04.mp3">
+				<subrecord rec_id="1" rec_time="5" name="Smaller and smaller. " sound="nj_09a_04.mp3" from="  0:17.942" to="  0:20.453" allWordsNum="3"/>
+				</record>
+			<record rec_id="1" rec_time="60" sound="nj_09a_04.mp3">
+				<subrecord rec_id="2" rec_time="6" name="The first computers were built in the 1940s. " sound="nj_09a_04.mp3" from="  0:21.154" to="  0:24.768" allWordsNum="8"/>
+				<subrecord rec_id="3" rec_time="5" name="They were bigger than cars!" sound="nj_09a_04.mp3" from="  0:24.792" to="  0:26.873" allWordsNum="5"/>
+				<subrecord rec_id="4" rec_time="6" name="Since then computers have become smaller and smaller. " sound="nj_09a_04.mp3" from="  0:27.124" to="  0:30.514" allWordsNum="8"/>
+				<subrecord rec_id="5" rec_time="6" name="Desktop computers are the size of televisions. " sound="nj_09a_04.mp3" from="  0:30.630" to="  0:33.655" allWordsNum="7"/>
+				<subrecord rec_id="6" rec_time="5" name="Laptops are the size of big books. " sound="nj_09a_04.mp3" from="  0:33.770" to="  0:36.159" allWordsNum="7"/>
+				<subrecord rec_id="7" rec_time="5" name="Now we have palmtop computers. " sound="nj_09a_04.mp3" from="  0:36.275" to="  0:38.741" allWordsNum="5"/>
+			</record>
+			<record rec_id="2" rec_time="60" sound="nj_09a_04.mp3">
+				<subrecord rec_id="8" rec_time="6" name="They are small enough to put in your pocket like a bar of chocolate. " sound="nj_09a_04.mp3" from="  0:38.876" to="  0:42.151" allWordsNum="14"/>
+				<subrecord rec_id="9" rec_time="6" name="Other kinds of computers are so tiny that you may be unaware of them. " sound="nj_09a_04.mp3" from="  0:42.594" to="  0:46.582" allWordsNum="14"/>
+				<subrecord rec_id="10" rec_time="8" name="There is probably one inside your TV, telephone, or washing machine. " sound="nj_09a_04.mp3" from="  0:47.006" to="  0:51.321" allWordsNum="11"/>
+				<subrecord rec_id="11" rec_time="6" name="So you probably depend on computers more than you realize. " sound="nj_09a_04.mp3" from="  0:51.610" to="  0:55.290" allWordsNum="10"/>
+				</record>
+			<record rec_id="3" rec_time="25" sound="nj_09a_04.mp3">
+				<subrecord rec_id="12" rec_time="6" name="What kind of jobs can a computer do?" sound="nj_09a_04.mp3" from="  0:55.560" to="  0:58.565" allWordsNum="8"/>
+				</record>
+			<record rec_id="4" rec_time="60" sound="nj_09a_04.mp3">
+				<subrecord rec_id="13" rec_time="6" name="It is common knowledge that computers are super calculators. " sound="nj_09a_04.mp3" from="  0:58.797" to="  1:02.534" allWordsNum="9"/>
+				<subrecord rec_id="14" rec_time="6" name="They can calculate very fast and rarely give wrong answers. " sound="nj_09a_04.mp3" from="  1:02.592" to="  1:06.541" allWordsNum="10"/>
+				<subrecord rec_id="15" rec_time="6" name="They can also type, print and draw things. " sound="nj_09a_04.mp3" from="1:06.676" to="1:09.740" allWordsNum="8"/>
+				<subrecord rec_id="16" rec_time="5" name="They can teach you and play games with you. " sound="nj_09a_04.mp3" from="  1:10.009" to="1:12.437" allWordsNum="9"/>
+				<subrecord rec_id="17" rec_time="10" name="More importantly, they can operate railways and fly aeroplanes and spaceships. " sound="nj_09a_04.mp3" from="  1:12.726" to="  1:17.928" allWordsNum="11"/>
+				<subrecord rec_id="18" rec_time="6" name="For these reasons, we often call them electronic brains. " sound="nj_09a_04.mp3" from="  1:18.429" to="  1:22.262" allWordsNum="9"/>
+				</record>
+			<record rec_id="5" rec_time="25" sound="nj_09a_04.mp3">
+				<subrecord rec_id="19" rec_time="5" name="Is a computer cleverer than I am ?" sound="nj_09a_04.mp3" from="  1:22.436" to="  1:25.056" allWordsNum="7"/>
+				</record>
+			<record rec_id="6" rec_time="60" sound="nj_09a_04.mp3">
+				<subrecord rec_id="20" rec_time="8" name="The answer to this question is, for the time being, 'No'. " sound="nj_09a_04.mp3" from="  1:25.672" to="  1:30.200" allWordsNum="11"/>
+				<subrecord rec_id="21" rec_time="10" name="Your brain can understand the meaning of things better and create new ideas. " sound="nj_09a_04.mp3" from="  1:30.335" to="  1:35.382" allWordsNum="13"/>
+				<subrecord rec_id="22" rec_time="12" name="However, one day computers may be able to do most things that a human brain can do and even do them better. " sound="nj_09a_04.mp3" from="  1:35.652" to="  1:41.952" allWordsNum="22"/>
+				<subrecord rec_id="23" rec_time="6" name="For example, they may be better than doctors at doing their job. " sound="nj_09a_04.mp3" from="  1:42.992" to="  1:46.865" allWordsNum="12"/>
+			</record>
+			<record rec_id="7" rec_time="60" sound="nj_09a_04.mp3">
+				<subrecord rec_id="24" rec_time="6" name="If this is true, it raises some interesting questions. " sound="nj_09a_04.mp3" from="  1:47.539" to="  1:51.354" allWordsNum="9"/>
+				<subrecord rec_id="25" rec_time="6" name="What will happen to us if computers can do our jobs?" sound="nj_09a_04.mp3" from="  1:52.028" to="  1:55.650" allWordsNum="11"/>
+				<subrecord rec_id="26" rec_time="3" name="How will we spend our lives?" sound="nj_09a_04.mp3" from="  1:56.055" to="  1:57.846" allWordsNum="6"/>
+				<subrecord rec_id="27" rec_time="3" name="Will we have nothing to do?" sound="nj_09a_04.mp3" from="  1:58.020" to="  1:59.773" allWordsNum="6"/>
+				<subrecord rec_id="28" rec_time="8" name="Computers may change our lives, but will they make them better?" sound="nj_09a_04.mp3" from="  2:00.293" to="  2:04.377" allWordsNum="11"/>
+			</record>
+			<record rec_id="8" rec_time="25" sound="nj_09a_04.mp3">
+				<subrecord rec_id="29" rec_time="3" name="Talk to your computer. " sound="nj_09a_04.mp3" from="  2:04.724" to="  2:06.516" allWordsNum="4"/>
+				</record>
+			<record rec_id="9" rec_time="60" sound="nj_09a_04.mp3">
+				<subrecord rec_id="30" rec_time="6" name="Now you do not even need to know how to type. " sound="nj_09a_04.mp3" from="  2:07.460" to="  2:10.735" allWordsNum="11"/>
+				<subrecord rec_id="31" rec_time="6" name="You can buy a program which helps the computer recognize your voice. " sound="nj_09a_04.mp3" from="  2:11.024" to="  2:14.800" allWordsNum="12"/>
+				<subrecord rec_id="32" rec_time="8" name="You can talk to the computer and it will obey your commands, and write your letters!" sound="nj_09a_04.mp3" from="  2:14.954" to="  2:19.771 " allWordsNum="16"/>
+			</record>
+			<record rec_id="10" rec_time="25" sound="nj_09a_04.mp3">
+				<subrecord rec_id="33" rec_time="5" name="CD-ROMs/DVD-ROMs. " sound="nj_09a_04.mp3" from="  2:19.867" to="  2:23.142" allWordsNum="2"/>
+				</record>
+			<record rec_id="11" rec_time="60" sound="nj_09a_04.mp3">
+				<subrecord rec_id="34" rec_time="8" name="Many of today's computers have CD-ROM or DVD-ROM drives. " sound="nj_09a_04.mp3" from="  2:23.875" to="  2:28.498" allWordsNum="9"/>
+				<subrecord rec_id="35" rec_time="14" name="A DVD-ROM can hold millions of pages of writing, and can also contain pictures, videos and sounds. " sound="nj_09a_04.mp3" from="  2:28.633" to=" 2:35.858" allWordsNum="17"/>
+				<subrecord rec_id="36" rec_time="20" name="For example, you can use your computer to read about a famous person from history and you can see a photograph or video of him or her, and even listen to them speaking. " sound="nj_09a_04.mp3" from="  2:36.417" to="  2:46.531" allWordsNum="33"/>
+				<subrecord rec_id="37" rec_time="10" name="Some people think that DVD-ROMs will soon be more popular than books. " sound="nj_09a_04.mp3" from="  2:46.936" to="  2:51.983" allWordsNum="12"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+			<part part_index="1" name="The history of the Internet" page="66">
+			<record rec_id="0" rec_time="60" sound="nj_09a_04.mp3">
+				<subrecord rec_id="1" rec_time="14" name="A research team in the United States first developed the concept of linking computers together in the 1960s. " sound="nj_09a_04.mp3" from="  6:08.071" to="  6:15.353" allWordsNum="18"/>
+				<subrecord rec_id="2" rec_time="16" name="They wanted to have a system that would enable universities, research departments and the army to share resources with each other. " sound="nj_09a_04.mp3" from="  6:15.931" to="  6:24.023" allWordsNum="21"/>
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_09a_04.mp3">
+				<subrecord rec_id="3" rec_time="10" name="Computers at this time were as large as refrigerators and could not be transported easily. " sound="nj_09a_04.mp3" from="  6:24.697" to="  6:30.265" allWordsNum="15"/>
+				<subrecord rec_id="4" rec_time="10" name="Another problem was that they were often complicated and not compatible with each other. " sound="nj_09a_04.mp3" from="  6:30.650" to="  6:35.659" allWordsNum="14"/>
+				<subrecord rec_id="5" rec_time="12" name="The research team had to overcome these difficulties to create a network that could share computing power. " sound="nj_09a_04.mp3" from="  6:36.257" to="  6:42.306" allWordsNum="17"/>
+			</record>
+			<record rec_id="2" rec_time="60" sound="nj_09a_04.mp3">
+				<subrecord rec_id="6" rec_time="6" name="Gradually, more and more scholars came online. " sound="nj_09a_04.mp3" from="  6:43.790" to="  6:47.007" allWordsNum="7"/>
+				<subrecord rec_id="7" rec_time="8" name="Years later, businessmen began using the Internet too. " sound="nj_09a_04.mp3" from="  6:47.392" to="  6:51.457" allWordsNum="8"/>
+				<subrecord rec_id="8" rec_time="10" name="The number of users is increasing all the time and it is becoming more widely available across the world. " sound="nj_09a_04.mp3" from="  6:51.689" to="  6:58.123" allWordsNum="19"/>
+				<subrecord rec_id="9" rec_time="10" name="In fact, it is possible to use the Internet somewhere in every continent in the world. " sound="nj_09a_04.mp3" from="  6:58.470" to="  7:04.057" allWordsNum="16"/>
+				<subrecord rec_id="10" rec_time="12" name="At the same time, the computers are becoming smaller and smaller, and more convenient to carry around. " sound="nj_09a_04.mp3" from="  7:04.443" to="  7:10.858" allWordsNum="17"/>
+				</record>
+			<record rec_id="3" rec_time="60" sound="nj_09a_04.mp3">
+				<subrecord rec_id="11" rec_time="5" name="There is a wide range of services available on the Internet. " sound="nj_09a_04.mp3" from="  7:11.995" to="  7:14.981" allWordsNum="11"/>
+				<subrecord rec_id="12" rec_time="6" name="This means that there are many different ways to communicate. " sound="nj_09a_04.mp3" from="  7:15.174" to="  7:18.738" allWordsNum="10"/>
+				<subrecord rec_id="13" rec_time="12" name="One of the most popular ways is electronic mail more commonly called 'e-mail'. " sound="nj_09a_04.mp3" from="  7:19.046" to="  7:24.884" allWordsNum="13"/>
+				</record>
+			<record rec_id="4" rec_time="60" sound="nj_09a_04.mp3">
+				<subrecord rec_id="14" rec_time="10" name="Another popular way is browsing on the World Wide Web(WWW). " sound="nj_09a_04.mp3" from="  7:25.519" to="  7:30.606" allWordsNum="10"/>
+				<subrecord rec_id="15" rec_time="12" name="The WWW is a very big series of connected pages containing various forms of multimedia. " sound="nj_09a_04.mp3" from="  7:30.933" to="  7:37.464" allWordsNum="15"/>
+				<subrecord rec_id="16" rec_time="14" name="It is quite popular to use online messenger services to send instant messages to people all over the world. " sound="nj_09a_04.mp3" from="  7:37.946" to="  7:44.997" allWordsNum="19"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+	</texts>
+</package>
+ 

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_07b</book_id>
+	<unit_id>nj_07b_04</unit_id>
+	<version>6</version>
+	<unit>unit4</unit>
+	<title>Let's go shopping</title>
+	<words>
+		<part part_index="0" page="26">
+			<record rec_id="0" rec_time="3" name="anything" symbol="5eniWiN" explain="pron.任何东西" sound="nj_07b_04.mp3" from="  2:37.530" to="  2:39.714" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="jeans" symbol="dVi:nz" explain="n.牛仔裤" sound="nj_07b_04.mp3" from="  2:39.558" to="  2:41.664" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="myself" symbol="mai5self" explain="pron.我自己" sound="nj_07b_04.mp3" from="  2:41.586" to="  2:43.069" allWordsNum="1"/>
+			<record rec_id="3" rec_time="3" name="kid" symbol="kid" explain="n.小孩" sound="nj_07b_04.mp3" from="  2:43.381" to="  2:44.785" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="fashion" symbol="5fAFn" explain="n.时尚；流行" sound="nj_07b_04.mp3" from="  2:44.941" to="  2:46.423" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="super" symbol="5su:pE(r)" explain="adj.超级的" sound="nj_07b_04.mp3" from="  2:46.501" to="  2:48.764" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="carpet" symbol="5kB:pit" explain="n.地毯" sound="nj_07b_04.mp3" from="  2:48.842" to="  2:51.026" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="spot " symbol="spCt" explain="n.斑点；点" sound="nj_07b_04.mp3" from="  2:51.104" to="  2:52.665" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="sweater" symbol="5swetE(r)" explain="n.毛线衫；针织套衫" sound="nj_07b_04.mp3" from="  2:52.821" to="  2:55.629" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="V-neck" symbol="5vi:nek" explain="n.V形领；鸡心领" sound="nj_07b_04.mp3" from="  2:55.707" to="  2:57.424" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="neck " symbol="nek" explain="n.衣领；领子" sound="nj_07b_04.mp3" from="  2:57.736" to="  2:59.374" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="check" symbol="tFek" explain="n.方格图案；格子；方格" sound="nj_07b_04.mp3" from="  2:59.296" to="  3:01.090" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="stripe" symbol="straip" explain="n.条纹" sound="nj_07b_04.mp3" from="  3:01.012" to="  3:03.509" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="try on" symbol="trai Cn" explain="试穿（衣服）" sound="nj_07b_04.mp3" from="  3:03.431" to="  3:05.381" allWordsNum="2"/>
+			<record rec_id="14" rec_time="3" name="excuse" symbol="ik5skju:z" explain="v.原谅" sound="nj_07b_04.mp3" from="  3:05.537" to="  3:07.800" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="excuse me" symbol="ik5skju:z mi:" explain="劳驾；请原谅" sound="nj_07b_04.mp3" from="  3:07.800" to="  3:09.750" allWordsNum="2"/>
+			<record rec_id="16" rec_time="3" name="certainly" symbol="5sE:tnli" explain="adv.当然；行" sound="nj_07b_04.mp3" from="  3:09.828" to="  3:11.700" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="changing room" symbol="tFeindViz ru:m" explain="n.试衣间" sound="nj_07b_04.mp3" from="  3:11.778" to="  3:13.807" allWordsNum="2"/>
+			<record rec_id="18" rec_time="3" name="over there" symbol="5EuvE TZE" explain="在那边" sound="nj_07b_04.mp3" from="  3:13.963" to="  3:16.147" allWordsNum="2"/>
+			<record rec_id="19" rec_time="3" name="loose" symbol="lu:s" explain="adj.宽松的" sound="nj_07b_04.mp3" from="  3:16.225" to="  3:18.488" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="tight " symbol="tait" explain="adj.紧身的；紧的" sound="nj_07b_04.mp3" from="  3:18.488" to="  3:20.048" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="medium" symbol="5mi:diEm" explain="adj.中等的；中号的" sound="nj_07b_04.mp3" from="  3:20.126" to="  3:22.388" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="A smart shopping cart" page="0" source="2">
+			<record rec_id="0" rec_time="8" sound="7B Unit 4.mp3">
+				<subrecord rec_id="1" rec_time="3" name="Attention, please! I have good news for you. " sound="7B Unit 4.mp3" from="  0:05.275" to="0:09.006" allWordsNum="8"/>
+				<subrecord rec_id="2" rec_time="5" name="Your shopping time may be cut in half thanks to these new smart shopping carts. " sound="7B Unit 4.mp3" from="0:09.220" to="0:14.567" allWordsNum="15"/>
+			</record>
+			<record rec_id="1" rec_time="10" sound="7B Unit 4.mp3">
+				<subrecord rec_id="3" rec_time="5" name="What's so great about the carts? They are equipped with tablet computers. " sound="7B Unit 4.mp3" from="0:15.399" to="0:21.269" allWordsNum="12"/>
+				<subrecord rec_id="4" rec_time="5" name="They can not only offer you coupons, but also help you manage your shopping lists and find the products you need. " sound="7B Unit 4.mp3" from="0:21.388" to="0:29.207" allWordsNum="21"/>
+			  <subrecord rec_id="5" rec_time="6" name="What's more, you don't need to wait at the checkout stand. " sound="7B Unit 4.mp3" from=" 0:29.373" to="0:33.651" allWordsNum="11"/>
+				<subrecord rec_id="6" rec_time="6" name="You can pay for your items simply through the tablets on the carts! " sound="7B Unit 4.mp3" from="0:33.722" to="0:38.261" allWordsNum="13"/>
+				
+			</record>
+		 <record rec_id="2" rec_time="36" sound="7B Unit 4.mp3">
+			<subrecord rec_id="7" rec_time="9" name="The biggest problem for you is to figure out what to do with all the extra time you have! " sound="7B Unit 4.mp3" from=" 0:39.045" to="0:45.336" allWordsNum="19"/>
+			</record>
+		<exercise type="4" index="0"/>
+      </part>	
+      <part part_index="1" name="A smart shopping cart" page="0" source="2">
+      	<article allWordsNum="99">
+            	<![CDATA[
+Attention, please! I have good news for you. Your shopping time may be cut in half thanks to these new smart shopping carts (智能购物车).
+What's so great about the carts? They are equipped with tablet computers (平板电脑). They can not only offer you coupons (优惠券), but also help you manage your shopping lists and find the products you need. What's more, you don't need to wait at the checkout stand. You can pay for your items simply through the tablets on the carts!
+The biggest problem for you is to figure out what to do with all the extra time you have!
+         	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="60">
+				<section rec_id="2" name="True or false. " qtype="2">
+					<question rec_id="0" choice="true">
+						<![CDATA[The smart shopping cart is equipped with tablet computers.]]>
+					</question>
+					<question rec_id="1" choice="true">
+						<![CDATA[The shopping cart can offer you coupons and help you find products.]]>
+					</question>
+					<question rec_id="2" choice="false">
+						<![CDATA[You have to wait at the checkout stand to pay for your foods even if you use the smart shopping cart.]]>
+					</question>
+					</section>
+			</exercise>
+    </part>
+		</texts>
+	<dialogs>
+		<part part_index="0" name="Going shopping" page="21">
+			<record rec_id="0" rec_time="8" name="Alice and Tom, I'm going to the shops today. Would you like to come?" sound="nj_07b_04.mp3" from="  0:00.460" to="  0:05.612" allWordsNum="16"/>
+			<record rec_id="1" rec_time="5" name="Which shops are you going to, Mum?" sound="nj_07b_04.mp3" from="  0:06.072" to="  0:09.200" allWordsNum="7"/>
+			<record rec_id="2" rec_time="10" name="I'm going to many different shops. I need to buy a lot of things. Do you need anything from the shops?" sound="nj_07b_04.mp3" from="  0:10.028" to="  0:17.297" allWordsNum="23"/>
+			<record rec_id="3" rec_time="5" name="Yes, I need a new pair of jeans." sound="nj_07b_04.mp3" from="  0:18.217" to="  0:21.529" allWordsNum="8"/>
+			<record rec_id="4" rec_time="3" name="I need a new shirt." sound="nj_07b_04.mp3" from="  0:21.755" to="  0:23.254" allWordsNum="5"/>
+			<record rec_id="5" rec_time="10" name="All right. Alice, let me buy you a pair of jeans. Tom, let me buy you a shirt." sound="nj_07b_04.mp3" from="  0:24.048" to="  0:30.664" allWordsNum="18"/>
+			<record rec_id="6" rec_time="6" name="Thanks, Mum. What do you need to buy at the shops?" sound="nj_07b_04.mp3" from="  0:30.900" to="  0:34.634" allWordsNum="11"/>
+			<record rec_id="7" rec_time="12" name="I need to buy a computer book for your dad and a pair of shoes for myself. I also need to buy some food for dinner tonight." sound="nj_07b_04.mp3" from="  0:35.193" to="  0:43.279" allWordsNum="27"/>
+			<exercise type="5" index="0"/>
+		</part>
+			<part part_index="1" name="Look and read" page="22">
+			<record rec_id="0" rec_time="5" name="Where will we go to buy the jeans?" sound="nj_07b_04.mp3" from="0:51.486" to="0:54.318" allWordsNum="8"/>
+			<record rec_id="1" rec_time="5" name="We'll go to Girls' Fashion and Cool Clothes." sound="nj_07b_04.mp3" from="  0:55.077" to="  0:58.415" allWordsNum="11"/>
+			<record rec_id="2" rec_time="5" name="Where will we go to buy the computer book?" sound="nj_07b_04.mp3" from="  0:59.578" to="  1:02.360" allWordsNum="9"/>
+			<record rec_id="3" rec_time="5" name="We'll go to Tommy's Books and Computer World." sound="nj_07b_04.mp3" from="  1:03.270" to="  1:06.304" allWordsNum="12"/>
+			<record rec_id="4" rec_time="5" name="Will we got to Fun Videos?" sound="nj_07b_04.mp3" from="  1:06.810" to="  1:09.238" allWordsNum="6"/>
+			<record rec_id="5" rec_time="5" name="No, we won't. We don't need to buy anything there." sound="nj_07b_04.mp3" from="  1:09.339" to="  1:13.284" allWordsNum="14"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="2" name="Look and read" page="23">
+		  <record rec_id="0" rec_time="10" name="Alice, do you like the jeans with the yellow belt or the ones with the blue belt?" sound="nj_07b_04.mp3" from="  1:22.185" to="  1:27.546" allWordsNum="17"/>
+			<record rec_id="1" rec_time="5" name="I like the ones with the blue belt." sound="nj_07b_04.mp3" from="  1:28.861" to="  1:30.986" allWordsNum="8"/>
+			<record rec_id="2" rec_time="10" name="Tom, do you like the shirt with the long sleeves or the one with the short sleeves?" sound="nj_07b_04.mp3" from="  1:34.627" to="  1:40.595" allWordsNum="17"/>
+			<record rec_id="3" rec_time="5" name="I like the one with the short sleeves." sound="nj_07b_04.mp3" from="  1:40.848" to="  1:43.478" allWordsNum="8"/>
+		  <exercise type="5" index="0"/>
+    </part>
+     <part part_index="3" name="Trying on clothes" page="25">
+		  <record rec_id="0" rec_time="8" name="Excuse me. Can I try on the jeans with the blue belt, please?" sound="nj_07b_04.mp3" from="  1:58.398" to="  2:02.848" allWordsNum="13"/>
+			<record rec_id="1" rec_time="10" name="Certainly. The changing rooms are over there." sound="nj_07b_04.mp3" from="  2:04.264" to="  2:07.501" allWordsNum="7"/>
+			<record rec_id="2" rec_time="3" name="Are they OK?" sound="nj_07b_04.mp3" from="  2:11.092" to="  2:13.065" allWordsNum="3"/>
+			<record rec_id="3" rec_time="5" name="These jeans are too long and loose." sound="nj_07b_04.mp3" from="  2:13.621" to="  2:16.858" allWordsNum="7"/>
+			<record rec_id="4" rec_time="10" name="These jeans are too short and tight. Do you have them in my size? I wear medium." sound="nj_07b_04.mp3" from="  2:20.803" to="  2:27.732" allWordsNum="17"/>
+			<record rec_id="5" rec_time="5" name="Sorry, we don't have them in your size." sound="nj_07b_04.mp3" from="  2:28.490" to="  2:31.980" allWordsNum="10"/>
+			<exercise type="5" index="0"/>
+      </part>
+    </dialogs>
+</package>
+ 

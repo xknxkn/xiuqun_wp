@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_06a</book_id>
+	<unit_id>nj_06a_06</unit_id>
+	<version>2</version>
+	<unit>unit6</unit>
+	<title>Going to school</title>
+	<words>
+		<part part_index="0" page="43">
+			<record rec_id="0" rec_time="3" name="travel" symbol="5trAvl" explain="v.行走；旅行" sound="nj_06a_06.mp3" from="1:28.624" to="1:29.313" allWordsNum="1"/>
+			<record rec_id="1" rec_time="2" name="about" symbol="E5baut" explain="adv.大约" sound="nj_06a_06.mp3" from="1:30.951" to="1:31.870" allWordsNum="1"/>
+			<record rec_id="2" rec_time="2" name="minute" symbol="5minit" explain="n.分钟" sound="nj_06a_06.mp3" from="1:33.324" to="1:34.105" allWordsNum="1"/>
+			<record rec_id="3" rec_time="2" name="ferry" symbol="5feri" explain="n.渡船" sound="nj_06a_06.mp3" from="1:35.651" to="1:36.401" allWordsNum="1"/>
+			<record rec_id="4" rec_time="2" name="hour" symbol="5auE(r)" explain="n.小时" sound="nj_06a_06.mp3" from="1:37.794" to="1:38.529" allWordsNum="1"/>
+			<record rec_id="5" rec_time="2" name="half an hour" symbol="hB:f An 5auE(r)" explain="半小时" sound="nj_06a_06.mp3" from="1:40.105" to="1:41.208" allWordsNum="3"/>
+			<record rec_id="6" rec_time="3" name="hotel" symbol="hEu5tel" explain="n.旅馆" sound="nj_06a_06.mp3" from="1:42.846" to="1:43.734" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="advertisement" symbol="Ed5vE:tismEnt" explain="n.广告" sound="nj_06a_06.mp3" from="1:45.356" to="1:46.504" allWordsNum="1"/>
+			<record rec_id="8" rec_time="2" name="board" symbol="bR:d" explain="n.栏；板" sound="nj_06a_06.mp3" from="1:48.341" to="1:49.229" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="a few" symbol="E fjU:" explain="几个" sound="nj_06a_06.mp3" from="1:50.760" to="1:51.510" allWordsNum="2"/>
+			<record rec_id="10" rec_time="3" name="a lot of" symbol="E lCt Cv" explain="许多" sound="nj_06a_06.mp3" from="1:53.179" to="1:54.113" allWordsNum="3"/>
+			<record rec_id="11" rec_time="2" name="when" symbol="wen" explain="conj.当......的时候" sound="nj_06a_06.mp3" from="1:55.766" to="1:56.501" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="light rail" symbol="5lait reil" explain="n.轻轨" sound="nj_06a_06.mp3" from="1:57.894" to="1:58.828" allWordsNum="2"/>
+			<record rec_id="13" rec_time="3" name="department store" symbol="di5pB:tmEnt stR:(r)" explain="n.百货商店" sound="nj_06a_06.mp3" from="2:00.726" to="2:02.150" allWordsNum="2"/>
+			<record rec_id="14" rec_time="3" name="kindergarten" symbol="5kindEgB:tn" explain="n.幼儿园" sound="nj_06a_06.mp3" from="2:04.201" to="2:05.349" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="housing estate" symbol="5hauziN i5steit" explain="n.居民区" sound="nj_06a_06.mp3" from="2:07.092" to="2:08.348" allWordsNum="2"/>
+			<record rec_id="16" rec_time="3" name="temple" symbol="5templ" explain="n.庙宇" sound="nj_06a_06.mp3" from="2:10.292" to="2:11.164" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Simon's way to school" page="41">
+			<record rec_id="0" rec_time="13" sound="nj_06a_06.mp3">
+				<subrecord rec_id="1" rec_time="2" name="My name's Simon. " sound="nj_06a_06.mp3" from="2:34.001" to="2:35.761" allWordsNum="3"/>
+				<subrecord rec_id="2" rec_time="4" name="I go to school by bus, then on foot. " sound="nj_06a_06.mp3" from="2:36.580" to="2:40.470" allWordsNum="9"/>
+				<subrecord rec_id="3" rec_time="7" name="I see some restaurants, a few shops and a lot of people when I'm on the bus. " sound="nj_06a_06.mp3" from="2:41.473" to="2:48.310" allWordsNum="17"/>
+			</record>
+			<record rec_id="1" rec_time="8" sound="nj_06a_06.mp3">
+				<subrecord rec_id="4" rec_time="8" name="I see a few parents, some teachers and a lot of students when I'm walking to school. " sound="nj_06a_06.mp3" from="2:49.681" to="2:57.358" allWordsNum="17"/>
+			</record>
+		  <exercise type="4" index="0"/>
+		  </part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="Going to different places" page="40">
+			<record rec_id="0" rec_time="6" name="Mum, how long does it take you to get to the supermarket? " sound="nj_06a_06.mp3" from="1:01.745" to="1:08.016" allWordsNum="12"/>
+			<record rec_id="1" rec_time="4" name="It takes me about ten minutes to get there. " sound="nj_06a_06.mp3" from="1:08.110" to="1:12.204" allWordsNum="9"/>
+			<record rec_id="2" rec_time="5" name="Dad, how long does it take you to get to your office? " sound="nj_06a_06.mp3" from="1:14.450" to="1:19.527" allWordsNum="12"/>
+			<record rec_id="3" rec_time="4" name="It takes me about half an hour to get there. " sound="nj_06a_06.mp3" from="1:19.574" to="1:23.014" allWordsNum="10"/>
+			<exercise type="5" index="0"/>
+		</part>
+    </dialogs>
+</package>
+ 

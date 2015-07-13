@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_06b</book_id>
+	<unit_id>nj_06b_05</unit_id>
+	<version>9</version>
+	<unit>unit5</unit>
+	<title>What will I be like?</title>
+	<words>
+		<part part_index="0" page="38">
+      <record rec_id="0" rec_time="3" name="possible" symbol="5pCsEbl" explain="adj. 可能；能做到（或取得）" sound="nj_06b_05.mp3" from="  0:04.453" to="  0:05.553" allWordsNum="1"/>
+      <record rec_id="1" rec_time="3" name="future" symbol="5fju:tFE(r)" explain="n.将来；未来" sound="nj_06b_05.mp3" from="  0:06.762" to="  0:08.027" allWordsNum="1"/>
+      <record rec_id="2" rec_time="3" name="in front of" symbol="in frQnt Cv" explain="在......前面" sound="nj_06b_05.mp3" from="  0:09.401" to="  0:10.611" allWordsNum="3"/>
+      <record rec_id="3" rec_time="3" name="magic" symbol="5mAdVik" explain="adj. 有魔力的" sound="nj_06b_05.mp3" from="  0:12.315" to="  0:13.470" allWordsNum="1"/>
+      <record rec_id="4" rec_time="3" name="look for" symbol="luk fR:" explain="寻找" sound="nj_06b_05.mp3" from="  0:14.624" to="  0:15.944" allWordsNum="2"/>
+      <record rec_id="5" rec_time="3" name="button" symbol="5bQtn" explain="n. 按钮" sound="nj_06b_05.mp3" from="  0:17.099" to="  0:18.198" allWordsNum="1"/>
+      <record rec_id="6" rec_time="3" name="press" symbol="pres" explain="v. 按压" sound="nj_06b_05.mp3" from="  0:19.353" to="  0:20.562" allWordsNum="1"/>
+      <record rec_id="7" rec_time="3" name="back" symbol="bAk" explain="n.背面；反面" sound="nj_06b_05.mp3" from="  0:21.497" to="  0:22.707" allWordsNum="1"/>
+      <record rec_id="8" rec_time="3" name="centimetre" symbol="5sentimi:tE(r)" explain="n. 厘米" sound="nj_06b_05.mp3" from="  0:23.806" to="  0:25.071" allWordsNum="1"/>
+      <record rec_id="9" rec_time="3" name="weigh" symbol="wei" explain="v. 称出重量" sound="nj_06b_05.mp3" from="  0:26.390" to="  0:27.435" allWordsNum="1"/>
+      <record rec_id="10" rec_time="3" name="kilogram" symbol="5kilEgrAm" explain="n. 千克；公斤" sound="nj_06b_05.mp3" from="  0:28.590" to="  0:29.744" allWordsNum="1"/>
+      <record rec_id="11" rec_time="3" name="astronaut" symbol="5AstrEnR:t" explain="n. 宇航员" sound="nj_06b_05.mp3" from="  0:31.009" to="  0:32.163" allWordsNum="1"/>
+      <record rec_id="12" rec_time="3" name="good-looking" symbol="7gud5lukiN" explain="adj. (外貌)好看的" sound="nj_06b_05.mp3" from="  0:33.483" to="  0:34.637" allWordsNum="2"/>
+      <record rec_id="13" rec_time="3" name="slim" symbol="slim" explain="adj. 苗条的" sound="nj_06b_05.mp3" from="  0:36.122" to="  0:37.057" allWordsNum="1"/>
+      <record rec_id="14" rec_time="3" name="reporter" symbol="ri5pR:tE(r)" explain="n. 记者" sound="nj_06b_05.mp3" from="  0:38.156" to="  0:39.256" allWordsNum="1"/>
+      <record rec_id="15" rec_time="3" name="baker" symbol="5beikE(r)" explain="n. 面包师" sound="nj_06b_05.mp3" from="  0:40.410" to="  0:41.498" allWordsNum="1"/>
+      <record rec_id="16" rec_time="3" name="singer" symbol="5siNE(r)" explain="n. 歌手" sound="nj_06b_05.mp3" from="  0:42.617" to="  0:43.456" allWordsNum="1"/>
+      <record rec_id="17" rec_time="3" name="agree" symbol="E5gri:" explain="v. 同意" sound="nj_06b_05.mp3" from="  0:44.824" to="  0:45.725" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="(be) good at" symbol="(bi:) gud At" explain="擅长" sound="nj_06b_05.mp3" from="  0:47.155" to="  0:48.398" allWordsNum="3"/>
+			<record rec_id="19" rec_time="3" name="possibly" symbol="5pCsEbli" explain="adv. 可能地" sound="nj_06b_05.mp3" from="  0:49.890" to="  0:51.009" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="grow" symbol="grEu" explain="v. 长大；长高" sound="nj_06b_05.mp3" from="  0:52.377" to="  0:53.371" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="bakery" symbol="5beikEri" explain="n. 面包房" sound="nj_06b_05.mp3" from="  0:54.490" to="  0:55.733" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="a lot" symbol="E lCt" explain="大量；许多" sound="nj_06b_05.mp3" from="  0:56.871" to="  0:57.866" allWordsNum="2"/>
+			<record rec_id="23" rec_time="3" name="report" symbol="ri5pR:t" explain="n. 报告" sound="nj_06b_05.mp3" from="  0:59.109" to="  1:00.103" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="poor" symbol="puE(r)" explain="adj. 不擅长的" sound="nj_06b_05.mp3" from="  1:01.502" to="  1:02.341" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="(be) poor at" symbol="(bi:) puE(r) At" explain="不擅长" sound="nj_06b_05.mp3" from="  1:03.958" to="  1:05.450" allWordsNum="3"/>
+			<record rec_id="26" rec_time="3" name="spacecraft" symbol="5speiskrB:ft" explain="n. 航天器；宇宙飞船" sound="nj_06b_05.mp3" from="  1:06.506" to="  1:07.936" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="come back" symbol="kQm bAk" explain="回来；返回" sound="nj_06b_05.mp3" from="  1:09.210" to="  1:10.267" allWordsNum="2"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/> 
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<sentences>
+		<part part_index="0" name="A report on my future" page="36">
+			<record rec_id="0" rec_time="6" name="I'll possibly be a policewoman or a teacher, but I'd like to be a doctor. " sound="nj_06b_05.mp3" from="  1:24.466" to="  1:30.100" allWordsNum="15" /> 
+  		<record rec_id="1" rec_time="5" name="I'm good at Chinese, but I'm poor at English and Maths. " sound="nj_06b_05.mp3" from="  1:33.382" to="  1:37.802" allWordsNum="11" /> 
+			<record rec_id="2" rec_time="5" name="I have to practise English and Maths more. " sound="nj_06b_05.mp3" from="  1:40.890" to="  1:43.733" allWordsNum="8" /> 
+			<record rec_id="3" rec_time="5" name="I have to learn how to make sick people better. " sound="nj_06b_05.mp3" from="  1:46.524" to="  1:50.194" allWordsNum="10" /> 
+			<exercise type="3" index="0"/>
+		</part>
+		</sentences>
+	<texts>
+		<part part_index="0" name="Text" page="33">
+			<record rec_id="0" rec_time="60" sound="nj_06b_05.mp3">
+			<subrecord rec_id="1" rec_time="5" name="This is me in 15 years' time. " sound="nj_06b_05.mp3" from="  1:59.691" to="  2:02.305" allWordsNum="7"/>
+			<subrecord rec_id="2" rec_time="5" name="I'll be taller and heavier. " sound="nj_06b_05.mp3" from="  2:02.938" to="  2:05.209" allWordsNum="5"/>
+			<subrecord rec_id="3" rec_time="5" name="I'll be 165 centimetres tall. " sound="nj_06b_05.mp3" from="  2:05.869" to="  2:09.037" allWordsNum="5"/>
+			<subrecord rec_id="4" rec_time="5" name="I'll weigh 55 kilograms. " sound="nj_06b_05.mp3" from="  2:09.591" to="  2:11.967" allWordsNum="4"/>
+			<subrecord rec_id="5" rec_time="5" name="I'll be more beautiful. " sound="nj_06b_05.mp3" from="  2:12.627" to="  2:14.369" allWordsNum="4"/>
+			<subrecord rec_id="6" rec_time="5" name="I'll be an astronaut. " sound="nj_06b_05.mp3" from="  2:15.214" to="  2:16.983" allWordsNum="4"/>
+			</record>
+			<exercise type="4" index="0"/>
+			</part>
+			<part part_index="1" name="Growing bigger" page="35">
+			<record rec_id="0" rec_time="60" sound="nj_06b_05.mp3">
+			<subrecord rec_id="1" rec_time="5" name="Joe loves eating cake and pizza. " sound="nj_06b_05.mp3" from="  2:27.561" to="  2:30.104" allWordsNum="6"/>
+			<subrecord rec_id="2" rec_time="5" name="He is good at cooking. " sound="nj_06b_05.mp3" from="  2:30.722" to="  2:32.337" allWordsNum="5"/>
+			<subrecord rec_id="3" rec_time="5" name="In 15 years' time, Joe will be tall and strong. " sound="nj_06b_05.mp3" from="  2:32.956" to="  2:36.942" allWordsNum="10"/>
+			<subrecord rec_id="4" rec_time="5" name="He will be 180 centimetres tall. " sound="nj_06b_05.mp3" from="  2:37.423" to="  2:40.687" allWordsNum="6"/>
+			<subrecord rec_id="5" rec_time="5" name="He will weigh 70 kilograms. " sound="nj_06b_05.mp3" from="  2:41.374" to="  2:43.711" allWordsNum="5"/>
+			<subrecord rec_id="6" rec_time="5" name="He will work in a bakery. " sound="nj_06b_05.mp3" from="  2:44.329" to="  2:46.425" allWordsNum="6"/>
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_06b_05.mp3">
+			<subrecord rec_id="7" rec_time="5" name="Ben loves taking photographs. " sound="nj_06b_05.mp3" from="  2:48.521" to="  2:50.755" allWordsNum="4"/>
+			<subrecord rec_id="8" rec_time="5" name="He is good at English and Chinese. " sound="nj_06b_05.mp3" from="  2:51.202" to="  2:54.191" allWordsNum="7"/>
+			<subrecord rec_id="9" rec_time="6" name="In 15 years' time, Ben will be tall, but he will not be fat. " sound="nj_06b_05.mp3" from="  2:54.741" to="  2:59.551" allWordsNum="14"/>
+			<subrecord rec_id="10" rec_time="3" name="He will read and write a lot. " sound="nj_06b_05.mp3" from="  2:59.964" to="  3:01.785" allWordsNum="7"/>
+			</record>
+			<exercise type="4" index="0"/>
+			</part>
+			<part part_index="2" name="What will you be?" page="37">
+			<record rec_id="0" rec_time="60" sound="nj_06b_05.mp3">
+			<subrecord rec_id="1" rec_time="5" name="What will you be, Ben?" sound="nj_06b_05.mp3" from="  3:14.570" to="  3:16.649" allWordsNum="5"/>
+			<subrecord rec_id="2" rec_time="5" name="What will you be?" sound="nj_06b_05.mp3" from="  3:16.705" to="  3:18.008" allWordsNum="4"/>
+			<subrecord rec_id="3" rec_time="5" name="I'll be an astronaut. " sound="nj_06b_05.mp3" from="  3:18.431" to="  3:20.124" allWordsNum="4"/>
+			<subrecord rec_id="4" rec_time="5" name="That's what I'll be. " sound="nj_06b_05.mp3" from="  3:20.580" to="  3:21.915" allWordsNum="4"/>
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_06b_05.mp3">
+			<subrecord rec_id="5" rec_time="5" name="What will you do, Ben?" sound="nj_06b_05.mp3" from="  3:22.566" to="  3:24.356" allWordsNum="5"/>
+			<subrecord rec_id="6" rec_time="5" name="What will you do?" sound="nj_06b_05.mp3" from="  3:24.682" to="  3:26.049" allWordsNum="4"/>
+			<subrecord rec_id="7" rec_time="5" name="I'll fly a spacecraft. " sound="nj_06b_05.mp3" from="  3:26.082" to="  3:28.231" allWordsNum="4"/>
+			<subrecord rec_id="8" rec_time="5" name="That's what I'll do. " sound="nj_06b_05.mp3" from="  3:28.394" to="  3:30.021" allWordsNum="4"/>
+			</record>
+			<record rec_id="2" rec_time="60" sound="nj_06b_05.mp3">
+			<subrecord rec_id="9" rec_time="5" name="What will you see, Ben?" sound="nj_06b_05.mp3" from="  3:31.096" to="  3:32.887" allWordsNum="5"/>
+			<subrecord rec_id="10" rec_time="5" name="What will you see?" sound="nj_06b_05.mp3" from="  3:33.180" to="  3:34.514" allWordsNum="4"/>
+			<subrecord rec_id="11" rec_time="5" name="I'll see the stars. " sound="nj_06b_05.mp3" from="  3:34.840" to="  3:36.663" allWordsNum="4"/>
+			<subrecord rec_id="12" rec_time="5" name="That's what I'll see. " sound="nj_06b_05.mp3" from="  3:36.663" to="  3:38.421" allWordsNum="4"/>
+			</record>
+			<record rec_id="3" rec_time="60" sound="nj_06b_05.mp3">
+			<subrecord rec_id="13" rec_time="5" name="Who will go with you, Ben?" sound="nj_06b_05.mp3" from="  3:39.496" to="  3:41.254" allWordsNum="6"/>
+			<subrecord rec_id="14" rec_time="5" name="Who will go with you?" sound="nj_06b_05.mp3" from="  3:41.872" to="  3:43.305" allWordsNum="5"/>
+			<subrecord rec_id="15" rec_time="5" name="You'll go with me, Kitty. " sound="nj_06b_05.mp3" from="  3:43.631" to="  3:45.649" allWordsNum="5"/>
+			<subrecord rec_id="16" rec_time="5" name="You'll go with me. " sound="nj_06b_05.mp3" from="  3:45.877" to="  3:47.342" allWordsNum="4"/>
+			</record>		
+			<record rec_id="4" rec_time="60" sound="nj_06b_05.mp3">
+			<subrecord rec_id="17" rec_time="5" name="When will we come back, Ben?" sound="nj_06b_05.mp3" from="  3:48.677" to="  3:50.629" allWordsNum="6"/>
+			<subrecord rec_id="18" rec_time="5" name="When will we come back?" sound="nj_06b_05.mp3" from="  3:51.085" to="  3:52.811" allWordsNum="5"/>
+			<subrecord rec_id="19" rec_time="5" name="We'll come back at night. " sound="nj_06b_05.mp3" from="  3:52.974" to="  3:54.536" allWordsNum="5"/>
+			<subrecord rec_id="20" rec_time="5" name="That's when we'll come back. " sound="nj_06b_05.mp3" from="  3:54.927" to="  3:56.750" allWordsNum="5"/>
+			</record>	
+			<exercise type="4" index="0"/>
+			</part>
+			<part part_index="3" name="Text" page="34">
+			<record rec_id="0" rec_time="60" sound="nj_06b_05.mp3">
+			<subrecord rec_id="1" rec_time="5" name="Peter loves helping people. " sound="nj_06b_05.mp3" from="  4:27.573" to="  4:29.480" allWordsNum="4"/>
+			<subrecord rec_id="2" rec_time="5" name="He is good at sports. " sound="nj_06b_05.mp3" from="  4:30.076" to="  4:31.824" allWordsNum="5"/>
+			<subrecord rec_id="3" rec_time="5" name="In 15 years' time, Peter will be tall and strong. " sound="nj_06b_05.mp3" from="  4:32.539" to="  4:36.592" allWordsNum="10"/>
+			<subrecord rec_id="4" rec_time="5" name="He will be 175 centimetres tall. " sound="nj_06b_05.mp3" from="  4:37.228" to="  4:40.565" allWordsNum="6"/>
+			<subrecord rec_id="5" rec_time="5" name="He will not wear glasses. " sound="nj_06b_05.mp3" from="  4:41.161" to="  4:43.028" allWordsNum="5"/>
+			<subrecord rec_id="6" rec_time="5" name="He will put out fires. " sound="nj_06b_05.mp3" from="  4:43.505" to="  4:45.293" allWordsNum="5"/>			
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_06b_05.mp3">
+			<subrecord rec_id="7" rec_time="5" name="Jill loves listening to music. " sound="nj_06b_05.mp3" from="  4:58.675" to="  5:01.042" allWordsNum="5"/>
+			<subrecord rec_id="8" rec_time="5" name="She is good at singing. " sound="nj_06b_05.mp3" from="  5:01.437" to="  5:03.191" allWordsNum="5"/>
+			<subrecord rec_id="9" rec_time="5" name="In 15 years' time, Jill will be tall and slim. " sound="nj_06b_05.mp3" from="  5:03.673" to="  5:07.750" allWordsNum="10"/>
+			<subrecord rec_id="10" rec_time="5" name="She will be 168 centimetres tall. " sound="nj_06b_05.mp3" from="  5:08.145" to="  5:12.090" allWordsNum="6"/>
+			<subrecord rec_id="11" rec_time="5" name="She will weigh 52 kilograms. " sound="nj_06b_05.mp3" from="  5:12.310" to="  5:15.510" allWordsNum="5"/>
+			<subrecord rec_id="12" rec_time="5" name="She will be good-looking. " sound="nj_06b_05.mp3" from="  5:15.817" to="  5:17.746" allWordsNum="5"/>
+			</record>						
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="4" name="Smaller brains, longer arms" page="0" source="2">
+			<record rec_id="0" rec_time="6" sound="6B Unit 5.mp3">
+				<subrecord rec_id="1" rec_time="6" name="Our bodies and faces have changed over thousands of years—and it's still happening. " sound="6B Unit 5.mp3" from="  0:07.153" to="  0:13.151" allWordsNum="14"/>
+			</record>
+			<record rec_id="1" rec_time="7" sound="6B Unit 5.mp3">
+				<subrecord rec_id="2" rec_time="7" name="Here's how scientists predict our descendants will differ from us in 1,000 years from now." sound="6B Unit 5.mp3" from="  0:14.672" to="  0:20.867" allWordsNum="15"/>
+			</record>
+			<record rec_id="2" rec_time="14" sound="6B Unit 5.mp3">
+				<subrecord rec_id="3" rec_time="4" name="We'll be taller because of the food and pills we take. " sound="6B Unit 5.mp3" from="  0:22.472" to="  0:26.133" allWordsNum="11"/>
+				<subrecord rec_id="4" rec_time="7" name="A scientist says that the average American now is about one inch taller than in 1960. " sound="6B Unit 5.mp3" from="  0:26.499" to="  0:32.779" allWordsNum="16"/>
+				<subrecord rec_id="5" rec_time="3" name="So we will be much taller in the future. " sound="6B Unit 5.mp3" from="  0:33.145" to="  0:35.849" allWordsNum="9"/>
+			</record>
+			<record rec_id="3" rec_time="13" sound="6B Unit 5.mp3">
+				<subrecord rec_id="6" rec_time="6" name="Our arms and fingers will get longer to reduce the need to reach too far. " sound="6B Unit 5.mp3" from="  0:37.369" to="  0:42.635" allWordsNum="15"/>
+				<subrecord rec_id="7" rec_time="7" name="Nerve endings in hands and fingers will increase because of the greater use of smartphones. " sound="6B Unit 5.mp3" from="  0:42.863" to="  0:49.312" allWordsNum="15"/>
+			</record>
+			<record rec_id="4" rec_time="8" sound="6B Unit 5.mp3">
+				<subrecord rec_id="8" rec_time="8" name="We will also have smaller brains, because so much memorising and thinking is done by our computers. " sound="6B Unit 5.mp3" from="  0:50.945" to="  0:57.985" allWordsNum="17"/>
+				</record>
+		<exercise type="4" index="0"/>
+      </part>	
+		 <part part_index="5" name="Smaller brains, longer arms" page="0" source="2">
+      	<article allWordsNum="112">
+            	<![CDATA[
+Our bodies and faces have changed over thousands of years—and it's still happening.
+Here's how scientists predict (预测) our descendants (后代) will differ from us in 1,000 years from now.
+We'll be taller because of the food and pills we take. A scientist says that the average (平均的) American now is about one inch (英尺) taller than in 1960. So we will be much taller in the future.
+Our arms and fingers will get longer to reduce the need to reach too far. Nerve endings (神经末梢) in hands and fingers will increase because of the greater use of smartphones.
+We will also have smaller brains, because so much memorising and thinking is done by our computers.
+    	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="2" name="True or false. " qtype="2">
+					<question rec_id="0" choice="true">
+						<![CDATA[Scientists think we will be different from us in 1,000 years.]]>
+					</question>
+					<question rec_id="1" choice="false">
+						<![CDATA[American people are as tall as they were in 1960.]]>
+					</question>
+					<question rec_id="2" choice="false">
+						<![CDATA[Using too much smartphones will make our hands and fingers longer.]]>
+					</question>
+					<question rec_id="3" choice="true">
+						<![CDATA[Our brains will get smaller because we don't memorize or think as much as we did before.]]>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+		<dialogs>
+		<part part_index="0" name="Dialog" page="34">
+			<record rec_id="0" rec_time="8" name="I think Peter will be a fireman in 15 years' time. " sound="nj_06b_05.mp3" from="  4:19.745" to="  4:23.822" allWordsNum="11"/>
+      <record rec_id="1" rec_time="8" name="Yes, I agree. " sound="nj_06b_05.mp3" from="  4:24.611" to="  4:26.540" allWordsNum="3"/>	
+			<record rec_id="2" rec_time="8" name="I think Jill will be a teacher in 15 years' time. " sound="nj_06b_05.mp3" from="  4:49.074" to="  4:53.151" allWordsNum="11"/>
+			<record rec_id="3" rec_time="8" name="No, I don't agree. She'll possibly be a singer. " sound="nj_06b_05.mp3" from="  4:53.063" to="  4:57.583" allWordsNum="9"/>
+			<exercise type="5" index="0"/>
+		</part>
+    </dialogs>
+</package>
+ 

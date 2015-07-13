@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_07a</book_id>
+	<unit_id>nj_07a_04</unit_id>
+	<version>4</version>
+	<unit>unit4</unit>
+	<title>Jobs people do</title>
+	<words>
+		<part part_index="0" page="33">
+			<record rec_id="0" rec_time="3" name="block" symbol="blCk" explain="n.一幢楼房" sound="nj_07a_04.mp3" from=" 5:59.057" to="6:00.245" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="architect" symbol="5B:kitekt" explain="n.建筑师" sound="nj_07a_04.mp3" from="  6:00.723" to="  6:02.464" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="construction" symbol="kEn5strQkFn" explain="n.建筑" sound="nj_07a_04.mp3" from="  6:02.405" to="  6:04.036" allWordsNum="1"/>
+		    <record rec_id="3" rec_time="3" name="company" symbol="5kQmpEni" explain="n.公司" sound="nj_07a_04.mp3" from="  6:04.036" to="  6:05.420" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="type" symbol="taip" explain="v.打字" sound="nj_07a_04.mp3" from="  6:05.667" to="  6:06.774" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="removal" symbol="ri5mu:vl" explain="n.搬迁；迁移" sound="nj_07a_04.mp3" from="  6:06.805" to="  6:07.974" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="ambulance" symbol="5AmbjElEns" explain="n.救护车" sound="nj_07a_04.mp3" from="  6:08.005" to="  6:09.758" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="rescue" symbol="5reskju:" explain="v.营救" sound="nj_07a_04.mp3" from="  6:09.604" to="  6:11.204" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="deliver" symbol="di5livE(r)" explain="v.分发；递送" sound="nj_07a_04.mp3" from="  6:11.266" to="  6:12.527" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="parcel" symbol="5pB:sl" explain="n.包裹" sound="nj_07a_04.mp3" from="  6:12.496" to="  6:13.789" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="neighbour" symbol="5neibE(r)" explain="n.邻居" sound="nj_07a_04.mp3" from="  6:13.850" to="  6:15.388" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="meeting" symbol="5mi:tiN" explain="n.会议" sound="nj_07a_04.mp3" from="  6:15.305" to="  6:16.689" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="manager" symbol="5mAnidVE(r)" explain="n.经理" sound="nj_07a_04.mp3" from="  6:16.874" to="  6:18.289" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="take notes" symbol="teik nEuts" explain="记笔记" sound="nj_07a_04.mp3" from="  6:18.258" to="  6:20.012" allWordsNum="2"/>
+			<record rec_id="14" rec_time="3" name="accident" symbol="5AksidEnt" explain="n.（交通）事故；意外遭遇" sound="nj_07a_04.mp3" from="  6:19.796" to="  6:21.365" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="towards" symbol="tE5wR:dz" explain="prep.朝着；向着" sound="nj_07a_04.mp3" from="  6:21.335" to="  6:22.750" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="knock down" symbol="nCk daun" explain="撞倒" sound="nj_07a_04.mp3" from="  6:22.781" to="  6:24.842" allWordsNum="2"/>
+			<record rec_id="17" rec_time="3" name="catch fire" symbol="kAtF 5faiE" explain="着火" sound="nj_07a_04.mp3" from="  6:24.780" to="  6:26.657" allWordsNum="2"/>
+			<record rec_id="18" rec_time="3" name="both ... and ..." symbol="bEuW ... And ..." explain="......两者都" sound="nj_07a_04.mp3" from="  6:26.811" to="  6:30.072" allWordsNum="2"/>
+			<record rec_id="19" rec_time="3" name="motorcyclist" symbol="5mEutEsaiklist" explain="n.骑摩托车的人" sound="nj_07a_04.mp3" from="  6:30.318" to="  6:32.010" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="hurt" symbol="hE:t" explain="adj.受伤的" sound="nj_07a_04.mp3" from="  6:32.010" to="  6:33.487" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="run away" symbol="rQn E5wei" explain="逃跑" sound="nj_07a_04.mp3" from="  6:33.333" to="  6:35.025" allWordsNum="2"/>
+			<record rec_id="22" rec_time="3" name="broken" symbol="5brEukEn" explain="adj.伤残的；破损的" sound="nj_07a_04.mp3" from="  6:35.025" to="  6:36.348" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="arm" symbol="B:m" explain="n.臂；手臂；上肢" sound="nj_07a_04.mp3" from="  6:36.256" to="  6:37.640" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="engine" symbol="5endVin" explain="n.发动机；引擎" sound="nj_07a_04.mp3" from="  6:37.610" to="  6:39.117" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="fire engine" symbol="5faiE 5endVin" explain="n.消防车；救火车" sound="nj_07a_04.mp3" from="  6:39.209" to="  6:40.625" allWordsNum="2"/>
+			<record rec_id="26" rec_time="3" name="scene" symbol="si:n" explain="n.现场；地点" sound="nj_07a_04.mp3" from="  6:40.717" to="  6:42.163" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="carry" symbol="5kAri" explain="v.搬；扛；抱；运送" sound="nj_07a_04.mp3" from="  6:42.317" to="  6:43.516" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="people's jobs" page="27">
+			<record rec_id="0" rec_time="25" sound="nj_07a_04.mp3">
+			<subrecord rec_id="1" rec_time="14" name="Mrs Wang, Miss Tang, Susan and David live in the same block of flats as Ben and Kitty." sound="nj_07a_04.mp3" from="  0:16.992" to="  0:24.603" allWordsNum="18"/>
+			<subrecord rec_id="2" rec_time="5" name="They have different jobs." sound="nj_07a_04.mp3" from="0:24.439" to="0:27.058" allWordsNum="4"/>
+			</record>
+			<record rec_id="1" rec_time="25" sound="nj_07a_04.mp3">	
+			<subrecord rec_id="3" rec_time="5" name="Mrs Wang is a doctor." sound="nj_07a_04.mp3" from=" 0:27.017" to=" 0:29.349" allWordsNum="5"/>
+			<subrecord rec_id="4" rec_time="5" name="She works in a hospital. " sound="nj_07a_04.mp3" from="  0:29.186" to="  0:31.150" allWordsNum="5"/>
+			<subrecord rec_id="5" rec_time="5" name="She makes sick people better." sound="nj_07a_04.mp3" from="  0:31.150" to="  0:33.973" allWordsNum="5"/>
+			</record>
+			<record rec_id="2" rec_time="25" sound="nj_07a_04.mp3">	
+			<subrecord rec_id="6" rec_time="5" name="Miss Tang is an architect." sound="nj_07a_04.mp3" from="  0:34.137" to="  0:36.715" allWordsNum="5"/>
+			<subrecord rec_id="7" rec_time="8" name="She works for a construction company." sound="nj_07a_04.mp3" from="  0:36.633" to="  0:39.579" allWordsNum="6"/>
+			<subrecord rec_id="8" rec_time="5" name="She draws plans of buildings." sound="nj_07a_04.mp3" from="  0:39.333" to="  0:42.034" allWordsNum="5"/>
+			</record>
+			<record rec_id="3" rec_time="25" sound="nj_07a_04.mp3">	
+			<subrecord rec_id="9" rec_time="5" name="Susan is a secretary." sound="nj_07a_04.mp3" from="  0:42.239" to="  0:44.816" allWordsNum="4"/>
+			<subrecord rec_id="10" rec_time="5" name="She works in an office." sound="nj_07a_04.mp3" from="  0:44.857" to="  0:46.699" allWordsNum="5"/>
+			<subrecord rec_id="11" rec_time="5" name="She types letters." sound="nj_07a_04.mp3" from="  0:46.740  " to="0:48.745" allWordsNum="3"/>
+			</record>
+			<record rec_id="4" rec_time="20" sound="nj_07a_04.mp3">	
+			<subrecord rec_id="12" rec_time="5" name="David is a removal man. " sound="nj_07a_04.mp3" from="  0:49.522" to="  0:52.141" allWordsNum="5"/>
+			<subrecord rec_id="13" rec_time="8" name="He works for a removal company. " sound="nj_07a_04.mp3" from="  0:52.100" to="  0:54.596" allWordsNum="6"/>	
+			<subrecord rec_id="14" rec_time="8" name="He moves people's furniture to their new flats." sound="nj_07a_04.mp3" from="  0:54.719" to="  0:58.115" allWordsNum="8"/>
+			</record>
+			<exercise type="4" index="0"/>
+			</part>
+		<part part_index="1" name="read" page="32">
+			<record rec_id="0" rec_time="25" sound="nj_07a_04.mp3">
+			<subrecord rec_id="1" rec_time="10" name="Every morning, Tom sees a lot of people on his way to school." sound="nj_07a_04.mp3" from="  4:59.506" to="  5:04.576" allWordsNum="13"/>
+			</record>
+			<record rec_id="2" rec_time="25" sound="nj_07a_04.mp3">
+			<subrecord rec_id="2" rec_time="6" name="He sees the street cleaners cleaning the streets." sound="nj_07a_04.mp3" from="  5:04.655" to="  5:08.497" allWordsNum="8"/>
+			<subrecord rec_id="3" rec_time="5" name="They start work early." sound="nj_07a_04.mp3" from="  5:08.338" to="  5:10.596" allWordsNum="4"/>
+			<subrecord rec_id="4" rec_time="6" name="They sweep the streets and collect rubbish. " sound="nj_07a_04.mp3" from="  5:10.477" to="  5:13.962" allWordsNum="7"/>			
+			<subrecord rec_id="5" rec_time="6" name="They also empty the rubbish bins." sound="nj_07a_04.mp3" from="  5:13.962" to="  5:17.210" allWordsNum="6"/>
+			</record>
+			<record rec_id="3" rec_time="30" sound="nj_07a_04.mp3">
+			<subrecord rec_id="6" rec_time="5" name="Mr Ma has a bakery." sound="nj_07a_04.mp3" from="  5:17.329" to="  5:20.022" allWordsNum="5"/>
+			<subrecord rec_id="7" rec_time="5" name="He bakes bread and cakes." sound="nj_07a_04.mp3" from="  5:19.982" to="  5:22.675" allWordsNum="5"/>
+			<subrecord rec_id="8" rec_time="6" name="He opens his shop early." sound="nj_07a_04.mp3" from="  5:22.755" to="  5:25.804" allWordsNum="5"/>
+			<subrecord rec_id="9" rec_time="10" name="Tom sees people going to his shop to buy bread and cakes." sound="nj_07a_04.mp3" from="  5:25.725" to="  5:31.230" allWordsNum="12"/>		
+			</record>
+			<record rec_id="4" rec_time="20" sound="nj_07a_04.mp3">
+			<subrecord rec_id="10" rec_time="6" name="Mrs Liang sells newspapers." sound="nj_07a_04.mp3" from="  5:31.547" to="  5:34.874" allWordsNum="4"/>
+			<subrecord rec_id="11" rec_time="6" name="She starts work early, too." sound="nj_07a_04.mp3" from="  5:34.953" to="  5:37.844" allWordsNum="5"/>
+			</record>
+			<record rec_id="5" rec_time="30" sound="nj_07a_04.mp3">
+			<subrecord rec_id="12" rec_time="8" name="Tom sees people buying newspapers from her." sound="nj_07a_04.mp3" from="  5:37.924" to="  5:41.924" allWordsNum="7"/>
+			<subrecord rec_id="13" rec_time="10" name="Tom sees Mrs Hu selling flowers in her flower shop." sound="nj_07a_04.mp3" from="  5:41.963" to="  5:47.033" allWordsNum="10"/>
+			<subrecord rec_id="14" rec_time="12" name="She goes to the flower market early every morning to buy flowers for her shop." sound="nj_07a_04.mp3" from="  5:47.072" to="  5:53.964" allWordsNum="15"/>
+			</record>
+			<exercise type="4" index="0"/>
+			</part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="say and act" page="29">
+			<record rec_id="0" rec_time="5" name="Good morning, Susan." sound="nj_07a_04.mp3" from="2:27.920" to="2:30.208" allWordsNum="3"/>
+			<record rec_id="1" rec_time="6" name="Good morning, Kitty. Are you going to school?" sound="nj_07a_04.mp3" from="  2:29.993" to="  2:33.781" allWordsNum="8"/>
+			<record rec_id="2" rec_time="6" name="Yes, I am. Are you going to work?" sound="nj_07a_04.mp3" from="  2:33.781" to="  2:37.140" allWordsNum="8"/>
+			<record rec_id="3" rec_time="3" name="Yes, I am." sound="nj_07a_04.mp3" from="  2:37.212" to="  2:38.998" allWordsNum="3"/>
+			<record rec_id="4" rec_time="3" name="What's your job?" sound="nj_07a_04.mp3" from="  2:39.427" to="  2:41.285" allWordsNum="3"/>
+			<record rec_id="5" rec_time="5" name="I'm a secretary." sound="nj_07a_04.mp3" from="  2:41.214" to="  2:43.430" allWordsNum="3"/>
+			<record rec_id="6" rec_time="5" name="Where do you work?" sound="nj_07a_04.mp3" from="  2:43.501" to="  2:45.717" allWordsNum="4"/>
+			<record rec_id="7" rec_time="6" name="I work in an office in the city centre." sound="nj_07a_04.mp3" from="  2:45.574" to="  2:49.147" allWordsNum="9"/>
+			<record rec_id="8" rec_time="5" name="What do you do there?" sound="nj_07a_04.mp3" from="   2:49.433" to="  2:51.935" allWordsNum="5"/>
+			<record rec_id="9" rec_time="16" name="I answer the phone. I type letters. I go to meetings with my manager and take notes. I do many different things." sound="nj_07a_04.mp3" from="  2:52.006" to="  3:00.940" allWordsNum="22"/>
+			<record rec_id="10" rec_time="5" name="Do you wear a uniform at work?" sound="nj_07a_04.mp3" from="  3:01.154" to="  3:04.442" allWordsNum="7"/>
+			<record rec_id="11" rec_time="3" name="No, I don't." sound="nj_07a_04.mp3" from="  3:04.156" to="  3:06.300" allWordsNum="3"/>
+			<record rec_id="12" rec_time="3" name="Do you like your job?" sound="nj_07a_04.mp3" from="  3:06.229" to="  3:08.659" allWordsNum="5"/>
+			<record rec_id="13" rec_time="12" name="Yes, I do. It's very interesting and I enjoy working with all the people in my office." sound="nj_07a_04.mp3" from="  3:08.873" to="  3:15.448" allWordsNum="17"/>
+			<exercise type="5" index="0"/>
+		</part>
+	</dialogs>
+</package>
+ 

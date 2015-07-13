@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_09a</book_id>
+	<unit_id>nj_09a_05</unit_id>
+	<version>8</version>
+	<unit>unit5</unit>
+	<title>The human brain</title>
+	<words>
+		<part part_index="0" page="86">
+			<record rec_id="0" rec_time="3" name="memory" symbol="5memEri" explain="n.记忆力" sound="nj_09a_05.mp3" from="9:19.337" to="9:20.240" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="mind" symbol="maind" explain="n.头脑；大脑" sound="nj_09a_05.mp3" from="9:21.776" to="9:22.593" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="short-term" symbol="7FR:t5tX:m" explain="adj.短期的；近期的" sound="nj_09a_05.mp3" from="9:23.673" to="9:24.808" allWordsNum="1"/>
+			<record rec_id="3" rec_time="3" name="long-term" symbol="7lCN5tE:m" explain="adj.长期的；长远的" sound="nj_09a_05.mp3" from="9:26.124" to="9:27.218" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="go wrong" symbol="gEu rCN" explain="发生故障；出毛病" sound="nj_09a_05.mp3" from="9:28.381" to="9:29.364" allWordsNum="2"/>
+			<record rec_id="5" rec_time="3" name="essential" symbol="i5senFl" explain="adj.必不可少的；极其重要的" sound="nj_09a_05.mp3" from="9:30.721" to="9:31.554" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="injure" symbol="5indVE(r)" explain="v.伤害；使受伤" sound="nj_09a_05.mp3" from="9:32.938" to="9:33.855" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="afterwards" symbol="5B:ftEwEdz" explain="adv.以后；后来" sound="nj_09a_05.mp3" from=" 9:34.771" to="9:35.864" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="(be) angry with" symbol="(bi:) ANgri wiT" explain="对......发怒；对......生气" sound="nj_09a_05.mp3" from="9:37.332" to=" 9:38.310" allWordsNum="3"/>
+			<record rec_id="9" rec_time="3" name="basic" symbol="5beisik" explain="adj.最简单的；基础的" sound="nj_09a_05.mp3" from="9:39.726" to="9:40.538" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="link" symbol="liNk" explain="n. &amp; v.联系；连接" sound="nj_09a_05.mp3" from="9:41.808" to="9:42.485" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="method " symbol="5meWEd" explain="n.方法；措施" sound="nj_09a_05.mp3" from="9:43.703" to="9:44.338" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="link method" symbol="liNk 5meWEd" explain="联想法" sound="nj_09a_05.mp3" from="9:45.577" to="9:46.597" allWordsNum="2"/>
+			<record rec_id="13" rec_time="3" name="memorize" symbol="5memEraiz" explain="v.记忆；记住" sound="nj_09a_05.mp3" from="9:47.992" to="9:49.065" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="colourful" symbol="5kQlEfl" explain=" adj.有趣的；丰富多彩的" sound="nj_09a_05.mp3" from="9:50.408" to="9:51.230" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="mile" symbol="mail" explain="n.英里" sound="nj_09a_05.mp3" from="9:52.427" to="9:53.281" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="playing card" symbol="pleiiN kB:d" explain="纸牌" sound="nj_09a_05.mp3" from="9:54.374" to="9:55.405" allWordsNum="2"/>
+			<record rec_id="17" rec_time="3" name="spider" symbol="5spaidE(r)" explain="n.蜘蛛" sound="nj_09a_05.mp3" from="9:56.696" to="9:57.643" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="dramatic" symbol="drE5mAtik" explain="adj.激动人心的；给人印象深刻的" sound="nj_09a_05.mp3" from="9:58.851" to="9:59.736" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="opening" symbol="5EupniN" explain="n.开幕式" sound="nj_09a_05.mp3" from="10:01.016" to="10:01.974" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="ceremony" symbol="5serEmEni" explain="n.典礼；仪式" sound="nj_09a_05.mp3" from="10:03.421" to="10:04.285" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="Olympic" symbol="E5limpik" explain="adj.奥林匹克运动会的" sound="nj_09a_05.mp3" from="10:05.847" to="10:06.919" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="the Olympic Games" symbol="Ti: Eulimpik geimz" explain="奥运会" sound="nj_09a_05.mp3" from="10:08.304" to="10:09.938" allWordsNum="3"/>
+			<record rec_id="23" rec_time="3" name="wonder" symbol="5wQndE(r)" explain="v.想知道；想弄明白" sound="nj_09a_05.mp3" from="10:11.562" to="10:12.489" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="goal" symbol="gEul" explain="n.进球得分" sound="nj_09a_05.mp3" from="10:13.624" to="10:14.561" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="mark" symbol="mB:k" explain="n.分数" sound="nj_09a_05.mp3" from="10:15.498" to="10:16.403" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="excuse" symbol="ik5skju:s" explain="n.理由；借口" sound="nj_09a_05.mp3" from="10:17.497" to="10:18.631" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="break down" symbol="breikdaun" explain="出故障" sound="nj_09a_05.mp3" from="10:20.599" to="10:21.733" allWordsNum="2"/>
+			<record rec_id="28" rec_time="3" name="had better" symbol="hAd betE" explain="应该；最好" sound="nj_09a_05.mp3" from="10:22.993" to="10:24.024" allWordsNum="2"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="MEMORY" page="72">
+			<record rec_id="0" rec_time="25" sound="nj_09a_05.mp3">
+				<subrecord rec_id="1" rec_time="10" name="Joyce wanted to have a feature about memory in the school newspaper. " sound="nj_09a_05.mp3" from="0:10.326" to="0:14.387" allWordsNum="12"/>
+				<subrecord rec_id="2" rec_time="12" name="She and her editors all agreed to write short articles on this topic. " sound="nj_09a_05.mp3" from="  0:16.920" to="  en" allWordsNum="13"/>
+			</record>
+			<record rec_id="1" rec_time="30" sound="nj_09a_05.mp3">
+				<subrecord rec_id="3" rec_time="10" name="I read in a book that we have a short-term memory and a long-term memory. " sound="nj_09a_05.mp3" from="  0:23.868" to="  0:27.963" allWordsNum="17"/>
+				<subrecord rec_id="4" rec_time="16" name="When people get old, their short-term memory becomes weaker, but they can still remember things that happened a long time ago. " sound="nj_09a_05.mp3" from="  0:29.000" to="    0:36.140" allWordsNum="22"/>
+			</record>
+			<record rec_id="2" rec_time="30" sound="nj_09a_05.mp3">
+				<subrecord rec_id="5" rec_time="8" name="My grandad told me a joke about memory. " sound="nj_09a_05.mp3" from="  0:38.118" to="   0:40.281" allWordsNum="8"/>
+				<subrecord rec_id="6" rec_time="10" name="He said,When you get old, three things start to go wrong. First, you start to lose your memory. " sound="nj_09a_05.mp3" from="  0:43.639" to="   0:50.254" allWordsNum="19"/>
+				<subrecord rec_id="7" rec_time="8" name="And I can't remember what the other two things are! "  sound="nj_09a_05.mp3" from="  0:52.189" to=" 0:54.800" allWordsNum="10"/>
+				</record>
+			<record rec_id="3" rec_time="30" sound="nj_09a_05.mp3">
+				<subrecord rec_id="8" rec_time="5" name="Memory is essential for life. " sound="nj_09a_05.mp3" from="0:58.272" to="1:01.152" allWordsNum="5"/>
+				<subrecord rec_id="9" rec_time="8" name="I saw a programme on television about a man who had had an accident and injured his brain. " sound="nj_09a_05.mp3" from="  1:03.055" to="   1:08.123" allWordsNum="17"/>
+				<subrecord rec_id="10" rec_time="8" name="Afterwards, he could not remember anything for longer than a few minutes. " sound="nj_09a_05.mp3" from="  1:22.374" to="  1:25.937" allWordsNum="12"/>
+			</record>
+			<record rec_id="4" rec_time="25" sound="nj_09a_05.mp3">
+				<subrecord rec_id="11" rec_time="12" name="His wife visited him in hospital every day, but he forgot her visits a few minutes after she left. " sound="nj_09a_05.mp3" from="  1:59.858" to="  2:05.902" allWordsNum="19"/>
+				<subrecord rec_id="12" rec_time="12" name="He was often angry with her because he thought that she never visited him. it was very sad. " sound="nj_09a_05.mp3" from="  2:06.206" to="  2:12.511" allWordsNum="18"/>
+			</record>
+			<record rec_id="5" rec_time="60" sound="nj_09a_05.mp3">
+				<subrecord rec_id="13" rec_time="8" name="One basic way of improving your memory is to use the link method. " sound="nj_09a_05.mp3" from="  2:15.511" to="  2:20.294" allWordsNum="13"/>
+				<subrecord rec_id="14" rec_time="8" name="If you want to memorize something, you should make a picture in your mind. " sound="nj_09a_05.mp3" from="  2:20.338" to="  2:25.077" allWordsNum="14"/>
+				<subrecord rec_id="15" rec_time="20" name="if the picture is silly, strange and colourful, you will remember it better. For example, I am trying to remember the word smiles. " sound="nj_09a_05.mp3" from="  2:25.295" to="  2:35.296" allWordsNum="22"/>
+				<subrecord rec_id="16" rec_time="12" name="An easy way to do this is to imagine there is a mile between the first letter and the last letter. " sound="nj_09a_05.mp3" from="  2:35.644" to="  2:41.861" allWordsNum="21"/>
+				<subrecord rec_id="17" rec_time="5" name="This makes it the longest word in the world! "  sound="nj_09a_05.mp3" from="  2:41.948" to="  2:44.818" allWordsNum="9"/>
+			</record>
+			<record rec_id="6" rec_time="60" sound="nj_09a_05.mp3">
+			  <subrecord rec_id="18" rec_time="10" name="In the Guinness Book of Records, we can find some amazing stories about memory. " sound="nj_09a_05.mp3" from="  2:46.601" to="  2:51.906" allWordsNum="14"/>
+				<subrecord rec_id="19" rec_time="14" name="For example, Gong Gou from Harbin in China has memorized more than 15,000 telephone numbers. " sound="nj_09a_05.mp3" from="  2:52.373" to="  2:59.615" allWordsNum="15"/>
+				<subrecord rec_id="20" rec_time="20" name="And Dave Farrow from America remembered the correct order of 2,704 playing cards, after seeing them just once. " sound="nj_09a_05.mp3" from="  3:00.039" to="  3:09.557" allWordsNum="18"/>
+			</record>
+			<record rec_id="7" rec_time="60" sound="nj_09a_05.mp3">
+				<subrecord rec_id="21" rec_time="6" name="Memory is connected with our feelings. " sound="nj_09a_05.mp3" from="  3:12.736" to="  3:15.841" allWordsNum="6"/>
+				<subrecord rec_id="22" rec_time="20" name="For example, if someone says this is a spider, and then puts a large spider on your hand, you will probably remember the word spider! "  sound="nj_09a_05.mp3" from="  3:16.063" to="  3:26.080" allWordsNum="25"/>
+				<subrecord rec_id="23" rec_time="16" name="When something dramatic happens, we usually remember it well, and we also remember where we were and what we were doing. " sound="nj_09a_05.mp3" from="  3:26.653" to="  3:34.563" allWordsNum="21"/>
+			</record>
+			<record rec_id="8" rec_time="25" sound="nj_09a_05.mp3">
+				<subrecord rec_id="24" rec_time="20" name="For example, most people in china can remember where they were when the opening ceremony of the 29th Olympic Games was held in Beijing in 2008. " sound="nj_09a_05.mp3" from="  3:35.118" to="  3:45.228" allWordsNum="26"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+			<part part_index="1" name="How to improve your memory" page="83">
+			<record rec_id="0" rec_time="25" sound="nj_09a_05.mp3">
+				<subrecord rec_id="1" rec_time="18" name="There are many things you can do to improve your memory, such as using various memorizing methods as well as taking special care of your health. " sound="nj_09a_05.mp3" from="  7:23.324" to="  7:32.803" allWordsNum="26"/>
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_09a_05.mp3">
+				<subrecord rec_id="2" rec_time="12" name="It is important that you regularly stimulate your brain to make your memory more efficient. " sound="nj_09a_05.mp3" from="  7:33.151" to="  7:39.499" allWordsNum="15"/>
+				<subrecord rec_id="3" rec_time="12" name="For example, you can do activities that you do not usually do and change your daily habits. " sound="nj_09a_05.mp3" from="  7:39.586" to="  7:46.239" allWordsNum="17"/>
+				<subrecord rec_id="4" rec_time="6" name="Learning a new skill helps your brain to develop. " sound="nj_09a_05.mp3" from="  7:46.630" to="  7:50.196" allWordsNum="9"/>
+				<subrecord rec_id="5" rec_time="14" name="When trying to memorize something,you should focus your attention and concentrate on the most important things about it. " sound="nj_09a_05.mp3" from="  7:50.689" to="  7:58.006" allWordsNum="19"/>
+		    <subrecord rec_id="6" rec_time="12" name="Do not allow other thoughts to enter your mind because this will lower your chances of remembering things accurately. " sound="nj_09a_05.mp3" from="  7:58.930" to="  8:05.731" allWordsNum="18"/>
+			</record>
+			<record rec_id="2" rec_time="60" sound="nj_09a_05.mp3">
+				<subrecord rec_id="7" rec_time="8" name="An excellent way to help memory is to link information with pictures. " sound="nj_09a_05.mp3" from=" 8:07.687" to="8:12.122" allWordsNum="12"/>
+				<subrecord rec_id="8" rec_time="6" name="Try to see the images in your mind. " sound="nj_09a_05.mp3" from="  8:12.063" to="  8:15.168" allWordsNum="8"/>
+				<subrecord rec_id="9" rec_time="10" name="Taking notes, being organized and keeping a diary will also be useful tools. " sound="nj_09a_05.mp3" from="  8:15.623" to="  8:20.804" allWordsNum="13"/>
+				</record>
+			<record rec_id="3" rec_time="60" sound="nj_09a_05.mp3">
+				<subrecord rec_id="10" rec_time="10" name="Healthy food and plenty of vitamins are essential for your memory to work properly. " sound="nj_09a_05.mp3" from="  8:22.515" to="  8:27.817" allWordsNum="14"/>
+				<subrecord rec_id="11" rec_time="6" name="Drinking a lot of water also helps maintain your memory. " sound="nj_09a_05.mp3" from="  8:28.408" to="  8:31.756" allWordsNum="10"/>
+				<subrecord rec_id="12" rec_time="6" name="You must allow your brain to have enough sleep and rest too. " sound="nj_09a_05.mp3" from="8:32.286" to=" 8:36.209" allWordsNum="12"/>
+				<subrecord rec_id="13" rec_time="6" name="When you are asleep, your brain stores memory. " sound="nj_09a_05.mp3" from="  8:36.951" to="  8:40.844" allWordsNum="8"/>
+				<subrecord rec_id="14" rec_time="8" name="Not enough sleep can, therefore, cause problems with storing  information. " sound="nj_09a_05.mp3" from="  8:41.481" to="  8:46.025" allWordsNum="10"/>
+				<subrecord rec_id="15" rec_time="8" name="In addition, being tired will stop you from being  able to concentrate well. " sound="nj_09a_05.mp3" from="  8:46.904" to="  8:51.387" allWordsNum="13"/>
+			</record>
+			<record rec_id="4" rec_time="25" sound="nj_09a_05.mp3">
+				<subrecord rec_id="16" rec_time="20" name="Caffeine in tea and coffee are very good at preventing sleepiness and helping concentration, but some people believe they may cause problems with memory. " sound="nj_09a_05.mp3" from="  8:51.387" to="  9:01.870" allWordsNum="24"/>
+			</record>
+			<record rec_id="5" rec_time="25" sound="nj_09a_05.mp3">
+				<subrecord rec_id="17" rec_time="6" name="In order to concentrate well, you must be relaxed. " sound="nj_09a_05.mp3" from="  9:03.688" to="  9:07.202" allWordsNum="9"/>
+				<subrecord rec_id="18" rec_time="14" name="Generally keeping fit and having  regular health checks are both important as well, and not just for improving your memory. " sound="nj_09a_05.mp3" from="  9:07.596" to="  9:14.852" allWordsNum="20"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+	</texts>
+</package>
+ 

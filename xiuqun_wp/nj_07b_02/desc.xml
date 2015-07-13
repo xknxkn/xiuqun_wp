@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_07b</book_id>
+	<unit_id>nj_07b_02</unit_id>
+	<version>5</version>
+	<unit>unit2</unit>
+	<title>Going to see a film</title>
+	<words>
+		<part part_index="0" page="14">
+			<record rec_id="0" rec_time="3" name="take a look" symbol="teik E luk" explain="看一看" sound="nj_07b_02.mp3" from="  3:12.504" to="  3:14.408" allWordsNum="3"/>
+			<record rec_id="1" rec_time="3" name="stupid " symbol="5stju:pid" explain="adj.愚蠢的；笨的" sound="nj_07b_02.mp3" from="  3:14.640" to="  3:15.987" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="clown" symbol="klaun" explain="n.小丑" sound="nj_07b_02.mp3" from="  3:16.219" to="  3:17.891" allWordsNum="1"/>
+			<record rec_id="3" rec_time="3" name="action" symbol="5AkFn" explain="n.动作" sound="nj_07b_02.mp3" from="  3:18.216" to="  3:20.166" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="action film" symbol="5AkFn film" explain="n.动作片；武打片" sound="nj_07b_02.mp3" from="  3:20.352" to="  3:22.349" allWordsNum="2"/>
+			<record rec_id="5" rec_time="3" name="robber" symbol="5rCbE(r)" explain="n.盗贼" sound="nj_07b_02.mp3" from="  3:22.581" to="  3:23.974" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="hate" symbol="heit" explain="v.讨厌；不喜欢" sound="nj_07b_02.mp3" from="  3:24.299" to="  3:25.135" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="adventure" symbol="Ed5ventFE(r)" explain="n.冒险；奇遇" sound="nj_07b_02.mp3" from="  3:25.414" to="  3:27.225" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="princess" symbol="7prin5ses" explain="n.公主" sound="nj_07b_02.mp3" from="  3:27.597" to="  3:29.361" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="prince" symbol="prins" explain="n.王子" sound="nj_07b_02.mp3" from="  3:29.454" to="  3:31.079" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="duration" symbol="dju5reiFn" explain="n.持续时间" sound="nj_07b_02.mp3" from="  3:31.358" to="  3:33.030" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="circus " symbol="5sE:kEs" explain="n.马戏团" sound="nj_07b_02.mp3" from="  3:33.309" to="  3:34.795" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="full of" symbol="ful Cv" explain="充满；挤满" sound="nj_07b_02.mp3" from="  3:35.259" to="  3:36.652" allWordsNum="2"/>
+			<record rec_id="13" rec_time="3" name="laughter" symbol="5lB:ftE(r)" explain="n.笑；笑声" sound="nj_07b_02.mp3" from="  3:36.931" to="  3:38.463" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="cowboy" symbol="5kaubCi" explain="n.牛仔" sound="nj_07b_02.mp3" from="  3:39.067" to="  3:40.924" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="diary" symbol="5daiEri" explain="n.（工作日程）记事簿" sound="nj_07b_02.mp3" from="  3:41.250" to="  3:42.689" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="pay" symbol="pei" explain="v.付费" sound="nj_07b_02.mp3" from="  3:43.190" to="  3:44.955" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="pay for" symbol="pei fR:" explain="为......付钱" sound="nj_07b_02.mp3" from="  3:45.326" to="  3:47.277" allWordsNum="2"/>
+			<record rec_id="18" rec_time="3" name="altogether" symbol="7R:ltE5geTE(r)" explain="adv.总共；一共" sound="nj_07b_02.mp3" from="  3:47.509" to="  3:49.366" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="price" symbol="prais" explain="n.价格" sound="nj_07b_02.mp3" from="  3:49.970" to="  3:51.410" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="avenue" symbol="5AvEnju:" explain="n.大街" sound="nj_07b_02.mp3" from="  3:52.060" to="  3:53.824" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="lane" symbol="lein" explain="n.小巷；胡同" sound="nj_07b_02.mp3" from="  3:54.335" to="  3:55.868" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="bookshop" symbol="5bukFCp" explain="n.书店" sound="nj_07b_02.mp3" from="  3:56.100" to="  3:57.493" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="route" symbol="ru:t" explain="n.路线" sound="nj_07b_02.mp3" from="  3:57.725" to="  3:59.258" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Top film festivals in Europe" page="0" source="2">
+			<record rec_id="0" rec_time="6" sound="7B Unit 2.mp3">
+				<subrecord rec_id="1" rec_time="4" name="Europe has many influential and well-known film festivals. " sound="7B Unit 2.mp3" from="  0:05.989" to="  0:09.864" allWordsNum="8"/>
+				<subrecord rec_id="2" rec_time="2" name="Let's take a quick look. " sound="7B Unit 2.mp3" from="  0:10.345" to="  0:11.818" allWordsNum="5"/>
+			</record>
+			<record rec_id="1" rec_time="3" sound="7B Unit 2.mp3">
+				<subrecord rec_id="3" rec_time="3" name="Venice International Film Festival" sound="7B Unit 2.mp3" from="  0:13.292" to="  0:15.694" allWordsNum="4"/>
+			</record>
+			<record rec_id="2" rec_time="6" sound="7B Unit 2.mp3">
+				<subrecord rec_id="4" rec_time="6" name="The Venice International Film Festival is the oldest film festival in the world. " sound="7B Unit 2.mp3" from="  0:17.167" to="  0:22.292" allWordsNum="13"/>
+			</record>
+			<record rec_id="3" rec_time="8" sound="7B Unit 2.mp3">
+				<subrecord rec_id="5" rec_time="8" name="The festival takes place every year in late August or early September on the island of Lido, Venice, Italy. " sound="7B Unit 2.mp3" from="  0:23.701" to="  0:31.068" allWordsNum="19"/>
+			</record>
+			<record rec_id="4" rec_time="10" sound="7B Unit 2.mp3">
+				<subrecord rec_id="6" rec_time="4" name="The principal award of the festival is the Golden Lion. " sound="7B Unit 2.mp3" from="  0:32.573" to="  0:36.000" allWordsNum="10"/>
+				<subrecord rec_id="7" rec_time="6" name="It is awarded to the best film, and the Silver Lion is for the best director. " sound="7B Unit 2.mp3" from="  0:36.449" to="  0:41.797" allWordsNum="16"/>
+			</record>
+			<record rec_id="5" rec_time="3" sound="7B Unit 2.mp3">
+				<subrecord rec_id="8" rec_time="3" name="Cannes Film Festival" sound="7B Unit 2.mp3" from="  0:43.271" to="  0:44.840" allWordsNum="3"/>
+			</record>
+			<record rec_id="6" rec_time="19" sound="7B Unit 2.mp3">
+				<subrecord rec_id="9" rec_time="6" name="The Cannes Film Festival is one of the most popular film festivals across the world. " sound="7B Unit 2.mp3" from="  0:46.442" to="  0:51.982" allWordsNum="15"/>
+				<subrecord rec_id="10" rec_time="4" name="The festival takes place every year in May in Cannes, France. " sound="7B Unit 2.mp3" from="  0:53.362" to="   0:58.006" allWordsNum="11"/>
+				<subrecord rec_id="11" rec_time="9" name="It represents one of the most respected film awards in the whole film industry, especially in the European film industry. " sound="7B Unit 2.mp3" from="  0:58.295" to="  1:06.366" allWordsNum="20"/>
+			</record>
+		<exercise type="4" index="0"/>
+      </part>	
+      <part part_index="1" name="Top film festivals in Europe" page="0" source="2">
+      	<article allWordsNum="124">
+            	<![CDATA[
+Europe has many influential and well-known film festivals. Let's take a quick look.
+Venice International Film Festival
+The Venice International Film Festival (威尼斯国际电影节) is the oldest film festival in the world.
+The festival takes place every year in late August or early September on the island of Lido, Venice, Italy.
+The principal award of the festival is the Golden Lion (金狮奖). It is awarded to the best film, and the Silver Lion is for the best director.
+Cannes Film Festival
+The Cannes Film Festival (戛纳电影节) is one of the most popular film festivals across the world.
+The festival takes place every year in May in Cannes, France. It represents one of the most respected film awards in the whole film industry, especially in the European film industry.
+           	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="0" name="Choose the best answer. " qtype="1" >
+					<question rec_id="0" choice="C">
+						<![CDATA[Where does the Venice International Film Festival take place?]]>
+						<choice item="A" name="In France. "/>
+						<choice item="B" name="In Greece."/>
+						<choice item="C" name="In Italy. "/>
+						<choice item="D" name="In Britain."/>
+					</question>
+					<question rec_id="1" choice="B">
+						<![CDATA[The Golden Lion is awarded to _____.]]>
+						<choice item="A" name="the best director"/>
+						<choice item="B" name="the best film"/>
+						<choice item="C" name="the best actor"/>
+						<choice item="D" name="the best actress"/>
+					</question>
+					<question rec_id="2" choice="A">
+						<![CDATA[The Cannes Film Festival takes place in _____.]]>
+						<choice item="A" name="May"/>
+						<choice item="B" name="late August "/>
+						<choice item="C" name="early September	D. mid July "/>
+					</question>
+					<question rec_id="3" choice="B">
+						<![CDATA[Which of the following statements is false?]]>
+						<choice item="A" name="The Venice International Film Festival is the oldest film festival in the world."/>
+						<choice item="B" name="The Cannes Film Festival's principal award is the Golden Lion."/>
+						<choice item="C" name="The two festivals take place every year."/>
+						<choice item="D" name="The Cannes Film Festival is one of the most popular film festivals in the world."/>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="Choosing a film" page="9">
+			<record rec_id="0" rec_time="5" name="Kitty, which film would you like to see this Saturday?" sound="nj_07b_02.mp3" from="  0:12.352" to="  0:16.578" allWordsNum="10"/>
+			<record rec_id="1" rec_time="15" name="Let's take a look at the film guide. There are a lot of interesting films. I'd like to see 'The Stupid Clown'. I like funny films." sound="nj_07b_02.mp3" from="  0:18.203" to="  0:29.070" allWordsNum="33"/>
+			<record rec_id="2" rec_time="5" name="So do I. I like funny films very much." sound="nj_07b_02.mp3" from="  0:29.096" to="  0:33.489" allWordsNum="9"/>
+			<record rec_id="3" rec_time="15" name="I don't like films about clowns. They're stupid. What about 'Police Story'? It's an action film and it's very exciting." sound="nj_07b_02.mp3" from="  0:34.679" to="  0:45.538" allWordsNum="31"/>
+			<record rec_id="4" rec_time="3" name="What is the film about?" sound="nj_07b_02.mp3" from="  0:46.062" to="  0:47.843" allWordsNum="5"/>
+			<record rec_id="5" rec_time="5" name="It's about policemen and robbers." sound="nj_07b_02.mp3" from="  0:48.297" to="  0:50.776" allWordsNum="7"/>
+			<record rec_id="6" rec_time="15" name="I hate action films, but I like films about adventures. Let's see 'Space Wars'. It's about the adventures of some astronauts in space." sound="nj_07b_02.mp3" from="  0:52.172" to="  1:03.765" allWordsNum="30"/>
+			<record rec_id="7" rec_time="4" name="I don't like films about adventures." sound="nj_07b_02.mp3" from="  1:04.673" to="  1:07.291" allWordsNum="6"/>
+			<record rec_id="8" rec_time="5" name="Neither do I." sound="nj_07b_02.mp3" from="  1:07.466" to="  1:08.793" allWordsNum="3"/>
+			<record rec_id="9" rec_time="12" name="Shall we see 'Swan Lake' then? It's a cartoon. It's a love story about a swan princess and a prince." sound="nj_07b_02.mp3" from="  1:09.700" to="  1:17.626" allWordsNum="26"/>
+			<record rec_id="10" rec_time="5" name="OK. Let's see 'Swan Lake'." sound="nj_07b_02.mp3" from="  1:17.836" to="  1:20.559" allWordsNum="5"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="1" name="Listen and say" page="12">
+			<record rec_id="0" rec_time="5" name="What's the name of the cinema we are going to?" sound="nj_07b_02.mp3" from="  1:31.698" to="  1:34.491" allWordsNum="12"/>
+			<record rec_id="1" rec_time="3" name="City Cinema." sound="nj_07b_02.mp3" from="  1:34.735" to="  1:36.446" allWordsNum="2"/>
+			<record rec_id="2" rec_time="5" name="How can I get there from my home?" sound="nj_07b_02.mp3" from="  1:36.761" to="  1:39.065" allWordsNum="8"/>
+			<record rec_id="3" rec_time="35" name="It's near your home. You can walk there. First, turn right. Walk along Green Street. Next, turn left into Tree Road and walk along Tree Road. Then turn right into City Street and walk along City Street. Finally, turn left into Park Road and walk along Park Road. You'll find City Cinema on your right." sound="nj_07b_02.mp3" from="  1:39.667" to="  2:09.248" allWordsNum="59"/>
+			<exercise type="5" index="0"/>
+		</part>
+    </dialogs>
+</package>
+ 

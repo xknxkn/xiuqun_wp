@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_09a</book_id>
+	<unit_id>nj_09a_06</unit_id>
+	<version>6</version>
+	<unit>unit6</unit>
+	<title>Detectives</title>
+	<words>
+		<part part_index="0" page="105">
+			<record rec_id="0" rec_time="3" name="crime" symbol="kraim" explain="n.罪行" sound="nj_09a_06.mp3" from="  8:36.977" to="  8:38.396" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="detective" symbol="di5tektiv" explain="n. 侦探；警探" sound="nj_09a_06.mp3" from="  8:39.942" to="  8:41.031" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="innocent" symbol="5inEsnt" explain="adj. 无辜的；无罪的" sound="nj_09a_06.mp3" from="  8:42.324" to="  8:43.514" allWordsNum="1"/>
+			<record rec_id="3" rec_time="3" name="recent" symbol="5ri:snt" explain="adj. 近来的；新近的" sound="nj_09a_06.mp3" from=" 8:44.768" to=" 8:45.607" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="case" symbol="keis" explain="n.案件" sound="nj_09a_06.mp3" from="  8:46.901" to="  8:47.630" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="purchase" symbol="5pX:tFEs" explain="v.购买；采购" sound="nj_09a_06.mp3" from="  8:48.841" to="  8:49.745" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="safe" symbol="seif" explain="n.保险箱；保险柜" sound="nj_09a_06.mp3" from="  8:50.715" to="  8:51.576" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="clue" symbol="klu:" explain="n.线索；迹象" sound="nj_09a_06.mp3" from="  8:52.804" to="  8:53.601" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="earring" symbol="5iEriN" explain="n.耳环" sound="nj_09a_06.mp3" from="  8:54.743" to="  8:55.755" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="mud" symbol="mQd" explain="n.泥；泥浆" sound="nj_09a_06.mp3" from="  8:56.897" to="  8:57.608" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="spotlessly" symbol="5spCtlEsli" explain="adv.一尘不染地" sound="nj_09a_06.mp3" from="  8:58.717" to="  9:00.128" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="deny" symbol="di5nai" explain="v.否认；否定" sound="nj_09a_06.mp3" from="  9:01.841" to="  9:02.551" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="necklace" symbol="5neklEs" explain="n.项链" sound="nj_09a_06.mp3" from="  9:03.359" to="  9:04.458" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="proof" symbol="pru:f" explain="n.证据；证明" sound="nj_09a_06.mp3" from="  9:05.513" to="  9:06.418" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="conclusion" symbol="kEn5klu:Vn" explain="n.结论；推论" sound="nj_09a_06.mp3" from="  9:07.348" to="  9:08.681" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="jump to conclusions" symbol="dVQmp tu kEnklu:Vnz" explain="匆忙下结论；贸然断定" sound="nj_09a_06.mp3" from="  9:09.941" to="  9:11.846" allWordsNum="3"/>
+			<record rec_id="16" rec_time="3" name="admit" symbol="Ed5mit" explain="v.承认；招供" sound="nj_09a_06.mp3" from="  9:13.451" to="  9:14.453" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="suspect" symbol="5sQspekt" explain="n.嫌疑犯；可疑对象" sound="nj_09a_06.mp3" from="  9:15.958" to="  9:17.218" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="spotless" symbol="5spCtlEs" explain="adj.非常洁净的" sound="nj_09a_06.mp3" from="  9:18.479" to="  9:19.782" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="break into" symbol="breik 5intu" explain="强行闯入" sound="nj_09a_06.mp3" from="  9:20.986" to="  9:22.303" allWordsNum="2"/>
+			<record rec_id="20" rec_time="3" name="insurance" symbol="in5FuErEns" explain="n.保险" sound="nj_09a_06.mp3" from="  9:23.535" to="  9:24.796" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="as well" symbol="Es wel" explain="也；还" sound="nj_09a_06.mp3" from="  9:25.956" to="  9:27.002" allWordsNum="2"/>
+			<record rec_id="22" rec_time="3" name="jail" symbol="dVeil" explain="n.监狱" sound="nj_09a_06.mp3" from="  9:28.105" to="  9:29.122" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="behind bars" symbol="bihaind bB:s" explain="被监禁；坐牢" sound="nj_09a_06.mp3" from="  9:30.082" to="  9:31.486" allWordsNum="2"/>
+			<record rec_id="24" rec_time="3" name="guilty" symbol="5gilti" explain="adj.犯了罪的；有过失的" sound="nj_09a_06.mp3" from="  9:32.846" to="  9:33.835" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="discover" symbol="di5skQvE(r)" explain="v.发现" sound="nj_09a_06.mp3" from="  9:35.038" to="  9:36.127" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="arrest" symbol="E5rest" explain="v.逮捕；拘留" sound="nj_09a_06.mp3" from="  9:37.316" to="  9:38.361" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="pause" symbol="pR:z" explain="n.停顿；停顿的时间" sound="nj_09a_06.mp3" from="  9:39.479" to="  9:40.510" allWordsNum="1"/>
+			<record rec_id="28" rec_time="3" name="mystery" symbol="5mistri" explain="n.神秘的事物" sound="nj_09a_06.mp3" from="  9:41.656" to="  9:42.659" allWordsNum="1"/>
+			<record rec_id="29" rec_time="3" name="murder" symbol="5mX:dE(r)" explain="n.谋杀；凶杀" sound="nj_09a_06.mp3" from="  9:43.729" to="  9:44.718" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="An extract from The Further Adventures of Sherlock Holmes" page="102">
+			<record rec_id="0" rec_time="60" sound="nj_09a_06.mp3">
+				<subrecord rec_id="1" rec_time="18" name="The death of Ronald Adair in the spring of 1894 is one of the most interesting cases I have ever worked on. " sound="nj_09a_06.mp3" from="  6:50.252" to="  6:59.848" allWordsNum="22"/>
+				<subrecord rec_id="2" rec_time="10" name="I have thought about it quite a lot, but con find no possible explanation. " sound="nj_09a_06.mp3" from="  6:59.821" to="  7:04.948" allWordsNum="14"/>
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_09a_06.mp3">
+				<subrecord rec_id="3" rec_time="20" name="Adair was the son of a famous general who was abroad at the time. The young man's friends were from good families, and he seemed to have no enemies. " sound="nj_09a_06.mp3" from="  7:05.603" to="  7:15.738" allWordsNum="28"/>
+				<subrecord rec_id="4" rec_time="14" name="On the day of his death he had played a game of cards at the Bagatelle Club in London with some friends. " sound="nj_09a_06.mp3" from="  7:15.976" to="  7:23.189" allWordsNum="22"/>
+			</record>
+			<record rec_id="2" rec_time="60" sound="nj_09a_06.mp3">
+				<subrecord rec_id="5" rec_time="12" name="On the evening of 30 March, Adair returned from the Bagatelle at exactly ten o'clock. " sound="nj_09a_06.mp3" from="  7:23.249" to="  7:30.224" allWordsNum="15"/>
+				<subrecord rec_id="6" rec_time="6" name="His mother was out, visiting relatives. " sound="nj_09a_06.mp3" from="  7:30.164" to="  7:33.920" allWordsNum="6"/>
+				<subrecord rec_id="7" rec_time="10" name="The servant said Adair went upstairs to his room, where she had lit a fire. " sound="nj_09a_06.mp3" from="  7:34.136" to="  7:39.508" allWordsNum="15"/>
+				<subrecord rec_id="8" rec_time="6" name="She had opened the window because of the smoke from the fire. " sound="nj_09a_06.mp3" from="  7:39.483" to="  7:43.030" allWordsNum="11"/>
+			</record>
+			<record rec_id="3" rec_time="60" sound="nj_09a_06.mp3">
+				<subrecord rec_id="9" rec_time="10" name="Just before midnight, Adair's mother returned and went to say goodnight to her son. " sound="nj_09a_06.mp3" from="  7:44.297" to="  7:49.669" allWordsNum="14"/>
+				<subrecord rec_id="10" rec_time="8" name="The door was locked and there was no answer, so it was forced open. " sound="nj_09a_06.mp3" from="  7:50.353" to="  7:54.534" allWordsNum="14"/>
+				<subrecord rec_id="11" rec_time="5" name="Adair was found lying near the table. " sound="nj_09a_06.mp3" from="  7:55.092" to="  7:57.473" allWordsNum="7"/>
+				<subrecord rec_id="12" rec_time="10" name="A bullet from a small gun had entered his head, but the police could find no weapon. " sound="nj_09a_06.mp3" from="  7:57.752" to="  8:03.276" allWordsNum="17"/>
+				<subrecord rec_id="13" rec_time="10" name="Some coins were on the table, and a note with names of his friends at the Bagatelle. " sound="nj_09a_06.mp3" from="  8:03.479" to="  8:09.231" allWordsNum="16"/>
+				<subrecord rec_id="14" rec_time="10" name="This appeared to be a list of all the money he had lost and won playing cards. " sound="nj_09a_06.mp3" from="  8:09.408" to="  8:14.552" allWordsNum="17"/>
+			</record>
+			<record rec_id="4" rec_time="60" sound="nj_09a_06.mp3">
+				<subrecord rec_id="15" rec_time="5" name="There were no marks on the outside wall. " sound="nj_09a_06.mp3" from="  8:15.540" to="  8:18.378" allWordsNum="8"/>
+				<subrecord rec_id="16" rec_time="12" name="Since it was impossible to aim a small gun from a distance, the murderer was probably in the room. " sound="nj_09a_06.mp3" from="  8:18.454" to="  8:24.966" allWordsNum="19"/>
+				<subrecord rec_id="17" rec_time="5" name="Nobody had heard any noise. " sound="nj_09a_06.mp3" from="  8:25.245" to="  8:27.855" allWordsNum="5"/>
+				<subrecord rec_id="18" rec_time="8" name="In addition to all this, nothing had been stolen from the room. " sound="nj_09a_06.mp3" from="  8:27.931" to="  8:32.239" allWordsNum="12"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		 <part part_index="1" name="Protecting the innocent" page="91">
+		 <record rec_id="0" rec_time="35" sound="nj_09a_06.mp3">
+		 	<subrecord rec_id="1" rec_time="22" name="Pansy wanted to write an article on detectives for the school newspaper. To get information, she interviewed Detective Ken. This is part of the interview. " sound="nj_09a_06.mp3" from="  0:10.750" to="  0:21.669" allWordsNum="25"/>
+		 	<subrecord rec_id="2" rec_time="10" name="You say that you like being a detective. Why?" sound="nj_09a_06.mp3" from="  0:21.838" to="  0:27.061" allWordsNum="9"/>
+		 </record>
+		 <record rec_id="1" rec_time="60" sound="nj_09a_06.mp3">
+		 	<subrecord rec_id="3" rec_time="60" name="Let me tell you about a recent case that I dealt with, Pansy. Mr Jones is a very rich man who lives alone and enjoys collecting things.He purchased a vase for 300,000 dollars. He showed it to only two people——his friends Jill and Jenny. Then he locked it in the safe at his house. That night, someone stole it. Mr Jones reported the theft, and I went to his house to look for clues. " sound="nj_09a_06.mp3" from="  0:26.930" to="  0:57.454" allWordsNum="76"/>
+	   </record>
+	   <record rec_id="2" rec_time="35" sound="nj_09a_06.mp3">
+	   	<subrecord rec_id="4" rec_time="3" name="Did you find any?" sound="nj_09a_06.mp3" from="  0:57.588" to="  0:59.067" allWordsNum="4"/>
+			<subrecord rec_id="5" rec_time="30" name="Yes, I found a black pearl earring near the open safe and, outside the open window of the room, I saw a lot of mud on the wet ground. Inside the room, the carpet was spotlessly clean. " sound="nj_09a_06.mp3" from="  0:59.112" to="  1:14.441" allWordsNum="37"/>
+     </record>
+     <record rec_id="3" rec_time="16" sound="nj_09a_06.mp3">
+     	<subrecord rec_id="6" rec_time="5" name="So what did you do next?" sound="nj_09a_06.mp3" from="  1:14.755" to="  1:16.951" allWordsNum="6"/>
+			<subrecord rec_id="7" rec_time="11" name="I interviewed Jill and Jenny. They both denied stealing the vase. But I noticed that Jill was wearing a black pearl necklace——but no earrings. " sound="nj_09a_06.mp3" from="  1:16.835" to="  1:27.000" allWordsNum="25"/>
+     </record>
+     <record rec_id="4" rec_time="45" sound="nj_09a_06.mp3">
+     	<subrecord rec_id="8" rec_time="5" name="So Jill was the thief?" sound="nj_09a_06.mp3" from="  1:27.095" to=" 1:29.502" allWordsNum="5"/>
+			<subrecord rec_id="9" rec_time="40" name="I didn't know. I needed proof. A good detective never jumps to conclusions. I decided what to do next. I showed Jill the earring, and she admitted it was hers. She said someone had stolen it from her house a month before. I checked her story. It was true. " sound="nj_09a_06.mp3" from="  1:29.449" to="  1:50.023" allWordsNum="49"/>
+     </record>
+     <record rec_id="5" rec_time="56" sound="nj_09a_06.mp3">
+     	<subrecord rec_id="10" rec_time="16" name="So Jill was no longer a suspect. But what about your other clue——the mud outside and the spotless carpet inside?" sound="nj_09a_06.mp3" from="  1:49.978" to="  1:58.897" allWordsNum="21"/>
+			<subrecord rec_id="11" rec_time="40" name="That told me that probably no thief broke into Mr Jones's house. So I questioned Mr Jones and, in the end, he admitted stealing his own vase. He had bought insurance for it. The insurance company would pay him 300,000 dollars if the vase was stolen. " sound="nj_09a_06.mp3" from="  1:58.718" to="  2:18.261" allWordsNum="46"/>
+     </record>
+     <record rec_id="6" rec_time="60" sound="nj_09a_06.mp3">
+     	<subrecord rec_id="12" rec_time="5" name="And who stole Jill's earring?" sound="nj_09a_06.mp3" from="  2:18.440" to="  2:20.771" allWordsNum="5"/>
+			<subrecord rec_id="13" rec_time="12" name="Mr Jones did that as well. He tried to make sure that Jill would go to jail instead of him. " sound="nj_09a_06.mp3" from="  2:20.815" to="  2:27.494" allWordsNum="20"/>
+			<subrecord rec_id="14" rec_time="6" name="So now Mr Jones is behind bars. " sound="nj_09a_06.mp3" from="  2:27.584" to="  2:30.587" allWordsNum="7"/>
+     </record>
+     <record rec_id="7" rec_time="25" sound="nj_09a_06.mp3">
+     	<subrecord rec_id="14" rec_time="20" name="Yes, and Jill is free. My job is to protect the innocent as well as find the guilty. That's why I like being as a detective. " sound="nj_09a_06.mp3" from="  2:30.584" to="  2:40.896" allWordsNum="26"/>
+     </record>
+			<exercise type="4" index="0"/>
+		</part>
+	</texts>
+</package>
+ 

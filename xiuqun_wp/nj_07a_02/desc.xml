@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_07a</book_id>
+	<unit_id>nj_07a_02</unit_id>
+	<version>5</version>
+	<unit>unit2</unit>
+	<title>Our animal friends</title>
+	<words>
+		<part part_index="0" page="14">
+			<record rec_id="0" rec_time="3" name="Officer" symbol="5CfisE(r)" explain="n.官员；高级职员" sound="nj_07a_02.mp3" from="2:17.500" to="2:18.502" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="society" symbol="sE5saiEti" explain="n.社团；协会" sound="nj_07a_02.mp3" from="2:18.946" to="2:20.164" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="prevention" symbol="pri5venFn" explain="n.预防；防止；防范" sound="nj_07a_02.mp3" from="2:20.882" to="2:21.895" allWordsNum="1"/>
+			<record rec_id="3" rec_time="3" name="cruelty" symbol="5kru:Elti" explain="n.残酷" sound="nj_07a_02.mp3" from="2:22.192" to="2:23.148" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="someone" symbol="5sQmwQn" explain="pron.某人" sound="nj_07a_02.mp3" from="2:23.649" to="2:24.760" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="puppy" symbol="5pQpi" explain="n.小狗；幼犬" sound="nj_07a_02.mp3" from="2:25.143" to="2:25.863" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="thirsty" symbol="5WE:sti" explain="adj.口渴的" sound="nj_07a_02.mp3" from="2:26.491" to="2:27.521" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="lovely" symbol="5lQvli" explain="adj.可爱的；有吸引力的" sound="nj_07a_02.mp3" from="2:27.877" to="2:28.764" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="as" symbol="Az" explain="prep.作为；当作" sound="nj_07a_02.mp3" from="2:29.497" to="2:30.207" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="prefer" symbol="pri5fE:(r)" explain="v.更喜欢" sound="nj_07a_02.mp3" from="2:30.609" to="2:31.574" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="care" symbol="keE(r)" explain="n.照料；照顾" sound="nj_07a_02.mp3" from="2:32.029" to="2:32.887" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="take care of" symbol="teik keE(r) Cv" explain="照看；照料；照顾" sound="nj_07a_02.mp3" from="2:33.087" to="2:34.441" allWordsNum="3"/>
+			<record rec_id="12" rec_time="3" name="booklet" symbol="5buklEt" explain="n.小册子" sound="nj_07a_02.mp3" from="2:34.883" to="2:35.861" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="special" symbol="5speFl" explain="adj.特殊的；特别的" sound="nj_07a_02.mp3" from="2:36.236" to="2:37.321" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="chew" symbol="tFu:" explain="v.咀嚼" sound="nj_07a_02.mp3" from="2:37.696" to="2:38.634" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="basket" symbol="5bB:skit" explain="n.篮；筐；篓" sound="nj_07a_02.mp3" from="2:38.848" to="2:39.947" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="blanket" symbol="5blANkit" explain="n.毯子" sound="nj_07a_02.mp3" from="2:40.429" to="2:41.822" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="unkind" symbol="7Qn5kaind" explain="adj.不友善的" sound="nj_07a_02.mp3" from="2:42.050" to="2:43.457" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="clinic" symbol="5klinik" explain="n.诊所" sound="nj_07a_02.mp3" from="2:44.140" to="2:45.118" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="vet" symbol="vet" explain="n.兽医" sound="nj_07a_02.mp3" from="2:45.466" to="2:46.243" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="cave" symbol="keiv" explain="n.山洞；洞穴" sound="nj_07a_02.mp3" from="2:46.699" to="2:47.743" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="guard" symbol="gB:d" explain="v.守卫；保卫" sound="nj_07a_02.mp3" from="2:48.011" to="2:48.936" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="blind" symbol="blaind" explain="adj.瞎的；失明的" sound="nj_07a_02.mp3" from="2:49.244" to="2:50.396" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="safely" symbol="5seifli" explain="adv.安全地" sound="nj_07a_02.mp3" from="2:50.586" to="2:51.818" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="police" symbol="pE5li:s" explain="n.警方" sound="nj_07a_02.mp3" from="2:51.966" to="2:53.172" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="thief" symbol="Wi:f" explain="n.窃贼；小偷" sound="nj_07a_02.mp3" from="2:53.212" to="2:54.257" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="missing" symbol="5misiN" explain="adj.失踪的" sound="nj_07a_02.mp3" from="2:54.458" to="2:55.623" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="hunt" symbol="hQnt" explain="v.猎取；猎杀" sound="nj_07a_02.mp3" from="2:55.717" to="2:56.547" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Read" page="12">
+			<record rec_id="0" rec_time="25" sound="nj_07a_02.mp3">
+			<subrecord rec_id="1" rec_time="5" name="Every year, the SPCA saves many animals in Garden City." sound="nj_07a_02.mp3" from="1:27.937" to="1:33.166" allWordsNum="10"/>
+			<subrecord rec_id="2" rec_time="5" name="Sometimes people are unkind to their pets." sound="nj_07a_02.mp3" from="1:33.724" to="1:37.374" allWordsNum="7"/>
+			<subrecord rec_id="3" rec_time="5" name="They do not look after their pets and leave them in the street." sound="nj_07a_02.mp3" from="1:37.692" to="1:41.555" allWordsNum="13"/>
+			<subrecord rec_id="4" rec_time="8" name="SPCA officers save animals from danger and take them to the SPCA." sound="nj_07a_02.mp3" from="1:42.509" to="1:48.560" allWordsNum="12"/>
+		  </record>
+			<record rec_id="1" rec_time="25" sound="nj_07a_02.mp3">
+			<subrecord rec_id="5" rec_time="5" name="The SPCA also helps animals find new homes." sound="nj_07a_02.mp3" from="1:49.685" to="1:53.717" allWordsNum="8"/>
+			<subrecord rec_id="6" rec_time="5" name="If people want a pet, they can go to the SPCA." sound="nj_07a_02.mp3" from="1:54.190" to="1:58.291" allWordsNum="11"/>
+			<subrecord rec_id="7" rec_time="5" name="However, they must promise to take care of their new pet." sound="nj_07a_02.mp3" from="1:58.833" to="2:02.931" allWordsNum="11"/>
+			</record>
+			<record rec_id="2" rec_time="20" sound="nj_07a_02.mp3">
+			<subrecord rec_id="8" rec_time="5" name="There are clinics for sick animals in the SPCA." sound="nj_07a_02.mp3" from="2:04.107" to="2:07.777" allWordsNum="9"/>
+			<subrecord rec_id="9" rec_time="5" name="The vets in the clinics take care of them." sound="nj_07a_02.mp3" from="2:08.205" to="2:11.127" allWordsNum="9"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="Listen and act" page="10">
+			<!--<record rec_id="0" rec_time="5" name="Mr Hu and the children are visiting the SPCA." sound="nj_07a_02.mp3" from="0:14.561" to="0:18.745" allWordsNum="9"/>-->
+			<record rec_id="0" rec_time="12" name="Good morning, children. Welcome to the SPCA. I'm an SPCA officer. Do you know what the SPCA is?" sound="nj_07a_02.mp3" from="0:21.776" to="0:32.000" allWordsNum="18"/>
+			<record rec_id="1" rec_time="5" name="It is the Society for the Prevention of Cruelty to Animals." sound="nj_07a_02.mp3" from="0:32.851" to="0:37.621" allWordsNum="11"/>
+			<record rec_id="2" rec_time="5" name="That's right!" sound="nj_07a_02.mp3" from="0:38.221" to="0:39.653" allWordsNum="2"/>
+			<record rec_id="3" rec_time="14" name="Someone left these puppies and their mother in the street. They had no food or water. They were hungry and thirsty. I found them and took them to the SPCA." sound="nj_07a_02.mp3" from="0:43.525" to="0:55.963" allWordsNum="30"/>
+			<record rec_id="4" rec_time="10" name="Look, children. The puppies are lovely. Would you like to keep one as your pet? Which one do you like best?" sound="nj_07a_02.mp3" from="0:59.370" to="1:08.316" allWordsNum="21"/>
+			<record rec_id="5" rec_time="5" name="I prefer the black one." sound="nj_07a_02.mp3" from="1:08.537" to="1:10.528" allWordsNum="5"/>
+			<record rec_id="6" rec_time="5" name="I prefer the yellow and brown one." sound="nj_07a_02.mp3" from="1:11.061" to="1:14.229" allWordsNum="7"/>
+			<record rec_id="7" rec_time="5" name="I prefer the white one." sound="nj_07a_02.mp3" from="1:14.817" to="1:16.920" allWordsNum="5"/>
+			<exercise type="5" index="0"/>
+		</part>
+    </dialogs>
+</package>
+ 

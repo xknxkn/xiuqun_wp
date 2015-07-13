@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_08b</book_id>
+	<unit_id>nj_08b_03</unit_id>
+	<version>10</version>
+	<unit>unit3</unit>
+	<title>Electricity</title>
+	<words>
+		<part part_index="0" page="49">
+			<record rec_id="0" rec_time="3" name="servant" symbol="5sE:vEnt" explain="n.仆人" sound="nj_08b_03.mp3" from="  7:18.432" to="  7:19.721" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="electricity" symbol="i7lek5trisEti" explain="n.电；电能" sound="nj_08b_03.mp3" from="  7:20.980" to="  7:22.209" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="trick" symbol="trik" explain="v.哄骗  n.诡计；花招" sound="nj_08b_03.mp3" from="  7:23.498" to="  7:24.457" allWordsNum="1"/>
+		  <record rec_id="3" rec_time="3" name="foolish" symbol="5fu:liF" explain="adj.愚蠢的" sound="nj_08b_03.mp3" from="  7:25.296" to="  7:26.555" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="wire" symbol="5waiE" explain="n.金属丝；金属线" sound="nj_08b_03.mp3" from="  7:27.365" to="  7:28.234" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="meter" symbol="5mi:tE(r)" explain="n.计量器；计量表" sound="nj_08b_03.mp3" from="  7:29.343" to="  7:30.302" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="measure" symbol="5meVE(r)" explain="v.测量；度量" sound="nj_08b_03.mp3" from="  7:31.381" to="  7:32.520" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="bill" symbol="bil" explain="n.账单" sound="nj_08b_03.mp3" from="  7:33.479" to="  7:34.319" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="monthly" symbol="5mQnWli" explain="adv.每月一次" sound="nj_08b_03.mp3" from="  7:35.218" to="  7:36.387" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="in a way" symbol="in E wei " explain="在某种程度上" sound="nj_08b_03.mp3" from="  7:37.406" to="  7:38.365" allWordsNum="3"/>
+			<record rec_id="10" rec_time="3" name="explanation" symbol="7eksplE5neiFn" explain="n.解释；说明" sound="nj_08b_03.mp3" from="  7:39.628" to="  7:40.812" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="careful" symbol="5keEfl" explain="adj.小心的；谨慎的" sound="nj_08b_03.mp3" from="  7:42.252" to="  7:43.118" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="(be) careful with" symbol="(bI:) 5keEfl wiT" explain="小心对待；谨慎处理" sound="nj_08b_03.mp3" from="  7:44.456" to="  7:45.514" allWordsNum="3"/>
+			<record rec_id="13" rec_time="4" name="scratch" symbol="skrAtF" explain="v.挠；搔" sound="nj_08b_03.mp3" from="  7:47.119" to="  7:48.164" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="invisible" symbol="in5vizEbl" explain="adj.看不见的；隐形的" sound="nj_08b_03.mp3" from="  7:49.604" to="  7:50.483" allWordsNum="1"/>
+			<record rec_id="15" rec_time="4" name="bulb" symbol="bQlb" explain="n.电灯泡" sound="nj_08b_03.mp3" from="  7:51.693" to="  7:52.292" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="connect to" symbol="kE5nekt tE" explain="（使）连接；联结" sound="nj_08b_03.mp3" from="  7:53.286" to="  7:54.152" allWordsNum="2"/>
+			<record rec_id="17" rec_time="3" name="bury" symbol="5beri" explain="v.埋藏" sound="nj_08b_03.mp3" from="  7:55.464" to="  7:56.241" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="power station" symbol=" 5pauE 5steiFn" explain="发电厂；发电站" sound="nj_08b_03.mp3" from="  7:57.350" to="  7:58.605" allWordsNum="2"/>
+			<record rec_id="19" rec_time="3" name="politely" symbol="pE5laitli" explain="adv.有礼貌地；客气地" sound="nj_08b_03.mp3" from="  7:59.988" to="  8:00.773" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="grin" symbol="grin" explain="n.露齿而笑" sound="nj_08b_03.mp3" from="  8:01.962" to="  8:02.610" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="contain" symbol="kEn5tein" explain="v.包含；含有；容纳" sound="nj_08b_03.mp3" from="  8:03.618" to="  8:04.511" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="clear" symbol="kliE(r)" explain="adj.明白清楚的" sound="nj_08b_03.mp3" from="  8:05.786" to="  8:06.420" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="iron" symbol="5aiEn" explain="n.熨斗" sound="nj_08b_03.mp3" from="  8:07.817" to="  8:08.509" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="switch" symbol="switF" explain="v.开或关（电器）" sound="nj_08b_03.mp3" from="  8:09.628" to="  8:10.481" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="off" symbol="Cf" explain="adv.不连接；不工作" sound="nj_08b_03.mp3" from="  8:11.603" to="  8:12.405" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="switch off" symbol="switF Cf" explain="关（电灯、机器等）" sound="nj_08b_03.mp3" from="  8:13.425" to="  8:14.533" allWordsNum="2"/>
+			<record rec_id="27" rec_time="3" name="lock" symbol="lCk" explain="v.(用锁)锁上" sound="nj_08b_03.mp3" from="  8:15.616" to="  8:16.470" allWordsNum="1"/>
+			<record rec_id="28" rec_time="3" name="test" symbol="test" explain="v.试验" sound="nj_08b_03.mp3" from="  8:17.603" to="  8:18.457" allWordsNum="1"/>
+			<record rec_id="29" rec_time="3" name="encourage" symbol="in5kQridV" explain="v.鼓励" sound="nj_08b_03.mp3" from="  8:19.537" to="  8:20.543" allWordsNum="1"/>
+			<record rec_id="30" rec_time="3" name="behave" symbol="bi5heiv" explain="v.表现" sound="nj_08b_03.mp3" from="  8:21.524" to="  8:22.480" allWordsNum="1"/>
+			<record rec_id="31" rec_time="3" name="polite" symbol="pE5lait" explain="adj.有礼貌的" sound="nj_08b_03.mp3" from="  8:23.486" to="  8:24.225" allWordsNum="1"/>
+			<record rec_id="32" rec_time="3" name="staff" symbol="stB:f" explain="n.全体职工" sound="nj_08b_03.mp3" from="  8:25.372" to="  8:26.315" allWordsNum="1"/>
+			<record rec_id="33" rec_time="3" name="customer" symbol="5kQstEmE(r)" explain="n.顾客" sound="nj_08b_03.mp3" from="  8:27.551" to="  8:28.353" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+<texts>
+		<part part_index="0" name="A dangerous servant" page="33">
+			<record rec_id="0" rec_time="25" sound="nj_08b_03.mp3">
+			<subrecord rec_id="1" rec_time="10" name="One evening, Daisy said, 'I'm going to buy a packet of sweets. Does anyone want anything?'" sound="nj_08b_03.mp3" from="  0:12.243" to="  0:20.222" allWordsNum="16"/>	
+			<subrecord rec_id="2" rec_time="10" name="Benny, Daisy's brother, said, 'Yes. Can you get me a packet of electricity, please?'" sound="nj_08b_03.mp3" from="  0:21.136" to="  0:28.188" allWordsNum="14"/>	
+			</record>
+			<record rec_id="1" rec_time="35" sound="nj_08b_03.mp3">
+			<subrecord rec_id="3" rec_time="10" name="Daisy said,'OK,' and went out. Benny laughed, 'Ha! Ha! I've tricked Daisy at last." sound="nj_08b_03.mp3" from="  0:28.983" to="  0:37.891" allWordsNum="15"/>	
+			<subrecord rec_id="4" rec_time="10" name="She doesn't even know what electricity is." sound="nj_08b_03.mp3" from="  0:37.891" to="  0:40.860" allWordsNum="7"/>	
+			<subrecord rec_id="5" rec_time="7" name="She thinks that she can buy it in packets, like sweets! She'll really look foolish.'" sound="nj_08b_03.mp3" from="  0:41.072" to="  0:47.435" allWordsNum="15"/>	
+			</record>
+			<record rec_id="2" rec_time="60" sound="nj_08b_03.mp3">
+			<subrecord rec_id="6" rec_time="5" name="Mum said, 'Do you know what electricity is?'" sound="nj_08b_03.mp3" from="  0:48.389" to="  0:51.888" allWordsNum="8"/>	
+			<subrecord rec_id="7" rec_time="6" name="Benny said, 'Yes. Electricity flows through a wire." sound="nj_08b_03.mp3" from="  0:52.790" to="  0:57.986" allWordsNum="8"/>	
+			<subrecord rec_id="8" rec_time="6" name="A meter measures the amount you use, and you get a bill for it monthly." sound="nj_08b_03.mp3" from="  0:58.251" to="  1:02.811" allWordsNum="15"/>	
+			<subrecord rec_id="9" rec_time="5" name="It's like water, in a way.'" sound="nj_08b_03.mp3" from="  1:03.129" to="  1:05.674" allWordsNum="6"/>	
+			</record>
+			<record rec_id="3" rec_time="60" sound="nj_08b_03.mp3">
+			<subrecord rec_id="10" rec_time="10" name="'That's not a bad explanation,' said Dad, 'although electricity is much more dangerous than water. " sound="nj_08b_03.mp3" from="  1:06.787" to="  1:13.945" allWordsNum="15"/>	
+			<subrecord rec_id="11" rec_time="5" name="Electricity is a good servant, but a dangerous one." sound="nj_08b_03.mp3" from="  1:14.529" to="  1:18.717" allWordsNum="9"/>	
+			<subrecord rec_id="12" rec_time="3" name="You must always be careful with it." sound="nj_08b_03.mp3" from="  1:19.142" to="  1:21.050" allWordsNum="7"/>	
+			<subrecord rec_id="13" rec_time="5" name="Can you tell me what it looks like?" sound="nj_08b_03.mp3" from="  1:22.005" to="  1:24.338" allWordsNum="8"/>	
+			<subrecord rec_id="14" rec_time="5" name="Benny scratched his head." sound="nj_08b_03.mp3" from="  1:24.974" to="  1:26.989" allWordsNum="4"/>	
+			</record>
+			<record rec_id="4" rec_time="60" sound="nj_08b_03.mp3">
+			<subrecord rec_id="15" rec_time="5" name="Dad said, 'Nobody's ever seen electricity." sound="nj_08b_03.mp3" from="  1:27.784" to="  1:32.397" allWordsNum="6"/>	
+			<subrecord rec_id="16" rec_time="10" name=" It's invisible. But we can change it into different forms of energy that we can see, hear of feel." sound="nj_08b_03.mp3" from="  1:32.609" to="  1:40.615" allWordsNum="19"/>	
+			<subrecord rec_id="17" rec_time="5" name=" Can you think of an example?'" sound="nj_08b_03.mp3" from="  1:41.517" to="  1:43.585" allWordsNum="6"/>	
+			<subrecord rec_id="18" rec_time="5" name="Benny said, 'Light! The light in a light bulb.'" sound="nj_08b_03.mp3" from="  1:44.751" to="  1:49.099" allWordsNum="9"/>	
+			<subrecord rec_id="19" rec_time="8" name="Mum said, 'That's right. Do you know where electricity comes from?'" sound="nj_08b_03.mp3" from="  1:50.159" to="  1:55.408" allWordsNum="11"/>	
+			</record>
+			<record rec_id="5" rec_time="60" sound="nj_08b_03.mp3">
+			<subrecord rec_id="20" rec_time="10" name="Benny said, 'Well, it comes into our flat through thin wires, and these are connected to thick wires that are buried under the street.'" sound="nj_08b_03.mp3" from="  1:56.416" to="  2:06.172" allWordsNum="24"/>	
+			<subrecord rec_id="21" rec_time="10" name="'We call the thick wires cables,' said Dad. 'What are they connected to?'" sound="nj_08b_03.mp3" from="  2:06.755" to="  2:13.595" allWordsNum="13"/>	
+			<subrecord rec_id="22" rec_time="5" name="'A power station.' said Benny." sound="nj_08b_03.mp3" from="  2:14.019" to="  2:17.837" allWordsNum="5"/>	
+			<subrecord rec_id="23" rec_time="12" name="Daisy then came back. Benny asked politely, 'May I have my packet of electricity, please?' There was a grin on his face." sound="nj_08b_03.mp3" from="  2:18.950" to="  2:29.501" allWordsNum="22"/>	
+			<subrecord rec_id="24" rec_time="5" name="'Yes, you may.' said Daisy." sound="nj_08b_03.mp3" from="  2:29.979" to="  2:33.266" allWordsNum="5"/>	
+			<subrecord rec_id="25" rec_time="5" name="'Here it is.' Benny said." sound="nj_08b_03.mp3" from="  2:33.160" to="  2:36.659" allWordsNum="5"/>	
+			<subrecord rec_id="26" rec_time="5" name="'But these are batteries!' Daisy said, " sound="nj_08b_03.mp3" from="  2:36.712" to="  2:40.795" allWordsNum="6"/>	
+			</record>
+			<record rec_id="6" rec_time="25" sound="nj_08b_03.mp3">
+			<subrecord rec_id="27" rec_time="3" name="'That's right.'" sound="nj_08b_03.mp3" from="  2:40.954" to="  2:42.227" allWordsNum="2"/>	
+			<subrecord rec_id="28" rec_time="5" name="'But ... but ...,' said Benny." sound="nj_08b_03.mp3" from="  2:42.916" to="  2:47.900" allWordsNum="4"/>	
+			</record>
+			<record rec_id="7" rec_time="60" sound="nj_08b_03.mp3">
+			<subrecord rec_id="29" rec_time="6" name="'Daisy's right,' said Dad. 'They're packets that contain electricity." sound="nj_08b_03.mp3" from="  2:48.271" to="  2:54.422" allWordsNum="9"/>	
+			<subrecord rec_id="30" rec_time="5" name="The chemicals  inside produce electricity.'" sound="nj_08b_03.mp3" from="  2:54.475" to="  2:58.027" allWordsNum="5"/>	
+			<subrecord rec_id="31" rec_time="5" name="Daisy asked, 'Didn't you know that, Benny?'" sound="nj_08b_03.mp3" from="  2:58.663" to="  3:02.958" allWordsNum="7"/>	
+			<subrecord rec_id="32" rec_time="5" name="Mum said, 'Who's looking foolish now, Benny?'" sound="nj_08b_03.mp3" from="  3:03.594" to="  3:07.783" allWordsNum="7"/>	
+			</record>
+			<exercise type="4" index="0"/>
+			</part>
+		<part part_index="1" name="Electricity works everywhere" page="46">
+			<record rec_id="0" rec_time="60" sound="nj_08b_03.mp3">
+			<subrecord rec_id="1" rec_time="5" name="Almost everyone today uses electricity in one way or another." sound="nj_08b_03.mp3" from="  6:07.792" to="  6:12.723" allWordsNum="10"/>	
+			<subrecord rec_id="2" rec_time="5" name="It is hard to imagine what life in our cities would be like without it." sound="nj_08b_03.mp3" from="  6:12.988" to="  6:18.025" allWordsNum="15"/>	
+			<subrecord rec_id="3" rec_time="7" name="Electricity lights streets and buildings, and warms people and animals." sound="nj_08b_03.mp3" from="  6:18.502" to="  6:24.865" allWordsNum="10"/>	
+			<subrecord rec_id="4" rec_time="7" name="It heats food in cookers and cools it in refrigerators." sound="nj_08b_03.mp3" from="  6:25.289" to="  6:30.644" allWordsNum="10"/>	
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_08b_03.mp3">
+			<subrecord rec_id="5" rec_time="5" name="It drives trains and works traffic lights and lifts." sound="nj_08b_03.mp3" from="  6:31.493" to="  6:36.053" allWordsNum="9"/>	
+			<subrecord rec_id="6" rec_time="5" name="It also works the machines in factories that make all kinds of goods." sound="nj_08b_03.mp3" from="  6:36.636" to="  6:42.044" allWordsNum="13"/>	
+			<subrecord rec_id="7" rec_time="12" name="Everyday wonders such as computers and televisions use electricity to bring entertainment and news to millions of families." sound="nj_08b_03.mp3" from="  6:42.786" to="  6:52.808" allWordsNum="18"/>	
+			<subrecord rec_id="8" rec_time="6" name="In villages and on farms, electrical machines milk the cows and chop their food." sound="nj_08b_03.mp3" from="  6:54.133" to="  7:00.920" allWordsNum="14"/>	
+			</record>
+			<record rec_id="2" rec_time="25" sound="nj_08b_03.mp3">
+			<subrecord rec_id="9" rec_time="5" name="They also cool the milk and churn the butter." sound="nj_08b_03.mp3" from="  7:01.556" to="  7:05.215" allWordsNum="9"/>	
+			<subrecord rec_id="10" rec_time="8" name="Indeed, electricity finds as much work to do in the countryside as it does in the cities." sound="nj_08b_03.mp3" from="  7:06.010" to="  7:13.168" allWordsNum="17"/>	
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="2" name="GravityLight" page="0" source="2">
+			<record rec_id="0" rec_time="6" sound="8B Unit 3.mp3">
+				<subrecord rec_id="1" rec_time="6" name="Do you want a lamp for $5 that does not require any electrical power source? " sound="8B Unit 3.mp3" from="  0:05.073" to="  0:10.737" allWordsNum="15"/>
+			</record>
+			<record rec_id="1" rec_time="8" sound="8B Unit 3.mp3">
+				<subrecord rec_id="2" rec_time="8" name="It may sound like an impossible dream, but two designers in London have come up with a new light powered by gravity. " sound="8B Unit 3.mp3" from="  0:12.217" to="  0:20.123" allWordsNum="22"/>
+			</record>
+			<record rec_id="2" rec_time="23" sound="8B Unit 3.mp3">
+				<subrecord rec_id="3" rec_time="4" name="It's easy to take our electric lights for granted. " sound="8B Unit 3.mp3" from="  0:21.518" to="  0:24.646" allWordsNum="9"/>
+				<subrecord rec_id="4" rec_time="8" name="Many people in developing counties don't have the luxury of electric lights and have to use kerosene lamps to brighten the night. " sound="8B Unit 3.mp3" from="  0:25.069" to="  0:32.678" allWordsNum="22"/>
+				<subrecord rec_id="5" rec_time="5" name="Kerosene costs money and breathing the smoke is dangerous to our health. " sound="8B Unit 3.mp3" from="  0:33.144" to="  0:37.752" allWordsNum="12"/>
+				<subrecord rec_id="6" rec_time="6" name="A new light powered by gravity could be a better solution to lighting needs. " sound="8B Unit 3.mp3" from="  0:38.090" to="  0:43.205" allWordsNum="14"/>
+			</record>
+			<record rec_id="3" rec_time="20" sound="8B Unit 3.mp3">
+				<subrecord rec_id="7" rec_time="5" name="The GravityLight doesn't need to be recharged through solar cells. " sound="8B Unit 3.mp3" from="  0:44.642" to="  0:48.870" allWordsNum="10"/>
+				<subrecord rec_id="8" rec_time="3" name="It doesn't use batteries at all. " sound="8B Unit 3.mp3" from="  0:49.293" to="  0:51.576" allWordsNum="6"/>
+				<subrecord rec_id="9" rec_time="5" name="It's powered by the same force that keeps our feet on the ground. " sound="8B Unit 3.mp3" from="  0:51.998" to="  0:56.310" allWordsNum="13"/>
+				<subrecord rec_id="10" rec_time="7" name="A weight attached to the light takes three seconds to lift up, but lasts 30 minutes of light. " sound="8B Unit 3.mp3" from="  0:56.691" to="  1:03.201" allWordsNum="18"/>
+			</record>
+			<record rec_id="4" rec_time="24" sound="8B Unit 3.mp3">
+				<subrecord rec_id="11" rec_time="11" name="The GravityLight may be used as an emergency light or camping light in the developed world, but its impact on the lives of people in developing countries could be great. " sound="8B Unit 3.mp3" from="  1:04.769" to="  1:15.761" allWordsNum="30"/>
+				<subrecord rec_id="12" rec_time="6" name="It's healthier and cheaper than kerosene, and less expensive than solar. " sound="8B Unit 3.mp3" from="  1:16.057" to="  1:21.341" allWordsNum="11"/>
+				<subrecord rec_id="13" rec_time="7" name="What's more, the GravityLight requires only a bag of rocks or sand to provide weight! " sound="8B Unit 3.mp3" from="  1:21.806" to="  1:28.105" allWordsNum="15"/>
+			</record>
+			<exercise type="4" index="0"/>
+			</part>
+			<part part_index="3" name="GravityLight" page="0" source="2">
+      	<article allWordsNum="197">
+            	<![CDATA[
+Do you want a lamp for $5 that does not require any electrical power source?
+It may sound like an impossible dream, but two designers in London have come up with a new light powered by gravity (重力).
+It's easy to take our electric lights for granted. Many people in developing counties don't have the luxury of electric lights and have to use kerosene lamps (煤油灯) to brighten the night. Kerosene costs money and breathing the smoke is dangerous to our health. A new light powered by gravity could be a better solution to lighting needs.
+The GravityLight doesn't need to be recharged through solar cells (太阳能蓄电池). It doesn't use batteries at all. It's powered by the same force that keeps our feet on the ground. A weight attached to the light takes three seconds to lift up, but lasts 30 minutes of light.
+The GravityLight may be used as an emergency light or camping light in the developed world, but its impact on the lives of people in developing countries could be great. It's healthier and cheaper than kerosene, and less expensive than solar. What's more, the GravityLight requires only a bag of rocks or sand to provide weight!
+   	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="0" name="Choose the best answer. " qtype="1" >
+					<question rec_id="0" choice="D">
+						<![CDATA[The new lamp created by two London designers is powered by ____.]]>
+						<choice item="A" name="sunshine"/>
+						<choice item="B" name="wind"/>
+						<choice item="C" name="water"/>
+						<choice item="D" name="gravity"/>
+					</question>
+					<question rec_id="1" choice="A">
+						<![CDATA[Kerosene lamps are not good for us to use, because they _____.]]>
+						<choice item="A" name="give off harmful smoke"/>
+						<choice item="B" name="are powered by electricity"/>
+						<choice item="C" name="are not easy to carry"/>
+						<choice item="D" name="are too bright"/>
+					</question>
+					<question rec_id="2" choice="C">
+						<![CDATA[What are the advantages of the GravityLight?
+     ① It is environment-friendly.   ② It is lighter and cheaper.    
+     ③ It doesn't give out bad smoke.  ④ It doesn't give out bad smoke.]]>
+						<choice item="A" name="①②③"/>
+						<choice item="B" name="②③④"/>
+						<choice item="C" name="①③④"/>
+						<choice item="D" name="②③④"/>
+					</question>
+					<question rec_id="3" choice="D">
+						<![CDATA[Which one of the following statements is true?]]>
+						<choice item="A" name="The GravityLight is still impossible for people to get."/>
+						<choice item="B" name="All the people in developing countries can't get electric lights."/>
+						<choice item="C" name="The GravityLight needs to be charged by solar cells."/>
+						<choice item="D" name="The GravityLight requires only a bag of rocks to get light."/>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+</package>
+ 

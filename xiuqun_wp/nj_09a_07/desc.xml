@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_09a</book_id>
+	<unit_id>nj_09a_07</unit_id>
+	<version>6</version>
+	<unit>unit7</unit>
+	<title>Escaping from kidnapers</title>
+	<words>
+		<part part_index="0" page="123">
+			<record rec_id="0" rec_time="3" name="affect" symbol="E5fekt" explain="v.影响" sound="nj_09a_07.mp3" from=" 10:33.870" to=" 10:35.277" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="comic strip" symbol="5kCmik strip" explain="n.连环漫画" sound="nj_09a_07.mp3" from=" 10:36.641" to=" 10:37.962" allWordsNum="2"/>
+			<record rec_id="2" rec_time="3" name="robbery" symbol="5rCbEri" explain="n.盗窃；抢劫；掠夺" sound="nj_09a_07.mp3" from=" 10:39.113" to=" 10:40.349" allWordsNum="1"/>
+			<record rec_id="3" rec_time="3" name="kidnap" symbol="5kidnAp" explain="n.劫持；绑架" sound="nj_09a_07.mp3" from=" 10:41.372" to=" 10:42.608" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="plot" symbol="plCt" explain="n.故事情节；布局" sound="nj_09a_07.mp3" from=" 10:43.631" to=" 10:44.910" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="personality" symbol="7pX:sE5nAlEti" explain="n.性格；个性" sound="nj_09a_07.mp3" from=" 10:45.720" to=" 10:47.468" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="script" symbol="skript" explain="n.剧本" sound="nj_09a_07.mp3" from=" 10:48.789" to=" 10:50.068" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="border" symbol="5bR:dE(r)" explain="n.镶边；边界" sound="nj_09a_07.mp3" from=" 10:51.006" to=" 10:52.370" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="variety" symbol="vE5raiEti" explain="n.变化；多样化" sound="nj_09a_07.mp3" from=" 10:53.307" to=" 10:54.671" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="mainly" symbol="5meinli" explain="adv.主要地；总体上；大致" sound="nj_09a_07.mp3" from=" 10:55.865" to=" 10:57.016" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="bubble" symbol="5bQbl" explain="n.泡；气泡" sound="nj_09a_07.mp3" from=" 10:58.124" to=" 10:59.360" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="speech" symbol="spi:tF" explain="n.讲话；演说；发言" sound="nj_09a_07.mp3" from=" 11:00.511" to=" 11:01.875" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="thought" symbol="WR:t" explain="n.思想；想法" sound="nj_09a_07.mp3" from=" 11:02.770" to=" 11:04.007" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="text" symbol="tekst" explain="n.正文；文本" sound="nj_09a_07.mp3" from=" 11:05.072" to=" 11:06.436" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="effect" symbol="i5fekt" explain="n.效果" sound="nj_09a_07.mp3" from=" 11:07.331" to=" 11:08.568" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="excitement" symbol="ik5saitmEnt" explain="n.激动；兴奋；刺激" sound="nj_09a_07.mp3" from=" 11:09.676" to=" 11:10.912" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="vary" symbol="5vZEri" explain="v.改变" sound="nj_09a_07.mp3" from=" 11:12.148" to=" 11:13.384" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="scenery" symbol="5si:nEri" explain="n.布景" sound="nj_09a_07.mp3" from=" 11:14.493" to=" 11:15.729" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="come to life" symbol="kQm tu laif" explain="变的更生动" sound="nj_09a_07.mp3" from=" 11:17.093" to=" 11:18.627" allWordsNum="3"/>
+			<record rec_id="19" rec_time="3" name="serious" symbol="5siEriEs" explain="adj.严肃的；稳重的" sound="nj_09a_07.mp3" from=" 11:19.863" to=" 11:21.100" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="row" symbol="rEu" explain="n.一排；一列；一行" sound="nj_09a_07.mp3" from=" 11:22.762" to=" 11:24.254" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="point" symbol="pCint" explain="n.时刻；关头" sound="nj_09a_07.mp3" from=" 11:25.149" to=" 11:26.513" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="emotion" symbol="i5mEuFn" explain="n.情感；情绪" sound="nj_09a_07.mp3" from=" 11:27.579" to=" 11:28.900" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="stress" symbol="stres" explain="n. 重音；重读" sound="nj_09a_07.mp3" from=" 11:30.006" to=" 11:31.498" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="recently" symbol="5ri:sntli" explain="adv.不久前；最近" sound="nj_09a_07.mp3" from=" 11:32.649" to=" 11:34.056" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="confident" symbol="5kCnfidEnt" explain="adj.自信的" sound="nj_09a_07.mp3" from=" 11:35.335" to=" 11:36.528" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="burst" symbol="bE:st" explain="v.突然出现" sound="nj_09a_07.mp3" from=" 11:37.807" to=" 11:39.001" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="burst out (doing)" symbol="bE:st aut （du:iN）" explain="突然开始（做某事）" sound="nj_09a_07.mp3" from=" 11:40.066" to=" 11:42.411" allWordsNum="3"/>
+			<record rec_id="28" rec_time="3" name="pale" symbol="peil" explain="adj.苍白的" sound="nj_09a_07.mp3" from=" 11:44.158" to=" 11:45.608" allWordsNum="1"/>
+			<record rec_id="29" rec_time="3" name="forecast" symbol="5fR:kB:st" explain="n.预报；预测" sound="nj_09a_07.mp3" from=" 11:46.673" to=" 11:47.995" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<sentences>
+		<part part_index="0" name="Speaking" page="117">
+			<record rec_id="0" rec_time="8" name="Oh no! I'm afraid of spiders!" sound="nj_09a_07.mp3" from="  6:30.786" to="  6:36.175" allWordsNum="6"/>
+			<record rec_id="1" rec_time="8" name="I'm well prepared. I can win the match!" sound="nj_09a_07.mp3" from="  6:36.458" to="  6:41.185" allWordsNum="8"/>
+			<record rec_id="2" rec_time="12" name="Jim has been very ill recently. I hope he will feel better soon. " sound="nj_09a_07.mp3" from="  6:41.973" to="  6:48.226" allWordsNum="13"/>
+			<exercise type="3" index="0"/>
+		</part>
+	</sentences>
+	<texts>
+		<part part_index="0" name="Comic strips" page="108">
+			<record rec_id="0" rec_time="60" sound="nj_09a_07.mp3">
+			    <subrecord rec_id="1" rec_time="5" name="Creating a comic strip " sound="nj_09a_07.mp3" from="0:32.222" to="0:34.366" allWordsNum="4"/>
+				<subrecord rec_id="2" rec_time="10" name="A robbery ... an escape from the zoo ... an exciting and dangerous journey ... a kidnap!" sound="nj_09a_07.mp3" from="  0:34.938" to="0:43.383" allWordsNum="14"/>
+				<subrecord rec_id="3" rec_time="10" name="The first thing to do when creating a comic strip is to think of a plot. " sound="nj_09a_07.mp3" from="  0:44.088" to="  0:49.111" allWordsNum="16"/>
+				<subrecord rec_id="4" rec_time="6" name="It needs to be funny or dramatic with an exciting finish. " sound="nj_09a_07.mp3" from="  0:49.271" to="  0:53.209" allWordsNum="11"/>
+				<subrecord rec_id="5" rec_time="6" name="It should be full of action to keep the reader interested. " sound="nj_09a_07.mp3" from="  0:53.328" to="  0:56.985" allWordsNum="11"/>
+	    	<subrecord rec_id="6" rec_time="10" name="The story needs to move fast, and something new must happen in each picture. " sound="nj_09a_07.mp3" from="  0:57.235" to="  1:03.073" allWordsNum="14"/>
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_09a_07.mp3">
+			  <subrecord rec_id="7" rec_time="8" name="The characters need strong personalities which will be understood in the pictures. " sound="nj_09a_07.mp3" from="  1:03.323" to="  1:07.980" allWordsNum="12"/>
+				<subrecord rec_id="8" rec_time="10" name="You can tell what the characters above are like just from looking at them. " sound="nj_09a_07.mp3" from="  1:03.323" to="  1:13.750" allWordsNum="14"/>
+			</record>
+			<record rec_id="2" rec_time="60" sound="nj_09a_07.mp3">
+			<subrecord rec_id="9" rec_time="4" name="Drawing the strip " sound="nj_09a_07.mp3" from="1:14.701" to="1:15.958" allWordsNum="3"/>
+				<subrecord rec_id="10" rec_time="14" name="Here you can see how the script was made into a finished comic strip (you can only see the first part). " sound="nj_09a_07.mp3" from="1:17.152" to="1:24.003" allWordsNum="21"/>
+			  <subrecord rec_id="11" rec_time="14" name="Those stupid kidnappers can't tie knots. I've been lucky. " sound="nj_09a_07.mp3" from="1:30.015" to=" 1:37.420" allWordsNum="9"/>
+				<subrecord rec_id="12" rec_time="8" name="Why do we always get the boring jobs?" sound="nj_09a_07.mp3" from="  1:38.988" to="  1:43.781" allWordsNum="8"/>
+				<subrecord rec_id="13" rec_time="5" name="Shut up and listen!" sound="nj_09a_07.mp3" from="1:43.849" to="1:46.280" allWordsNum="4"/>
+				<subrecord rec_id="14" rec_time="15" name="Police are still searching for the kidnappers of Terry Test-tube, son of Professor Test-tube ,the famous scientist. " sound="nj_09a_07.mp3" from="1:46.610" to="1:58.366" allWordsNum="17"/>
+				</record>
+			<record rec_id="3" rec_time="60" sound="nj_09a_07.mp3">
+				<subrecord rec_id="15" rec_time="26" name="Today the professor made an appeal saying that he would give the kidnappers his new wonder invention if they would return his son. " sound="nj_09a_07.mp3" from="  1:58.569" to="  2:12.040" allWordsNum="23"/>
+				<subrecord rec_id="16" rec_time="6" name="This will fool those two idiots!" sound="nj_09a_07.mp3" from="  2:12.403" to="  2:16.265" allWordsNum="6"/>
+				<subrecord rec_id="17" rec_time="5" name="This is my only chance. " sound="nj_09a_07.mp3" from="  2:18.991" to="  2:21.944" allWordsNum="5"/>
+				<subrecord rec_id="18" rec_time="8" name="Meanwhile, back at police headquarters. " sound="nj_09a_07.mp3" from="  2:24.261" to="  2:28.691" allWordsNum="5"/>
+			</record>
+			<record rec_id="4" rec_time="60" sound="nj_09a_07.mp3">
+				<subrecord rec_id="19" rec_time="16" name="Chief? We've got some news. The helicopter is searching Green Island ... " sound="nj_09a_07.mp3" from="  2:35.300" to="  2:43.578" allWordsNum="11"/>
+				<subrecord rec_id="20" rec_time="10" name="Some frames can be left without borders to add variety. " sound="nj_09a_07.mp3" from="  2:53.624" to="  2:59.289" allWordsNum="10"/>
+				<subrecord rec_id="21" rec_time="16" name="The story is mainly told in the pictures, but there are bubbles for speech and thoughts. " sound="nj_09a_07.mp3" from="  2:59.691" to="  3:08.049" allWordsNum="16"/>
+				<subrecord rec_id="22" rec_time="14" name="A line of text at the top can explain changes of scene or time. " sound="nj_09a_07.mp3" from="  3:08.572" to="  3:15.925" allWordsNum="14"/>
+			</record>
+			<record rec_id="5" rec_time="60" sound="nj_09a_07.mp3">
+				<subrecord rec_id="23" rec_time="10" name="Sound effects add excitement to the pictures. " sound="nj_09a_07.mp3" from="  3:16.207" to="  3:21.310" allWordsNum="7"/>
+				<subrecord rec_id="24" rec_time="12" name="Frame sizes are varied to make the strip more interesting. " sound="nj_09a_07.mp3" from="  3:21.712" to="  3:28.020" allWordsNum="10"/>
+				<subrecord rec_id="25" rec_time="10" name="Scenery can make the strip come to life. " sound="nj_09a_07.mp3" from=" 3:28.975" to="3:32.190" allWordsNum="8"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="1" name="The idea" page="120">
+			<record rec_id="0" rec_time="60" sound="nj_09a_07.mp3">
+				<subrecord rec_id="1" rec_time="8" name="To begin with, some basic ideas for a story are necessary. " sound="nj_09a_07.mp3" from="  7:37.564" to="  7:42.506" allWordsNum="11"/>
+				<subrecord rec_id="2" rec_time="6" name="For example, a plot needs to be thought of. " sound="nj_09a_07.mp3" from="  7:42.466" to="  7:45.761" allWordsNum="9"/>
+				<subrecord rec_id="3" rec_time="6" name="That is, the sequence of events in a story. " sound="nj_09a_07.mp3" from="  7:45.802" to="  7:49.217" allWordsNum="9"/>
+				<subrecord rec_id="4" rec_time="6" name="The characters and settings are important too. " sound="nj_09a_07.mp3" from="  7:49.378" to="  7:52.513" allWordsNum="7"/>
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_09a_07.mp3">
+				<subrecord rec_id="5" rec_time="8" name="This story is about a robot, Han. " sound="nj_09a_07.mp3" from="  7:53.397" to="  7:57.616" allWordsNum="7"/>
+				<subrecord rec_id="6" rec_time="8" name="He works at a hotel in the city centre, but he has a problem. " sound="nj_09a_07.mp3" from="  7:57.616" to="  8:01.836" allWordsNum="14"/>
+				<subrecord rec_id="7" rec_time="5" name="He always forgets things. " sound="nj_09a_07.mp3" from="  8:01.956" to="  8:04.166" allWordsNum="4"/>
+				<subrecord rec_id="8" rec_time="8" name="One day,Han meets his friends, Fanny and Tim, at the pier. " sound="nj_09a_07.mp3" from="  8:04.408" to="  8:09.310" allWordsNum="12"/>
+				<subrecord rec_id="9" rec_time="6" name="They are waiting for the ferry going to Lucky Island. " sound="nj_09a_07.mp3" from="  8:09.350" to="  8:12.967" allWordsNum="10"/>
+			</record>
+			<record rec_id="2" rec_time="60" sound="nj_09a_07.mp3">
+				<subrecord rec_id="10" rec_time="5" name="Han says, 'I'm happy. " sound="nj_09a_07.mp3" from="  8:12.967" to="  8:15.981" allWordsNum="4"/>
+				<subrecord rec_id="11" rec_time="3" name="I bought a Palm Pilot. " sound="nj_09a_07.mp3" from="  8:15.820" to="  8:17.789" allWordsNum="5"/>
+				<subrecord rec_id="12" rec_time="3" name="It's useful to have. " sound="nj_09a_07.mp3" from="  8:17.870" to="  8:19.517" allWordsNum="4"/>
+				<subrecord rec_id="13" rec_time="3" name="You won't forget things.'" sound="nj_09a_07.mp3" from="  8:19.557" to="  8:21.406" allWordsNum="4"/>
+				<subrecord rec_id="14" rec_time="8" name="Fanny says, 'Yes, Palm Pilots are useful. " sound="nj_09a_07.mp3" from="  8:21.888" to="  8:26.148" allWordsNum="7"/>
+				<subrecord rec_id="15" rec_time="3" name="Here's mine.'" sound="nj_09a_07.mp3" from="  8:26.148" to="  8:27.594" allWordsNum="2"/>
+				<subrecord rec_id="16" rec_time="5" name="Tim says,'Where's yours?'" sound="nj_09a_07.mp3" from="  8:27.795" to="  8:31.050" allWordsNum="4"/>
+				<subrecord rec_id="17" rec_time="6" name="Han says, 'Oh no! I forgot to bring it!'" sound="nj_09a_07.mp3" from="  8:31.211" to="  8:35.672" allWordsNum="9"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="2" name="The characters" page="120">
+			<record rec_id="0" rec_time="60" sound="nj_09a_07.mp3">
+				<subrecord rec_id="1" rec_time="10" name="In the second stage, the type of characters and their sounds are decided. " sound="nj_09a_07.mp3" from="  8:38.887" to="  8:44.392" allWordsNum="13"/>
+				<subrecord rec_id="2" rec_time="6" name="Han is a very tall and large robot. " sound="nj_09a_07.mp3" from="  8:44.432" to="  8:48.370" allWordsNum="8"/>
+				<subrecord rec_id="3" rec_time="6" name="He sounds funny because his voice comes from a computer. " sound="nj_09a_07.mp3" from="  8:48.410" to="  8:51.907" allWordsNum="10"/>
+				<subrecord rec_id="4" rec_time="10" name="He has square eyes, not round ones, because they are actually video cameras. " sound="nj_09a_07.mp3" from="  8:51.947" to="  8:57.412" allWordsNum="13"/>
+			</record>
+			<record rec_id="1" rec_time="25" sound="nj_09a_07.mp3">
+				<subrecord rec_id="5" rec_time="5" name="Tim is a thin, happy boy. " sound="nj_09a_07.mp3" from="  8:58.055" to="  9:00.908" allWordsNum="6"/>
+				<subrecord rec_id="6" rec_time="5" name="He wears glasses, so he looks clever. " sound="nj_09a_07.mp3" from="  9:00.908" to="  9:03.641" allWordsNum="7"/>
+				<subrecord rec_id="7" rec_time="6" name="It's important to make him look funny but nice. " sound="nj_09a_07.mp3" from="  9:03.721" to="  9:07.257" allWordsNum="9"/>
+			</record>
+			<record rec_id="2" rec_time="60" sound="nj_09a_07.mp3">
+				<subrecord rec_id="8" rec_time="6" name="Fanny is a tall, pleasant girl, with a cheerful face. " sound="nj_09a_07.mp3" from="  9:08.624" to="  9:11.791" allWordsNum="10"/>
+				<subrecord rec_id="9" rec_time="5" name="She has long, straight, black hair. " sound="nj_09a_07.mp3" from="  9:12.575" to="  9:14.745" allWordsNum="6"/>
+				<subrecord rec_id="10" rec_time="10" name="She thinks that robots are fun to talk to, so she smiles a lot when she talks to Han. " sound="nj_09a_07.mp3" from="  9:15.336" to="  9:21.026" allWordsNum="19"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="3" name="The storyboard" page="120">
+			<record rec_id="0" rec_time="25" sound="nj_09a_07.mp3">
+				<subrecord rec_id="1" rec_time="6" name="Now, a rough sketch of the story is made in black and white. " sound="nj_09a_07.mp3" from="  9:24.397" to="  9:28.355" allWordsNum="13"/>
+				<subrecord rec_id="2" rec_time="6" name="At this stage, the animated cartoon is like a comic strip. " sound="nj_09a_07.mp3" from="  9:29.235" to="  9:32.991" allWordsNum="11"/>
+				<subrecord rec_id="8" rec_time="8" name="Words are added to thought or speech bubbles and captions are inserted. " sound="nj_09a_07.mp3" from="  9:33.909" to="  9:38.515" allWordsNum="12"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="4" name="Sound recording" page="120">
+			<record rec_id="0" rec_time="25" sound="nj_09a_07.mp3">
+				<subrecord rec_id="1" rec_time="8" name="Next, the voices and sounds in your animated cartoon are recorded. " sound="nj_09a_07.mp3" from="  9:42.650" to="  9:46.989" allWordsNum="11"/>
+				<subrecord rec_id="2" rec_time="10" name="for example, Han, Fanny and Tim talking, and the noise of the ferry. " sound="nj_09a_07.mp3" from="  9:47.283" to="  9:53.115" allWordsNum="13"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="5" name="Making detailed drawings" page="120">
+			<record rec_id="0" rec_time="25" sound="nj_09a_07.mp3">
+				<subrecord rec_id="1" rec_time="8" name="Now, detailed drawings are made and colour is added. " sound="nj_09a_07.mp3" from="  9:57.496" to=" 10:01.847" allWordsNum="9"/>
+				<subrecord rec_id="2" rec_time="6" name="Then different camera angles are set for each drawing. " sound="nj_09a_07.mp3" from=" 10:02.058" to=" 10:05.714" allWordsNum="9"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="6" name="Computerized camera photographs" page="120">
+			<record rec_id="0" rec_time="60" sound="nj_09a_07.mp3">
+				<subrecord rec_id="1" rec_time="12" name="Finally, each frame (drawing) is photographed separately. " sound="nj_09a_07.mp3" from=" 10:11.092" to=" 10:17.135" allWordsNum="7"/>
+				<subrecord rec_id="2" rec_time="6" name="For this, a computerized camera is used. " sound="nj_09a_07.mp3" from=" 10:17.286" to=" 10:20.912" allWordsNum="7"/>
+				<subrecord rec_id="3" rec_time="12" name="An animated cartoon is made when the photographed frames are put together and played very fast. " sound="nj_09a_07.mp3" from=" 10:21.033" to=" 10:27.710" allWordsNum="16"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+	</texts>
+</package>
+ 

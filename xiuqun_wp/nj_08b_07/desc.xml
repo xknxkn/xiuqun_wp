@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_08b</book_id>
+	<unit_id>nj_08b_07</unit_id>
+	<version>7</version>
+	<unit>unit7</unit>
+	<title>Poems</title>
+	<words>
+		<part part_index="0" page="125">
+			<record rec_id="0" rec_time="3" name="at work" symbol="At wE:k" explain="在工作" sound="nj_08b_07.mp3" from="  5:13.277" to=" 5:14.161" allWordsNum="2"/>
+			<record rec_id="1" rec_time="3" name="site" symbol="sait" explain="n.建筑工地" sound="nj_08b_07.mp3" from=" 5:15.265" to="  5:16.005" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="crane" symbol="krein" explain="n.起重机；吊车；鹤" sound="nj_08b_07.mp3" from="  5:17.240" to="  5:18.100" allWordsNum="1"/>
+		  <record rec_id="3" rec_time="3" name="narrow" symbol="5nArEu" explain="adj.狭窄的" sound="nj_08b_07.mp3" from="  5:19.184" to="  5:19.968" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="plank" symbol="plANk" explain="n.板条" sound="nj_08b_07.mp3" from="  5:21.229" to="  5:22.050" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="scared" symbol="skZEd" explain="adj.害怕；恐惧" sound="nj_08b_07.mp3" from="  5:23.097" to="  5:23.988" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="verse" symbol="vE:s" explain="n.诗节" sound="nj_08b_07.mp3" from="  5:25.230" to="  5:26.239" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="on one's own" symbol="Cn wQns Eun" explain="独立地" sound="nj_08b_07.mp3" from="  5:27.399" to="  5:28.585" allWordsNum="3"/>
+			<record rec_id="8" rec_time="3" name="pleased" symbol="plI:zd" explain="adj.高兴的；满意的" sound="nj_08b_07.mp3" from="  5:29.770" to="  5:30.635" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="(be) pleased with" symbol="(bI:) plI:zd wiT" explain="(对......)感到高兴；满意" sound="nj_08b_07.mp3" from="  5:31.797" to="  5:32.673" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="attention" symbol="E5tenFn" explain="n.注意力" sound="nj_08b_07.mp3" from="  5:34.134" to="  5:35.052" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="pay attention" symbol=" pei E5tenFn" explain="注意" sound="nj_08b_07.mp3" from="  5:36.629" to="  5:37.689" allWordsNum="2"/>
+			<record rec_id="13" rec_time="4" name="scold" symbol="skEuld" explain="v.训斥；责骂" sound="nj_08b_07.mp3" from="  5:38.838" to="  5:39.710" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="detention" symbol="di5tenFn" explain="n.(罚学生)放学后留校" sound="nj_08b_07.mp3" from="  5:40.784" to="  5:41.724" allWordsNum="1"/>
+			<record rec_id="15" rec_time="4" name="chat" symbol="tFAt" explain="v.闲聊；聊天" sound="nj_08b_07.mp3" from="  5:43.071" to="  5:43.500" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="alone" symbol="E5lEun" explain="adv.独自" sound="nj_08b_07.mp3" from="  5:44.723" to="  5:45.496" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="author" symbol="5R:WE(r)" explain="n.作者" sound="nj_08b_07.mp3" from="  5:46.435" to="  5:47.169" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="pretend" symbol="pri5tend" explain="v.假装" sound="nj_08b_07.mp3" from="  5:48.137" to="  5:48.832" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="score" symbol="skR:(r)" explain="n.评分；分数" sound="nj_08b_07.mp3" from="  5:49.963" to="  5:50.796" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="thank goodness" symbol="WANk 5gudnis" explain="谢天谢地" sound="nj_08b_07.mp3" from="  5:51.913" to="  5:52.939" allWordsNum="2"/>
+			<record rec_id="21" rec_time="3" name="concern" symbol="kEn5sE:n" explain="n.关切；关心" sound="nj_08b_07.mp3" from="  5:54.333" to="  5:55.221" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="accept" symbol="Ek5sept" explain="v.收受；接受" sound="nj_08b_07.mp3" from="  5:56.532" to="  5:57.164" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="reject" symbol="ri5dVekt" explain="v.拒绝接受" sound="nj_08b_07.mp3" from="  5:58.227" to="  5:58.915" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="feel like" symbol="fI:l laik" explain="想做某事" sound="nj_08b_07.mp3" from="  6:00.133" to="  6:00.840" allWordsNum="2"/>
+			<record rec_id="25" rec_time="3" name="express" symbol="ik5spres" explain="v.表示；表达" sound="nj_08b_07.mp3" from="  6:02.060" to="  6:02.983" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="pain" symbol="pein" explain="n.疼痛" sound="nj_08b_07.mp3" from="  6:04.227" to="  6:04.867" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="medicine" symbol="5medsn" explain="n.药" sound="nj_08b_07.mp3" from="  6:06.077" to="  6:06.821" allWordsNum="1"/>
+			<record rec_id="28" rec_time="3" name="generous" symbol="5dVenErEs" explain="adj.慷慨的" sound="nj_08b_07.mp3" from="  6:07.986" to="  6:08.809" allWordsNum="1"/>
+			<record rec_id="29" rec_time="3" name="honest" symbol="5Cnist" explain="adj.诚实的" sound="nj_08b_07.mp3" from="  6:09.870" to="  6:10.648" allWordsNum="1"/>
+			<record rec_id="30" rec_time="3" name="fair" symbol="feE(r)" explain="adj.平等待人的；公正的" sound="nj_08b_07.mp3" from="  6:11.690" to="  6:12.440" allWordsNum="1"/>
+			<record rec_id="31" rec_time="3" name="patient" symbol="5peiFnt" explain="adj.有耐心的" sound="nj_08b_07.mp3" from="  6:13.581" to="  6:14.329" allWordsNum="1"/>									
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="My dad at home and at work" page="111">
+			<record rec_id="0" rec_time="35" sound="nj_08b_07.mp3">
+			<subrecord rec_id="1" rec_time="8" name="He comes home, has a shower, And eats dinner, every day. " sound="nj_08b_07.mp3" from="  0:11.656" to="  0:17.750" allWordsNum="11"/>
+			<subrecord rec_id="2" rec_time="8" name="Now, he's sitting in his favourite chair. He's reading the paper. " sound="nj_08b_07.mp3" from="  0:17.875" to="  0:23.214" allWordsNum="11"/>
+			</record>
+			<record rec_id="1" rec_time="25" sound="nj_08b_07.mp3">
+			<subrecord rec_id="3" rec_time="10" name="And watching television. Soon he'll go to bed. He's a boring man, my dad. " sound="nj_08b_07.mp3" from="  0:23.140" to="  0:30.630" allWordsNum="14"/>
+			</record>
+			<record rec_id="2" rec_time="25" sound="nj_08b_07.mp3">
+			<subrecord rec_id="4" rec_time="7" name="And then one day I see him, On the building site, at work. " sound="nj_08b_07.mp3" from="  0:31.678" to="  0:36.073" allWordsNum="13"/>
+			</record>
+			<record rec_id="3" rec_time="25" sound="nj_08b_07.mp3">
+			<subrecord rec_id="5" rec_time="5" name="He's high up, in the clouds, up in the air. " sound="nj_08b_07.mp3" from="  0:36.322" to="  0:40.192" allWordsNum="10"/>
+			<subrecord rec_id="6" rec_time="5" name="He's making a building, " sound="nj_08b_07.mp3" from="  0:40.592" to="  0:42.489" allWordsNum="4"/>
+			<subrecord rec_id="7" rec_time="5" name="He's fixing a crane, so clever. " sound="nj_08b_07.mp3" from="  0:42.689" to="  0:46.209" allWordsNum="6"/>
+			</record>
+			<record rec_id="4" rec_time="25" sound="nj_08b_07.mp3">
+			<subrecord rec_id="8" rec_time="5" name="He's working higher than the birds, " sound="nj_08b_07.mp3" from="  0:46.709" to="  0:49.180" allWordsNum="6"/>
+			<subrecord rec_id="9" rec_time="5" name="He's walking on a narrow plank, " sound="nj_08b_07.mp3" from="  0:49.330" to="  0:51.527" allWordsNum="6"/>
+			</record>
+			<record rec_id="5" rec_time="25" sound="nj_08b_07.mp3">
+			<subrecord rec_id="10" rec_time="5" name="Not scared, not scared like me. " sound="nj_08b_07.mp3" from="  0:51.577" to="  0:54.773" allWordsNum="6"/>
+			<subrecord rec_id="11" rec_time="5" name="He's a super man, my dad. " sound="nj_08b_07.mp3" from="  0:55.372" to="  0:57.669" allWordsNum="6"/>
+		  </record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="1" name="My school" page="111">
+			<record rec_id="0" rec_time="25" sound="nj_08b_07.mp3">
+			<subrecord rec_id="1" rec_time="6" name="'For your homework, write a poem,' " sound="nj_08b_07.mp3" from="  1:02.488" to="  1:05.384" allWordsNum="6"/>
+			<subrecord rec_id="2" rec_time="5" name="You said to us, Miss Li. " sound="nj_08b_07.mp3" from="  1:05.484" to="  1:07.731" allWordsNum="6"/>
+			<subrecord rec_id="3" rec_time="5" name="I wrote these verses on my own, " sound="nj_08b_07.mp3" from="  1:08.080" to="  1:10.877" allWordsNum="7"/>
+			<subrecord rec_id="4" rec_time="5" name="I hope you're pleased with me. " sound="nj_08b_07.mp3" from="  1:10.902" to="  1:13.199" allWordsNum="6"/>
+			</record>
+			<record rec_id="1" rec_time="25" sound="nj_08b_07.mp3">
+			<subrecord rec_id="5" rec_time="5" name="I want to talk about the school, " sound="nj_08b_07.mp3" from="  1:13.923" to="  1:16.270" allWordsNum="7"/>
+			<subrecord rec_id="6" rec_time="5" name="I loved when I was small. " sound="nj_08b_07.mp3" from="  1:16.320" to="  1:18.317" allWordsNum="6"/>
+			<subrecord rec_id="7" rec_time="5" name="With lots of little boys and girls, " sound="nj_08b_07.mp3" from="  1:18.891" to="  1:21.488" allWordsNum="7"/>
+			<subrecord rec_id="8" rec_time="5" name="Two teachers and a hall. " sound="nj_08b_07.mp3" from="  1:21.488" to="  1:23.635" allWordsNum="5"/>
+			</record>
+			<record rec_id="2" rec_time="25" sound="nj_08b_07.mp3">
+			<subrecord rec_id="9" rec_time="5" name="Mr Black was sometimes cross:" sound="nj_08b_07.mp3" from="  1:24.684" to="  1:27.380" allWordsNum="5"/>
+			<subrecord rec_id="10" rec_time="5" name="'Silence! Pay attention!' " sound="nj_08b_07.mp3" from="  1:27.380" to="  1:29.802" allWordsNum="3"/>
+			<subrecord rec_id="11" rec_time="5" name="He scolded pupils in his class, " sound="nj_08b_07.mp3" from="  1:30.201" to="  1:32.998" allWordsNum="6"/>
+			<subrecord rec_id="12" rec_time="5" name="And put them in detention. " sound="nj_08b_07.mp3" from="  1:33.023" to="  1:35.145" allWordsNum="5"/>
+			</record>
+			<record rec_id="3" rec_time="25" sound="nj_08b_07.mp3">
+			<subrecord rec_id="13" rec_time="5" name="But Miss White was like you, Miss Li, " sound="nj_08b_07.mp3" from="  1:36.019" to="  1:38.615" allWordsNum="8"/>
+			<subrecord rec_id="14" rec_time="5" name="She helped in every way. " sound="nj_08b_07.mp3" from="  1:38.590" to="  1:40.588" allWordsNum="5"/>
+			<subrecord rec_id="15" rec_time="5" name="She loved chatting with her calss, " sound="nj_08b_07.mp3" from="  1:41.112" to="  1:43.559" allWordsNum="6"/>
+			<subrecord rec_id="16" rec_time="5" name="Her lessons seemed like play!" sound="nj_08b_07.mp3" from="  1:43.659" to="  1:45.881" allWordsNum="5"/>
+			</record>
+			<record rec_id="4" rec_time="25" sound="nj_08b_07.mp3">
+			<subrecord rec_id="17" rec_time="5" name="If you're puzzled by my words, " sound="nj_08b_07.mp3" from="  1:46.804" to="  1:49.076" allWordsNum="6"/>
+			<subrecord rec_id="18" rec_time="5" name="I can explain, Miss Li. " sound="nj_08b_07.mp3" from="  1:49.139" to="  1:51.545" allWordsNum="5"/>
+			<subrecord rec_id="19" rec_time="5" name="The staff and students were not real, " sound="nj_08b_07.mp3" from="  1:51.782" to="  1:54.559" allWordsNum="7"/>
+			<subrecord rec_id="20" rec_time="5" name="They're little dolls, you see. " sound="nj_08b_07.mp3" from="  1:54.763" to="  1:56.998" allWordsNum="5"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="2" name="Never a dull moment" page="122">
+			<record rec_id="0" rec_time="25" sound="nj_08b_07.mp3">
+			<subrecord rec_id="1" rec_time="5" name="If you like to keep lively, " sound="nj_08b_07.mp3" from="  4:07.551" to="  4:10.126" allWordsNum="6"/>
+			<subrecord rec_id="2" rec_time="5" name="If you hate being bored, " sound="nj_08b_07.mp3" from="  4:10.227" to="  4:12.429" allWordsNum="5"/>
+			<subrecord rec_id="3" rec_time="5" name="Just come down to our house " sound="nj_08b_07.mp3" from="  4:12.632" to="  4:14.733" allWordsNum="6"/>
+			<subrecord rec_id="4" rec_time="5" name="And knock on the door. " sound="nj_08b_07.mp3" from="  4:14.834" to="  4:16.562" allWordsNum="5"/>
+			</record>
+			<record rec_id="1" rec_time="25" sound="nj_08b_07.mp3">
+			<subrecord rec_id="5" rec_time="5" name="It's the noisiest house " sound="nj_08b_07.mp3" from="  4:17.138" to="  4:18.834" allWordsNum="4"/>
+			<subrecord rec_id="6" rec_time="5" name="In the whole of our town, " sound="nj_08b_07.mp3" from="  4:18.828" to="  4:20.474" allWordsNum="6"/>
+			<subrecord rec_id="7" rec_time="5" name="There's doors always slamming " sound="nj_08b_07.mp3" from="  4:21.033" to="  4:23.036" allWordsNum="4"/>
+			<subrecord rec_id="8" rec_time="5" name="And things falling down. " sound="nj_08b_07.mp3" from="  4:23.436" to="  4:24.920" allWordsNum="4"/>
+			</record>
+			<record rec_id="2" rec_time="10" sound="nj_08b_07.mp3">
+			<subrecord rec_id="9" rec_time="5" name="There's my dad, who keeps shouting, " sound="nj_08b_07.mp3" from="   4:26.132" to="  4:28.925" allWordsNum="6"/>
+			<subrecord rec_id="10" rec_time="5" name="And my mum, who breaks things, " sound="nj_08b_07.mp3" from="  4:29.207" to="  4:31.220" allWordsNum="6"/>
+			<subrecord rec_id="11" rec_time="5" name="The baby (who'll bite you!)" sound="nj_08b_07.mp3" from="  4:31.892" to="  4:33.764" allWordsNum="5"/>
+			<subrecord rec_id="12" rec_time="5" name="And our dog running rings. " sound="nj_08b_07.mp3" from="  4:34.089" to="  4:36.352" allWordsNum="5"/>			
+			</record>
+			<record rec_id="3" rec_time="10" sound="nj_08b_07.mp3">
+			<subrecord rec_id="13" rec_time="5" name="There's my sister the screamer " sound="nj_08b_07.mp3" from="  4:37.445" to="  4:39.708" allWordsNum="5"/>
+			<subrecord rec_id="14" rec_time="5" name="And my brother who roars, " sound="nj_08b_07.mp3" from="  4:39.795" to="  4:41.873" allWordsNum="5"/>
+			<subrecord rec_id="15" rec_time="5" name="And a grandpa who's stone deaf " sound="nj_08b_07.mp3" from="  4:42.339" to="  4:44.525" allWordsNum="6"/>
+			<subrecord rec_id="16" rec_time="5" name="(He's the one who slams doors). " sound="nj_08b_07.mp3" from="  4:45.099" to="  4:47.037" allWordsNum="6"/>			
+			</record>
+			<record rec_id="4" rec_time="10" sound="nj_08b_07.mp3">
+			<subrecord rec_id="17" rec_time="5" name="So come down to our house, " sound="nj_08b_07.mp3" from=" 4:48.012" to="   4:49.994" allWordsNum="6"/>
+			<subrecord rec_id="18" rec_time="5" name="You don't need the address, " sound="nj_08b_07.mp3" from="   4:50.073" to="    4:51.882" allWordsNum="5"/>
+			<subrecord rec_id="19" rec_time="5" name="You'll hear it ten miles away " sound="nj_08b_07.mp3" from=" 4:52.004" to="  4:53.979" allWordsNum="6"/>
+			<subrecord rec_id="20" rec_time="5" name="And the outside's a mess. " sound="nj_08b_07.mp3" from="  4:54.187" to="   4:56.132" allWordsNum="5"/>			
+			</record>
+			<record rec_id="5" rec_time="10" sound="nj_08b_07.mp3">
+			<subrecord rec_id="21" rec_time="5" name="You won't mind the racket, " sound="nj_08b_07.mp3" from="  4:57.345" to="  4:58.839" allWordsNum="5"/>
+			<subrecord rec_id="22" rec_time="5" name="You'll just love the din——" sound="nj_08b_07.mp3" from="  4:59.049" to="  5:00.964" allWordsNum="5"/>
+			<subrecord rec_id="23" rec_time="5" name="For there's never a dull moment " sound="nj_08b_07.mp3" from="  5:01.290" to="  5:03.339" allWordsNum="6"/>
+			<subrecord rec_id="24" rec_time="5" name="In the house we live in!" sound="nj_08b_07.mp3" from="  5:03.473" to="  5:05.522" allWordsNum="6"/>	
+			<subrecord rec_id="25" rec_time="5" name="Tony Bradman" sound="nj_08b_07.mp3" from="  5:06.671" to="  5:07.858" allWordsNum="2"/>		
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="3" name="Good morning, dear students " page="0" source="2">
+			<record rec_id="0" rec_time="17" sound="8B Unit 7.mp3">
+				<subrecord rec_id="1" rec_time="6" name="'Good morning, dear students,' the principal said. " sound="8B Unit 7.mp3" from="  0:06.745" to="  0:11.756" allWordsNum="7"/>
+				<subrecord rec_id="2" rec_time="4" name="'Please put down your pencils and go back to bed. " sound="8B Unit 7.mp3" from="  0:12.322" to="  0:15.864" allWordsNum="10"/>
+				<subrecord rec_id="3" rec_time="7" name="Today we will spend the day playing outside, then take the whole school on a carnival ride. " sound="8B Unit 7.mp3" from="  0:16.316" to="  0:22.684" allWordsNum="17"/>
+			</record>
+			<record rec_id="1" rec_time="14" sound="8B Unit 7.mp3">
+				<subrecord rec_id="4" rec_time="7" name="'We'll learn to eat candy while watching TV, then listen to records and swing from a tree. " sound="8B Unit 7.mp3" from="  0:24.192" to="  0:30.485" allWordsNum="17"/>
+				<subrecord rec_id="5" rec_time="7" name="We'll also be learning to draw on the walls, to scream in the classrooms and run in the halls. " sound="8B Unit 7.mp3" from="  0:30.824" to="  0:37.117" allWordsNum="19"/>
+			</record>
+			<record rec_id="2" rec_time="16" sound="8B Unit 7.mp3">
+				<subrecord rec_id="6" rec_time="4" name="'So bring in your skateboard, your bike. " sound="8B Unit 7.mp3" from="  0:38.549" to="  0:41.865" allWordsNum="7"/>
+				<subrecord rec_id="7" rec_time="3" name="It's time to be different and do what you like. " sound="8B Unit 7.mp3" from="  0:42.468" to="  0:45.407" allWordsNum="10"/>
+				<subrecord rec_id="8" rec_time="3" name="The teachers are going to give you a rest. " sound="8B Unit 7.mp3" from="  0:45.897" to="  0:48.459" allWordsNum="9"/>
+				<subrecord rec_id="9" rec_time="3" name="You don't have to study. " sound="8B Unit 7.mp3" from="  0:48.836" to="  0:50.645" allWordsNum="5"/>
+				<subrecord rec_id="10" rec_time="3" name="There won't be a test. " sound="8B Unit 7.mp3" from="  0:51.135" to="  0:52.717" allWordsNum="5"/>
+			</record>
+			<record rec_id="3" rec_time="16" sound="8B Unit 7.mp3">
+				<subrecord rec_id="11" rec_time="8" name="'And if you'd prefer, for a bit of a change, feel free to go wild and act really strange. " sound="8B Unit 7.mp3" from="  0:54.224" to="  1:01.610" allWordsNum="19"/>
+				<subrecord rec_id="12" rec_time="8" name="Go and put on a clown suit and dye your hair green, and copy your face on the Xerox machine. " sound="8B Unit 7.mp3" from="  1:01.949" to="  1:09.109" allWordsNum="20"/>
+			</record>
+			<record rec_id="4" rec_time="27" sound="8B Unit 7.mp3">
+				<subrecord rec_id="13" rec_time="3" name="'Tomorrow it's back to the regular grind. " sound="8B Unit 7.mp3" from="  1:10.541" to="  1:13.480" allWordsNum="7"/>
+				<subrecord rec_id="14" rec_time="3" name="Today, just go crazy. " sound="8B Unit 7.mp3" from="  1:13.819" to="  1:16.608" allWordsNum="4"/>
+				<subrecord rec_id="14" rec_time="3" name="We really don't mind. " sound="8B Unit 7.mp3" from="  1:17.098" to="  1:18.906" allWordsNum="4"/>
+				<subrecord rec_id="15" rec_time="3" name="So tear up your homework. " sound="8B Unit 7.mp3" from="  1:19.321" to="  1:21.092" allWordsNum="5"/>
+				<subrecord rec_id="16" rec_time="3" name="We'll give you an A. " sound="8B Unit 7.mp3" from="  1:21.620" to="  1:23.127" allWordsNum="5"/>
+				<subrecord rec_id="17" rec_time="3" name="Oh, wait. " sound="8B Unit 7.mp3" from="  1:24.559" to="  1:26.066" allWordsNum="2"/>
+				<subrecord rec_id="17" rec_time="3" name="I'm just kidding. " sound="8B Unit 7.mp3" from="  1:26.669" to="  1:27.950" allWordsNum="3"/>
+				<subrecord rec_id="18" rec_time="3" name="It's April Fool's Day. " sound="8B Unit 7.mp3" from="  1:28.289" to="  1:30.211" allWordsNum="4"/>
+				<subrecord rec_id="19" rec_time="3" name="Good morning, dear students.' " sound="8B Unit 7.mp3" from="  1:30.852" to="  1:33.226" allWordsNum="4"/>
+			</record>
+		<exercise type="4" index="0"/>
+      </part>
+      <part part_index="4" name="Good morning, dear students" page="0" source="2">
+      	<article allWordsNum="183">
+            	<![CDATA[
+Good morning, dear students, the principal said.
+Please put down your pencils and go back to bed.
+Today we will spend the day playing outside,
+then take the whole school on a carnival (狂欢) ride.
+
+We'll learn to eat candy while watching TV,
+then listen to records and swing from a tree.
+We'll also be learning to draw on the walls,
+to scream in the classrooms and run in the halls.
+
+So bring in your skateboard, your bike.
+It's time to be different and do what you like.
+The teachers are going to give you a rest.
+You don't have to study. There won't be a test.
+
+And if you'd prefer, for a bit of a change,
+feel free to go wild and act really strange.
+Go and put on a clown suit and dye your hair green,
+and copy your face on the Xerox machine (施乐打印机).
+
+Tomorrow it's back to the regular grind (苦差事，文中指学习).
+Today, just go crazy. We really don't mind.
+So tear up your homework. We'll give you an A.
+Oh, wait. I'm just kidding. It's April Fool's Day.
+Good morning, dear students.
+   	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="0" name="Choose the best answer. " qtype="1" >
+					<question rec_id="0" choice="B">
+						<![CDATA[They rhyme scheme (韵律) of the poem is ___________.]]>
+						<choice item="A" name="aabb"/>
+						<choice item="B" name="abab"/>
+						<choice item="C" name="aaaa"/>
+						<choice item="D" name="aabba"/>
+					</question>
+					<question rec_id="1" choice="A">
+						<![CDATA[Why did the principal say these things?]]>
+						<choice item="A" name="Because it was April Fool's Day. "/>
+						<choice item="B" name="Because the holiday was coming. "/>
+						<choice item="C" name="Because he wanted to give the students a day off. "/>
+						<choice item="D" name="Because he liked to play tricks on his students. "/>
+					</question>
+					<question rec_id="2" choice="A">
+						<![CDATA[If what the principal said is true, the students will _____________.]]>
+						<choice item="A" name="be very excited"/>
+						<choice item="B" name="be very sad"/>
+						<choice item="C" name="be very nervous"/>
+						<choice item="D" name="be very surprised"/>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+</package>
+ 

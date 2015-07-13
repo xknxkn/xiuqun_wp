@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_07b</book_id>
+	<unit_id>nj_07b_07</unit_id>
+	<version>9</version>
+	<unit>unit7</unit>
+	<title>In the future</title>
+	<words>
+		<part part_index="0" page="47">
+			<record rec_id="0" rec_time="3" name="talk about" symbol="tR:k E5baut" explain="讨论；谈论；商谈" sound="nj_07b_07.mp3" from="  2:11.329" to="  2:13.621" allWordsNum="2"/>
+			<record rec_id="1" rec_time="3" name="able" symbol="5eibl" explain="adj.有能力的" sound="nj_07b_07.mp3" from="  2:13.907" to="  2:15.483" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="(be) able to" symbol="(bi:) 5eibl tU:" explain="能够；有能力" sound="nj_07b_07.mp3" from="  2:16.056" to="  2:18.133" allWordsNum="3"/>
+			<record rec_id="3" rec_time="3" name="planet" symbol="5plAnit" explain="n.行星" sound="nj_07b_07.mp3" from="  2:18.217" to="  2:20.223" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="space station" symbol="speis 5steiFEn" explain="n.航天站；宇宙空间站" sound="nj_07b_07.mp3" from="  2:20.724" to="  2:23.159" allWordsNum="2"/>
+			<record rec_id="5" rec_time="3" name="pill" symbol="pil" explain="n.药丸；药片" sound="nj_07b_07.mp3" from="  2:23.088" to="  2:24.663" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="meal" symbol="mi:l" explain="n.餐；一顿饭" sound="nj_07b_07.mp3" from="  2:24.807" to="  2:26.669" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="hope" symbol="hEup" explain="n.希望；期望 v.希望；期望(某事发生)" sound="nj_07b_07.mp3" from="  2:26.669" to="  2:28.818" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="secret" symbol="5si:krEt" explain="adj.秘密的；保密的" sound="nj_07b_07.mp3" from="  2:29.033" to="  2:30.752" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="sign" symbol="sain" explain="v.签（名）；签字" sound="nj_07b_07.mp3" from="  2:31.110" to="  2:32.900" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="seal" symbol="si:l" explain="v.密封" sound="nj_07b_07.mp3" from="  2:33.115" to="  2:35.192" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="everyone" symbol="5evriwQn" explain="pron.每人；人人" sound="nj_07b_07.mp3" from="  2:35.336" to="  2:37.556" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="The future of travel" page="0" source="2">
+			<record rec_id="0" rec_time="11" sound="7B Unit 7.mp3">
+				<subrecord rec_id="1" rec_time="3" name="Is travel about to change forever? " sound="7B Unit 7.mp3" from="  0:05.323" to="  0:07.786" allWordsNum="6"/>
+				<subrecord rec_id="2" rec_time="8" name="Elon Musk, an American inventor, has come up with a new design for a super-fast transport system. " sound="7B Unit 7.mp3" from="  0:08.380" to="  0:15.572" allWordsNum="17"/>
+			</record>
+			<record rec_id="1" rec_time="14" sound="7B Unit 7.mp3">
+				<subrecord rec_id="3" rec_time="4" name="The transport system will have pods for people to sit in. " sound="7B Unit 7.mp3" from="  0:17.044" to="  0:20.725" allWordsNum="11"/>
+				<subrecord rec_id="4" rec_time="3" name="The pods will travel through a tube. " sound="7B Unit 7.mp3" from="  0:21.122" to="  0:23.641" allWordsNum="7"/>
+				<subrecord rec_id="5" rec_time="7" name="Musk said that the whole system could run on solar power and the ticket would cost only $20. " sound="7B Unit 7.mp3" from="  0:24.123" to="  0:30.522" allWordsNum="18"/>
+			</record>
+			<record rec_id="2" rec_time="20" sound="7B Unit 7.mp3">
+				<subrecord rec_id="6" rec_time="7" name="The pods will hold about 28 people and travel at up to 760 miles per hour. " sound="7B Unit 7.mp3" from="  0:31.994" to="  0:38.393" allWordsNum="16"/>
+				<subrecord rec_id="7" rec_time="5" name="People can travel from Los Angeles to San Francisco in just 30 minutes! " sound="7B Unit 7.mp3" from="  0:38.874" to="  0:43.857" allWordsNum="13"/>
+				<subrecord rec_id="8" rec_time="8" name="It usually takes 75 minutes by plane or around five-and-a-half hours by car to go between the two cities. " sound="7B Unit 7.mp3" from="  0:44.395" to="  0:51.785" allWordsNum="19"/>
+			</record>
+			<record rec_id="3" rec_time="6" sound="7B Unit 7.mp3">
+				<subrecord rec_id="9" rec_time="6" name="Musk said that the system would be a faster, safer and cheaper mode of transport. " sound="7B Unit 7.mp3" from="  0:53.286" to="  0:58.439" allWordsNum="15"/>
+			</record>
+		<exercise type="4" index="0"/>
+      </part>	
+		<part part_index="1" name="The future of travel" page="0" source="2">
+      	<article allWordsNum="122">
+            	<![CDATA[
+Is travel about to change forever? Elon Musk, an American inventor, has come up with a new design for a super-fast transport system.
+The transport system will have pods (分离舱) for people to sit in. The pods will travel through a tube. Musk said that the whole system could run on solar power (太阳能) and the ticket would cost only $20.
+The pods will hold about 28 people and travel at up to 760 miles per hour. People can travel from Los Angeles to San Francisco (旧金山) in just 30 minutes! It usually takes 75 minutes by plane or around five-and-a-half hours by car to go between the two cities.
+Musk said that the system would be a faster, safer and cheaper mode of transport.
+          	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="0" name="Choose the best answer. " qtype="1" >
+					<question rec_id="0" choice="B">
+						<![CDATA[Who is Elon Musk?]]>
+						<choice item="A" name="An American scientist."/>
+						<choice item="B" name="An American inventor. "/>
+						<choice item="C" name="An American professor. "/>
+						<choice item="D" name="An American college student. "/>
+					</question>
+					<question rec_id="1" choice="D">
+						<![CDATA[The transport system designed by Elon Mush is powered by _________.]]>
+						<choice item="A" name="gas"/>
+						<choice item="B" name="oil"/>
+						<choice item="C" name="coal"/>
+						<choice item="D" name="solar energy"/>
+					</question>
+					<question rec_id="2" choice="C">
+						<![CDATA[Which of the following is FALSE about the transport system?]]>
+						<choice item="A" name="People would sit in the pods of the transport system."/>
+						<choice item="B" name="It takes about 30 minutes from Los Angeles to San Francisco by plane through the transport system."/>
+						<choice item="C" name="The transport system can travel at least 760 miles per hour."/>
+						<choice item="D" name="The transport system can hold as many as 28 people."/>
+					</question>
+					</section>
+			</exercise>
+    </part>
+		</texts>
+	<dialogs>
+		<part part_index="0" name="Talking about the future" page="44">
+			<record rec_id="0" rec_time="7" name="We've entered a new century. What do you think will happen in the future?" sound="nj_07b_07.mp3" from="  0:00.168" to="  0:06.234" allWordsNum="14"/>
+			<record rec_id="1" rec_time="6" name="Perhaps people will be able to live on other planets." sound="nj_07b_07.mp3" from="  0:06.628" to="  0:10.137" allWordsNum="10"/>
+			<record rec_id="2" rec_time="3" name="I think so." sound="nj_07b_07.mp3" from="  0:10.925" to="  0:12.716" allWordsNum="3"/>
+			<record rec_id="3" rec_time="6" name="Perhaps there will be no water or air on the Earth." sound="nj_07b_07.mp3" from="  0:12.788" to="  0:16.655" allWordsNum="11"/>
+			<record rec_id="4" rec_time="3" name="I don't think so." sound="nj_07b_07.mp3" from="  0:17.443" to="  0:19.162" allWordsNum="4"/>
+			<record rec_id="5" rec_time="5" name="Perhaps there will not be enough food for everybody." sound="nj_07b_07.mp3" from="  0:19.664" to="  0:23.531" allWordsNum="9"/>
+			<record rec_id="6" rec_time="3" name="I don't think so." sound="nj_07b_07.mp3" from="  0:23.746" to="  0:25.824" allWordsNum="4"/>
+			<record rec_id="7" rec_time="8" name="Perhaps people will be able to grow vegetables in space stations." sound="nj_07b_07.mp3" from="  0:26.826" to="  0:30.909" allWordsNum="11"/>
+			<record rec_id="8" rec_time="3" name="I think so." sound="nj_07b_07.mp3" from="  0:30.909" to="  0:32.914" allWordsNum="3"/>
+			<record rec_id="9" rec_time="8" name="Perhaps there will be no summer or winter. Then the weather will never be too hot or too cold." sound="nj_07b_07.mp3" from="  0:33.201" to="  0:40.364" allWordsNum="19"/>
+			<record rec_id="10" rec_time="3" name="I don't think so." sound="nj_07b_07.mp3" from="  0:40.507" to="  0:42.656" allWordsNum="4"/>
+			<record rec_id="11" rec_time="12" name="Perhaps people in different countries will all be able to speak the same language. Then people will be able to understand each other better." sound="nj_07b_07.mp3" from="  0:43.730" to="  0:52.468" allWordsNum="24"/>
+			<record rec_id="12" rec_time="3" name="I think so." sound="nj_07b_07.mp3" from="  0:52.397" to="  0:54.259" allWordsNum="3"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="1" name="Our hopes" page="46">
+			<record rec_id="0" rec_time="10" name="What do you hope will happen in ten years'time? Let's make a time box." sound="nj_07b_07.mp3" from="  1:07.295" to="   1:13.813" allWordsNum="15"/>
+			<record rec_id="1" rec_time="15" name="That's fun. We can keep the time box in a secret place. After ten years, we can open the box and see how things have changed." sound="nj_07b_07.mp3" from="  1:14.028" to="  1:24.557" allWordsNum="26"/>
+			<record rec_id="2" rec_time="7" name="Write down your hopes on pieces of paper and sign them." sound="nj_07b_07.mp3" from="  1:27.955" to="  1:33.256" allWordsNum="11"/>
+			<record rec_id="3" rec_time="10" name="Put the pieces of paper in a box. Close the box and seal it with tape." sound="nj_07b_07.mp3" from="  1:35.666" to="  1:43.739" allWordsNum="16"/>
+			<record rec_id="4" rec_time="6" name="I hope that there will be enough food for everyone." sound="nj_07b_07.mp3" from="  1:47.353" to="  1:51.570" allWordsNum="10"/>
+			<record rec_id="5" rec_time="6" name="I hope that people will not pollute the Earth." sound="nj_07b_07.mp3" from="  1:53.257" to="  1:57.715" allWordsNum="9"/>
+			<record rec_id="6" rec_time="5" name="I hope that I will become an astronaut." sound="nj_07b_07.mp3" from="  2:00.366" to="  2:03.619" allWordsNum="8"/>
+			<exercise type="5" index="0"/>
+      </part>
+    </dialogs>
+</package>
+ 

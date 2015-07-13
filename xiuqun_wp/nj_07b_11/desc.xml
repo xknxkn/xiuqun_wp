@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_07b</book_id>
+	<unit_id>nj_07b_11</unit_id>
+	<version>4</version>
+	<unit>unit11</unit>
+	<title>Electricity</title>
+	<words>
+		<part part_index="0" page="79">
+			<record rec_id="0" rec_time="3" name="electricity" symbol="i7lek5trisEti" explain="n.电，电能" sound="nj_07b_11.mp3" from="  6:03.128" to="  6:05.457" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="lightning" symbol="5laitniN" explain="n.闪电" sound="nj_07b_11.mp3" from="  6:05.269" to="  6:06.654" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="pylon" symbol="5pailEn" explain="n.电缆塔" sound="nj_07b_11.mp3" from="  6:07.094" to="  6:08.605" allWordsNum="1"/>
+			<record rec_id="3" rec_time="3" name="flash" symbol="flAF" explain="v.(使)闪耀，闪光" sound="nj_07b_11.mp3" from="  6:08.983" to="  6:10.683" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="thunder" symbol="5WQndE(r)" explain="n.雷，雷声" sound="nj_07b_11.mp3" from="  6:10.998" to="  6:12.572" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="crash" symbol="krAF" explain="v.(使)发出巨响" sound="nj_07b_11.mp3" from="  6:12.635" to="  6:14.524" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="wire" symbol="5waiE(r)" explain="n.电线，导线" sound="nj_07b_11.mp3" from="  6:14.524" to="  6:16.286" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="fright" symbol="frait" explain="n.惊吓，恐怖" sound="nj_07b_11.mp3" from="  6:16.412" to="  6:18.364" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="frightening" symbol="5fraitniN" explain="adj.引起恐惧的，使惊恐的，骇人的" sound="nj_07b_11.mp3" from="  6:18.490" to="  6:20.127" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="carry" symbol="5kAri" explain="v.支撑，承载" sound="nj_07b_11.mp3" from="  6:20.379" to="  6:22.079" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="arm" symbol="B:m" explain="n.臂状物" sound="nj_07b_11.mp3" from="  6:21.953" to="  6:23.905" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="spire" symbol="5spaiE(r)" explain="n.尖顶" sound="nj_07b_11.mp3" from="  6:23.968" to="  6:25.604" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="plug" symbol="plQg" explain="n.(电源)插座，插头" sound="nj_07b_11.mp3" from="  6:25.982" to="  6:27.745" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="importance" symbol="im5pR:tns" explain="n.重要性" sound="nj_07b_11.mp3" from="  6:28.060" to="  6:29.697" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="microwave" symbol="5maikrEweiv" explain="n.微波炉" sound="nj_07b_11.mp3" from="  6:29.886" to="  6:31.712" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="vacuum cleaner" symbol="5vAkjuEm 5kli:nE(r)" explain="n.真空吸尘器" sound="nj_07b_11.mp3" from="  6:31.837" to="  6:33.726" allWordsNum="2"/>
+			<record rec_id="16" rec_time="3" name="printer" symbol="5printE(r)" explain="n.打印机" sound="nj_07b_11.mp3" from="  6:33.663" to="  6:35.300" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="electrical" symbol="i5lektrikl" explain="adj.电的，用电的" sound="nj_07b_11.mp3" from="  6:35.111" to="  6:36.748" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="appliance" symbol="E5plaiEns" explain="n.（家用）电器，器具" sound="nj_07b_11.mp3" from="  6:36.874" to="  6:38.322" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="air conditioner" symbol="5eE kEn5diFEnE(r)" explain="n.空调机，空调设备" sound="nj_07b_11.mp3" from="  6:38.322" to="  6:40.526" allWordsNum="2"/>
+			<record rec_id="20" rec_time="3" name="electric" symbol="i5lektrik" explain="adj.电的，用电的，电动的，发电的" sound="nj_07b_11.mp3" from="  6:40.715" to="  6:42.163" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="kettle" symbol="5ketl" explain="n.（烧水用的）壶，水壶" sound="nj_07b_11.mp3" from="  6:42.163" to="  6:43.674" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="heater" symbol="5hi:tE(r)" explain="n.加热炉，炉子，热水器" sound="nj_07b_11.mp3" from="  6:43.737" to="  6:45.437" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="cooker" symbol="5kukE(r)" explain="n.厨灶，炉具" sound="nj_07b_11.mp3" from="  6:45.563" to="  6:47.640" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="iron" symbol="5aiEn" explain="n.熨斗" sound="nj_07b_11.mp3" from="  6:47.531" to="  6:49.168" allWordsNum="1"/>	
+			<record rec_id="25" rec_time="3" name="efficiently" symbol="i5fiFntli" explain="adv.效率高地" sound="nj_07b_11.mp3" from="  6:49.042" to="  6:50.994" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="iron" symbol="5aiEn" explain="v.熨烫" sound="nj_07b_11.mp3" from="  6:52.002" to="  6:54.079" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="transport" symbol="5trAnspR:t" explain="n.交通工具" sound="nj_07b_11.mp3" from="  6:53.890" to="  6:55.590" allWordsNum="1"/>
+			<record rec_id="28" rec_time="3" name="trolleybus" symbol="5trClibQs" explain="n.无轨电车" sound="nj_07b_11.mp3" from="  6:55.716" to="  6:57.416" allWordsNum="1"/>
+			<record rec_id="29" rec_time="3" name="express" symbol="ik5spres" explain="n.特快列车" sound="nj_07b_11.mp3" from="  6:57.605" to="  6:59.431" allWordsNum="1"/>		
+			<record rec_id="30" rec_time="3" name="operate" symbol="5CpEreit" explain="v.运转，工作" sound="nj_07b_11.mp3" from="  6:59.871" to="  7:01.382" allWordsNum="1"/>
+			<record rec_id="31" rec_time="3" name="through" symbol="Wru:" explain="prep.从……一端至另一端，穿过，贯穿" sound="nj_07b_11.mp3" from="  7:01.697" to="  7:03.082" allWordsNum="1"/>	
+			<record rec_id="32" rec_time="3" name="mainly" symbol="5meinli" explain="adv.主要地，总体上，大致" sound="nj_07b_11.mp3" from="  7:03.712" to="  7:05.223" allWordsNum="1"/>
+			<record rec_id="33" rec_time="3" name="as well" symbol="Az wel" explain="除……之外，也，还" sound="nj_07b_11.mp3" from="  7:05.223" to="  7:07.049" allWordsNum="2"/>	
+			<record rec_id="34" rec_time="3" name="seat" symbol="si:t" explain="n.座位，坐处" sound="nj_07b_11.mp3" from="  7:07.490" to="  7:08.875" allWordsNum="1"/>
+			<record rec_id="35" rec_time="3" name="line" symbol="lain" explain="n.轨道，铁道，（铁路的）段，线路" sound="nj_07b_11.mp3" from="  7:09.189" to="  7:10.826" allWordsNum="1"/>
+			<record rec_id="36" rec_time="3" name="carriage" symbol="5kAridV" explain="n.(火车的)客车厢" sound="nj_07b_11.mp3" from="  7:11.141" to="  7:12.904" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<dialogs>
+		<part part_index="0" name="The Airport Express" page="77">
+			<record rec_id="0" rec_time="8" name="Some kinds of public transport in Garden City use electricity. What are they?" sound="nj_07b_11.mp3" from="  2:31.406" to="  2:38.320" allWordsNum="13"/>
+			<record rec_id="1" rec_time="5" name="The light rail and trolleybuses." sound="nj_07b_11.mp3" from="  2:38.514" to="  2:42.117" allWordsNum="5"/>
+			<record rec_id="2" rec_time="5" name="The underground and the Maglev." sound="nj_07b_11.mp3" from="  2:42.215" to="  2:45.039" allWordsNum="5"/>
+			<record rec_id="3" rec_time="8" name="Yes. The Airport Express uses electricity, too. Have you travelled on it yet?" sound="nj_07b_11.mp3" from="  2:46.889" to="  2:53.803" allWordsNum="13"/>
+			<record rec_id="4" rec_time="5" name="No, I haven't travelled on the Airport Express yet." sound="nj_07b_11.mp3" from="  2:53.803" to="  2:57.504" allWordsNum="9"/>
+			<record rec_id="5" rec_time="8" name="Yes, I have travelled on the Airport Express. I've got some information about it." sound="nj_07b_11.mp3" from="  2:57.504" to="  3:03.541" allWordsNum="14"/>
+			<exercise type="5" index="0"/>
+      </part>
+    </dialogs>
+    <texts>
+    	</texts>
+</package>
+ 

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_08a</book_id>
+	<unit_id>nj_08a_02</unit_id>
+	<version>7</version>
+	<unit>unit2</unit>
+	<title>Work and pla</title>
+	<words>
+		<part part_index="0" page="35">
+			<record rec_id="0" rec_time="3" name="similar" symbol="5simElE(r)" explain="adj.相像的；类似的" sound="nj_08a_02.mp3" from="6:11.143" to=" 6:12.450" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="(be) similar to" symbol="(bi:) 5simElE(r) tE" explain="与......相类似的" sound="nj_08a_02.mp3" from="6:13.791" to="6:15.683" allWordsNum="3"/>
+			<record rec_id="2" rec_time="3" name="expect" symbol="ik5spekt" explain="v.预料；预期" sound="nj_08a_02.mp3" from="6:17.402" to="6:19.121" allWordsNum="1"/>
+		  <record rec_id="3" rec_time="3" name="business" symbol="5biznEs" explain="n.生意；公司" sound="nj_08a_02.mp3" from="6:20.291" to="6:21.701" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="whizz-kid" symbol="5wiz kid" explain="n.神童；有为青年" sound="nj_08a_02.mp3" from="6:22.835" to="6:24.280" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="successful" symbol="sEk5sesfl" explain="adj.有成效的；成功的" sound="nj_08a_02.mp3" from="6:25.621" to="6:27.134" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="put on" symbol="put Cn" explain="穿上；戴上" sound="nj_08a_02.mp3" from="6:28.338" to="6:29.816" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="luckily" symbol="5lQkili" explain="adv.幸运地；幸好" sound="nj_08a_02.mp3" from="6:31.123" to="6:32.292" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="popular" symbol="5pCpjElE(r)" explain="adj.受喜爱的；受欢迎的" sound="nj_08a_02.mp3" from="6:33.771" to="6:34.975" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="responsible" symbol="ri5spCnsEbl" explain="adj.有责任；负责；承担义务" sound="nj_08a_02.mp3" from="6:36.625" to="6:38.138" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="(be) responsible for" symbol="(bi:) ri5spCnsEbl fR:" explain="对......负责" sound="nj_08a_02.mp3" from="6:39.789" to="6:42.265" allWordsNum="3"/>
+			<record rec_id="11" rec_time="3" name="sale" symbol="seil" explain="n.销售；出售" sound="nj_08a_02.mp3" from="6:44.535" to="6:45.945" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="client" symbol="5klaiEnt" explain="n.委托人；当事人" sound="nj_08a_02.mp3" from="6:47.080" to="6:48.352" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="boring" symbol="5bR:riN" explain="adj.没趣的；令人厌倦的" sound="nj_08a_02.mp3" from="6:49.280" to="6:50.656" allWordsNum="3"/>
+			<record rec_id="14" rec_time="3" name="simple" symbol="5simpl" explain="adj.简单的；易于理解的" sound="nj_08a_02.mp3" from="6:51.791" to="6:53.029" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="achieve" symbol="E5tFi:v" explain="v.（凭长期努力）达到（某目标）" sound="nj_08a_02.mp3" from="6:54.129" to="6:55.539" allWordsNum="2"/>
+			<record rec_id="16" rec_time="3" name="fail" symbol="feil" explain="v.（考试）不及格" sound="nj_08a_02.mp3" from="6:56.949" to="6:58.084" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="exam" symbol="ig5zAm" explain="n.考试" sound="nj_08a_02.mp3" from="6:59.322" to="7:00.491" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="return" symbol="ri5tE:n" explain="v.回来；回去；返回" sound="nj_08a_02.mp3" from="7:01.592" to="7:02.761" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="attend" symbol="E5tend" explain="v.出席；参加" sound="nj_08a_02.mp3" from="7:04.136" to="7:05.374" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="assist" symbol="E5sist" explain="v.帮助" sound="nj_08a_02.mp3" from=" 7:06.647" to="7:07.850" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="continue" symbol="kEn5tinju:" explain="v.持续；继续做" sound="nj_08a_02.mp3" from="7:08.951" to="7:10.326" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="seldom" symbol="5seldEm" explain="adv.不常；很少；难得" sound="nj_08a_02.mp3" from="7:11.461" to="7:12.699" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="usual" symbol="5ju:VuEl" explain="adj.通常的；惯常的" sound="nj_08a_02.mp3" from="7:13.868" to="7:15.175" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="repeat" symbol="ri5pi:t" explain="v.重复" sound="nj_08a_02.mp3" from="7:16.310" to="7:17.445" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="explain" symbol="ik5splein" explain="v.解释；说明" sound="nj_08a_02.mp3" from="7:18.545" to="7:20.058" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="energy" symbol="5enEdVi" explain="n.能量" sound="nj_08a_02.mp3" from="7:21.228" to="7:22.569" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="cell" symbol="sel" explain="n.细胞" sound="nj_08a_02.mp3" from="7:23.669" to="7:24.942" allWordsNum="1"/>
+			<record rec_id="28" rec_time="3" name="force" symbol="fR:s" explain="n.（物理）力" sound="nj_08a_02.mp3" from="7:26.214" to="7:27.314" allWordsNum="1"/>
+			<record rec_id="29" rec_time="3" name="heat" symbol="hi:t" explain="n.热；温度" sound="nj_08a_02.mp3" from="7:28.484" to="7:29.756" allWordsNum="1"/>
+			<record rec_id="30" rec_time="3" name="physical" symbol="5fizikl" explain="adj.身体的" sound="nj_08a_02.mp3" from="7:30.682" to="7:32.023" allWordsNum="1"/>
+			<record rec_id="31" rec_time="3" name="article" symbol="5B:tikl" explain="n.文章" sound="nj_08a_02.mp3" from="7:33.226" to="7:34.396" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<sentences>
+		<part part_index="0" name="Speaking" page="28">
+			<record rec_id="0" rec_time="5" name="Do you understand?" sound="nj_08a_02.mp3" from="2:51.207" to="2:53.304" allWordsNum="3"/>
+			<record rec_id="1" rec_time="5" name="Can you repeat that?" sound="nj_08a_02.mp3" from="2:53.579" to="2:55.918" allWordsNum="4"/>
+			<record rec_id="2" rec_time="5" name="Is it correct?" sound="nj_08a_02.mp3" from="2:55.987" to="2:58.050" allWordsNum="3"/>
+			<record rec_id="3" rec_time="5" name="Can you explain it?" sound="nj_08a_02.mp3" from="2:58.187" to="3:00.457" allWordsNum="4"/>
+			<record rec_id="4" rec_time="3" name="Excuse me." sound="nj_08a_02.mp3" from="3:06.819" to="3:08.367" allWordsNum="2"/>
+			<record rec_id="5" rec_time="5" name="You'll have to hurry." sound="nj_08a_02.mp3" from="3:08.779" to="3:10.808" allWordsNum="4"/>
+			<record rec_id="6" rec_time="3" name="Thank you." sound="nj_08a_02.mp3" from="3:10.980" to="3:12.803" allWordsNum="2"/>
+			<exercise type="3" index="0"/>
+		</part>
+	</sentences>
+	<texts>
+		<part part_index="0" name="Reading" page="21">
+			<record rec_id="0" rec_time="30" sound="nj_08a_02.mp3">
+			<subrecord rec_id="1" rec_time="10" name="Wendy Wang, 15, must be one of the top students in the city." sound="nj_08a_02.mp3" from="0:13.474" to="0:20.008" allWordsNum="13"/>
+			<subrecord rec_id="2" rec_time="8" name="She has already written several successful computer games." sound="nj_08a_02.mp3" from="0:20.055" to="0:24.935" allWordsNum="8"/>
+			<subrecord rec_id="3" rec_time="6" name="Now all of her family work in her business." sound="nj_08a_02.mp3" from="0:24.934" to="0:28.744" allWordsNum="9"/>
+			<subrecord rec_id="4" rec_time="5" name="And she is still at school!" sound="nj_08a_02.mp3" from="0:28.725" to="0:31.329" allWordsNum="6"/>
+			</record>
+			<record rec_id="1" rec_time="5" sound="nj_08a_02.mp3">
+			<subrecord rec_id="5" rec_time="3" name="6 a.m." sound="nj_08a_02.mp3" from="0:32.029" to="0:33.920" allWordsNum="2"/>
+			</record>
+		  <record rec_id="2" rec_time="30" sound="nj_08a_02.mp3">
+			<subrecord rec_id="6" rec_time="10" name="I get up at six, wash, and put on my school uniform." sound="nj_08a_02.mp3" from="0:34.585" to="0:40.120" allWordsNum="12"/>
+			<subrecord rec_id="7" rec_time="5" name="I have breakfast with my family." sound="nj_08a_02.mp3" from="0:40.135" to="0:43.012" allWordsNum="6"/>
+			<subrecord rec_id="8" rec_time="5" name="We have a family business." sound="nj_08a_02.mp3" from="0:43.070" to="0:45.422" allWordsNum="5"/>
+			<subrecord rec_id="9" rec_time="5" name="I write computer games. " sound="nj_08a_02.mp3" from="0:45.461" to="0:48.008" allWordsNum="4"/>
+			<subrecord rec_id="10" rec_time="5" name="Luckily, they are very popular." sound="nj_08a_02.mp3" from="0:48.280" to="0:51.448" allWordsNum="5"/>
+			</record>
+		  <record rec_id="3" rec_time="30" sound="nj_08a_02.mp3">
+			<subrecord rec_id="11" rec_time="5" name="We sell over half a million games every year." sound="nj_08a_02.mp3" from="0:51.623" to="0:55.453" allWordsNum="9"/>
+			<subrecord rec_id="12" rec_time="10" name="My dad is the manager of the company, and my mum is responsible for sales." sound="nj_08a_02.mp3" from="0:55.570" to="1:01.343" allWordsNum="15"/>
+			<subrecord rec_id="13" rec_time="5" name="My brother is our accountant. " sound="nj_08a_02.mp3" from="1:01.401" to="1:04.084" allWordsNum="5"/>
+			<subrecord rec_id="14" rec_time="8" name="Every morning we discuss the business over breakfast." sound="nj_08a_02.mp3" from="1:04.179" to="1:08.441" allWordsNum="8"/>
+			</record>
+			<record rec_id="4" rec_time="5" sound="nj_08a_02.mp3">
+			<subrecord rec_id="15" rec_time="3" name="7.30 a.m." sound="nj_08a_02.mp3" from="1:08.493" to="1:11.152" allWordsNum="2"/>
+			</record>
+		  <record rec_id="5" rec_time="25" sound="nj_08a_02.mp3">
+			<subrecord rec_id="16" rec_time="10" name="I always go to school in our family car. " sound="nj_08a_02.mp3" from="1:11.690" to="1:15.060" allWordsNum="9"/>
+			<subrecord rec_id="17" rec_time="3" name="We have a driver." sound="nj_08a_02.mp3" from="1:15.1644" to="1:16.689" allWordsNum="4"/>
+			<subrecord rec_id="18" rec_time="5" name="He drives me to school every day." sound="nj_08a_02.mp3" from="1:16.819" to="1:19.404" allWordsNum="7"/>
+			<subrecord rec_id="19" rec_time="6" name="I sometimes make phone calls to our clients on the way." sound="nj_08a_02.mp3" from="1:19.559" to="1:23.308" allWordsNum="11"/>
+			</record>
+			<record rec_id="6" rec_time="5" sound="nj_08a_02.mp3">
+			<subrecord rec_id="20" rec_time="3" name="8 a.m." sound="nj_08a_02.mp3" from="1:23.386" to=" 1:25.038" allWordsNum="2"/>
+			</record>
+		  <record rec_id="7" rec_time="30" sound="nj_08a_02.mp3">
+		  <subrecord rec_id="21" rec_time="6" name=" I start school." sound="nj_08a_02.mp3" from="1:25.228" to="1:27.290" allWordsNum="3"/>
+			<subrecord rec_id="22" rec_time="15" name="I enjoy seeing my school friends, but some of the work is boring because it is too simple for me." sound="nj_08a_02.mp3" from="1:27.575" to="1:34.633" allWordsNum="20"/>
+			<subrecord rec_id="23" rec_time="6" name="I usually achieve A grades in all my subjects." sound="nj_08a_02.mp3" from="1:34.737" to="1:37.969" allWordsNum="9"/>
+			<subrecord rec_id="24" rec_time="3" name="I never fail an exam." sound="nj_08a_02.mp3" from="1:38.072" to="1:39.986" allWordsNum="5"/>
+			</record>
+			<record rec_id="8" rec_time="5" sound="nj_08a_02.mp3">
+			<subrecord rec_id="25" rec_time="3" name="12.30 p.m." sound="nj_08a_02.mp3" from="1:40.260" to=" 1:42.995" allWordsNum="2"/>
+			</record>
+		  <record rec_id="9" rec_time="25" sound="nj_08a_02.mp3">
+			<subrecord rec_id="26" rec_time="15" name="About twice a week the driver collects me from school." sound="nj_08a_02.mp3" from=" 1:43.590" to="1:47.966" allWordsNum="10"/>
+			<subrecord rec_id="27" rec_time="6" name="I have lunch with a client, and then I return to school." sound="nj_08a_02.mp3" from="1:47.872" to="1:51.621" allWordsNum="12"/>
+			</record>
+			<record rec_id="10" rec_time="5" sound="nj_08a_02.mp3">
+			<subrecord rec_id="28" rec_time="3" name="4.15 p.m." sound="nj_08a_02.mp3" from="1:51.699" to="1:54.483" allWordsNum="2"/>
+			</record>
+		  <record rec_id="11" rec_time="25" sound="nj_08a_02.mp3">
+			<subrecord rec_id="29" rec_time="12" name="After school I usually attend a club." sound="nj_08a_02.mp3" from="1:54.697" to="1:58.003" allWordsNum="7"/>
+			<subrecord rec_id="30" rec_time="6" name="On Fridays we have Computer Club meetings." sound="nj_08a_02.mp3" from="1:58.163" to="2:01.705" allWordsNum="7"/>
+			</record>
+		  <record rec_id="12" rec_time="25" sound="nj_08a_02.mp3">
+			<subrecord rec_id="31" rec_time="5" name="Other students often ask me to assist them." sound="nj_08a_02.mp3" from="2:01.808" to="2:04.782" allWordsNum="8"/>
+			<subrecord rec_id="32" rec_time="6" name="On Mondays and Thursdays I play basketball." sound="nj_08a_02.mp3" from="2:05.273" to="2:09.022" allWordsNum="7"/>
+			<subrecord rec_id="33" rec_time="5" name="Once a week I have violin lessons." sound="nj_08a_02.mp3" from="2:09.126" to="2:11.944" allWordsNum="7"/>
+			<subrecord rec_id="34" rec_time="5" name="I finish my homework before dinner." sound="nj_08a_02.mp3" from="2:12.306" to="2:14.788" allWordsNum="6"/>
+			</record>
+			<record rec_id="13" rec_time="5" sound="nj_08a_02.mp3">
+			<subrecord rec_id="35" rec_time="3" name="7 p.m." sound="nj_08a_02.mp3" from="2:14.984" to="  2:16.911" allWordsNum="2"/>
+			</record>
+		  <record rec_id="14" rec_time="35" sound="nj_08a_02.mp3">
+		  <subrecord rec_id="36" rec_time="8" name="I always have dinner with my family." sound="nj_08a_02.mp3" from=" 2:17.244" to="2:20.037" allWordsNum="7"/>
+			<subrecord rec_id="37" rec_time="3" name="We discuss the business." sound="nj_08a_02.mp3" from="2:20.373" to="2:22.287" allWordsNum="4"/>
+			<subrecord rec_id="38" rec_time="8" name="Then I go to my office and continue working on my office and continue working on my games." sound="nj_08a_02.mp3" from="2:22.519" to="2:27.044" allWordsNum="18"/>
+			<subrecord rec_id="39" rec_time="12" name="I seldom go to bed before 11.30 p.m. I do not usually need much sleep." sound="nj_08a_02.mp3" from="2:27.122" to="2:33.482" allWordsNum="15"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="1" name="A Day in My Life" page="32">
+			<record rec_id="0" rec_time="35" sound="nj_08a_02.mp3">
+			<subrecord rec_id="1" rec_time="6" name="I wake up at about 7 a.m." sound="nj_08a_02.mp3" from="3:52.247" to="3:55.995" allWordsNum="7"/>
+			<subrecord rec_id="2" rec_time="10" name="Then I ask myself, 'which country am I in today?' " sound="nj_08a_02.mp3" from="3:56.030" to="4:01.050" allWordsNum="10"/>
+			<subrecord rec_id="3" rec_time="6" name="My home often changes because I am in the circus." sound="nj_08a_02.mp3" from="4:01.360" to="4:05.314" allWordsNum="10"/>
+			<subrecord rec_id="4" rec_time="5" name="My parents and I joined seven years ago." sound="nj_08a_02.mp3" from="4:05.555" to="4:08.547" allWordsNum="8"/>
+			<subrecord rec_id="5" rec_time="5" name="I was eight years old then." sound="nj_08a_02.mp3" from="4:08.650" to="4:10.817" allWordsNum="6"/>
+			</record>
+		  <record rec_id="2" rec_time="25" sound="nj_08a_02.mp3">
+			<subrecord rec_id="6" rec_time="10" name="I get out of bed, wash, and put on my clothes." sound="nj_08a_02.mp3" from="4:12.020" to="4:16.663" allWordsNum="11"/>
+			<subrecord rec_id="7" rec_time="5" name="Then I have breakfast with my family." sound="nj_08a_02.mp3" from="4:16.766" to="4:19.689" allWordsNum="7"/>
+			</record>
+		  <record rec_id="3" rec_time="30" sound="nj_08a_02.mp3">
+			<subrecord rec_id="8" rec_time="6" name="After that, it is time for lessons." sound="nj_08a_02.mp3" from="4:20.583" to="4:23.644" allWordsNum="7"/>
+			<subrecord rec_id="9" rec_time="5" name="Our teachers always travel with us." sound="nj_08a_02.mp3" from="4:24.022" to="4:26.395" allWordsNum="6"/>
+			<subrecord rec_id="10" rec_time="5" name="We do not have a real school." sound="nj_08a_02.mp3" from="4:26.464" to="4:28.630" allWordsNum="7"/>
+			<subrecord rec_id="11" rec_time="10" name="We study from 8.30 a.m. to 12.15 p.m." sound="nj_08a_02.mp3" from="4:28.802" to="4:33.857" allWordsNum="8"/>
+			</record>
+		  <record rec_id="4" rec_time="25" sound="nj_08a_02.mp3">
+			<subrecord rec_id="12" rec_time="6" name="After lunch, we have more lessons." sound="nj_08a_02.mp3" from="4:34.304" to="4:37.537" allWordsNum="6"/>
+			<subrecord rec_id="13" rec_time="10" name="Once or twice a week, the teachers take us to visit interesting places." sound="nj_08a_02.mp3" from="4:37.881" to="4:42.489" allWordsNum="13"/>
+			<subrecord rec_id="14" rec_time="3" name="We never get bored." sound="nj_08a_02.mp3" from="4:42.523" to="4:44.208" allWordsNum="4"/>
+			</record>
+		  <record rec_id="5" rec_time="40" sound="nj_08a_02.mp3">
+		  <subrecord rec_id="15" rec_time="6" name="At 4 p.m., we train for the circus." sound="nj_08a_02.mp3" from="4:45.549" to="4:49.367" allWordsNum="8"/>
+			<subrecord rec_id="16" rec_time="5" name="I am an acrobat." sound="nj_08a_02.mp3" from="4:49.814" to="4:52.083" allWordsNum="4"/>
+			<subrecord rec_id="17" rec_time="6" name="I practice with the other performers in my act." sound="nj_08a_02.mp3" from="4:52.290" to="4:55.488" allWordsNum="9"/>
+			<subrecord rec_id="18" rec_time="5" name="Sometimes I fall down and hurt myself." sound="nj_08a_02.mp3" from="4:55.660" to="4:58.583" allWordsNum="7"/>
+			<subrecord rec_id="19" rec_time="10" name="I often have a pain in my leg or arm, but I seldom stop." sound="nj_08a_02.mp3" from="4:58.858" to=" 5:04.085" allWordsNum="14"/>
+			<subrecord rec_id="20" rec_time="5" name="You must be tough in the circus." sound="nj_08a_02.mp3" from="5:04.498" to="5:07.180" allWordsNum="7"/>
+			</record>
+		  <record rec_id="6" rec_time="40" sound="nj_08a_02.mp3">
+			<subrecord rec_id="21" rec_time="6" name="Most of my friends are in the circus too." sound="nj_08a_02.mp3" from="5:09.381" to="5:12.751" allWordsNum="9"/>
+			<subrecord rec_id="22" rec_time="5" name="Li Mei is from China." sound="nj_08a_02.mp3" from="5:13.473" to="5:15.880" allWordsNum="5"/>
+			<subrecord rec_id="23" rec_time="5" name="She walks on stilts." sound="nj_08a_02.mp3" from="5:15.949" to="5:18.116" allWordsNum="4"/>
+			<subrecord rec_id="24" rec_time="6" name="Mark, from Australia, is a clown." sound="nj_08a_02.mp3" from="5:18.425" to="5:21.623" allWordsNum="6"/>
+			<subrecord rec_id="25" rec_time="5" name="He rides a unicycle too." sound="nj_08a_02.mp3" from="5:21.658" to="5:24.030" allWordsNum="5"/>
+			<subrecord rec_id="26" rec_time="10" name="There are people from many countries, and we all speak several languages." sound="nj_08a_02.mp3" from="5:24.650" to="5:29.430" allWordsNum="12"/>
+			</record>
+		  <record rec_id="7" rec_time="50" sound="nj_08a_02.mp3">
+			<subrecord rec_id="27" rec_time="10" name="We have dinner at 6 p.m., and then I do some homework." sound="nj_08a_02.mp3" from="5:30.461" to="5:35.620" allWordsNum="12"/>
+			<subrecord rec_id="28" rec_time="5" name="After that, I have a rest." sound="nj_08a_02.mp3" from="5:35.826" to="5:38.577" allWordsNum="6"/>
+			<subrecord rec_id="29" rec_time="10" name="At 8.30 p.m., I put on my make-up and my costume." sound="nj_08a_02.mp3" from="5:39.196" to="5:43.770" allWordsNum="11"/>
+			<subrecord rec_id="30" rec_time="12" name="My act starts at 9 p.m. I love to perform in the circus." sound="nj_08a_02.mp3" from="5:43.942" to="5:50.132" allWordsNum="13"/>
+			<subrecord rec_id="31" rec_time="10" name="The circus is very popular, so we usually have a big crowd." sound="nj_08a_02.mp3" from="5:50.200" to="5:54.637" allWordsNum="12"/>
+			</record>
+		  <record rec_id="8" rec_time="25" sound="nj_08a_02.mp3">
+			<subrecord rec_id="32" rec_time="10" name="After the performance, I return to my home and relax for an hour." sound="nj_08a_02.mp3" from="5:55.565" to="6:00.655" allWordsNum="13"/>
+			<subrecord rec_id="33" rec_time="8" name="I go to bed at about 10.30 p.m. every night." sound="nj_08a_02.mp3" from="6:01.033" to="6:05.263" allWordsNum="10"/>
+		  </record>
+			<exercise type="4" index="0"/>
+		</part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="Speaking" page="28">
+			<record rec_id="0" rec_time="10" name="Today , we're going to talk about experiments. First,..." sound="nj_08a_02.mp3" from="3:25.183" to="3:30.822" allWordsNum="8"/>
+			<record rec_id="1" rec_time="3" name="Excuse me, sir." sound="nj_08a_02.mp3" from="3:30.926" to="3:32.576" allWordsNum="3"/>
+			<record rec_id="2" rec_time="3" name="Yes, Wendy." sound="nj_08a_02.mp3" from="3:32.611" to="3:33.986" allWordsNum="2"/>
+			<record rec_id="3" rec_time="5" name="Can you spell 'experiments'?" sound="nj_08a_02.mp3" from="3:34.227" to="3:36.634" allWordsNum="4"/>
+			<record rec_id="4" rec_time="8" name="E-X-P-E-R-I-M-E-N-T-S." sound="nj_08a_02.mp3" from="3:36.703" to="3:42.274" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="Thank you, sir." sound="nj_08a_02.mp3" from="3:42.446" to="3:44.062" allWordsNum="3"/>
+			<exercise type="5" index="0"/>
+		</part>
+	</dialogs>
+</package>
+ 

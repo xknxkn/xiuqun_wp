@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_06b</book_id>
+	<unit_id>nj_06b_01</unit_id>
+	<version>6</version>
+	<unit>unit1</unit>
+	<title>Great cities in Asia</title>
+	<words>
+		<part part_index="0" page="6">
+      <record rec_id="0" rec_time="3" name="Asia" symbol="5eiFE" explain="n.亚洲" sound="nj_06b_01.mp3" from="  0:05.079" to="  0:06.646" allWordsNum="1"/>
+      <record rec_id="1" rec_time="3" name="Japan" symbol="dVE5pAn" explain="n.日本" sound="nj_06b_01.mp3" from="  0:08.782" to="  0:10.016" allWordsNum="1"/>
+      <record rec_id="2" rec_time="3" name="Tokyo" symbol="5tEukiEu" explain="n.东京" sound="nj_06b_01.mp3" from="  0:11.678" to="  0:12.959" allWordsNum="1"/>
+      <record rec_id="3" rec_time="3" name="Thailand" symbol="5tailAnd" explain="n.泰国" sound="nj_06b_01.mp3" from="  0:14.716" to="  0:15.808" allWordsNum="1"/>
+      <record rec_id="4" rec_time="3" name="Bangkok" symbol="bAN5kCk" explain="n.曼谷" sound="nj_06b_01.mp3" from="  0:17.517" to="  0:19.083" allWordsNum="1"/>
+      <record rec_id="5" rec_time="3" name="north-east" symbol="7nR:W 5i:st" explain="adv.东北" sound="nj_06b_01.mp3" from="  0:20.460" to="  0:22.074" allWordsNum="2"/>
+      <record rec_id="6" rec_time="3" name="north-west" symbol="7nR:W 5west" explain="adv.西北" sound="nj_06b_01.mp3" from="  0:23.593" to="  0:25.017" allWordsNum="2"/>
+      <record rec_id="7" rec_time="3" name="south-east" symbol="7sauW 5I:st" explain="adv.东南" sound="nj_06b_01.mp3" from="  0:26.536" to="  0:28.245" allWordsNum="2"/>
+      <record rec_id="8" rec_time="3" name="south-west" symbol="7sauW 5west" explain="adv.西南" sound="nj_06b_01.mp3" from="  0:29.574" to="  0:30.951" allWordsNum="2"/>
+      <record rec_id="9" rec_time="3" name="exhibition" symbol="7eksi5biFn" explain="n.展览会" sound="nj_06b_01.mp3" from="  0:32.565" to="  0:33.752" allWordsNum="1"/>
+      <record rec_id="10" rec_time="3" name="capital" symbol="5kApitl" explain="n.首都" sound="nj_06b_01.mp3" from="  0:35.651" to="  0:36.743" allWordsNum="1"/>
+      <record rec_id="11" rec_time="3" name="kilometer" symbol="5kilEmi:tE(r)" explain="n.千米；公里" sound="nj_06b_01.mp3" from="  0:38.072" to="  0:39.543" allWordsNum="1"/>
+      <record rec_id="12" rec_time="3" name="information" symbol="7infE5meiFn" explain="n.信息" sound="nj_06b_01.mp3" from="  0:40.968" to="  0:42.202" allWordsNum="1"/>
+      <record rec_id="13" rec_time="3" name="palace" symbol="5pAlEs" explain="n.宫殿" sound="nj_06b_01.mp3" from="  0:43.816" to="  0:45.098" allWordsNum="1"/>
+      <record rec_id="14" rec_time="3" name="tourist" symbol="5tuErist" explain="n.游客；观光者" sound="nj_06b_01.mp3" from="  0:46.284" to="  0:47.471" allWordsNum="1"/>
+      <record rec_id="15" rec_time="3" name="million" symbol="5miljEn" explain="num.百万" sound="nj_06b_01.mp3" from="  0:48.753" to="  0:50.225" allWordsNum="1"/>
+      <record rec_id="16" rec_time="3" name="building" symbol="5bildiN" explain="n.建筑物" sound="nj_06b_01.mp3" from="  0:51.459" to="  0:52.741" allWordsNum="1"/>
+      <record rec_id="17" rec_time="3" name="huge" symbol="hju:dV" explain="adj.巨大的" sound="nj_06b_01.mp3" from="  0:54.165" to="  0:55.114" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="famous" symbol="5feimEs" explain="adj.著名的" sound="nj_06b_01.mp3" from="  0:56.491" to="  0:57.678" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="sushi" symbol="5su:Fi" explain="n.寿司" sound="nj_06b_01.mp3" from="  0:59.197" to="  1:00.241" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/> 
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Great cities in Asia" page="4">
+			<record rec_id="0" rec_time="25" sound="nj_06b_01.mp3">
+			<subrecord rec_id="1" rec_time="10" name="Miss Guo and her students are reading some information about Beijing, Tokyo and Bangkok. " sound="nj_06b_01.mp3" from="  1:10.937" to="  1:19.205" allWordsNum="14"/>
+			</record>
+			<record rec_id="1" rec_time="5" sound="nj_06b_01.mp3">
+			<subrecord rec_id="2" rec_time="3" name="Beijing" sound="nj_06b_01.mp3" from="  1:20.202" to="  1:21.365" allWordsNum="1"/>
+			</record>
+			<record rec_id="2" rec_time="60" sound="nj_06b_01.mp3">
+			<subrecord rec_id="3" rec_time="5" name="Beijing is the capital of China. " sound="nj_06b_01.mp3" from="  1:22.362" to="  1:25.312" allWordsNum="6"/>
+			<subrecord rec_id="4" rec_time="5" name="It is north of Shanghai. " sound="nj_06b_01.mp3" from="  1:25.977" to="  1:28.096" allWordsNum="5"/>
+			<subrecord rec_id="5" rec_time="5" name="You can find museums, palaces and parks there. " sound="nj_06b_01.mp3" from="  1:28.719" to="  1:33.123" allWordsNum="8"/>
+			<subrecord rec_id="6" rec_time="5" name="Many tourists like visiting those places. " sound="nj_06b_01.mp3" from="  1:34.120" to="  1:37.984" allWordsNum="6"/>
+			<subrecord rec_id="7" rec_time="5" name="They always visit the Great Wall. " sound="nj_06b_01.mp3" from="  1:38.317" to="  1:41.059" allWordsNum="6"/>
+			<subrecord rec_id="8" rec_time="6" name="There are more than 15 million people in Beijing. " sound="nj_06b_01.mp3" from="  1:41.724" to="  1:45.297" allWordsNum="9"/>
+			<subrecord rec_id="9" rec_time="5" name="They enjoy eating dumplings. " sound="nj_06b_01.mp3" from="  1:45.754" to="  1:48.496" allWordsNum="4"/>
+			</record>
+			<record rec_id="3" rec_time="5" sound="nj_06b_01.mp3">
+			<subrecord rec_id="10" rec_time="3" name="Tokyo" sound="nj_06b_01.mp3" from="  1:49.161" to="  1:50.241" allWordsNum="1"/>
+			</record>
+			<record rec_id="4" rec_time="60" sound="nj_06b_01.mp3">
+			<subrecord rec_id="11" rec_time="5" name="Tokyo is the capital of Japan. " sound="nj_06b_01.mp3" from="  1:51.612" to="  1:54.105" allWordsNum="6"/>
+			<subrecord rec_id="12" rec_time="5" name="It is north-east of Shanghai. " sound="nj_06b_01.mp3" from="  1:54.271" to="  1:56.972" allWordsNum="6"/>
+			<subrecord rec_id="13" rec_time="8" name="You can see a lot of tall buildings, huge department stores and famous hotels there. " sound="nj_06b_01.mp3" from="  1:57.429" to="  2:03.910" allWordsNum="15"/>
+			<subrecord rec_id="14" rec_time="5" name="Tourists usually go shopping in Tokyo. " sound="nj_06b_01.mp3" from="  2:05.614" to="  2:08.397" allWordsNum="6"/>
+			<subrecord rec_id="15" rec_time="6" name="There are about 12 million people in this city. " sound="nj_06b_01.mp3" from="  2:09.561" to="  2:12.801" allWordsNum="9"/>
+			<subrecord rec_id="16" rec_time="5" name="They love eating sushi. " sound="nj_06b_01.mp3" from="  2:13.175" to="  2:15.211" allWordsNum="4"/>
+			</record>
+			<record rec_id="5" rec_time="5" sound="nj_06b_01.mp3">
+			<subrecord rec_id="17" rec_time="3" name="Bangkok" sound="nj_06b_01.mp3" from="  2:16.182" to="  2:17.429" allWordsNum="1"/>
+			</record>
+			<record rec_id="6" rec_time="60" sound="nj_06b_01.mp3">
+			<subrecord rec_id="18" rec_time="5" name="Bangkok is the capital of Thailand. " sound="nj_06b_01.mp3" from="  2:18.010" to="  2:20.960" allWordsNum="6"/>
+			<subrecord rec_id="19" rec_time="5" name="It is south-west of Shanghai. " sound="nj_06b_01.mp3" from="  2:21.500" to="  2:24.076" allWordsNum="5"/>
+			<subrecord rec_id="20" rec_time="5" name="There are many temples and beaches in Bangkok. " sound="nj_06b_01.mp3" from="  2:24.907" to="  2:28.065" allWordsNum="8"/>
+			<subrecord rec_id="21" rec_time="8" name="A lot of tourists enjoy swimming in the sea at these beautiful beaches. " sound="nj_06b_01.mp3" from="  2:28.979" to="  2:34.297" allWordsNum="13"/>
+			<subrecord rec_id="22" rec_time="5" name="There are about 8 million people in Bangkok. " sound="nj_06b_01.mp3" from="  2:35.045" to="  2:38.327" allWordsNum="8"/>
+			<subrecord rec_id="23" rec_time="5" name="They love eating fruit. " sound="nj_06b_01.mp3" from="  2:38.784" to="  2:40.612" allWordsNum="4"/>
+			<subrecord rec_id="24" rec_time="5" name="They also love eating spicy food. " sound="nj_06b_01.mp3" from="  2:41.111" to="  2:43.978" allWordsNum="6"/>
+			</record>
+			<exercise type="4" index="0"/>
+		  </part>
+		  <part part_index="0" name="Hong Kong—Asia's art capital" page="0" source="2">
+			<record rec_id="0" rec_time="11" sound="6B Unit 1.mp3">
+				<subrecord rec_id="1" rec_time="5" name="Hong Kong is known as a city of trade and finance." sound="6B Unit 1.mp3" from="      0:06.951" to="      0:10.531" allWordsNum="11"/>
+				<subrecord rec_id="2" rec_time="6" name="Now, it is discovering a new role as Asia's art capital." sound="6B Unit 1.mp3" from="    0:10.929" to="    0:15.190" allWordsNum="11"/>
+			</record>
+			<record rec_id="1" rec_time="12" sound="6B Unit 1.mp3">
+			  <subrecord rec_id="3" rec_time="12" name="The city became the world's third largest art auction market after New York and London in 2007 and since 2008 it has been home to a successful modern art fair." sound="6B Unit 1.mp3" from="  0:16.781" to="  0:28.733" allWordsNum="30"/>
+			</record>
+		<record rec_id="2" rec_time="9" sound="6B Unit 1.mp3">
+			  <subrecord rec_id="4" rec_time="9" name="Hong Kong is also attracting big-name art galleries to compete against London's Tate Modern or New York's Museum of Modern Art." sound="6B Unit 1.mp3" from="  0:30.343" to="  0:38.923" allWordsNum="21"/>
+			</record>
+		<record rec_id="3" rec_time="24" sound="6B Unit 1.mp3">
+		    <subrecord rec_id="5" rec_time="5" name="However, Hong Kong does face a lot of challenges." sound="6B Unit 1.mp3" from="  0:40.496" to="  0:44.359" allWordsNum="9"/>
+				<subrecord rec_id="6" rec_time="8" name="It lacks a museum or art education place that encourages the development of modern art." sound="6B Unit 1.mp3" from="  0:44.644" to="  0:51.140" allWordsNum="15"/>
+				<subrecord rec_id="7" rec_time="6" name="Meanwhile, its artist community is small and faces high costs." sound="6B Unit 1.mp3" from="  0:52.750" to="  0:57.864" allWordsNum="10"/>
+				<subrecord rec_id="8" rec_time="5" name="It's not easy for artists to find cheap studios there." sound="6B Unit 1.mp3" from="  0:58.168" to="  1:02.202" allWordsNum="10"/>
+			</record>
+		<record rec_id="4" rec_time="6" sound="6B Unit 1.mp3">
+			  <subrecord rec_id="9" rec_time="6" name="It's still a long way for Hong Kong to become a first-class art capital in the world." sound="6B Unit 1.mp3" from="  1:03.807" to="  1:09.319" allWordsNum="17"/>
+			</record>
+		<exercise type="4" index="0"/>
+      </part>	
+      <part part_index="2" name="Hong Kong-Asia's art capital" page="0" source="2">
+      	<article allWordsNum="125">
+            	<![CDATA[
+Hong Kong is known as a city of trade and finance.Now, it is discovering a new role as Asia's art capital.
+The city became the world's third largest art auction market(艺术品拍卖市场) after New York and London in 2007 and since 2008 it has been home to a successful modern art fair.
+Hong Kong is also attracting big-name art galleries(画廊) to compete against London's Tate Modern(泰特现代美术馆) or New York's Museum of Modern Art.
+However, Hong Kong does face a lot of challenges(挑战).It lacks a museum or art education place that encourages the development of modern art.Meanwhile, its artist community is small and faces high costs.It's not easy for artists to find cheap studios there.It's still a long way for Hong Kong to become a first-class art capital in the world.
+            	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="2" name="True or false. " qtype="2">
+					<question rec_id="0" choice="true">
+						<![CDATA[Hong Kong is a city of trade and finance.]]>
+					</question>
+					<question rec_id="1" choice="false">
+						<![CDATA[It has a lot of art education places.]]>
+					</question>
+					<question rec_id="2" choice="false">
+						<![CDATA[It is already a first-class art capital in the world.]]>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="Dialog" page="2">
+			<record rec_id="0" rec_time="10" name="Look at the map. Beijing is the capital of China. Do you know which city is the capital of Japan?" sound="nj_06b_01.mp3" from="  3:41.928" to="  3:50.939" allWordsNum="20"/>
+      <record rec_id="1" rec_time="5" name="Tokyo is the capital of Japan. " sound="nj_06b_01.mp3" from="  3:51.707" to="  3:54.361" allWordsNum="6"/>			
+			<record rec_id="2" rec_time="5" name="That's right. Where is it?" sound="nj_06b_01.mp3" from="  3:54.920" to="  3:57.575" allWordsNum="5"/>
+			<record rec_id="3" rec_time="5" name="It's north-east of Shanghai. " sound="nj_06b_01.mp3" from="  3:58.343" to="  4:00.858" allWordsNum="5"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="1" name="Dialog" page="3">
+			<record rec_id="0" rec_time="5" name="How far is it from Shanghai to Beijing?" sound="nj_06b_01.mp3" from="  4:13.007" to="  4:16.485" allWordsNum="8"/>
+      <record rec_id="1" rec_time="5" name="It's about 1,400 kilometres. " sound="nj_06b_01.mp3" from="  4:16.663" to="  4:20.587" allWordsNum="4"/>			
+			<record rec_id="2" rec_time="5" name="How can we travel to Beijing?" sound="nj_06b_01.mp3" from="  4:21.033" to="  4:23.530" allWordsNum="6"/>
+			<record rec_id="3" rec_time="5" name="We can travel by train. " sound="nj_06b_01.mp3" from="  4:24.243" to="  4:26.829" allWordsNum="5"/>
+			<record rec_id="4" rec_time="8" name="How long does it take to travel from Shanghai to Beijing by train?" sound="nj_06b_01.mp3" from="  4:26.919" to="  4:32.893" allWordsNum="13"/>
+			<record rec_id="5" rec_time="5" name="It takes about ten hours. " sound="nj_06b_01.mp3" from="  4:33.161" to="  4:35.836" allWordsNum="5"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="2" name="Dialog" page="5">
+			<record rec_id="0" rec_time="7" name="Boys and girls, here are some quiz cards. Ask your classmates the questions. " sound="nj_06b_01.mp3" from="  6:06.472" to="  6:13.499" allWordsNum="13"/>
+      <record rec_id="1" rec_time="5" name="Which city is the capital of Thailand?" sound="nj_06b_01.mp3" from="  6:13.837" to="  6:17.013" allWordsNum="7"/>			
+			<record rec_id="2" rec_time="5" name="Bangkok is the capital of Thailand. " sound="nj_06b_01.mp3" from="  6:17.715" to="  6:20.084" allWordsNum="6"/>
+			<exercise type="5" index="0"/>
+		</part>
+    </dialogs>
+</package>
+ 

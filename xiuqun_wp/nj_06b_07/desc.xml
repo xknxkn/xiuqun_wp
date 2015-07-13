@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_06b</book_id>
+	<unit_id>nj_06b_07</unit_id>
+	<version>5</version>
+	<unit>unit7</unit>
+	<title>Travelling in Garden City</title>
+	<words>
+		<part part_index="0" page="49">
+      <record rec_id="0" rec_time="3" name="double-decker" symbol="7dQbl5dekE(r)" explain="n. 双层车" sound="nj_06b_07.mp3" from="  0:03.990" to="  0:05.597" allWordsNum="2"/>
+      <record rec_id="1" rec_time="3" name="fare" symbol="feE(r)" explain="n. 车费" sound="nj_06b_07.mp3" from="  0:07.495" to="  0:08.614" allWordsNum="1"/>
+      <record rec_id="2" rec_time="3" name="public" symbol="5pQblik" explain="adj. 公共的" sound="nj_06b_07.mp3" from="  0:09.977" to="  0:10.707" allWordsNum="1"/>
+      <record rec_id="3" rec_time="3" name="transportation" symbol="7trAnspR:5teiFn" explain="n. 交通；运输" sound="nj_06b_07.mp3" from="  0:12.070" to="  0:13.530" allWordsNum="1"/>
+      <record rec_id="4" rec_time="3" name="conductor" symbol="kEn5dQktE(r)" explain="n. 售票员" sound="nj_06b_07.mp3" from="  0:16.791" to="  0:18.007" allWordsNum="1"/>
+      <record rec_id="5" rec_time="3" name="nowadays" symbol="5nauEdeiz" explain="adv. 现今" sound="nj_06b_07.mp3" from="  0:18.007" to="  0:19.516" allWordsNum="1"/>
+      <record rec_id="6" rec_time="3" name="instead" symbol="in5sted" explain="adv. 代替；更换" sound="nj_06b_07.mp3" from="  0:20.782" to="  0:22.047" allWordsNum="1"/>
+      <record rec_id="7" rec_time="3" name="single-decker" symbol="7siNgl5dekE(r)" explain="n. 单层车" sound="nj_06b_07.mp3" from="  0:23.361" to="  0:24.627" allWordsNum="2"/>
+      <record rec_id="8" rec_time="3" name="most" symbol="mEust" explain="pron. 大多数" sound="nj_06b_07.mp3" from="  0:26.184" to="  0:27.206" allWordsNum="1"/>
+      <record rec_id="9" rec_time="3" name="none" symbol="nQn" explain="pron. 没有一个" sound="nj_06b_07.mp3" from="  0:28.617" to="  0:29.445" allWordsNum="1"/>
+      <record rec_id="10" rec_time="3" name="still" symbol="stil" explain="adv. 仍然；依旧；还是" sound="nj_06b_07.mp3" from="  0:30.564" to="  0:31.830" allWordsNum="1"/>
+      <record rec_id="11" rec_time="3" name="perhaps" symbol="pE5hAps" explain="adv. 也许；大概；可能" sound="nj_06b_07.mp3" from="  0:33.144" to="  0:34.117" allWordsNum="1"/>
+      <record rec_id="12" rec_time="3" name="few" symbol="fju:"  explain="adj. 不多的；很少的" sound="nj_06b_07.mp3" from="  0:35.529" to="  0:36.405" allWordsNum="1"/>
+      <record rec_id="13" rec_time="3" name="traffic jam" symbol="5trAfik dVAm" explain="n. 堵车；交通阻塞" sound="nj_06b_07.mp3" from="  0:37.621" to="  0:39.228" allWordsNum="2"/>
+      <record rec_id="14" rec_time="3" name="motorcycle" symbol="5mEutEsaikl" explain="n. 轻便摩托车" sound="nj_06b_07.mp3" from="  0:40.688" to="  0:42.196" allWordsNum="1"/>
+      <record rec_id="15" rec_time="3" name="flyover" symbol="5flaiEuvE(r)" explain="n. 立交桥" sound="nj_06b_07.mp3" from="  0:43.754" to="  0:45.068" allWordsNum="1"/>
+      <record rec_id="16" rec_time="3" name="railway" symbol="5reilwei" explain="n. 铁路" sound="nj_06b_07.mp3" from="  0:46.285" to="  0:47.550" allWordsNum="1"/>
+      <record rec_id="17" rec_time="3" name="pavement" symbol="5peivmEnt" explain="n. 人行道" sound="nj_06b_07.mp3" from="  0:48.864" to="  0:49.935" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="tunnel" symbol="5tQnl" explain="n. 隧道" sound="nj_06b_07.mp3" from="  0:51.395" to="  0:52.174" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="bridge" symbol="bridV" explain="n. 桥" sound="nj_06b_07.mp3" from="  0:53.537" to="  0:54.461" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="crossing" symbol="5krCsiN" explain="n. 人行横道；十字路口" sound="nj_06b_07.mp3" from="  0:55.532" to="  0:56.797" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="footbridge" symbol="5futbridV" explain="n. 人行桥" sound="nj_06b_07.mp3" from="  0:58.063" to="  0:59.280" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="poster" symbol="5pEustE(r)" explain="n. 招贴画；海报" sound="nj_06b_07.mp3" from="  1:00.642" to="  1:01.470" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/> 
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Travelling by bus" page="46">
+			<record rec_id="0" rec_time="60" sound="nj_06b_07.mp3">
+			<subrecord rec_id="1" rec_time="5" name="Many people like travelling by bus. " sound="nj_06b_07.mp3" from="  1:28.905" to="  1:31.487" allWordsNum="6"/>
+			<subrecord rec_id="2" rec_time="6" name="In the past, all passengers had to buy tickets from a bus conductor. " sound="nj_06b_07.mp3" from="  1:32.348" to="  1:37.034" allWordsNum="13"/>
+			<subrecord rec_id="3" rec_time="8" name="He or she collected money from the passengers and put it in a bag. " sound="nj_06b_07.mp3" from="  1:37.847" to="  1:42.342" allWordsNum="14"/>
+			<subrecord rec_id="4" rec_time="8" name="Nowadays, on many buses passengers do not have to buy tickets from a bus conductor. " sound="nj_06b_07.mp3" from="  1:42.964" to="  1:48.989" allWordsNum="15"/>
+			<subrecord rec_id="5" rec_time="8" name="They put their money in a fare box or use a public transportation card instead. " sound="nj_06b_07.mp3" from="  1:49.371" to="  1:54.823" allWordsNum="15"/>
+			</record>
+			<record rec_id="1" rec_time="35" sound="nj_06b_07.mp3">
+			<subrecord rec_id="6" rec_time="5" name="In the past, there were only single-decker buses. " sound="nj_06b_07.mp3" from="  1:55.972" to="  1:59.750" allWordsNum="9"/>
+			<subrecord rec_id="7" rec_time="5" name="Nowadays, some buses are double-decker buses. " sound="nj_06b_07.mp3" from="  2:00.228" to="  2:04.053" allWordsNum="7"/>
+			<subrecord rec_id="8" rec_time="5" name="In the past, there were no air-conditioned buses. " sound="nj_06b_07.mp3" from="  2:04.627" to="  2:08.405" allWordsNum="9"/>
+			<subrecord rec_id="9" rec_time="5" name="Nowadays, most of them are air-conditioned. " sound="nj_06b_07.mp3" from="  2:08.979" to="  2:12.422" allWordsNum="7"/>
+			</record>
+			<record rec_id="2" rec_time="35" sound="nj_06b_07.mp3">
+			<subrecord rec_id="10" rec_time="5" name="In the past, none of the bus drivers were women. " sound="nj_06b_07.mp3" from="  2:13.904" to="  2:17.491" allWordsNum="10"/>
+			<subrecord rec_id="11" rec_time="5" name="All of them were men. " sound="nj_06b_07.mp3" from="  2:18.017" to="  2:19.451" allWordsNum="5"/>
+			<subrecord rec_id="12" rec_time="5" name="Nowadays, some of the bus drivers are women, but most of them are still men. " sound="nj_06b_07.mp3" from="  2:20.264" to="  2:26.385" allWordsNum="15"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="2" name="Travel like Harry Potter" page="0" source="2">
+			<record rec_id="0" rec_time="15" sound="6B Unit 7.mp3">
+				<subrecord rec_id="1" rec_time="5" name="Visitors to Norway can now travel in the footsteps of Harry Potter. " sound="6B Unit 7.mp3" from="  0:06.109" to="  0:10.731" allWordsNum="12"/>
+				<subrecord rec_id="2" rec_time="10" name="Parts of the movie Harry Potter and the Half-Blood Prince were filmed on the train line Raumabanen, between Oslo and the Norwegian fjord region. " sound="6B Unit 7.mp3" from="  0:11.016" to="  0:20.196" allWordsNum="24"/>
+			</record>
+			<record rec_id="1" rec_time="14" sound="6B Unit 7.mp3">
+				<subrecord rec_id="3" rec_time="8" name="A trip on the train line gives you a unique opportunity to experience some of the most beautiful scenery in Norway. " sound="6B Unit 7.mp3" from="  0:21.810" to="  0:29.059" allWordsNum="21"/>
+				<subrecord rec_id="4" rec_time="6" name="In only one hour, the train will take you from beautiful fjords to wild mountains. " sound="6B Unit 7.mp3" from="  0:29.281" to="  0:35.106" allWordsNum="15"/>
+			</record>
+			<record rec_id="2" rec_time="8" sound="6B Unit 7.mp3">
+				<subrecord rec_id="5" rec_time="8" name="Once you get on the train, all you need to do is sit back, look through the large windows and enjoy your journey. " sound="6B Unit 7.mp3" from="  0:36.706" to="  0:43.733" allWordsNum="23"/>
+			</record>
+			<record rec_id="3" rec_time="4" sound="6B Unit 7.mp3">
+				<subrecord rec_id="6" rec_time="4" name="Do you want to take the train and travel like Harry Potter? " sound="6B Unit 7.mp3" from="  0:45.253" to="  0:48.861" allWordsNum="12"/>
+				</record>
+		<exercise type="4" index="0"/>
+      </part>	
+		 <part part_index="3" name="Travel like Harry Potter" page="0" source="2">
+      	<article allWordsNum="107">
+            	<![CDATA[
+Visitors to Norway (挪威) can now travel in the footsteps of Harry Potter. Parts of the movie Harry Potter and the Half-Blood Prince (《哈利•波特与混血王子》) were filmed on the train line Raumabanen (饶玛列车), between Oslo (奥斯陆) and the Norwegian fjord region (峡湾地区).
+A trip on the train line gives you a unique opportunity to experience some of the most beautiful scenery in Norway. In only one hour, the train will take you from beautiful fjords to wild mountains.
+Once you get on the train, all you need to do is sit back, look through the large windows and enjoy your journey.
+Do you want to take the train and travel like Harry Potter?
+  	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="2" name="True or false. " qtype="2">
+					<question rec_id="0" choice="false">
+						<![CDATA[The Harry Potter movie series was filmed entirely on the train line Raumabanen.]]>
+					</question>
+					<question rec_id="1" choice="true">
+						<![CDATA[If you take the train, you can see beautiful scenery in Norway.]]>
+					</question>
+					<question rec_id="2" choice="false">
+						<![CDATA[It will take you two hours from fjords to wild mountains by the train.]]>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+		<dialogs>
+		<part part_index="0" name="Travelling in 10 years' time" page="47">
+			<record rec_id="0" rec_time="5" name="What will travelling in Garden City be like in 10 years' time?" sound="nj_06b_07.mp3" from="  2:37.030" to="  2:41.848" allWordsNum="11"/>
+      <record rec_id="1" rec_time="5" name="Perhaps none of the people will travel by ferry. " sound="nj_06b_07.mp3" from="  2:43.053" to="  2:46.283" allWordsNum="9"/>	
+			<record rec_id="2" rec_time="5" name="Perhaps most of the people will travel by underground. " sound="nj_06b_07.mp3" from="  2:46.666" to="  2:51.046" allWordsNum="9"/>
+			<record rec_id="3" rec_time="5" name="Perhaps there will be fewer traffic jams. " sound="nj_06b_07.mp3" from="  2:51.977" to="  2:55.207" allWordsNum="7"/>
+			<record rec_id="4" rec_time="5" name="Perhaps there will be more underground stations. " sound="nj_06b_07.mp3" from="  2:55.536" to="  2:59.368" allWordsNum="7"/>
+			<exercise type="5" index="0"/>
+		</part>
+    </dialogs>
+</package>
+ 

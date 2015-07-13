@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_09b</book_id>
+	<unit_id>nj_09b_04</unit_id>
+	<version>3</version>
+	<unit>unit4</unit>
+	<title>All about films and TV</title>
+	<words>
+		<part part_index="0" page="69">
+			<record rec_id="0" rec_time="3" name="set" symbol="set" explain="n.摄影场；布景；v.为……设置背景" sound="nj_09b_04.mp3" from=" 13:49.459" to=" 13:51.217" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="movie" symbol="5mu:vi" explain="n.（多用于美语）电影" sound="nj_09b_04.mp3" from=" 13:53.951" to=" 13:55.514" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="see stars" symbol="si: stB:z" explain="两眼直冒金星" sound="nj_09b_04.mp3" from=" 13:58.639" to=" 14:00.331" allWordsNum="2"/>
+		  <record rec_id="3" rec_time="3" name="Hollywood" symbol="5hCliwud" explain="n.好莱坞" sound="nj_09b_04.mp3" from=" 14:03.652" to=" 14:05.409" allWordsNum="1"/>
+			<record rec_id="4" rec_time="5" name="have the time of one's life" symbol="hAv  Ti: taim Cv wQnz laif" explain="过得很快乐；玩得愉快" sound="nj_09b_04.mp3" from=" 14:07.818" to=" 14:10.943" allWordsNum="6"/>
+			<record rec_id="5" rec_time="3" name="highlight" symbol="5hailait" explain="n.最精彩；最激动人心的部分" sound="nj_09b_04.mp3" from=" 14:15.630" to=" 14:16.932" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="studio" symbol="5stju:diEu" explain="n.片场；录像室；演播室；制作室" sound="nj_09b_04.mp3" from=" 14:19.602" to=" 14:21.229" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="shoot" symbol="Fu:t" explain="v.拍摄" sound="nj_09b_04.mp3" from=" 14:24.029" to=" 14:25.135" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="jungle" symbol="5dVQNgl" explain="n.(热带)丛林；密林" sound="nj_09b_04.mp3" from=" 14:28.521" to=" 14:29.758" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="humid" symbol="5hju:mid" explain="adj.温暖潮湿的" sound="nj_09b_04.mp3" from=" 14:32.818" to=" 14:34.315" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="jump out of one's skin" symbol="dVQmp aut Cv wQnz skiN" explain="大吃一惊；吓一大跳" sound="nj_09b_04.mp3" from=" 14:37.310" to=" 14:39.653" allWordsNum="5"/>
+			<record rec_id="11" rec_time="3" name="impress" symbol="im5pres" explain="v.给...留下深刻印象" sound="nj_09b_04.mp3" from=" 14:43.690" to=" 14:45.838" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="awesome" symbol="5R:sEm" explain="adj.极好的" sound="nj_09b_04.mp3" from=" 14:48.442" to=" 14:50.135" allWordsNum="1"/>
+			<record rec_id="13" rec_time="4" name="terrific" symbol="tE5rifik" explain="adj.很大的；巨大的" sound="nj_09b_04.mp3" from=" 14:53.260" to=" 14:54.887" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="violently" symbol="5vaiElEntli" explain="adv.猛烈地；厉害地" sound="nj_09b_04.mp3" from=" 14:58.077" to=" 15:00.226" allWordsNum="3"/>
+			<record rec_id="15" rec_time="4" name="(not)at all" symbol="(nCt) At R:l" explain="一点（也不）；完全（不）" sound="nj_09b_04.mp3" from=" 15:02.700" to=" 15:04.588" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="special effects" symbol="5spAFEl ifekts" explain="特技效果" sound="nj_09b_04.mp3" from=" 15:08.103" to=" 15:09.666" allWordsNum="2"/>
+			<record rec_id="17" rec_time="3" name="extra" symbol="5ekstrE" explain="n.(电影里的)临时演员；群众演员" sound="nj_09b_04.mp3" from=" 15:13.116" to=" 15:14.939" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="director" symbol="di5rektE(r)" explain="n.(电影；戏剧等的)导演" sound="nj_09b_04.mp3" from=" 15:17.283" to=" 15:19.171" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="cut a long story short" symbol="kQt A lCN 5stR:ri FR:t" explain="长话短说" sound="nj_09b_04.mp3" from=" 15:22.491" to=" 15:25.095" allWordsNum="5"/>
+			<record rec_id="20" rec_time="3" name="select" symbol="si5lekt" explain="v.选择；挑选" sound="nj_09b_04.mp3" from=" 15:28.415" to=" 15:30.694" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="actress" symbol="5AktrEs" explain="n.女演员" sound="nj_09b_04.mp3" from=" 15:32.777" to=" 15:34.340" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="envy" symbol="5envi" explain="n.羡慕；妒忌" sound="nj_09b_04.mp3" from=" 15:36.944" to=" 15:38.702" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="green with envy" symbol="gri:n wiT envi" explain="（十分）妒忌的；眼红的" sound="nj_09b_04.mp3" from=" 15:41.371" to=" 15:43.259" allWordsNum="3"/>
+			<record rec_id="24" rec_time="3" name="work as" symbol="wE:k Es" explain="从事......工作" sound="nj_09b_04.mp3" from=" 15:46.774" to=" 15:48.467" allWordsNum="2"/>
+			<record rec_id="25" rec_time="3" name="a piece of cake" symbol="A pi:s Cv keik" explain="轻松（或容易）的事情" sound="nj_09b_04.mp3" from=" 15:51.331" to=" 15:53.024" allWordsNum="4"/>
+			<record rec_id="26" rec_time="3" name="make up" symbol="meikQp " explain="组成；构成" sound="nj_09b_04.mp3" from=" 15:56.214" to=" 15:58.102" allWordsNum="2"/>
+			<record rec_id="27" rec_time="3" name="dictionary" symbol="5dikFEnri" explain="n.词典；字典" sound="nj_09b_04.mp3" from=" 16:00.902" to=" 16:02.790" allWordsNum="1"/>
+			<record rec_id="28" rec_time="3" name="speak up" symbol="spi:k Qp" explain="大声点说" sound="nj_09b_04.mp3" from=" 16:05.263" to=" 16:07.086" allWordsNum="2"/>
+			<record rec_id="29" rec_time="3" name="nervous" symbol="5nE:vEs" explain="adj.易紧张焦虑的；胆怯的" sound="nj_09b_04.mp3" from=" 16:08.909" to=" 16:11.123" allWordsNum="1"/>
+			<record rec_id="30" rec_time="3" name="apartment" symbol="E5pB:tmEnt" explain="n.公寓套房" sound="nj_09b_04.mp3" from=" 16:13.531" to=" 16:15.419" allWordsNum="1"/>
+			<record rec_id="31" rec_time="3" name="influence" symbol="5inflUEns" explain="v.影响；对...起作用" sound="nj_09b_04.mp3" from=" 16:17.958" to=" 16:19.651" allWordsNum="1"/>
+			<record rec_id="32" rec_time="3" name="brilliant" symbol="5briliEnt" explain="adj.很好的；杰出的" sound="nj_09b_04.mp3" from=" 16:22.581" to=" 16:24.208" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Students see stars in Hollywood! " page="55">
+			<record rec_id="0" rec_time="25" sound="nj_09b_04.mp3">
+			<subrecord rec_id="1" rec_time="15" name="Julia Carter and Roddy Wang, students from Sunshine International School, had the time of their lives during their recent visit to Hollywood. "  sound="nj_09b_04.mp3" from="0:20.206" to="0:29.283" allWordsNum="22"/>
+			<subrecord rec_id="2" rec_time="6" name=" Philip interviewed them and wrote an article about the visit for Youth Post. "  sound="nj_09b_04.mp3" from="0:29.865" to="0:34.562" allWordsNum="13"/>
+			</record>
+			<record rec_id="1" rec_time="20" sound="nj_09b_04.mp3">
+			<subrecord rec_id="3" rec_time="8" name="'The tour of the Movie Park was the highlight of our visit to Hollywood,' said Julia. "  sound="nj_09b_04.mp3" from="0:36.031" to="0:40.905" allWordsNum="17"/>
+			<subrecord rec_id="4" rec_time="11" name="'The Movie Park is both an amusement park and a film studio.'' Tourists go there for pleasure, and film crews go there to shoot films,' Roddy explained. "  sound="nj_09b_04.mp3" from="0:41.019" to="0:51.501" allWordsNum="30"/>
+			</record>
+			<record rec_id="2" rec_time="22" sound="nj_09b_04.mp3">			
+			<subrecord rec_id="5" rec_time="3" name="I asked them which attractions they liked best. "  sound="nj_09b_04.mp3" from="  0:51.818" to="  0:55.277" allWordsNum="8"/>
+			<subrecord rec_id="6" rec_time="3" name="Julia said that the Dinosaur Jungle was her favourite. "  sound="nj_09b_04.mp3" from="0:55.375" to=" 0:58.958" allWordsNum="9"/>
+			<subrecord rec_id="7" rec_time="3" name="'We took a car into the place,' said Julia. "  sound="nj_09b_04.mp3" from="0:59.249" to="1:02.047" allWordsNum="11"/>
+			<subrecord rec_id="8" rec_time="4" name="'It was hot and humid, and really smelt like a jungle. "  sound="nj_09b_04.mp3" from="1:02.224" to="1:05.946" allWordsNum="12"/>
+			<subrecord rec_id="9" rec_time="5" name="We saw some cute little baby dinosaurs and then a big one came and chased us. "  sound="nj_09b_04.mp3" from="1:06.364" to="1:12.023" allWordsNum="16"/>
+			<subrecord rec_id="10" rec_time="3" name="I knew it was only a model, but it looked very real! " sound="nj_09b_04.mp3" from=" 1:12.187" to="1:16.200"  allWordsNum="14"/>
+			<subrecord rec_id="11" rec_time="3" name="I almost jumped out of my skin when the dinosaur roared at us!'" sound="nj_09b_04.mp3" from="1:16.302" to="1:20.353"  allWordsNum="14"/>
+			</record>
+			<record rec_id="3" rec_time="30" sound="nj_09b_04.mp3">			
+			<subrecord rec_id="12" rec_time="3" name="Roddy was impressed by the Great Wave attraction. "  sound="nj_09b_04.mp3" from="1:21.340" to="1:24.366" allWordsNum="8"/>
+			<subrecord rec_id="13" rec_time="5" name="'It was really awesome,' said Roddy, 'Everything was peaceful. "  sound="nj_09b_04.mp3" from="1:24.721" to="1:29.063" allWordsNum="12"/>
+			<subrecord rec_id="14" rec_time="4" name="Then suddenly we saw a huge wave coming towards us. "  sound="nj_09b_04.mp3" from="1:29.228" to="1:32.988" allWordsNum="10"/>
+  		<subrecord rec_id="15" rec_time="6" name="There was a terrific noise and the wave seemed to crash over the top of our car. "  sound="nj_09b_04.mp3" from="1:33.013" to="1:37.697" allWordsNum="17"/>
+			<subrecord rec_id="16" rec_time="4" name="The car shook violently but we didn't get wet at all! " sound="nj_09b_04.mp3" from="1:37.811" to="1:41.596" allWordsNum="13"/>
+			<subrecord rec_id="17" rec_time="3" name="The special effects were so great. "  sound="nj_09b_04.mp3" from="1:42.039" to="1:44.457" allWordsNum="6"/>
+			<subrecord rec_id="18" rec_time="2" name="I don't know how they did it.'" sound="nj_09b_04.mp3" from=" 1:44.483" to="1:45.989" allWordsNum="7"/>
+			</record>
+			<record rec_id="4" rec_time="35" sound="nj_09b_04.mp3">
+			<subrecord rec_id="19" rec_time="3" name="I asked them whether they saw any famous stars. "  sound="nj_09b_04.mp3" from="  1:47.600" to="  1:50.653" allWordsNum="9"/>
+			<subrecord rec_id="20" rec_time="4" name="'Yes, we did, but we had some more exciting experiences than that. " sound="nj_09b_04.mp3" from="1:50.673" to="1:54.864" allWordsNum="13"/>
+			<subrecord rec_id="21" rec_time="2" name="We visited a film set. "  sound="nj_09b_04.mp3" from="1:55.168" to="1:56.851" allWordsNum="5"/>
+			<subrecord rec_id="22" rec_time="3" name="We saw a crew filming a scene,' Roddy said. " sound="nj_09b_04.mp3" from="1:57.029" to="2:00.510" allWordsNum="10"/>
+			<subrecord rec_id="23" rec_time="4" name="'They were shooting a scene showing some students in a school. "  sound="nj_09b_04.mp3" from="2:00.903" to="2:04.954" allWordsNum="12"/>
+			<subrecord rec_id="24" rec_time="3" name="They needed some extras for the scene. "  sound="nj_09b_04.mp3" from="2:05.156" to="2:07.283" allWordsNum="7"/>
+			<subrecord rec_id="25" rec_time="4" name="The director asked us whether we wanted to be in the film. "  sound="nj_09b_04.mp3" from="2:07.435" to="2:11.119" allWordsNum="12"/>
+			<subrecord rec_id="26" rec_time="4" name="To cut a long story short, the director selected me.'" sound="nj_09b_04.mp3" from="2:11.378" to="2:15.127" allWordsNum="11"/>
+			<subrecord rec_id="27" rec_time="6" name="Julia, whose ambition is to be an actress, admitted that she was green with envy! " sound="nj_09b_04.mp3" from="  2:15.323" to="  2:21.800" allWordsNum="15"/>
+			</record>
+			<record rec_id="5" rec_time="12" sound="nj_09b_04.mp3">
+			<subrecord rec_id="28" rec_time="6" name="At the end of the interview, I asked Roddy if he enjoyed working as an extra. "  sound="nj_09b_04.mp3" from="  2:21.868" to="  2:27.402" allWordsNum="16"/>
+			<subrecord rec_id="29" rec_time="6" name="He told me that it was a piece of cake for him and he really wanted to be a director. "  sound="nj_09b_04.mp3" from="  2:27.523" to="  2:32.800" allWordsNum="20"/>
+		  </record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="1" name="WALL-E" page="67">
+			<record rec_id="0" rec_time="60" sound="nj_09b_04.mp3">
+			<subrecord rec_id="1" rec_time="4" name="This brilliant cartoon is set far in the future. "  sound="nj_09b_04.mp3" from=" 11:31.468" to=" 11:35.309" allWordsNum="9"/>
+			<subrecord rec_id="2" rec_time="4" name="It is about a robot called WALL-E. "  sound="nj_09b_04.mp3" from=" 11:35.244" to=" 11:38.499" allWordsNum="7"/>
+			<subrecord rec_id="3" rec_time="4" name="Humans build him to help them collect rubbish. "  sound="nj_09b_04.mp3" from=" 11:38.564" to=" 11:42.470" allWordsNum="8"/>
+			<subrecord rec_id="4" rec_time="8" name="One day, humans leave the Earth because it is very polluted and there is too much rubbish to clean up. "  sound="nj_09b_04.mp3" from=" 11:42.535" to=" 11:50.500" allWordsNum="20"/>
+			<subrecord rec_id="5" rec_time="7" name="They fly away in a giant spaceship controlled by a super smart computer. "  sound="nj_09b_04.mp3" from=" 11:50.673" to=" 11:56.988" allWordsNum="13"/>
+			<subrecord rec_id="6" rec_time="5" name="When they leave, nobody truns off WALL-E. "  sound="nj_09b_04.mp3" from=" 11:57.248" to=" 12:01.415" allWordsNum="7"/>
+			<subrecord rec_id="7" rec_time="5" name="He keeps working every day and watches old TV shows at night. "  sound="nj_09b_04.mp3" from="12:01.523" to="12:06.392" allWordsNum="12"/>
+			<subrecord rec_id="8" rec_time="8" name="His only friend is a small bug which seems to be the only living thing left on the Earth. "  sound="nj_09b_04.mp3" from=" 12:07.248" to=" 12:13.433" allWordsNum="19"/>
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_09b_04.mp3">
+			<subrecord rec_id="9" rec_time="4" name="Years later a robot called EVE arrives. "  sound="nj_09b_04.mp3" from=" 12:14.670" to=" 12:18.315" allWordsNum="7"/>
+			<subrecord rec_id="10" rec_time="8" name="Humans send her to see if it is possible to return to the Earth. EVE is fast and smart. "  sound="nj_09b_04.mp3" from=" 12:18.706" to=" 12:26.518" allWordsNum="19"/>
+			<subrecord rec_id="11" rec_time="6" name="WALL-E tries to make friends with her, but she is too busy to talk to him. "  sound="nj_09b_04.mp3" from=" 12:26.648" to=" 12:32.052" allWordsNum="16"/>
+			<subrecord rec_id="12" rec_time="5" name="When EVE finds a small plant, she has to leave. "  sound="nj_09b_04.mp3" from=" 12:32.443" to=" 12:36.479" allWordsNum="10"/>
+			<subrecord rec_id="13" rec_time="5" name="WALL-E is lonely and does not want his new friend to go. "  sound="nj_09b_04.mp3" from=" 12:37.065" to=" 12:41.817" allWordsNum="12"/>
+			<subrecord rec_id="14" rec_time="8" name="As her spaceship takes off, he jumps on and begins a romantic adventure through space! " sound="nj_09b_04.mp3" from=" 12:42.273" to=" 12:48.523" allWordsNum="15"/>
+			</record>
+			<record rec_id="2" rec_time="25" sound="nj_09b_04.mp3">
+			<subrecord rec_id="15" rec_time="5" name="Three things make WALL-E such an enjoyable and moving film. "  sound="nj_09b_04.mp3" from=" 12:49.434" to=" 12:54.382" allWordsNum="10"/>
+			<subrecord rec_id="16" rec_time="5" name="First, its robot star is extremely funny. " sound="nj_09b_04.mp3" from=" 12:54.512" to=" 12:58.679" allWordsNum="7"/>
+			<subrecord rec_id="17" rec_time="5" name="He is always rushing around and bumping into everything. "  sound="nj_09b_04.mp3" from=" 12:58.939" to=" 13:03.236" allWordsNum="9"/>
+			</record>
+			<record rec_id="3" rec_time="45" sound="nj_09b_04.mp3">			
+			<subrecord rec_id="18" rec_time="10" name="Second, his friendship with EVE is interesting, because they do not speak the same language and must find a way to communicate. "  sound="nj_09b_04.mp3" from=" 13:03.497" to=" 13:12.481" allWordsNum="22"/>
+			<subrecord rec_id="19" rec_time="8" name="WALL-E also shows how brave he is by protecting EVE from many dangers. "  sound="nj_09b_04.mp3" from=" 13:13.262" to=" 13:19.642" allWordsNum="13"/>
+			<subrecord rec_id="20" rec_time="6" name="Third, the film is colourful and looks totally amazing. "  sound="nj_09b_04.mp3" from=" 13:20.358" to=" 13:25.046" allWordsNum="9"/>
+			<subrecord rec_id="21" rec_time="6" name="Both the robots and the empty Earth seem very real. "  sound="nj_09b_04.mp3" from=" 13:24.981" to=" 13:29.863" allWordsNum="10"/>
+			</record>
+			<record rec_id="4" rec_time="25" sound="nj_09b_04.mp3">
+ 			<subrecord rec_id="22" rec_time="5" name="The film also makes you think. "  sound="nj_09b_04.mp3" from=" 13:29.863" to=" 13:32.402" allWordsNum="6"/>
+			<subrecord rec_id="23" rec_time="6" name="It has a powerful message about the environment. "  sound="nj_09b_04.mp3" from=" 13:32.467" to=" 13:35.527" allWordsNum="8"/>
+			<subrecord rec_id="24" rec_time="5" name="It was the hit family of the year. "  sound="nj_09b_04.mp3" from=" 13:35.592" to=" 13:39.043" allWordsNum="8"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="2" name="Doctor Who to celebrate 50th anniversary" page="0" source="2">
+			<record rec_id="0" rec_time="15" sound="9B Unit 4.mp3">
+				<subrecord rec_id="1" rec_time="5" name="Are you a big fan of Doctor Who? " sound="9B Unit 4.mp3" from="0:06.781" to="0:09.138" allWordsNum="8"/>
+				<subrecord rec_id="2" rec_time="10" name="This year marks the 50th anniversary of Doctor Who, which is a British science fiction television series. " sound="9B Unit 4.mp3" from="0:09.320" to="0:16.808" allWordsNum="17"/>
+			</record>
+			<record rec_id="1" rec_time="45" sound="9B Unit 4.mp3">
+				<subrecord rec_id="3" rec_time="10" name="The sci-fi television series tells the adventures of Time Lord—a time-travelling, humanoid alien known as the Doctor. " sound="9B Unit 4.mp3" from="0:17.897" to="0:26.310" allWordsNum="16"/>
+				<subrecord rec_id="4" rec_time="6" name="He explores the universe in his 'Tradis,' a time-travelling spaceship. " sound="9B Unit 4.mp3" from="0:26.546" to="0:31.732" allWordsNum="10"/>
+				<subrecord rec_id="5" rec_time="12" name="It appears as a blue British police box, which was a common sight in Britain in 1963 when the series was first broadcast. " sound="9B Unit 4.mp3" from="0:31.986" to="0:41.741" allWordsNum="23"/>
+				<subrecord rec_id="6" rec_time="12" name="Along with his friends, the Doctor faces a variety of enemies while working to save civilisation, help ordinary people and right wrongs. " sound="9B Unit 4.mp3" from="0:41.868" to="0:52.004" allWordsNum="22"/>
+			</record>
+			<record rec_id="2" rec_time="30" sound="9B Unit 4.mp3">
+				<subrecord rec_id="7" rec_time="8" name="A children's author called Eoin Colfer is writing a new series of Doctor Who short stories. " sound="9B Unit 4.mp3" from="0:53.110" to="0:59.203" allWordsNum="16"/>
+				<subrecord rec_id="8" rec_time="10" name="His Doctor Who stories will feature the first ever Doctor, played on TV by William Hartnell from 1963 to 1966. " sound="9B Unit 4.mp3" from="0:59.402" to="1:08.577" allWordsNum="20"/>
+				<subrecord rec_id="9" rec_time="8" name="Other children's authors will also write stories in 2013 to celebrate Doctor Who's 50th anniversary. " sound="9B Unit 4.mp3" from="1:08.777" to="1:16.084" allWordsNum="15"/>
+			</record>
+			<record rec_id="3" rec_time="35" sound="9B Unit 4.mp3">
+				<subrecord rec_id="10" rec_time="10" name="To mark the 50th anniversary of the sci-fi series, Royal Mail has launched a special set of Doctor Who stamps. " sound="9B Unit 4.mp3" from="1:17.263" to="1:25.640" allWordsNum="20"/>
+				<subrecord rec_id="11" rec_time="8" name="There are 11 stamps in total, showing the people who have played the role of the Doctor in earlier episodes. " sound="9B Unit 4.mp3" from="1:25.785" to="1:33.183" allWordsNum="20"/>
+				<subrecord rec_id="12" rec_time="6" name="Matt Smith plays the 11th Doctor in the new series of Doctor Who from 2010. " sound="9B Unit 4.mp3" from="1:33.329" to="1:38.750" allWordsNum="15"/>
+				<subrecord rec_id="13" rec_time="6" name="At the age of 26, he is the youngest actor to play the Doctor. " sound="9B Unit 4.mp3" from="1:39.131" to="1:44.770" allWordsNum="14"/>
+			</record>
+			<record rec_id="4" rec_time="50" sound="9B Unit 4.mp3">
+				<subrecord rec_id="14" rec_time="12" name="Doctor Who's 50th Anniversary Special, which began filming in April, will be broadcast in 3-D around the show's birthday in November. " sound="9B Unit 4.mp3" from="1:45.623" to="1:56.158" allWordsNum="21"/>
+				<subrecord rec_id="15" rec_time="6" name="The programme's special 50th anniversary story is still a secret. " sound="9B Unit 4.mp3" from="1:56.357" to="2:00.854" allWordsNum="10"/>
+				<subrecord rec_id="16" rec_time="8" name="Steven Moffat, the show's lead writer, says the script is 'on my computer under lock and key.' " sound="9B Unit 4.mp3" from="2:01.108" to="2:08.198" allWordsNum="16"/>
+				<subrecord rec_id="17" rec_time="10" name="And the current Doctor Who star Matt Smith says fans 'will not be disappointed' by the 3-D show. " sound="9B Unit 4.mp3" from="2:08.379" to="2:14.834" allWordsNum="18"/>
+			  <subrecord rec_id="18" rec_time="8" name="'It's going to be the biggest, and best, and most inventive and most exciting year for the show,' he added. " sound="9B Unit 4.mp3" from="2:15.124" to="2:22.305" allWordsNum="18"/>
+			</record>
+			<record rec_id="5" rec_time="5" sound="9B Unit 4.mp3">
+				<subrecord rec_id="19" rec_time="5" name="Are you excited about the special episode? " sound="9B Unit 4.mp3" from="2:23.498" to="2:26.418" allWordsNum="7"/>
+				</record>
+		<exercise type="4" index="0"/>
+      </part>	
+      <part part_index="3" name="Doctor Who to celebrate 50th anniversary" page="0" source="2">
+      	<article allWordsNum="306">
+            	<![CDATA[
+Are you a big fan of Doctor Who? This year marks (标志) the 50th anniversary of Doctor Who, which is a British science fiction television series. 
+The sci-fi television series tells the adventures of Time Lord—a time-travelling, humanoid alien (具有人类特点的外星人) known as the Doctor. He explores the universe in his “Tradis,” a time-travelling spaceship. It appears as a blue British police box (警亭), which was a common sight in Britain in 1963 when the series was first broadcast. Along with his friends, the Doctor faces a variety of enemies while working to save civilisation (文明), help ordinary people and right wrongs (伸张正义). 
+A children's author called Eoin Colfer is writing a new series of Doctor Who short stories. His Doctor Who stories will feature (以……为主角) the first ever Doctor, played on TV by William Hartnell from 1963 to 1966. Other children's authors will also write stories in 2013 to celebrate Doctor Who's 50th anniversary.
+To mark the 50th anniversary of the sci-fi series, Royal Mail (皇家邮政) has launched a special set of Doctor Who stamps. There are 11 stamps in total, showing the people who have played the role of the Doctor in earlier episodes. Matt Smith plays the 11th Doctor in the new series of Doctor Who from 2010. At the age of 26, he is the youngest actor to play the Doctor.
+Doctor Who's 50th Anniversary Special, which began filming in April, will be broadcast in 3-D around the show's birthday in November. The programme's special 50th anniversary story is still a secret. Steven Moffat, the show's lead writer, says the script (剧本) is “on my computer under lock and key.” And the current Doctor Who star Matt Smith says fans “will not be disappointed” by the 3-D show. “It's going to be the biggest， and best, and most inventive (富有创造力的) and most exciting year for the show,” he added.
+Are you excited about the special episode?
+     	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="0" name="Choose the best answer. " qtype="1" >
+					<question rec_id="0" choice="B">
+						<![CDATA[What's the name of the Doctor's time-travelling spaceship?]]>
+						<choice item="A" name="Transmat. " />
+						<choice item="B" name="Tradis. " />
+						<choice item="C" name="Dalek. " />
+						<choice item="D" name="Talek. " />
+					</question>
+					<question rec_id="1" choice="A">
+						<![CDATA[When was the first series of Doctor Who shown on TV? ]]>
+						<choice item="A" name="In 1963. "/>
+						<choice item="B" name="In 1973. " />
+						<choice item="C" name="In 1983. " />
+						<choice item="D" name="In 1975. " />
+					</question>
+					<question rec_id="2" choice="C">
+						<![CDATA[Who is the current actor playing the role of the Doctor?]]>
+						<choice item="A" name="Eoin Colfer. " />
+						<choice item="B" name="Steven Moffat. " />
+						<choice item="C" name="Matt Smith. " />
+						<choice item="D" name="William Hartnell. " />
+					</question>
+					<question rec_id="3" choice="D">
+						<![CDATA[To celebrate Doctor Who's 50th anniversary this year, ________.
+	① some children's authors will write stories
+	② the Royal Mail has launched a set of Doctor Who stamps
+  ③ there will be a special 50th anniversary script ]]>
+						<choice item="A" name="①②"/>
+						<choice item="B" name="②③"/>
+						<choice item="C" name="①③"/>
+						<choice item="D" name="①②③"/>
+					</question>
+					<question rec_id="4" choice="C">
+						<![CDATA[Which of the following statements is not correct?]]>
+						<choice item="A" name="The Doctor is a humanoid alien exploring the universe. " />
+						<choice item="B" name="The first Doctor was played by William Hartnell. " />
+						<choice item="C" name="Matt Smith plays the 11th Doctor from 2011. " />
+						<choice item="D" name="The 50th anniversary special will be broadcast in 3-D. " />
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+	<dialogs>
+		<part part_index="1" name="Dialong" page="63">
+			<record rec_id="0" rec_time="5" name="Janet, what is your favourite television programme?" sound="nj_09b_04.mp3" from="  8:57.257" to="  9:01.846" allWordsNum="7"/>
+			<record rec_id="1" rec_time="3" name="It's Best Friends. "  sound="nj_09b_04.mp3" from="  9:01.933" to="  9:04.097" allWordsNum="5"/>
+			<record rec_id="2" rec_time="3" name="I'm sorry. I didn't hear you. "  sound="nj_09b_04.mp3" from="  9:04.704" to="  9:07.561" allWordsNum="10"/>
+			<record rec_id="3" rec_time="3" name="It's Best Friends. "  sound="nj_09b_04.mp3" from="  9:07.734" to="  9:09.639" allWordsNum="5"/>
+			<record rec_id="4" rec_time="7" name="Wow! I love that programme too. My favourite character is Jeff. I think he's so cool. " sound="nj_09b_04.mp3" from="  9:09.812" to="  9:17.345" allWordsNum="18"/>
+			<record rec_id="5" rec_time="8" name="Did you see the scene where he bought the fridge and couldn't carry it up to his apartment? It was so funny! " sound="nj_09b_04.mp3" from="  9:17.432" to="  9:25.311" allWordsNum="24"/>
+			<record rec_id="6" rec_time="6" name="Thanks, Mark. Now, what do other people think?" sound="nj_09b_04.mp3" from="  9:26.090" to="  9:31.372" allWordsNum="8"/>
+			<record rec_id="7" rec_time="4" name="I think Best Friends is not so good for us. "  sound="nj_09b_04.mp3" from="  9:31.459" to="  9:35.009" allWordsNum="10"/>
+			<record rec_id="8" rec_time="4" name="I'm sorry. I don't really understand. "  sound="nj_09b_04.mp3" from="  9:35.875" to="  9:39.598" allWordsNum="10"/>
+			<record rec_id="9" rec_time="6" name="I mean, I don't think we should be influenced by American culture too much. "  sound="nj_09b_04.mp3" from="  9:39.771" to="  9:44.793" allWordsNum="16"/>
+			<exercise type="5" index="0"/>
+		</part>
+	</dialogs>
+</package>
+ 

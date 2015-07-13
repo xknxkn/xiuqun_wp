@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_06b</book_id>
+	<unit_id>nj_06b_04</unit_id>
+	<version>5</version>
+	<unit>unit4</unit>
+	<title>Staying healthy</title>
+	<words>
+		<part part_index="0" page="27">
+      <record rec_id="0" rec_time="3" name="indoor" symbol="5indR:(r)" explain="adj. 室内的" sound="nj_06b_04.mp3" from="  0:04.912" to="  0:05.802" allWordsNum="1"/>
+      <record rec_id="1" rec_time="3" name="outdoor" symbol="5autdR:(r)" explain="adj. 室外的" sound="nj_06b_04.mp3" from="  0:07.582" to="  0:08.587" allWordsNum="1"/>
+      <record rec_id="2" rec_time="3" name="really" symbol="5riEli" explain="adv. 真正地；的确" sound="nj_06b_04.mp3" from="  0:09.825" to="  0:10.715" allWordsNum="1"/>
+      <record rec_id="3" rec_time="3" name="forget" symbol="fE5get" explain="v. 忘记" sound="nj_06b_04.mp3" from="  0:11.798" to="  0:12.727" allWordsNum="1"/>
+      <record rec_id="4" rec_time="3" name="puzzle" symbol="5pQzl" explain="n. 智力游戏；拼图" sound="nj_06b_04.mp3" from="  0:13.965" to="  0:14.893" allWordsNum="1"/>
+      <record rec_id="5" rec_time="3" name="playground" symbol="5pleigraund" explain="n. 操场" sound="nj_06b_04.mp3" from="  0:15.937" to="  0:17.137" allWordsNum="1"/>
+      <record rec_id="6" rec_time="3" name="piano" symbol="pi5AnEu" explain="n. 钢琴" sound="nj_06b_04.mp3" from="  0:18.181" to="  0:19.148" allWordsNum="1"/>
+      <record rec_id="7" rec_time="3" name="model" symbol="5mCdl" explain="n. 模型" sound="nj_06b_04.mp3" from="  0:20.309" to="  0:21.315" allWordsNum="1"/>
+      <record rec_id="8" rec_time="3" name="health" symbol="helW" explain="n. 身体（或精神）状况；健康" sound="nj_06b_04.mp3" from="  0:22.436" to="  0:23.752" allWordsNum="1"/>
+      <record rec_id="9" rec_time="3" name="problem" symbol="5prCblEm" explain="n. 问题；难题；困难" sound="nj_06b_04.mp3" from="  0:24.680" to="  0:25.570" allWordsNum="1"/>
+      <record rec_id="10" rec_time="3" name="headache" symbol="5hedeik" explain="n. 头痛" sound="nj_06b_04.mp3" from="  0:26.769" to="  0:27.775" allWordsNum="1"/>
+      <record rec_id="11" rec_time="3" name="stomach ache" symbol="5stQmEk eik" explain="n. 胃痛" sound="nj_06b_04.mp3" from="  0:28.703" to="  0:29.786" allWordsNum="2"/>
+      <record rec_id="12" rec_time="3" name="toothache" symbol="5tu:Weik" explain="n. 牙痛" sound="nj_06b_04.mp3" from="  0:31.102" to="  0:32.494" allWordsNum="1"/>
+      <record rec_id="13" rec_time="3" name="cold" symbol="kEuld" explain="n. 感冒" sound="nj_06b_04.mp3" from="  0:33.810" to="  0:34.893" allWordsNum="1"/>
+      <record rec_id="14" rec_time="3" name="fever" symbol="5fi:vE(r)" explain="n. 发烧" sound="nj_06b_04.mp3" from="  0:35.783" to="  0:36.866" allWordsNum="1"/>
+      <record rec_id="15" rec_time="3" name="sore" symbol="sR:(r)" explain="adj. (发炎)疼痛的" sound="nj_06b_04.mp3" from="  0:37.988" to="  0:39.148" allWordsNum="1"/>
+      <record rec_id="16" rec_time="3" name="throat" symbol="WrEut" explain="n. 咽喉；喉咙" sound="nj_06b_04.mp3" from="  0:40.734" to="  0:41.779" allWordsNum="1"/>
+      <record rec_id="17" rec_time="3" name="once" symbol="wQns" explain="adv. 一次" sound="nj_06b_04.mp3" from="  0:43.055" to="  0:44.254" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="practise" symbol="5prAktis" explain="v. 练习" sound="nj_06b_04.mp3" from="  0:45.222" to="  0:46.266" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="housework" symbol="5hauswE:k" explain="n. 家务劳动" sound="nj_06b_04.mp3" from="  0:47.233" to="  0:48.471" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/> 
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Sing a song Play and work" page="21">
+			<record rec_id="0" rec_time="30" sound="nj_06b_04.mp3">
+			<subrecord rec_id="1" rec_time="3" name="He likes singing. " sound="nj_06b_04.mp3" from="  1:01.724" to="  1:03.350" allWordsNum="3"/>
+			<subrecord rec_id="2" rec_time="3" name="She likes dancing. " sound="nj_06b_04.mp3" from="  1:03.543" to="  1:05.401" allWordsNum="3"/>
+			<subrecord rec_id="3" rec_time="3" name="We love music. " sound="nj_06b_04.mp3" from="  1:05.750" to="  1:07.414" allWordsNum="3"/>
+			<subrecord rec_id="4" rec_time="3" name="We really love music. " sound="nj_06b_04.mp3" from="  1:07.608" to="  1:09.505" allWordsNum="4"/>
+			<subrecord rec_id="5" rec_time="3" name="Fun! Fun! Fun!" sound="nj_06b_04.mp3" from="  1:10.085" to="  1:11.982" allWordsNum="3"/>
+			</record>
+			<record rec_id="1" rec_time="30" sound="nj_06b_04.mp3">
+			<subrecord rec_id="6" rec_time="3" name="He enjoys running. " sound="nj_06b_04.mp3" from="  1:13.182" to="  1:14.885" allWordsNum="3"/>
+			<subrecord rec_id="7" rec_time="3" name="She enjoys swimming. " sound="nj_06b_04.mp3" from="  1:15.156" to="  1:16.627" allWordsNum="3"/>
+			<subrecord rec_id="8" rec_time="3" name="We love sports. " sound="nj_06b_04.mp3" from="  1:17.169" to="  1:18.679" allWordsNum="3"/>
+			<subrecord rec_id="9" rec_time="3" name="We really love sports. " sound="nj_06b_04.mp3" from="  1:18.873" to="  1:20.924" allWordsNum="4"/>
+			<subrecord rec_id="10" rec_time="3" name="Go! Go! Go!" sound="nj_06b_04.mp3" from="  1:21.118" to="  1:22.821" allWordsNum="3"/>	
+			</record>
+			<record rec_id="2" rec_time="30" sound="nj_06b_04.mp3">
+			<subrecord rec_id="11" rec_time="3" name="We love playing. " sound="nj_06b_04.mp3" from="  1:24.021" to="  1:25.492" allWordsNum="3"/>
+			<subrecord rec_id="12" rec_time="3" name="We really love playing. " sound="nj_06b_04.mp3" from="  1:25.570" to="  1:27.466" allWordsNum="4"/>
+			<subrecord rec_id="13" rec_time="3" name="We won't forget working. " sound="nj_06b_04.mp3" from="  1:28.047" to="  1:29.944" allWordsNum="4"/>
+			<subrecord rec_id="13" rec_time="3" name="We really enjoy working. " sound="nj_06b_04.mp3" from="  1:30.331" to="  1:32.266" allWordsNum="4"/>
+			</record>
+			<record rec_id="3" rec_time="30" sound="nj_06b_04.mp3">
+			<subrecord rec_id="15" rec_time="3" name="Play and work. " sound="nj_06b_04.mp3" from="  1:32.847" to="  1:34.279" allWordsNum="3"/>
+			<subrecord rec_id="16" rec_time="3" name="Work and play. " sound="nj_06b_04.mp3" from="  1:34.512" to="  1:35.750" allWordsNum="3"/>
+			<subrecord rec_id="17" rec_time="3" name="We love both. " sound="nj_06b_04.mp3" from="  1:36.215" to="  1:37.609" allWordsNum="3"/>
+			<subrecord rec_id="18" rec_time="3" name="We love both. " sound="nj_06b_04.mp3" from="  1:38.034" to="  1:39.505" allWordsNum="3"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="1" name="A banana a day keeps the doctor away!" page="0" source="2">
+			<record rec_id="0" rec_time="10" sound="6B Unit 4.mp3">
+				<subrecord rec_id="1" rec_time="10" name="An apple a day is, without doubt, a good fruit to eat, but according to recent research, it is a banana a day that is more likely to keep the doctor away. " sound="6B Unit 4.mp3" from="  0:06.700" to="  0:17.191" allWordsNum="32"/>
+			</record>
+			<record rec_id="1" rec_time="8" sound="6B Unit 4.mp3">
+				<subrecord rec_id="2" rec_time="8" name="Compared to an apple, a banana has four times the protein and five times the vitamin A and iron. " sound="6B Unit 4.mp3" from="  0:18.812" to="  0:25.677" allWordsNum="19"/>
+			</record>
+			<record rec_id="2" rec_time="11" sound="6B Unit 4.mp3">
+				<subrecord rec_id="3" rec_time="4" name="Bananas are ideal for eating when you feel tired. " sound="6B Unit 4.mp3" from="  0:27.133" to="  0:30.648" allWordsNum="9"/>
+				<subrecord rec_id="4" rec_time="7" name="Eating only two bananas can give you enough energy to exercise or work out for an hour and a half. " sound="6B Unit 4.mp3" from="  0:30.868" to="  0:37.596" allWordsNum="20"/>
+			</record>
+			<record rec_id="3" rec_time="16" sound="6B Unit 4.mp3">
+				<subrecord rec_id="5" rec_time="9" name="Many people living in tropical countries eat bananas more often, because bananas can lower their body temperature. " sound="6B Unit 4.mp3" from="  0:39.107" to="  0:47.153" allWordsNum="17"/>
+				<subrecord rec_id="6" rec_time="7" name="In Thailand, pregnant women eat them to make sure that their babies do not get too hot during birth. " sound="6B Unit 4.mp3" from="  0:47.400" to="  0:53.717" allWordsNum="19"/>
+			</record>
+			<record rec_id="4" rec_time="12" sound="6B Unit 4.mp3">
+				<subrecord rec_id="7" rec_time="6" name="Bananas can also heal insomnia, mosquito bites and burns. " sound="6B Unit 4.mp3" from="  0:55.447" to="  1:00.473" allWordsNum="9"/>
+				<subrecord rec_id="8" rec_time="6" name="So, if you want to keep the doctor away, just eat a banana. " sound="6B Unit 4.mp3" from="  1:00.775" to="  1:05.746" allWordsNum="13"/>
+			</record>
+		<exercise type="4" index="0"/>
+      </part>	
+		 <part part_index="2" name="A banana a day keeps the doctor away!" page="0" source="2">
+      	<article allWordsNum="138">
+            	<![CDATA[
+An apple a day is, without doubt, a good fruit to eat, but according to recent research, it is a banana a day that is more likely to keep the doctor away.
+Compared to an apple, a banana has four times the protein (蛋白质) and five times the vitamin A and iron (铁质).
+Bananas are ideal for eating when you feel tired. Eating only two bananas can give you enough energy to exercise or work out for an hour and a half.
+Many people living in tropical (热带的) countries eat bananas more often, because bananas can lower their body temperature. In Thailand, pregnant women (孕妇) eat them to make sure that their babies do not get too hot during birth.
+Bananas can also heal insomnia (失眠), mosquito bites (蚊虫叮咬) and burns (烧伤). So, if you want to keep the doctor away, just eat a banana.
+            	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="2" name="True or false. " qtype="2">
+					<question rec_id="0" choice="false">
+						<![CDATA[A banana has four times more iron than an apple.]]>
+					</question>
+					<question rec_id="1" choice="false">
+						<![CDATA[Eating two bananas will give people enough energy to exercise for half a day.]]>
+					</question>
+					<question rec_id="2" choice="true">
+						<![CDATA[Bananas can heal burns and mosquito bites.]]>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+		<dialogs>
+		<part part_index="0" name="Dialog" page="22">
+			<record rec_id="0" rec_time="10" name="I like doing puzzles at home. That's my favourite indoor activity. " sound="nj_06b_04.mp3" from="  2:41.759" to="  2:47.532" allWordsNum="11"/>
+			<record rec_id="1" rec_time="5" name="I like doing puzzles, too. " sound="nj_06b_04.mp3" from="  2:48.242" to="  2:50.357" allWordsNum="5"/>
+			<record rec_id="2" rec_time="15" name="I don't like doing puzzles. I like playing football in the playground. That's my favourite outdoor activity. " sound="nj_06b_04.mp3" from="  2:50.484" to="  2:58.424" allWordsNum="17"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="1" name="Dialog" page="24">
+			<record rec_id="0" rec_time="5" name="Why do I always have a headache? " sound="nj_06b_04.mp3" from="  3:23.960" to="  3:27.685" allWordsNum="7"/>
+      <record rec_id="1" rec_time="5" name="It's because you watch too much television, I'm afraid. " sound="nj_06b_04.mp3" from="  3:28.019" to="  3:31.742" allWordsNum="9"/>	
+			<record rec_id="2" rec_time="5" name="What should I do? " sound="nj_06b_04.mp3" from="  3:32.618" to="  3:34.517" allWordsNum="4"/>
+			<record rec_id="3" rec_time="5" name="You should watch less television. " sound="nj_06b_04.mp3" from="  3:34.736" to="  3:37.145" allWordsNum="5"/>
+			<record rec_id="4" rec_time="5" name="Why do I always have a cold. " sound="nj_06b_04.mp3" from="  3:40.284" to="  3:43.132" allWordsNum="7"/>
+      <record rec_id="5" rec_time="5" name="It's because you don't wear enough clothes, I'm afraid. " sound="nj_06b_04.mp3" from="  3:43.278" to="  3:46.906" allWordsNum="9"/>	
+			<record rec_id="6" rec_time="5" name="What should I do? " sound="nj_06b_04.mp3" from="  3:46.875" to="  3:48.582" allWordsNum="4"/>
+			<record rec_id="7" rec_time="5" name="You should wear more clothes. " sound="nj_06b_04.mp3" from="  3:48.923" to="  3:51.157" allWordsNum="5"/>			
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="2" name="Dialog" page="25">
+			<record rec_id="0" rec_time="5" name="Why do I always have a stomach ache? " sound="nj_06b_04.mp3" from="  4:01.986" to="  4:05.115" allWordsNum="8"/>
+			<record rec_id="1" rec_time="5" name="It's because you eat too much spicy food, I'm afraid. " sound="nj_06b_04.mp3" from="  4:33.549" to="  4:38.516" allWordsNum="10"/>
+      <record rec_id="2" rec_time="5" name="Why do I always have a sore throat? " sound="nj_06b_04.mp3" from="  4:10.879" to="  4:14.173" allWordsNum="8"/>	
+      <record rec_id="3" rec_time="5" name="It's because you eat too many rice dumplings, I'm afraid. " sound="nj_06b_04.mp3" from="  4:38.240" to="  4:43.069" allWordsNum="10"/>	
+			<record rec_id="4" rec_time="5" name="Why do I always have a fever? " sound="nj_06b_04.mp3" from="  4:19.003" to="  4:22.187" allWordsNum="7"/>
+			<record rec_id="5" rec_time="5" name="It's because you don't have enough exercise, I'm afraid. " sound="nj_06b_04.mp3" from="  4:43.069" to="  4:47.346" allWordsNum="9"/>
+			<record rec_id="6" rec_time="5" name="Why do I always have toothache? " sound="nj_06b_04.mp3" from="  4:25.975" to="  4:28.884" allWordsNum="6"/>
+			<record rec_id="7" rec_time="5" name="It's because you eat too much sweet food, I'm afraid. " sound="nj_06b_04.mp3" from="  4:47.346" to="  4:52.174" allWordsNum="10"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="3" name="Dialog" page="26">
+			<record rec_id="0" rec_time="5" name="How often do you watch television? " sound="nj_06b_04.mp3" from="  5:04.037" to="  5:07.210" allWordsNum="6"/>
+      <record rec_id="1" rec_time="5" name="I watch television four times a day. " sound="nj_06b_04.mp3" from="  5:07.579" to="  5:10.826" allWordsNum="7"/>		
+			<record rec_id="2" rec_time="5" name="How often do you exercise? " sound="nj_06b_04.mp3" from="  5:11.416" to="  5:14.220" allWordsNum="5"/>
+			<record rec_id="3" rec_time="5" name="I exercise once a month. " sound="nj_06b_04.mp3" from="  5:14.589" to="  5:17.171" allWordsNum="5"/>
+			<exercise type="5" index="0"/>
+		</part>
+    </dialogs>
+</package>
+ 

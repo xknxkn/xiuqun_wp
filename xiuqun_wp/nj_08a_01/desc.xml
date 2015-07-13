@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_08a</book_id>
+	<unit_id>nj_08a_01</unit_id>
+	<version>6</version>
+	<unit>unit1</unit>
+	<title>Penfriends</title>
+	<words>
+		<part part_index="0" page="17">
+			<record rec_id="0" rec_time="3" name="baseball" symbol="5beisbR:l" explain="n.棒球运动" sound="nj_08a_01.mp3" from="6:31.231" to="6:32.570" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="title" symbol="5taitl" explain="n.标题；题目" sound="nj_08a_01.mp3" from="6:34.269" to="6:35.453" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="corner" symbol="5kR:nE(r)" explain="n.角" sound="nj_08a_01.mp3" from="6:36.860" to="6:38.078" allWordsNum="1"/>
+		  <record rec_id="3" rec_time="3" name="Walker" symbol="5wR:kE(r)" explain="n.(英国地名)沃克" sound="nj_08a_01.mp3" from="6:39.537" to="6:40.738" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="Newcastle" symbol="5nju:7kB:sl" explain="n.(英国地名)纽卡斯尔" sound="nj_08a_01.mp3" from="6:42.523" to=" 6:44.033" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="metre" symbol="5mi:tE(r)" explain="n.米；公尺" sound="nj_08a_01.mp3" from="6:45.560" to="6:46.830" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="own" symbol="Eun" explain="v.拥有" sound="nj_08a_01.mp3" from="6:48.254" to="6:49.507" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="nearby" symbol="7niE5bai" explain="adv.在附近" sound="nj_08a_01.mp3" from="6:50.674" to=" 6:52.167" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="college" symbol="5kClidV" explain="n.（英国）学院；职业学校" sound="nj_08a_01.mp3" from="6:53.763" to="6:55.015" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="university" symbol="7ju:ni5vE:sEti" explain="n.大学；高等学府" sound="nj_08a_01.mp3" from="6:56.199" to="6:57.675" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="accountant" symbol="E5kauntEnt" explain="n.会计；会计师" sound="nj_08a_01.mp3" from="6:59.237" to="7:00.781" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="during" symbol="5djuEriN" explain="prep.在......期间" sound="nj_08a_01.mp3" from="7:02.103" to="7:03.321" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="keen" symbol="ki:n" explain="adj.喜爱；有兴趣" sound="nj_08a_01.mp3" from="7:04.591" to="7:05.843" allWordsNum="1"/>
+			<record rec_id="13" rec_time="4" name="(be)keen on" symbol="(bi:) ki:n Cn" explain="对......着迷" sound="nj_08a_01.mp3" from="7:07.028" to="7:08.949" allWordsNum="3"/>
+			<record rec_id="14" rec_time="3" name="ski" symbol="ski:" explain="v.滑雪" sound="nj_08a_01.mp3" from="7:10.494" to="7:11.729" allWordsNum="1"/>
+			<record rec_id="15" rec_time="4" name="table tennis" symbol="5teibl 7tenis" explain="n.乒乓球运动" sound="nj_08a_01.mp3" from="7:13.188" to="7:14.612" allWordsNum="2"/>
+			<record rec_id="16" rec_time="3" name="best" symbol="best" explain="adj.最好的" sound="nj_08a_01.mp3" from="7:16.174" to="7:17.289" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="physics" symbol="5fiziks" explain="n.物理学" sound="nj_08a_01.mp3" from="7:18.817" to="7:20.052" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="ambition" symbol="Am5biFn" explain="n.追求的目标；志向" sound="nj_08a_01.mp3" from="7:21.494" to="7:22.746" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="maybe" symbol="5meibi" explain="adv.或许；可能" sound="nj_08a_01.mp3" from="7:24.274" to="7:25.612" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="enclose" symbol="in5klEuz" explain="v.随函（或包裹）附上" sound="nj_08a_01.mp3" from="7:27.036" to="7:28.581" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="height" symbol="hait" explain="n.(人的)身高；（物的）高度" sound="nj_08a_01.mp3" from="7:30.194" to="7:31.241" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="dream" symbol="dri:m" explain="n.梦想；理想" sound="nj_08a_01.mp3" from="7:32.751" to="7:34.072" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="probably" symbol="5prCbEbli" explain="adv.很可能；大概" sound="nj_08a_01.mp3" from="7:35.411" to="7:36.715" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="tie" symbol="tai" explain="n.领带" sound="nj_08a_01.mp3" from="7:38.162" to="7:39.329" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="roof" symbol="ru:f" explain="n.顶部；屋顶" sound="nj_08a_01.mp3" from="7:40.650" to="7:41.817" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Reading" page="3">
+			<record rec_id="0" rec_time="40" sound="nj_08a_01.mp3">
+			<subrecord rec_id="1" rec_time="20" name="2 Middle Street, Walker, Newcastle, NE 6 4 BY, England, UK, 30 August, Dear May." sound="nj_08a_01.mp3" from="0:10.034" to="0:24.912" allWordsNum="13"/>
+			<subrecord rec_id="2" rec_time="10" name="I saw your name in Penfriends magazine, and I would like to be your penfriend." sound="nj_08a_01.mp3" from="0:24.945" to="0:30.797" allWordsNum="15"/>
+			<subrecord rec_id="3" rec_time="5" name="First, I will tell you something about myself." sound="nj_08a_01.mp3" from="0:30.812" to="0:34.375" allWordsNum="8"/>
+			<subrecord rec_id="4" rec_time="5" name="My name is Jonathan Chen." sound="nj_08a_01.mp3" from="0:34.359" to="0:36.857" allWordsNum="5"/>
+			</record>
+			<record rec_id="1" rec_time="30" sound="nj_08a_01.mp3">
+			<subrecord rec_id="5" rec_time="5" name="You can call me Jon. " sound="nj_08a_01.mp3" from="0:36.874" to="0:38.819" allWordsNum="5"/>
+			<subrecord rec_id="6" rec_time="10" name="I am twelve years old, and I am about one and a half metres tall." sound="nj_08a_01.mp3" from="0:38.854" to="0:43.956" allWordsNum="15"/>
+			<subrecord rec_id="7" rec_time="5" name="I have very short black hair." sound="nj_08a_01.mp3" from="0:43.952" to="0:46.503" allWordsNum="6"/>
+			<subrecord rec_id="8" rec_time="5" name="My hobby is playing chess." sound="nj_08a_01.mp3" from="0:46.488" to="0:49.484" allWordsNum="5"/>
+			<subrecord rec_id="9" rec_time="5" name="I live with my parents in the UK." sound="nj_08a_01.mp3" from="0:49.973" to="0:53.725" allWordsNum="8"/>
+			</record>
+			<record rec_id="2" rec_time="35" sound="nj_08a_01.mp3">
+			<subrecord rec_id="10" rec_time="5" name="They are from Shanghai." sound="nj_08a_01.mp3" from="0:53.740" to="0:55.742" allWordsNum="4"/>
+			<subrecord rec_id="11" rec_time="5" name="We live in a small house." sound="nj_08a_01.mp3" from="0:55.742" to="0:58.397" allWordsNum="6"/>
+			<subrecord rec_id="12" rec_time="10" name="My dad owns a Chinese restaurant nearby and my mum works in a college." sound="nj_08a_01.mp3" from="0:58.397" to="1:05.293" allWordsNum="14"/>
+			<subrecord rec_id="13" rec_time="5" name="I have a brother." sound="nj_08a_01.mp3" from="1:05.322" to="1:07.072" allWordsNum="4"/>
+			<subrecord rec_id="14" rec_time="5" name="His name is Willie." sound="nj_08a_01.mp3" from="1:07.117" to="1:09.045" allWordsNum="4"/>
+			<subrecord rec_id="15" rec_time="5" name="He is at university in London." sound="nj_08a_01.mp3" from="1:08.822" to="1:11.862" allWordsNum="6"/>
+			</record>
+			<record rec_id="3" rec_time="30" sound="nj_08a_01.mp3">
+			<subrecord rec_id="16" rec_time="5" name="He is studying to be an accountant." sound="nj_08a_01.mp3" from="1:11.788" to="1:14.917" allWordsNum="7"/>
+			<subrecord rec_id="17" rec_time="5" name="He comes back home during the holidays." sound="nj_08a_01.mp3" from="1:14.932" to="1:18.506" allWordsNum="7"/>
+			<subrecord rec_id="18" rec_time="5" name="How many people are there in your family?" sound="nj_08a_01.mp3" from="1:18.388" to="1:21.443" allWordsNum="8"/>
+			<subrecord rec_id="19" rec_time="3" name="What do they do?" sound="nj_08a_01.mp3" from="1:21.428" to="1:23.281" allWordsNum="4"/>
+			<subrecord rec_id="20" rec_time="8" name="I am in Year 7 at Walker School." sound="nj_08a_01.mp3" from="1:23.385" to="1:27.226" allWordsNum="8"/>
+			</record>
+			<record rec_id="4" rec_time="35" sound="nj_08a_01.mp3">
+			<subrecord rec_id="21" rec_time="8" name="It is near my house, and I can walk to school." sound="nj_08a_01.mp3" from="1:27.241" to="1:31.023" allWordsNum="11"/>
+			<subrecord rec_id="22" rec_time="8" name="I like my school because the teachers are very friendly." sound="nj_08a_01.mp3" from="1:30.978" to="1:35.561" allWordsNum="10"/>
+			<subrecord rec_id="23" rec_time="5" name="I am keen on sports." sound="nj_08a_01.mp3" from="1:35.590" to="1:37.934" allWordsNum="5"/>
+			<subrecord rec_id="24" rec_time="6" name="I enjoy skiing and playing table tennis." sound="nj_08a_01.mp3" from="1:37.978" to="1:41.671" allWordsNum="7"/>
+			<subrecord rec_id="25" rec_time="5" name="My best subject is Physics." sound="nj_08a_01.mp3" from="1:41.715" to="1:44.577" allWordsNum="5"/>
+			</record>
+			<record rec_id="5" rec_time="40" sound="nj_08a_01.mp3">
+			<subrecord rec_id="26" rec_time="10" name="My ambition is to be an architect, or maybe an engineer." sound="nj_08a_01.mp3" from="1:44.592" to="1:49.990" allWordsNum="11"/>
+			<subrecord rec_id="27" rec_time="10" name="I enclosed a photo of myself and some of my school friends." sound="nj_08a_01.mp3" from="1:50.035" to="1:55.478" allWordsNum="12"/>
+			<subrecord rec_id="28" rec_time="5" name="I am in the middle." sound="nj_08a_01.mp3" from="1:55.507" to="1:57.420" allWordsNum="5"/>
+			<subrecord rec_id="29" rec_time="6" name="I also enclosed a photo of our school." sound="nj_08a_01.mp3" from="1:57.465" to="2:01.232" allWordsNum="8"/>
+			<subrecord rec_id="30" rec_time="5" name="It is beautiful, isn't it?" sound="nj_08a_01.mp3" from="2:01.291" to="2:03.619" allWordsNum="5"/>
+			</record>
+			<record rec_id="6" rec_time="20" sound="nj_08a_01.mp3">
+			<subrecord rec_id="31" rec_time="10" name="I hope you will write to me soon and tell me all about yourself." sound="nj_08a_01.mp3" from="2:03.664" to="2:08.676" allWordsNum="14"/>
+			<subrecord rec_id="32" rec_time="3" name="Yours sincerely." sound="nj_08a_01.mp3" from="2:08.721" to="2:10.382" allWordsNum="2"/>
+			<subrecord rec_id="33" rec_time="3" name="Jon." sound="nj_08a_01.mp3" from="2:10.441" to="2:11.657" allWordsNum="1"/>
+		  </record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="1" name="Anna's Blog" page="14">
+			<record rec_id="0" rec_time="25" sound="nj_08a_01.mp3">
+			<subrecord rec_id="1" rec_time="2" name="Hello." sound="nj_08a_01.mp3" from="4:36.086" to="4:37.218" allWordsNum="1"/>
+			<subrecord rec_id="2" rec_time="3" name="Welcome to my blog." sound="nj_08a_01.mp3" from="4:37.236" to="4:39.089" allWordsNum="4"/>
+			<subrecord rec_id="3" rec_time="3" name="My name is Anna." sound="nj_08a_01.mp3" from="4:39.054" to="4:41.062" allWordsNum="4"/>
+			<subrecord rec_id="4" rec_time="4" name="I am a girl from Germany." sound="nj_08a_01.mp3" from="4:41.131" to="4:43.825" allWordsNum="6"/>
+			<subrecord rec_id="5" rec_time="4" name="I am 13 years old." sound="nj_08a_01.mp3" from="4:43.859" to="4:46.039" allWordsNum="5"/>
+			<subrecord rec_id="6" rec_time="8" name="I am tall and thin, and I have long, blonde hair." sound="nj_08a_01.mp3" from="4:46.210" to="4:50.895" allWordsNum="11"/>
+			 </record>
+			<record rec_id="2" rec_time="45" sound="nj_08a_01.mp3">                            
+			<subrecord rec_id="7" rec_time="4" name="I like many sports." sound="nj_08a_01.mp3" from="4:51.770" to="4:53.967" allWordsNum="4"/>
+			<subrecord rec_id="8" rec_time="4" name="I love playing badminton." sound="nj_08a_01.mp3" from="4:54.001" to="4:56.043" allWordsNum="4"/>
+			<subrecord rec_id="9" rec_time="6" name="I am keen on swimming and playing tennis too." sound="nj_08a_01.mp3" from="4:56.198" to="4:59.544" allWordsNum="9"/>
+			<subrecord rec_id="10" rec_time="8" name="I also like listening to pop music and drawing pictures." sound="nj_08a_01.mp3" from="4:59.784" to="5:04.332" allWordsNum="10"/>
+			<subrecord rec_id="11" rec_time="8" name="I have an old guitar and I am learning to play it." sound="nj_08a_01.mp3" from="5:04.640" to="5:08.347" allWordsNum="12"/>
+			<subrecord rec_id="12" rec_time="12" name="My native language is German, but I also enjoy reading and speaking English." sound="nj_08a_01.mp3" from="5:08.399" to="5:14.645" allWordsNum="13"/>
+			</record>
+			<record rec_id="3" rec_time="35" sound="nj_08a_01.mp3">
+			<subrecord rec_id="13" rec_time="8" name="My mum is a teacher and my dad is a taxi driver." sound="nj_08a_01.mp3" from="5:15.520" to="5:19.965" allWordsNum="12"/>
+			<subrecord rec_id="14" rec_time="5" name="I have a big family." sound="nj_08a_01.mp3" from="5:19.999" to="5:22.058" allWordsNum="5"/>
+			<subrecord rec_id="15" rec_time="5" name="We live in a flat." sound="nj_08a_01.mp3" from="5:22.350" to="5:24.769" allWordsNum="5"/>
+			<subrecord rec_id="16" rec_time="10" name="The flat is quite small but I like it because it is very close to the mountains!" sound="nj_08a_01.mp3" from="5:25.130" to="5:30.930" allWordsNum="17"/>
+			<subrecord rec_id="17" rec_time="6" name="I love drawing pictures of the mountains." sound="nj_08a_01.mp3" from="5:31.136" to="5:34.328" allWordsNum="7"/>
+			</record>
+			<record rec_id="4" rec_time="30" sound="nj_08a_01.mp3">
+			<subrecord rec_id="18" rec_time="6" name="I share a room with my sister, Marina." sound="nj_08a_01.mp3" from="5:34.877" to="5:38.000" allWordsNum="8"/>
+			<subrecord rec_id="19" rec_time="3" name="She is 15." sound="nj_08a_01.mp3" from="5:38.052" to="5:39.768" allWordsNum="3"/>
+			<subrecord rec_id="20" rec_time="6" name="I have two other little sisters and one brother." sound="nj_08a_01.mp3" from="5:40.025" to="5:44.023" allWordsNum="9"/>
+			<subrecord rec_id="21" rec_time="5" name="We all love to have to have family parties together." sound="nj_08a_01.mp3" from="5:44.092" to="5:46.992" allWordsNum="10"/>
+			</record>
+			<record rec_id="5" rec_time="25" sound="nj_08a_01.mp3">
+			<subrecord rec_id="22" rec_time="6" name="I go to a big school by bus from my home." sound="nj_08a_01.mp3" from="5:48.365" to="5:51.986" allWordsNum="11"/>
+			<subrecord rec_id="23" rec_time="8" name="My favourite subjects are Maths, Art and English." sound="nj_08a_01.mp3" from="5:52.071" to="5:56.859" allWordsNum="8"/>
+			<subrecord rec_id="24" rec_time="8" name="I attend school from 8 a.m. to 1 p.m. on weekdays." sound="nj_08a_01.mp3" from="5:57.305" to="6:01.510" allWordsNum="11"/>
+			</record>
+			<record rec_id="6" rec_time="25" sound="nj_08a_01.mp3">
+			<subrecord rec_id="25" rec_time="5" name="I do not wear a school uniform." sound="nj_08a_01.mp3" from="6:01.595" to="6:03.981" allWordsNum="7"/>
+			<subrecord rec_id="26" rec_time="8" name="I like my school because the teachers are all very friendly." sound="nj_08a_01.mp3" from="6:04.667" to="6:08.974" allWordsNum="11"/>
+			<subrecord rec_id="27" rec_time="8" name="My ambition is to be an architect when I leave school." sound="nj_08a_01.mp3" from="6:09.438" to="6:13.539" allWordsNum="11"/>
+			</record>
+			<record rec_id="7" rec_time="25" sound="nj_08a_01.mp3">
+			<subrecord rec_id="28" rec_time="6" name="I would like to have penfriends from all over the world!" sound="nj_08a_01.mp3" from="6:14.998" to="6:18.893" allWordsNum="11"/>
+			<subrecord rec_id="29" rec_time="10" name="I hope that you will e-mail me, and maybe come and visit me in Germany one day!" sound="nj_08a_01.mp3" from="6:19.116" to="6:24.779" allWordsNum="17"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="Speaking" page="11">
+			<record rec_id="0" rec_time="4" name="What's his name?" sound="nj_08a_01.mp3" from="2:57.951" to="3:00.135" allWordsNum="3"/>
+			<record rec_id="1" rec_time="2" name="David." sound="nj_08a_01.mp3" from="3:00.163" to="3:01.992" allWordsNum="1"/>
+			<record rec_id="2" rec_time="4" name="Where does he live?" sound="nj_08a_01.mp3" from="3:03.850" to="3:05.991" allWordsNum="4"/>
+			<record rec_id="3" rec_time="2" name="I don't know." sound="nj_08a_01.mp3" from="3:06.260" to="3:08.075" allWordsNum="3"/>
+			<record rec_id="4" rec_time="4" name="When was he born?" sound="nj_08a_01.mp3" from="3:10.004" to="3:12.046" allWordsNum="4"/>
+			<record rec_id="5" rec_time="4" name="In nineteen ninety-five." sound="nj_08a_01.mp3" from="3:12.372" to="3:15.023" allWordsNum="3"/>
+			<record rec_id="6" rec_time="4" name="How old is he?" sound="nj_08a_01.mp3" from="3:17.008" to="3:19.008" allWordsNum="4"/>
+			<record rec_id="7" rec_time="2" name="Thirteen." sound="nj_08a_01.mp3" from="3:19.320" to="3:20.979" allWordsNum="1"/>
+			<record rec_id="8" rec_time="4" name="How many brothers does he have?" sound="nj_08a_01.mp3" from="3:23.006" to="3:25.998" allWordsNum="6"/>
+			<record rec_id="9" rec_time="2" name="Three." sound="nj_08a_01.mp3" from="3:25.956" to="3:27.072" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="He plays tennis." sound="nj_08a_01.mp3" from="3:30.062" to="3:31.979" allWordsNum="3"/>
+			<record rec_id="11" rec_time="2" name="Tennis?" sound="nj_08a_01.mp3" from="3:32.048" to="3:34.033" allWordsNum="1"/>
+			<record rec_id="12" rec_time="5" name="His house has a purple roof." sound="nj_08a_01.mp3" from="3:36.042" to="3:39.374" allWordsNum="6"/>
+			<record rec_id="13" rec_time="4" name="A purple roof?" sound="nj_08a_01.mp3" from="3:39.328" to="3:41.816" allWordsNum="3"/>
+			<record rec_id="14" rec_time="3" name="His eyes are green." sound="nj_08a_01.mp3" from="3:43.961" to="3:45.947" allWordsNum="4"/>
+			<record rec_id="15" rec_time="3" name="Green?" sound="nj_08a_01.mp3" from="3:46.015" to="3:47.773" allWordsNum="1"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="1" name="Speaking" page="11">
+			<record rec_id="0" rec_time="4" name="Hello, what's your name?" sound="nj_08a_01.mp3" from="4:06.330" to="4:09.213" allWordsNum="4"/>
+			<record rec_id="1" rec_time="2" name="Bob." sound="nj_08a_01.mp3" from="4:09.196" to="4:10.191" allWordsNum="1"/>
+			<record rec_id="2" rec_time="5" name="Mine is May. Where do you live?" sound="nj_08a_01.mp3" from="4:10.277" to="4:13.640" allWordsNum="7"/>
+			<record rec_id="3" rec_time="3" name="I live in Britain." sound="nj_08a_01.mp3" from="4:13.623" to="4:15.476" allWordsNum="4"/>
+			<record rec_id="4" rec_time="3" name="How old are you?" sound="nj_08a_01.mp3" from="4:15.476" to="4:17.209" allWordsNum="4"/>
+			<record rec_id="5" rec_time="2" name="Thirteen." sound="nj_08a_01.mp3" from="4:17.244" to="4:18.393" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="When's your birthday?" sound="nj_08a_01.mp3" from="4:18.462" to="4:20.384" allWordsNum="3"/>
+			<record rec_id="7" rec_time="4" name="The tenth of September." sound="nj_08a_01.mp3" from="4:20.350" to="4:22.478" allWordsNum="4"/>
+			<record rec_id="8" rec_time="6" name="(surprised)The tenth of September? Me too." sound="nj_08a_01.mp3" from="4:22.546" to="4:26.493" allWordsNum="7"/>
+			<exercise type="5" index="0"/>
+		</part>
+	</dialogs>
+</package>
+ 

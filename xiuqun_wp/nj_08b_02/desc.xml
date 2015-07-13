@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_08b</book_id>
+	<unit_id>nj_08b_02</unit_id>
+	<version>6</version>
+	<unit>unit2</unit>
+	<title>Water</title>
+	<words>
+		<part part_index="0" page="29">
+			<record rec_id="0" rec_time="3" name="daily" symbol="5deili" explain="adv.每天" sound="nj_08b_02.mp3" from=" 10:17.122" to=" 10:18.504" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="amount" symbol="E5maunt" explain="n.数量；数额" sound="nj_08b_02.mp3" from=" 10:19.764" to=" 10:20.758" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="increase" symbol="in5kri:s" explain="v.(使)增加" sound="nj_08b_02.mp3" from=" 10:21.970 " to=" 10:22.963" allWordsNum="1"/>
+		  <record rec_id="3" rec_time="3" name="remain" symbol="ri5mein" explain="v.仍然是；保持不变" sound="nj_08b_02.mp3" from=" 10:24.272" to=" 10:25.193" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="symbol" symbol="5simbl" explain="n.符号" sound="nj_08b_02.mp3" from=" 10:26.308" to=" 10:27.253" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="flow" symbol="flEu" explain="v.流；流动" sound="nj_08b_02.mp3" from=" 10:28.416" to=" 10:29.434" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="washbasin" symbol="5wCFbeisn" explain="n.洗脸盆" sound="nj_08b_02.mp3" from=" 10:30.888 " to=" 10:32.076" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="vanish" symbol="5vAniF" explain="v.突然消失" sound="nj_08b_02.mp3" from=" 10:33.457 " to=" 10:34.524" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="drain" symbol="drein" explain="n.下水道" sound="nj_08b_02.mp3" from=" 10:35.469 " to=" 10:36.511 " allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="impatient" symbol="im5peiFnt" explain="adj.不耐烦的" sound="nj_08b_02.mp3" from=" 10:37.553" to="  10:38.595" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="obey" symbol="E5bei" explain="v.服从；遵守" sound="nj_08b_02.mp3" from=" 10:39.734" to=" 10:40.558 " allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="faint" symbol="feint" explain="adj.（光、声、味）微弱的" sound="nj_08b_02.mp3" from=" 10:41.697" to=" 10:42.691" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="float" symbol="flEut" explain="v. 浮；漂；飘动；漂移" sound="nj_08b_02.mp3" from=" 10:43.806" to=" 10:44.800" allWordsNum="1"/>
+			<record rec_id="13" rec_time="4" name="comfortably" symbol="5kQmftEbli" explain="adv.舒服地" sound="nj_08b_02.mp3" from=" 10:45.963 " to=" 10:47.054" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="relax" symbol="ri5lAks" explain="v.放松；休息" sound="nj_08b_02.mp3" from=" 10:48.314 " to=" 10:49.453" allWordsNum="1"/>
+			<record rec_id="15" rec_time="4" name="clean up" symbol="kli:n Qp " explain="净化" sound="nj_08b_02.mp3" from=" 10:50.592" to=" 10:51.537" allWordsNum="2"/>
+			<record rec_id="16" rec_time="3" name="puzzled" symbol="5pQzld" explain="adj.困惑的" sound="nj_08b_02.mp3" from=" 10:52.676" to=" 10:53.694" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="treatment" symbol="5tri:tmEnt" explain="n.（净化或防治）处理加工" sound="nj_08b_02.mp3" from=" 10:54.761" to=" 10:55.827" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="works" symbol="wE:ks" explain="n.工厂" sound="nj_08b_02.mp3" from=" 10:56.990" to=" 10:57.935" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="thorough" symbol="5WQrE" explain="adj.彻底的；完全的" sound="nj_08b_02.mp3" from=" 10:58.808" to=" 10:59.680" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="cleaning" symbol="5kli:niN" explain="n.打扫；清洁" sound="nj_08b_02.mp3" from=" 11:00.771" to=" 11:01.668" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="pipe" symbol="paip" explain="n.管子；管道" sound="nj_08b_02.mp3" from="  11:02.783" to=" 11:03.558 " allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="until" symbol="En5til" explain="conj.直到......为止" sound="nj_08b_02.mp3" from=" 11:04.649" to=" 11:05.715" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="sewage" symbol="5su:idV" explain="n.(下水道的)污水；污物" sound="nj_08b_02.mp3" from=" 11:06.903" to=" 11:07.920" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="sewage plant" symbol="5su:idV  plB:nt" explain="污水处理厂" sound="nj_08b_02.mp3" from=" 11:09.084" to=" 11:10.320" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="pump" symbol="pQmp" explain="v.用泵输送" sound="nj_08b_02.mp3" from=" 11:11.677" to=" 11:12.574" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="precious" symbol="5preFEs" explain="adj.宝贵的" sound="nj_08b_02.mp3" from=" 11:13.616" to=" 11:14.658" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="liquid" symbol="5likwid" explain="n.液体" sound="nj_08b_02.mp3" from=" 11:15.627" to=" 11:16.355" allWordsNum="1"/>
+			<record rec_id="28" rec_time="3" name="rest" symbol="rest" explain="v.休息" sound="nj_08b_02.mp3" from=" 11:17.494" to=" 11:18.390" allWordsNum="1"/>
+			<record rec_id="29" rec_time="3" name="ordinary" symbol="5R:dnri" explain="adj.普通的；平常的" sound="nj_08b_02.mp3" from=" 11:19.408" to=" 11:20.329" allWordsNum="1"/>
+			<record rec_id="30" rec_time="3" name="manufacture" symbol="7mAnjU5fAktFE(r)" explain="v.（用机器）大量生产" sound="nj_08b_02.mp3" from=" 11:21.662" to=" 11:22.729" allWordsNum="1"/>
+			<record rec_id="31" rec_time="3" name="equipment" symbol="i5kwipmEnt" explain="n.设备；器材" sound="nj_08b_02.mp3" from=" 11:24.086" to=" 11:25.031" allWordsNum="1"/>
+			<record rec_id="32" rec_time="3" name="tool" symbol="tu:l" explain="n.工具" sound="nj_08b_02.mp3" from=" 11:26.194" to=" 11:27.018" allWordsNum="1"/>
+			<record rec_id="33" rec_time="3" name="chart" symbol="tFB:t" explain="n.图表" sound="nj_08b_02.mp3" from=" 11:28.036" to=" 11:28.909" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Water talk" page="17">
+			<record rec_id="0" rec_time="25" sound="nj_08b_02.mp3">
+			<subrecord rec_id="1" rec_time="3" name="Daisy was in the bathroom." sound="nj_08b_02.mp3" from="   0:11.375" to="  0:13.801" allWordsNum="5"/>
+			<subrecord rec_id="2" rec_time="5" name="She was brushing her teeth and tap was on." sound="nj_08b_02.mp3" from="  0:13.877" to="  0:17.517" allWordsNum="9"/>
+			<subrecord rec_id="3" rec_time="8" name="Water was pouring into the washbasin and vanishing down the drain." sound="nj_08b_02.mp3" from="    0:17.772" to="   0:23.431" allWordsNum="11"/>
+			</record>
+		  <record rec_id="1" rec_time="25" sound="nj_08b_02.mp3">
+		  <subrecord rec_id="4" rec_time="5" name="'Turn that tap off, 'a voice said loudly." sound="nj_08b_02.mp3" from="  0:23.945" to="  0:28.018" allWordsNum="8"/>
+			<subrecord rec_id="5" rec_time="6" name="Daisy froze. She looked around, but saw no one." sound="nj_08b_02.mp3" from="  0:28.661" to="  0:33.806" allWordsNum="9"/>
+			<subrecord rec_id="6" rec_time="3" name="'Turn that tap off." sound="nj_08b_02.mp3" from="  0:33.977" to="  0:35.863" allWordsNum="4"/>
+			<subrecord rec_id="7" rec_time="3" name="You're wasting water!'" sound="nj_08b_02.mp3" from="  0:35.949" to="  0:37.835" allWordsNum="3"/>
+			<subrecord rec_id="8" rec_time="3" name="The voice sounded impatient." sound="nj_08b_02.mp3" from="  0:38.264" to="  0:40.622" allWordsNum="4"/>
+			</record>
+		  <record rec_id="2" rec_time="25" sound="nj_08b_02.mp3">
+		  <subrecord rec_id="9" rec_time="3" name="This time Daisy obeyed." sound="nj_08b_02.mp3" from="  0:41.651" to="  0:43.794" allWordsNum="4"/>
+			<subrecord rec_id="10" rec_time="7" name="'Who…who are you?' Daisy's voice was faint." sound="nj_08b_02.mp3" from="  0:44.223" to="  0:48.724" allWordsNum="4"/>
+			</record>
+		  <record rec_id="3" rec_time="25" sound="nj_08b_02.mp3">
+		  <subrecord rec_id="11" rec_time="10" name="'I'm a drop of water. It's not easy for me to get here. Do you know where I'm from?'" sound="nj_08b_02.mp3" from="  0:49.153" to="  0:56.398" allWordsNum="19"/>
+			<subrecord rec_id="12" rec_time="5" name="'From the tap, I suppose,' said Daisy." sound="nj_08b_02.mp3" from="  0:56.913" to="  1:00.985" allWordsNum="7"/>
+			</record>
+		  <record rec_id="4" rec_time="60" sound="nj_08b_02.mp3">
+			<subrecord rec_id="13" rec_time="15" name="'Yes, but before that?' Water said, 'A few days ago, I was floating comfortably in a cloud in Jiangxi, enjoying the view." sound="nj_08b_02.mp3" from="  1:01.342" to="  1:12.636" allWordsNum="22"/>
+		  <subrecord rec_id="14" rec_time="10" name="Then the cloud dropped me into a stream and I sped down the mountain into the Yangtze River." sound="nj_08b_02.mp3" from="   1:13.726" to="  1:21.094" allWordsNum="18"/>
+			<subrecord rec_id="15" rec_time="5" name="The Yangtze River carried me to a lake." sound="nj_08b_02.mp3" from="  1:22.039" to="  1:25.093" allWordsNum="8"/>
+			<subrecord rec_id="16" rec_time="8" name="I relaxed there for a few days, and then I travelled a long way and ran into the Huangpu River." sound="nj_08b_02.mp3" from="  1:26.207" to="  1:33.848" allWordsNum="20"/>
+			<subrecord rec_id="17" rec_time="3" name="Then it was time to get cleaned up.'" sound="nj_08b_02.mp3" from="  1:34.247" to="  1:36.813" allWordsNum="8"/>
+			</record>
+		  <record rec_id="5" rec_time="35" sound="nj_08b_02.mp3">			
+			<subrecord rec_id="18" rec_time="7" name="'Cleaned up?' Daisy sounded puzzled." sound="nj_08b_02.mp3" from="  1:37.611" to="  1:41.488" allWordsNum="5"/>
+			<subrecord rec_id="19" rec_time="8" name="'Yes. I was dirty after my journey so they took me to a water treatment works." sound="nj_08b_02.mp3" from="  1:42.058" to="  1:49.414" allWordsNum="16"/>
+			<subrecord rec_id="20" rec_time="6" name="They gave me a thorough cleaning and added a few chemicals to me. " sound="nj_08b_02.mp3" from="  1:49.642" to="  1:54.659" allWordsNum="13"/>
+			<subrecord rec_id="21" rec_time="10" name="Then I travelled in the pipes under the streets. I waited there until you called me , and here I am.'" sound="nj_08b_02.mp3" from="  1:55.287" to="  2:04.523" allWordsNum="20"/>
+			</record>
+		  <record rec_id="6" rec_time="25" sound="nj_08b_02.mp3">
+			<subrecord rec_id="22" rec_time="5" name="Daisy said, 'So this is the end of your journey.'" sound="nj_08b_02.mp3" from="  2:05.379" to="  2:10.111" allWordsNum="10"/>
+			</record>
+		  <record rec_id="7" rec_time="25" sound="nj_08b_02.mp3">			
+			<subrecord rec_id="23" rec_time="6" name="'No. When you've finished with me, I'll go to a sewage plant." sound="nj_08b_02.mp3" from="   2:10.681" to="  2:16.668" allWordsNum="12"/>
+			<subrecord rec_id="24" rec_time="6" name="Then they'll pump me into the river and I'll be back in the sea again.'" sound="nj_08b_02.mp3" from="  2:16.678" to="  2:21.823" allWordsNum="15"/>
+			</record>
+		  <record rec_id="8" rec_time="25" sound="nj_08b_02.mp3">
+			<subrecord rec_id="25" rec_time="3" name="'Again?'" sound="nj_08b_02.mp3" from="  2:21.994" to="  2:23.152" allWordsNum="1"/>
+			</record>
+		  <record rec_id="9" rec_time="25" sound="nj_08b_02.mp3">  	
+	  	<subrecord rec_id="26" rec_time="5" name="'Yes. That's where I came from in the first place." sound="nj_08b_02.mp3" from="   2:23.709" to=" 2:28.167" allWordsNum="10"/>
+			<subrecord rec_id="27" rec_time="4" name="Remember not to waste me or pollute me." sound="nj_08b_02.mp3" from="  2:28.682" to="  2:31.511" allWordsNum="8"/>
+			<subrecord rec_id="28" rec_time="5" name="I'm precious, like liquid gold. See you.'" sound="nj_08b_02.mp3" from="  2:32.111" to="  2:36.827" allWordsNum="7"/>
+			</record>
+		  <record rec_id="10" rec_time="25" sound="nj_08b_02.mp3">			
+			<subrecord rec_id="29" rec_time="5" name="'Wait a minute. What do you mean by liquid gold?'" sound="nj_08b_02.mp3" from="  2:37.385" to="  2:41.543" allWordsNum="10"/>
+			<subrecord rec_id="30" rec_time="5" name="But there was no reply. The water had gone." sound="nj_08b_02.mp3" from="  2:41.929" to="   2:46.173" allWordsNum="9"/>
+			</record>
+		  <record rec_id="11" rec_time="25" sound="nj_08b_02.mp3">
+			<subrecord rec_id="31" rec_time="10" name="Daisy came out of the bathroom. Her brother said, 'Who were you talking to?'" sound="nj_08b_02.mp3" from="  2:47.073" to="  2:53.933" allWordsNum="14"/>
+			</record>
+		  <record rec_id="12" rec_time="25" sound="nj_08b_02.mp3">		
+			<subrecord rec_id="32" rec_time="5" name="'I was talking to the water,' Daisy said." sound="nj_08b_02.mp3" from="  2:54.661" to="   2:57.962" allWordsNum="8"/>
+			</record>
+		  <record rec_id="13" rec_time="25" sound="nj_08b_02.mp3">		
+			<subrecord rec_id="33" rec_time="12" name="'Sometimes you're strange, Daisy,' her brother said." sound="nj_08b_02.mp3" from=" 2:58.305" to=" 3:02.378" allWordsNum="7"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="1" name="More information about water" page="27">
+			<record rec_id="0" rec_time="25" sound="nj_08b_02.mp3">
+			<subrecord rec_id="1" rec_time="8" name="The oceans cover 2/3 of the Earth, but ocean water is salty." sound="nj_08b_02.mp3" from="   8:07.468" to="   8:12.469" allWordsNum="12"/>
+			<subrecord rec_id="2" rec_time="7" name="That is to say, most of the water on the Earth is not drinkable!" sound="nj_08b_02.mp3" from="   8:12.744" to="   8:16.998" allWordsNum="14"/>
+			</record>
+		  <record rec_id="2" rec_time="35" sound="nj_08b_02.mp3">			
+			<subrecord rec_id="3" rec_time="10" name="90% of all the water on the Earth that human beings can drink right now is underground." sound="nj_08b_02.mp3" from=" 8:17.446" to=" 8:24.078" allWordsNum="17"/>
+			<subrecord rec_id="4" rec_time="5" name="It is very easy to pollute groundwater." sound="nj_08b_02.mp3" from=" 8:24.688" to=" 8:27.492" allWordsNum="7"/>
+			<subrecord rec_id="5" rec_time="20" name="For example, 4.5 litres of paint or about 1 litre of motor oil can seep into the Earth and pollute 1,125,000 litres of drinking water!" sound="nj_08b_02.mp3" from="   8:28.125" to="   8:43.022" allWordsNum="25"/>
+			</record>
+		  <record rec_id="3" rec_time="35" sound="nj_08b_02.mp3">
+			<subrecord rec_id="6" rec_time="15" name="A leak that fills up a coffee cup in 10 minutes will waste over 13,500 litres of water in a year. " sound="nj_08b_02.mp3" from="8:43.976" to="8:53.815" allWordsNum="21"/>
+			<subrecord rec_id="7" rec_time="4" name="How much water is that?" sound="nj_08b_02.mp3" from=" 8:54.793" to="  8:57.023" allWordsNum="5"/>
+			<subrecord rec_id="8" rec_time="12" name="You would have to drink 65 glasses of water every day for a year to get that much water!" sound="nj_08b_02.mp3" from="  8:57.252" to="9:05.149" allWordsNum="19"/>
+			</record>
+		  <record rec_id="4" rec_time="25" sound="nj_08b_02.mp3">
+			<subrecord rec_id="9" rec_time="10" name="If you leave the water running while you brush your teeth, you might waste 22.5 litres of water. " sound="nj_08b_02.mp3" from="9:05.437" to=" 9:13.000" allWordsNum="18"/>
+			<subrecord rec_id="10" rec_time="7" name="That is enough to fill 65 cans of soft drink!" sound="nj_08b_02.mp3" from="9:13.173" to=" 9:17.345" allWordsNum="10"/>
+			</record>
+		  <record rec_id="5" rec_time="25" sound="nj_08b_02.mp3">
+			<subrecord rec_id="11" rec_time="15" name="If you leave the water running while you wash the dishes, you might waste 135 litres of water——enough to wash a whole car!" sound="nj_08b_02.mp3" from="  9:17.978" to="  9:28.518" allWordsNum="24"/>
+			</record>
+		  <record rec_id="6" rec_time="25" sound="nj_08b_02.mp3">
+			<subrecord rec_id="12" rec_time="8" name="Believe it or not, the water we flush down our toilets starts as fresh water!" sound="nj_08b_02.mp3" from=" 9:28.898" to="9:34.519" allWordsNum="15"/>
+			<subrecord rec_id="13" rec_time="10" name="Each time you flush, your toilet uses about 9 to 15 litres of water. But it does not have to!" sound="nj_08b_02.mp3" from="9:34.944" to=" 9:42.749" allWordsNum="20"/>
+			</record>
+		  <record rec_id="7" rec_time="25" sound="nj_08b_02.mp3">
+		  <subrecord rec_id="14" rec_time="5" name="A shower usually takes at least 5 minutes." sound="nj_08b_02.mp3" from="  9:43.002" to="  9:46.899" allWordsNum="8"/>
+			<subrecord rec_id="15" rec_time="12" name="So every day, you could use 112.5 litres of water taking one shower." sound="nj_08b_02.mp3" from=" 9:47.255" to=" 9:54.324" allWordsNum="13"/>
+			<subrecord rec_id="16" rec_time="8" name="In a year, that is almost 45,000 litres of water!" sound="nj_08b_02.mp3" from="   9:54.681" to=" 9:59.405" allWordsNum="10"/>
+			</record>
+		  <record rec_id="8" rec_time="25" sound="nj_08b_02.mp3">
+			<subrecord rec_id="17" rec_time="8" name="A bath uses even more water than a shower——about twice as much." sound="nj_08b_02.mp3" from=" 9:59.934" to=" 10:05.026" allWordsNum="13"/>
+			<subrecord rec_id="18" rec_time="6" name="A bath can easily use 225 litres of water." sound="nj_08b_02.mp3" from=" 10:05.543" to=" 10:10.038" allWordsNum="9"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="2" name="Water-storing Himalaya Tower" page="0" source="2">
+			<record rec_id="0" rec_time="14" sound="8B Unit 2.mp3">
+				<subrecord rec_id="1" rec_time="6" name="If you have at least one full glass of clean drinking water, you are lucky. " sound="8B Unit 2.mp3" from="  0:05.891" to="  0:11.015" allWordsNum="15"/>
+				<subrecord rec_id="2" rec_time="8" name="According to the World Water Council, one out of six people in the world do not have clean water to drink. " sound="8B Unit 2.mp3" from="  0:11.409" to="  0:18.503" allWordsNum="21"/>
+			</record>
+			<record rec_id="1" rec_time="12" sound="8B Unit 2.mp3">
+				<subrecord rec_id="3" rec_time="8" name="Based on Wikipedia about 40 percent of the world's fresh water is stored within 55,000 glaciers. " sound="8B Unit 2.mp3" from="  0:19.993" to="  0:27.409" allWordsNum="16"/>
+				<subrecord rec_id="4" rec_time="4" name="These glaciers are located high in the Himalayan Mountains. " sound="8B Unit 2.mp3" from="  0:27.768" to="  0:31.709" allWordsNum="9"/>
+			</record>
+			<record rec_id="2" rec_time="14" sound="8B Unit 2.mp3">
+				<subrecord rec_id="5" rec_time="9" name="Lately, however, the Himalayan glaciers and those in other parts of the world have been decreasing because of global warming. " sound="8B Unit 2.mp3" from="  0:33.214" to="  0:42.064" allWordsNum="20"/>
+				<subrecord rec_id="6" rec_time="5" name="And the glaciers are estimated to disappear by the year 2162. " sound="8B Unit 2.mp3" from="  0:42.422" to="  0:47.044" allWordsNum="11"/>
+			</record>
+			<record rec_id="3" rec_time="3" sound="8B Unit 2.mp3">
+				<subrecord rec_id="7" rec_time="3" name="The question is: how do we get the water out? " sound="8B Unit 2.mp3" from="  0:48.477" to="  0:51.308" allWordsNum="10"/>
+			</record>
+			<record rec_id="4" rec_time="18" sound="8B Unit 2.mp3">
+				<subrecord rec_id="8" rec_time="5" name="Just imagine a water tower located on the top of the Himalayan Mountains. " sound="8B Unit 2.mp3" from="  0:52.884" to="  0:57.721" allWordsNum="13"/>
+				<subrecord rec_id="9" rec_time="4" name="It can supply water to half of the world's population. " sound="8B Unit 2.mp3" from="  0:58.223" to="  1:01.734" allWordsNum="10"/>
+				<subrecord rec_id="10" rec_time="9" name="Some students from Harbin Institute of Technology have designed such a massive structure called the 'Himalaya Water Tower.' " sound="8B Unit 2.mp3" from="  1:02.236" to="  1:10.620" allWordsNum="18"/>
+			</record>
+			<record rec_id="5" rec_time="12" sound="8B Unit 2.mp3">
+				<subrecord rec_id="11" rec_time="12" name="Looking like something straight out of The Lord of the Rings, the 'Himalaya Water Tower' collects water, purifies it, and stores it as ice for future use." sound="8B Unit 2.mp3" from="  1:11.979" to="  1:23.476" allWordsNum="27"/>
+			</record>
+			<record rec_id="6" rec_time="24" sound="8B Unit 2.mp3">
+				<subrecord rec_id="12" rec_time="5" name="The tower looks like a big plant and mainly consists of four parts. " sound="8B Unit 2.mp3" from="  1:24.759" to="  1:29.390" allWordsNum="7"/>
+				<subrecord rec_id="13" rec_time="11" name="The lower part is used for collecting water during the rainy season, while the upper part, above the snow line, is the place to store ice. " sound="8B Unit 2.mp3" from="  1:29.763" to="  1:40.019" allWordsNum="26"/>
+				<subrecord rec_id="14" rec_time="8" name="Similar to a plant's roots, the tower also contains pipes to transport water to nearby towns and villages. " sound="8B Unit 2.mp3" from="  1:40.557" to="  1:48.456" allWordsNum="18"/>
+			</record>
+			<record rec_id="7" rec_time="23" sound="8B Unit 2.mp3">
+				<subrecord rec_id="15" rec_time="15" name="The Himalaya Water Tower concept won the 2012 Skyscraper competition held by eVolo magazine, and it may be a solution to water problems caused by the melting of glaciers in the world's tallest mountains. " sound="8B Unit 2.mp3" from="  1:49.888" to="  2:04.777" allWordsNum="34"/>
+				<subrecord rec_id="16" rec_time="8" name="If replicated in numbers, this innovative tower could someday provide fresh water for future generations. " sound="8B Unit 2.mp3" from="  2:05.198" to="  2:12.910" allWordsNum="15"/>
+			</record>
+		<exercise type="4" index="0"/>
+      </part>	
+      <part part_index="3" name="Water-storing Himalaya Tower" page="0" source="2">
+      	<article allWordsNum="270">
+            	<![CDATA[
+If you have at least one full glass of clean drinking water, you are lucky. According to the World Water Council (世界水理事会), one out of six people in the world do not have clean water to drink.
+Based on Wikipedia (维基百科), about 40 percent of the world's fresh water is stored within 55,000 glaciers (冰川). These glaciers are located high in the Himalayan Mountains.
+Lately, however, the Himalayan glaciers and those in other parts of the world have been decreasing because of global warming. And the glaciers are estimated to disappear by the year 2162.
+The question is: how do we get the water out?
+Just imagine a water tower (水塔) located on the top of the Himalayan Mountains. It can supply water to half of the world's population. Some students from Harbin Institute of Technology (哈尔滨工业大学) have designed such a massive (巨型的) structure called the "Himalaya Water Tower."
+Looking like something straight out of The Lord of the Rings (《指环王》), the "Himalaya Water Tower" collects water, purifies (净化) it, and stores it as ice for future use.
+The tower looks like a big plant and mainly consists of four parts. The lower part is used for collecting water during the rainy season, while the upper part, above the snow line (雪线), is the place to store ice. Similar to a plant's roots, the tower also contains pipes to transport water to nearby towns and villages.
+The Himalaya Water Tower concept won the 2012 Skyscraper competition (摩天大厦设计竞赛) held by eVolo magazine, and it may be a solution to water problems caused by the melting (融化) of glaciers in the world's tallest mountains. If replicated (复制) in numbers, this innovative (创新的) tower could someday provide fresh water for future generations.
+       	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="0" name="Choose the best answer." qtype="1" >
+					<question rec_id="0" choice="D">
+						<![CDATA[According to the World Water Council, ________ people can not get clean water to drink.]]>
+						<choice item="A" name="three out four"/>
+						<choice item="B" name="two out three"/>
+						<choice item="C" name="one out of three"/>
+						<choice item="D" name="one out of six"/>
+					</question>
+					<question rec_id="1" choice="B">
+						<![CDATA[Based on the research of Wikipedia, where is 40 percent of the world's fresh water stored?]]>
+						<choice item="A" name="In the Yellow River."/>
+						<choice item="B" name="In the glaciers."/>
+						<choice item="C" name="In the mountains."/>
+						<choice item="D" name="In the sea."/>
+					</question>
+					<question rec_id="2" choice="C">
+						<![CDATA[Which is not one of the reasons why people want to build the "Himalaya Water Tower" according to the article?]]>
+						<choice item="A" name="More and more people could not get clean drinking water."/>
+						<choice item="B" name="The Himalayan glaciers have been decreasing."/>
+						<choice item="C" name="People want to visit the Himalayan Mountains."/>
+						<choice item="D" name="The Himalaya Water Tower is a solution to water problems."/>
+					</question>
+					<question rec_id="3" choice="A">
+						<![CDATA[Which of the following statements is true?]]>
+						<choice item="A" name="To build a water tower in the Himalayan Mountains is now only a concept."/>
+						<choice item="B" name="Designers of the &quot;Himalaya Water Tower&quot; are from abroad."/>
+						<choice item="C" name="The lower part of the &quot;Himalaya Water Tower&quot; is designed to store ice."/>
+						<choice item="D" name="The &quot;Himalaya Water Tower&quot; does not contain pipes to transport water."/>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+</package>
+ 

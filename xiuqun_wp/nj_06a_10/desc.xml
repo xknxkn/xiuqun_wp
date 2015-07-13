@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_06a</book_id>
+	<unit_id>nj_06a_10</unit_id>
+	<version>2</version>
+	<unit>unit10</unit>
+	<title>Healthy eating</title>
+	<words>
+		<part part_index="0" page="75">
+			<record rec_id="0" rec_time="3" name="healthy" symbol="5helWi" explain="adj.健康的" sound="nj_06a_10.mp3" from="5:56.408" to="5:57.187" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="eating" symbol="5i:tiN" explain="n.吃；饮食" sound="nj_06a_10.mp3" from="5:58.975" to="5:59.815" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="diet" symbol="5daiEt" explain="n.(日常)饮食；(日常)食物" sound="nj_06a_10.mp3" from="6:01.175" to="6:01.969" allWordsNum="1"/>
+			<record rec_id="3" rec_time="3" name="pyramid" symbol="5pirEmid" explain="n.金字塔" sound="nj_06a_10.mp3" from="6:03.604" to="6:04.429" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="salt" symbol="sR:lt" explain="n.盐" sound="nj_06a_10.mp3" from="6:06.018" to="6:06.828" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="yogurt" symbol="5jCgEt" explain="n.酸奶" sound="nj_06a_10.mp3" from="6:08.371" to="6:09.120" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="a little" symbol="E litl" explain="少量；一些" sound="nj_06a_10.mp3" from="6:10.602" to="6:11.336" allWordsNum="2"/>
+			<record rec_id="7" rec_time="3" name="plenty of" symbol="5plenti Cv " explain="大量的；充足的" sound="nj_06a_10.mp3" from="6:13.047" to="6:14.086" allWordsNum="2"/>
+			<record rec_id="8" rec_time="3" name="fresh" symbol="freF" explain="adj.新鲜的" sound="nj_06a_10.mp3" from="6:16.118" to="6:16.989" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="unhealthy" symbol="Qn5helWi" explain="adj.不健康的" sound="nj_06a_10.mp3" from="6:18.395" to="6:19.357" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="exercise" symbol="5eksEsaiz" explain="n.活动；运动；锻炼" sound="nj_06a_10.mp3" from="6:21.084" to="6:22.230" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="countryside" symbol="5kQntrisaid" explain="n.乡村" sound="nj_06a_10.mp3" from="6:24.354" to="6:25.439" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="fit" symbol="fit" explain="adj.健康的" sound="nj_06a_10.mp3" from="6:27.241" to="6:27.914" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="stay" symbol="stei" explain="v.逗留" sound="nj_06a_10.mp3" from="6:29.442" to="6:30.313" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="porridge" symbol="5pCridV" explain="n.粥" sound="nj_06a_10.mp3" from="6:31.978" to="6:32.681" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="than" symbol="TEn" explain="conj.比" sound="nj_06a_10.mp3" from="6:34.346" to="6:35.171" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="as ... as" symbol="Az...Az" explain="像......一样；如同" sound="nj_06a_10.mp3" from="6:36.990" to="6:38.976" allWordsNum="2"/>
+			<record rec_id="17" rec_time="3" name="habit" symbol="5hAbit" explain="n.习惯" sound="nj_06a_10.mp3" from="6:42.001" to="6:42.720" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="quiz" symbol="kwiz" explain="n.测试" sound="nj_06a_10.mp3" from="6:44.293" to="6:45.027" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="before" symbol="bi5fR:(r)" explain="conj.在......之前" sound="nj_06a_10.mp3" from="6:46.615" to="6:47.348" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="should" symbol="Fud" explain="modal v.应该" sound="nj_06a_10.mp3" from="6:49.059" to="6:49.747" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="suggestion" symbol="sE5dVestFEn" explain="n.建议" sound="nj_06a_10.mp3" from="6:51.794" to="6:53.001" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Read a story" page="70">      
+			<record rec_id="0" rec_time="30" sound="nj_06a_10.mp3">
+				<subrecord rec_id="1" rec_time="3" name="Mr Lin lived in the city. " sound="nj_06a_10.mp3" from="1:21.014" to="1:23.981" allWordsNum="6"/>
+				<subrecord rec_id="2" rec_time="2" name="He was fat and unhealthy. " sound="nj_06a_10.mp3" from="1:24.448" to="1:26.602" allWordsNum="5"/>
+			  <subrecord rec_id="3" rec_time="5" name="He had an unhealthy diet and he did no exercise. " sound="nj_06a_10.mp3" from="1:27.293" to="1:31.947" allWordsNum="10"/>
+			  <subrecord rec_id="4" rec_time="3" name="Miss Chen was his cousin. " sound="nj_06a_10.mp3" from="1:32.577" to="1:34.934" allWordsNum="5"/>
+			  <subrecord rec_id="5" rec_time="2" name="She Lived in the countryside. " sound="nj_06a_10.mp3" from="1:35.503" to="1:37.474" allWordsNum="5"/>
+			  <subrecord rec_id="6" rec_time="2" name="She was fit and healthy. " sound="nj_06a_10.mp3" from="1:38.002" to="1:39.994" allWordsNum="5"/>
+			  <subrecord rec_id="7" rec_time="5" name="She had a healthy diet and worked in her garden every day. " sound="nj_06a_10.mp3" from="1:40.726" to="1:45.460" allWordsNum="12"/>
+			</record>
+			<record rec_id="1" rec_time="10" sound="nj_06a_10.mp3">
+				<subrecord rec_id="8" rec_time="5" name="One day, Mr Lin went to visit Miss Chen and had lunch with her. " sound="nj_06a_10.mp3" from="1:46.416" to="1:51.496" allWordsNum="14"/>
+				<subrecord rec_id="9" rec_time="4" name="'What would you like for lunch?' asked Miss Chen. " sound="nj_06a_10.mp3" from="1:52.329" to="1:55.987" allWordsNum="9"/>
+	   	</record>
+		  <record rec_id="2" rec_time="6" sound="nj_06a_10.mp3">
+				<subrecord rec_id="10" rec_time="6" name="'I'd like some pizza, some chips and some ice cream,' said Mr Lin. " sound="nj_06a_10.mp3" from="1:56.698" to="2:02.470" allWordsNum="13"/>
+			</record>
+		  <record rec_id="3" rec_time="20" sound="nj_06a_10.mp3">
+				<subrecord rec_id="11" rec_time="3" name="'I don't have that kind of food in my house. " sound="nj_06a_10.mp3" from="2:03.425" to="2:06.371" allWordsNum="10"/>
+				<subrecord rec_id="12" rec_time="2" name="I eat a lot of rice. " sound="nj_06a_10.mp3" from="2:06.981" to="2:08.952" allWordsNum="6"/>
+				<subrecord rec_id="13" rec_time="3" name="I eat plenty of fresh fruit and vegetables. " sound="nj_06a_10.mp3" from="2:09.379" to="2:12.305" allWordsNum="8"/>
+				<subrecord rec_id="14" rec_time="8" name="I also eat some meat and fish, but I only eat a little salt and sugar,' said Miss Chen. " sound="nj_06a_10.mp3" from="2:13.017" to="2:21.023" allWordsNum="19"/>
+			</record>
+		  <record rec_id="4" rec_time="20" sound="nj_06a_10.mp3">
+				<subrecord rec_id="15" rec_time="4" name="Mr Lin stayed with his cousin for a few weeks. " sound="nj_06a_10.mp3" from="2:21.958" to="2:25.352" allWordsNum="10"/>
+				<subrecord rec_id="16" rec_time="2" name="He worked in Miss Chen's garden. " sound="nj_06a_10.mp3" from="2:26.022" to="2:27.994" allWordsNum="6"/>
+				<subrecord rec_id="17" rec_time="7" name="He ate a lot of rice, plenty of fresh fruit and vegetables, and some meat and fish. " sound="nj_06a_10.mp3" from="2:28.644" to="2:34.964" allWordsNum="17"/>
+				<subrecord rec_id="18" rec_time="3" name="He became fit and healthy. " sound="nj_06a_10.mp3" from="2:35.695" to="2:38.195" allWordsNum="5"/>
+			</record>
+				<exercise type="4" index="0"/>
+		</part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="Good diets and bad diets" page="69">
+			<record rec_id="0" rec_time="4" name="How much fruit do we need every day?" sound="nj_06a_10.mp3" from="0:59.034" to="1:02.692" allWordsNum="8"/>
+			<record rec_id="1" rec_time="4" name="We need plenty of fruit every day. " sound="nj_06a_10.mp3" from="1:02.793" to="1:06.532" allWordsNum="7"/>
+			<record rec_id="2" rec_time="4" name="How much sugar do we need every day?" sound="nj_06a_10.mp3" from="1:09.004" to="1:12.824" allWordsNum="8"/>
+			<record rec_id="3" rec_time="3" name="We need a little sugar every day. " sound="nj_06a_10.mp3" from="1:12.824" to="1:16.035" allWordsNum="7"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="1" name="Read" page="71">
+			<record rec_id="0" rec_time="4" name="Joe, what did you have for breakfast yesterday?" sound="nj_06a_10.mp3" from="2:44.495" to="2:48.493" allWordsNum="8"/>
+			<record rec_id="1" rec_time="8" name="I had eggs and milk. That's my favourite breakfast. What did you have for breakfast, Alice?" sound="nj_06a_10.mp3" from="2:48.590" to="2:56.251" allWordsNum="16"/>
+			<record rec_id="2" rec_time="5" name="I had some porridge. What did you have for lunch?" sound="nj_06a_10.mp3" from="2:56.394" to="3:01.007" allWordsNum="10"/>
+			<record rec_id="3" rec_time="9" name="I had three hamburgers, a lot of chips and a lot of cola for lunch. What did you have for lunch?" sound="nj_06a_10.mp3" from="3:01.047" to="3:09.521" allWordsNum="21"/>
+			<record rec_id="4" rec_time="10" name="I had steamed chicken with rice and some vegetable soup. I also had a little tea. What did you have for dinner?" sound="nj_06a_10.mp3" from="3:09.643" to="3:20.007" allWordsNum="22"/>
+			<record rec_id="5" rec_time="8" name="I had pizza and chips. Then I had a lot of ice cream. What did you have for dinner?" sound="nj_06a_10.mp3" from="3:20.211" to="3:27.994" allWordsNum="19"/>
+			<record rec_id="6" rec_time="11" name="I had some steamed fish, some rice and a lot of boiled vegetables for dinner. Joe, your diet is unhealthy. " sound="nj_06a_10.mp3" from="3:28.095" to="3:39.110" allWordsNum="20"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="2" name="Eating habits" page="73">
+			<record rec_id="0" rec_time="10" name="Alice, here's a quiz about eating habits. Let's do it together. Do you drink a lot of water every day?" sound="nj_06a_10.mp3" from="4:30.970" to="4:40.989" allWordsNum="20"/>
+			<record rec_id="1" rec_time="3" name="No, I don't. " sound="nj_06a_10.mp3" from="4:41.070" to="4:43.976" allWordsNum="3"/>
+			<record rec_id="2" rec_time="3" name="Do you eat a lot of spicy food?" sound="nj_06a_10.mp3" from="4:44.159" to="4:47.451" allWordsNum="8"/>
+			<record rec_id="3" rec_time="3" name="Yes, I do. " sound="nj_06a_10.mp3" from="4:47.593" to="4:50.012" allWordsNum="3"/>
+			<exercise type="5" index="0"/>
+		</part>
+    </dialogs>
+</package>
+ 

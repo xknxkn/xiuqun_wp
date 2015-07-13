@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_09b</book_id>
+	<unit_id>nj_09b_02</unit_id>
+	<version>3</version>
+	<unit>unit2</unit>
+	<title>Life in the future</title>
+	<words>
+		<part part_index="0" page="34">
+			<record rec_id="0" rec_time="3" name="recommend" symbol="7rekE5mend" explain="v.推荐；介绍" sound="nj_09b_02.mp3" from="  4:13.236" to="  4:15.703" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="website" symbol="5websait" explain="n.网站" sound="nj_09b_02.mp3" from="  4:18.753" to="  4:20.376" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="tip" symbol="tip" explain="n.建议" sound="nj_09b_02.mp3" from="  4:23.038" to="  4:24.466" allWordsNum="1"/>
+		  <record rec_id="3" rec_time="3" name="hot tip" symbol="hCt tip" explain="好建议" sound="nj_09b_02.mp3" from="  4:27.127" to="  4:29.009" allWordsNum="2"/>
+			<record rec_id="4" rec_time="3" name="completely" symbol="kEm5pli:tli" explain="adv.彻底地；完全地" sound="nj_09b_02.mp3" from="  4:31.995" to="  4:33.943" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="mall" symbol="mR:l" explain="n.商场" sound="nj_09b_02.mp3" from="  4:35.695" to="  4:37.513" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="shopping mall" symbol="5FCpiN mR:l" explain="大型购物中心" sound="nj_09b_02.mp3" from="  4:39.849" to="  4:41.862" allWordsNum="2"/>
+			<record rec_id="7" rec_time="3" name="designer" symbol="di5zainE(r)" explain="adj.由著名设计师设计的；名牌的" sound="nj_09b_02.mp3" from="  4:44.718" to="  4:46.470" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="animation" symbol="7Ani5meitFN" explain="n.动画" sound="nj_09b_02.mp3" from="  4:48.353" to="  4:50.690" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="satisfied" symbol="5sAtisfaid" explain="adj.满意的" sound="nj_09b_02.mp3" from="  4:53.156" to="  4:55.233" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="cabinet" symbol="5kAbinEt" explain="n.贮藏柜" sound="nj_09b_02.mp3" from="  4:57.635" to="  4:59.647" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="anyone" symbol="5eniwQn" explain="pron.任何人" sound="nj_09b_02.mp3" from="  5:02.253" to="  5:04.239" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="hydrogen" symbol="5haidrEdVEn" explain="n.氢；氢气" sound="nj_09b_02.mp3" from="  5:07.088" to="  5:09.419" allWordsNum="1"/>
+			<record rec_id="13" rec_time="4" name="satellite" symbol="5sAtElait" explain="n.人造卫星" sound="nj_09b_02.mp3" from="  5:11.836" to="  5:14.253" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="navigation" symbol="7nAvi5geiFn" explain="n.导航；领航" sound="nj_09b_02.mp3" from="  5:17.534" to="  5:20.210" allWordsNum="1"/>
+			<record rec_id="15" rec_time="4" name="windscreen" symbol="5windskrI:n" explain="n.挡风玻璃" sound="nj_09b_02.mp3" from="  5:22.800" to="  5:24.872" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="ahead" symbol="E5hed" explain="dav.（时间、空间）向前面；在前面" sound="nj_09b_02.mp3" from="  5:27.462" to="  5:29.448" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="ahead of" symbol="E5hed Cv" explain="(时间、空间)在……前面" sound="nj_09b_02.mp3" from="  5:31.865" to="  5:34.887" allWordsNum="2"/>
+			<record rec_id="18" rec_time="3" name="feel good" symbol="fi:l gud " explain="感到愉快（或有信心等）" sound="nj_09b_02.mp3" from="  5:37.390" to="  5:40.325" allWordsNum="2"/>
+			<record rec_id="19" rec_time="3" name="get a view of" symbol="get A vju: Cv" explain=" 观看" sound="nj_09b_02.mp3" from="  5:43.692" to="  5:46.023" allWordsNum="4"/>
+			<record rec_id="20" rec_time="3" name="horrible" symbol="5hCrEbl" explain="adj.十分讨厌的" sound="nj_09b_02.mp3" from="  5:49.131" to="  5:50.858" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="attractive" symbol="E5trAktiv" explain="adj.诱人的；有吸引力的" sound="nj_09b_02.mp3" from="  5:54.225" to="  5:56.642" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="for sale" symbol="fR: seil" explain="待售；供出售" sound="nj_09b_02.mp3" from="  5:59.232" to="  6:01.822" allWordsNum="2"/>
+			<record rec_id="23" rec_time="3" name="serve" symbol="sE:v" explain="v.(给......)提供" sound="nj_09b_02.mp3" from="  6:04.067" to="  6:06.397" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="disagree with" symbol="5disE5gri: wiT" explain="不同意；有分歧" sound="nj_09b_02.mp3" from="  6:09.160" to="  6:11.664" allWordsNum="2"/>
+			<record rec_id="25" rec_time="3" name="manner" symbol="5mAnE(r)" explain="n.方式；方法" sound="nj_09b_02.mp3" from="  6:14.944" to="  6:17.016" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="native" symbol="5neitiv" explain="adj.本地的；当地的" sound="nj_09b_02.mp3" from="  6:19.347" to="  6:21.419" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="native speaker" symbol="5neitiv 5spi:kE" explain="说本族语的人" sound="nj_09b_02.mp3" from="  6:23.836" to="  6:26.944" allWordsNum="2"/>
+			<record rec_id="28" rec_time="3" name="function" symbol="5fQNkFn" explain="n.作用；功能" sound="nj_09b_02.mp3" from="  6:31.002" to="  6:33.160" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/> 
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="The Great Wave of 2040" page="31">
+			<record rec_id="0" rec_time="30" sound="nj_09b_02.mp3">
+			<subrecord rec_id="1" rec_time="8" name="I have always been frightened of water. Last week in Geography, we learnt that if all the ice in Antarctica melted, a great wave, thirty metres high, would hit our city. " sound="nj_09b_02.mp3" from="0:56.253" to="1:09.057" allWordsNum="31"/>
+			</record>
+			<record rec_id="1" rec_time="45" sound="nj_09b_02.mp3">
+			<subrecord rec_id="2" rec_time="5" name="I started to worry. " sound="nj_09b_02.mp3" from="1:09.244" to="1:11.323" allWordsNum="4"/>
+			<subrecord rec_id="3" rec_time="12" name="What would happen then? People would run to high ground ... Perhaps my family and I would be lucky because we live in a high flat. " sound="nj_09b_02.mp3" from="1:11.463" to="1:21.136" allWordsNum="26"/>
+			</record>
+			<record rec_id="2" rec_time="45" sound="nj_09b_02.mp3">
+			<subrecord rec_id="4" rec_time="6" name="Last night, I had a dream about the Great Wave ... " sound="nj_09b_02.mp3" from=" 1:21.487" to=" 1:25.506" allWordsNum="11"/>
+			</record>
+			<record rec_id="3" rec_time="45" sound="nj_09b_02.mp3">
+			<subrecord rec_id="5" rec_time="8" name="In my dream, water was pouring everywhere. It was pouring into Luck Valley. " sound="nj_09b_02.mp3" from=" 1:25.692" to="1:32.024" allWordsNum="13"/>
+			<subrecord rec_id="6" rec_time="9" name="I could see it from my window as it crossed the railway and covered the sports field at the nearby university. " sound="nj_09b_02.mp3" from="1:32.071" to="1:38.543" allWordsNum="21"/>
+			<subrecord rec_id="7" rec_time="9" name="At the end of the valley, the water went up the hills, and some of it even went into the tunnel. " sound="nj_09b_02.mp3" from="1:39.034" to="1:45.716" allWordsNum="21"/>
+			</record>
+			<record rec_id="4" rec_time="60" sound="nj_09b_02.mp3">
+			<subrecord rec_id="8" rec_time="4" name="But I couldn't just stand here!" sound="nj_09b_02.mp3" from="1:46.183" to="1:48.333" allWordsNum="8"/>
+			<subrecord rec_id="9" rec_time="4" name="I must do something!" sound="nj_09b_02.mp3" from="1:48.356" to="1:49.805" allWordsNum="4"/>
+            <subrecord rec_id="10" rec_time="4" name="Yes, of course!" sound="nj_09b_02.mp3" from="1:49.992" to="1:51.557" allWordsNum="3"/>
+			<subrecord rec_id="11" rec_time="4" name="I used my mobile phone to e-mail my dad at work. " sound="nj_09b_02.mp3" from="1:51.978" to=" 1:55.553" allWordsNum="11"/>
+			<subrecord rec_id="12" rec_time="4" name="He worked at an import-export  business. " sound="nj_09b_02.mp3" from="1:55.810" to="1:58.240" allWordsNum="6"/>
+			<subrecord rec_id="13" rec_time="4" name="I wrote, 'Dad, there's a flood, what can we do?'" sound="nj_09b_02.mp3" from="1:58.497" to="2:02.913" allWordsNum="14"/>
+			<subrecord rec_id="14" rec_time="4" name="I got an e-mail back from Dad. " sound="nj_09b_02.mp3" from="2:03.707" to="2:05.950" allWordsNum="7"/>
+			<subrecord rec_id="15" rec_time="4" name="It said, 'I'm very busy now. " sound="nj_09b_02.mp3" from="2:06.160" to="2:08.590" allWordsNum="9"/>
+			<subrecord rec_id="16" rec_time="7" name="I have just exported a lot of fish to the USA and made a big profit...'" sound="nj_09b_02.mp3" from="2:08.754" to=" 2:13.660" allWordsNum="18"/>
+			</record>
+			<record rec_id="5" rec_time="50" sound="nj_09b_02.mp3">
+			<subrecord rec_id="17" rec_time="3" name="I tried our school website. " sound="nj_09b_02.mp3" from="2:14.221" to="2:16.277" allWordsNum="5"/>
+			<subrecord rec_id="18" rec_time="5" name="'What are you doing about the flood?' I asked. " sound="nj_09b_02.mp3" from="2:16.815" to="2:19.712" allWordsNum="11"/>				
+      <subrecord rec_id="19" rec_time="3" name="The reply came. " sound="nj_09b_02.mp3" from="2:19.922" to="2:21.418" allWordsNum="3"/>
+			<subrecord rec_id="20" rec_time="8" name="'Our school has more students than ever. Last year... 'I stopped reading. " sound="nj_09b_02.mp3" from="2:21.534" to="2:27.259" allWordsNum="15"/>
+			<subrecord rec_id="21" rec_time="7" name="I shouted, 'The WATER! Look at the WATER!'" sound="nj_09b_02.mp3" from="2:27.492" to="2:31.371" allWordsNum="10"/>
+			</record>
+			<record rec_id="6" rec_time="60" sound="nj_09b_02.mp3">
+			<subrecord rec_id="22" rec_time="3" name="But nobody looked. " sound="nj_09b_02.mp3" from="2:31.628" to="2:33.357" allWordsNum="3"/>
+			<subrecord rec_id="23" rec_time="5" name="Everywhere, people just sat at their computers. " sound="nj_09b_02.mp3" from="2:33.614" to="2:37.072" allWordsNum="7"/>
+			<subrecord rec_id="24" rec_time="8" name="They sat at their computers in offices, in shops and in homes. " sound="nj_09b_02.mp3" from="2:37.539" to="2:42.306" allWordsNum="12"/>
+			<subrecord rec_id="25" rec_time="5" name="They did not want to leave them. " sound="nj_09b_02.mp3" from="2:42.563" to="2:44.408" allWordsNum="7"/>
+			<subrecord rec_id="26" rec_time="5" name="Computers were more important than the flood. " sound="nj_09b_02.mp3" from="2:44.899" to="2:47.983" allWordsNum="7"/>
+			</record>
+			<record rec_id="7" rec_time="60" sound="nj_09b_02.mp3">
+			<subrecord rec_id="27" rec_time="5" name="Very soon, the water came into people's rooms. " sound="nj_09b_02.mp3" from="2:48.170" to="2:51.862" allWordsNum="10"/>
+      <subrecord rec_id="28" rec_time="3" name="It poured onto their desks. " sound="nj_09b_02.mp3" from="2:52.142" to="2:53.824" allWordsNum="5"/>
+			<subrecord rec_id="29" rec_time="4" name="All the hi-tech machines got wet. " sound="nj_09b_02.mp3" from=" 2:54.152" to="2:56.792" allWordsNum="6"/>
+			<subrecord rec_id="30" rec_time="5" name="Finally, it covered the computers. " sound="nj_09b_02.mp3" from="2:57.119" to="2:59.946" allWordsNum="5"/>
+			<subrecord rec_id="31" rec_time="4" name="Only then did people notice the flood. " sound="nj_09b_02.mp3" from="3:00.367" to="3:03.381" allWordsNum="7"/>
+			<subrecord rec_id="32" rec_time="3" name="But it was too late. " sound="nj_09b_02.mp3" from="3:04.012" to="3:05.600" allWordsNum="5"/>
+			<subrecord rec_id="33" rec_time="6" name="Even with all the computers in our city, the flood couldn't be stopped. " sound="nj_09b_02.mp3" from="3:06.488" to="3:11.114" allWordsNum="15"/>
+			</record>
+			<record rec_id="8" rec_time="60" sound="nj_09b_02.mp3">
+			<subrecord rec_id="34" rec_time="3" name="And then I opened my eyes. " sound="nj_09b_02.mp3" from="3:11.465" to="3:13.801" allWordsNum="6"/>
+			<subrecord rec_id="35" rec_time="3" name="There was no water. " sound="nj_09b_02.mp3" from="3:13.988" to="3:15.764" allWordsNum="4"/>
+			<subrecord rec_id="36" rec_time="3" name="The year was not 2040. " sound="nj_09b_02.mp3" from="3:15.951" to="3:18.171" allWordsNum="5"/>				
+      <subrecord rec_id="37" rec_time="3" name="It was 2011. " sound="nj_09b_02.mp3" from="3:18.334" to="3:20.040" allWordsNum="3"/>
+			<subrecord rec_id="38" rec_time="10" name="I remembered that our city was protected by some sea walls 50 metres high and felt safe. " sound="nj_09b_02.mp3" from="3:20.437" to="3:26.769" allWordsNum="17"/>
+			</record>
+			<record rec_id="9" rec_time="25" sound="nj_09b_02.mp3">
+			<subrecord rec_id="39" rec_time="6" name="But would a flood really happen like this one day?" sound="nj_09b_02.mp3" from="3:27.376" to="3:30.647" allWordsNum="10"/>
+			<subrecord rec_id="40" rec_time="12" name="And would we be so busy with our computers that we would do nothing to save ourselves?" sound="nj_09b_02.mp3" from="3:31.045" to="3:35.904" allWordsNum="17"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="1" name="Will we really need a Terra Nova?" page="0" source="2">
+			<record rec_id="0" rec_time="8" sound="9B Unit 2.mp3">
+				<subrecord rec_id="1" rec_time="8" name="Terra Nova, which literally means 'new land,' is an American science fiction TV series. " sound="9B Unit 2.mp3" from="0:06.223" to="0:12.870" allWordsNum="14"/>
+			</record>
+			<record rec_id="1" rec_time="24" sound="9B Unit 2.mp3">
+				<subrecord rec_id="2" rec_time="13" name="The story is set in 2149, when the world has really modern technology, but overpopulation and declining air quality worldwide threaten all life on earth. " sound="9B Unit 2.mp3" from="    0:14.002" to=" 0:25.882 " allWordsNum="25"/>
+				<subrecord rec_id="3" rec_time="11" name="People have to walk around with masks over their faces due to the polluted air, and couples are prohibited from having more than two children. " sound="9B Unit 2.mp3" from="  0:25.741" to="  0:35.500" allWordsNum="25"/>
+			</record>
+			<record rec_id="2" rec_time="20" sound="9B Unit 2.mp3">
+				<subrecord rec_id="4" rec_time="9" name="After scientists discover a rift in space time, they begin sending people to the earth's past to save the human race. " sound="9B Unit 2.mp3" from="  0:36.773" to="  0:44.835" allWordsNum="21"/>
+				<subrecord rec_id="5" rec_time="11" name="But the travel is one-way: once a person is sent to the prehistoric earth, he can never come back to 2149. " sound="9B Unit 2.mp3" from="  0:44.835" to="  0:54.169" allWordsNum="22"/>
+			</record>
+			<record rec_id="3" rec_time="11" sound="9B Unit 2.mp3">
+				<subrecord rec_id="6" rec_time="11" name="People of 2149 are selected and then go through 'pilgrimages' 85 million years into the earth's Cretaceous past. " sound="9B Unit 2.mp3" from="  0:53.886" to="  1:03.363" allWordsNum="18"/>
+			</record>
+			<record rec_id="4" rec_time="23" sound="9B Unit 2.mp3">
+				<subrecord rec_id="7" rec_time="7" name="The Shannon family travel to the prehistoric earth on the tenth pilgrimage. " sound="9B Unit 2.mp3" from="  1:04.070" to="  1:09.869" allWordsNum="12"/>
+				<subrecord rec_id="8" rec_time="16" name="And Jim and Elizabeth Shannon, the parents, manage to take all of their children—Josh, Maddy, and Zoe (the youngest of the family who was illegally born)—to start a new life in the distant past. " sound="9B Unit 2.mp3" from="  1:09.444" to="  1:23.729" allWordsNum="35"/>
+			</record>
+			<record rec_id="5" rec_time="10" sound="9B Unit 2.mp3">
+				<subrecord rec_id="9" rec_time="6" name="People who came before the Shannons have set up a colony as their new home. " sound="9B Unit 2.mp3" from="  1:24.437" to="  1:29.387" allWordsNum="15"/>
+				<subrecord rec_id="10" rec_time="4" name="They call it Terra Nova. " sound="9B Unit 2.mp3" from="  1:29.528" to="  1:32.215" allWordsNum="5"/>
+			</record>
+			<record rec_id="6" rec_time="21" sound="9B Unit 2.mp3">
+				<subrecord rec_id="11" rec_time="7" name="Terra Nova is a world with fresh air, living trees and lovely sunlight. " sound="9B Unit 2.mp3" from="  1:32.074" to="  1:38.014" allWordsNum="13"/>
+				<subrecord rec_id="12" rec_time="14" name="But the sweet new home is threatened not only by the dominators of the Cretaceous period—the dinosaurs, but also by the Sixers—people who arrived in the sixth pilgrimage. " sound="9B Unit 2.mp3" from="  1:37.731" to="  1:50.319" allWordsNum="30"/>
+			</record>
+			<record rec_id="7" rec_time="31" sound="9B Unit 2.mp3">
+				<subrecord rec_id="13" rec_time="7" name="The Sixers succeed in making time travel back to 2149 possible. " sound="9B Unit 2.mp3" from="1:51.309" to="1:56.825" allWordsNum="11"/>
+				<subrecord rec_id="14" rec_time="12" name="They plan to send the natural resources of the Cretaceous earth back to the world in 2149, where there is a severe lack of natural resources. " sound="9B Unit 2.mp3" from="   1:56.684 " to="  2:06.726  " allWordsNum="26"/>
+				<subrecord rec_id="15" rec_time="8" name="Their evil plan is to make a lot of money from stripping the prehistoric earth of everything valuable. " sound="9B Unit 2.mp3" from="  2:06.726" to="  2:13.232" allWordsNum="18"/>
+				<subrecord rec_id="16" rec_time="4" name="People of Terra Nova are fighting against the plan. " sound="9B Unit 2.mp3" from="  2:13.232" to="  2:16.909" allWordsNum="9"/>
+			</record>
+			<record rec_id="8" rec_time="19" sound="9B Unit 2.mp3">
+				<subrecord rec_id="1" rec_time="20" name="Though Terra Nova is just a sci-fi show, it hints at the obvious problems of our time: if we don't stop using up our natural resources so quickly or with no thought of the price it will cost our future, we may really need a Terra Nova, sooner or later. " sound="9B Unit 2.mp3" from="  2:18.182" to="  2:35.861" allWordsNum="50"/>
+			</record>
+		<exercise type="4" index="0"/>
+      </part>	
+		<part part_index="2" name="Will we really need a Terra Nova?" page="0" source="2">
+      	<article allWordsNum="344">
+            	<![CDATA[
+Terra Nova, which literally (字面上) means "new land," is an American science fiction (sci-fi) TV series.
+The story is set in 2149, when the world has really modern technology, but overpopulation and declining air quality worldwide threaten all life on earth. People have to walk around with masks over their faces due to the polluted air, and couples are prohibited from having more than two children.
+After scientists discover a rift (裂缝) in space time, they begin sending people to the earth's past to save the human race. But the travel is one-way: once a person is sent to the prehistoric (史前的) earth, he can never come back to 2149.
+People of 2149 are selected and then go through "pilgrimages (远游)" 85 million years into the earth's Cretaceous (白垩纪的) past.
+The Shannon family travel to the prehistoric earth on the tenth pilgrimage. And Jim and Elizabeth Shannon, the parents, manage to take all of their children—Josh, Maddy, and Zoe (the youngest of the family who was illegally born)—to start a new life in the distant past.
+People who came before the Shannons have set up a colony (聚居地) as their new home. They call it Terra Nova. 
+Terra Nova is a world with fresh air, living trees and lovely sunlight. But the sweet new home is threatened not only by the dominators of the Cretaceous period—the dinosaurs, but also by the Sixers—people who arrived in the sixth pilgrimage.
+The Sixers succeed in making time travel back to 2149 possible. They plan to send the natural resources of the Cretaceous earth back to the world in 2149, where there is a severe lack of natural resources. Their evil plan is to make a lot of money from stripping the prehistoric earth of everything valuable. People of Terra Nova are fighting against the plan.
+Though Terra Nova is just a sci-fi show, it hints at (暗示，示意) the obvious problems of our time: if we don't stop using up our natural resources so quickly or with no thought of the price it will cost our future, we may really need a Terra Nova, sooner or later.
+ 	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="0" name="Choose the best answer. " qtype="1" >
+					<question rec_id="0" choice="C">
+						<![CDATA[In Terra Nova, the world in 2149 ______.
+     ① is overpopulated
+     ② has poor air quality 
+     ③ bans people from having more than three children 
+     ④ is short of natural resources]]>
+						<choice item="A" name="①②③"/>
+						<choice item="B" name="②③④"/>
+						<choice item="C" name="①②④"/>
+						<choice item="D" name="①③④"/>
+					</question>
+					<question rec_id="1" choice="C">
+						<![CDATA[People of 2149 are sent to the earth's Cretaceous past to ______.]]>
+						<choice item="A" name="study about space time"/>
+						<choice item="B" name="find more rifts in space time"/>
+						<choice item="C" name="have a chance to start a new life"/>
+						<choice item="D" name="rob it of its natural resources"/>
+					</question>
+					<question rec_id="2" choice="B">
+						<![CDATA[Which of the following statements is false about Terra Nova?]]>
+						<choice item="A" name="It has fresh air, living trees and lovely sunlight. "/>
+						<choice item="B" name="It is free from the threat of dinosaurs. "/>
+						<choice item="C" name="It is a colony in the earth's Cretaceous past where immigrants from the future live. "/>
+						<choice item="D" name="It was built by the people who came in the sixth pilgrimage. "/>
+					</question>
+					<question rec_id="3" choice="B">
+						<![CDATA[Why do the Sixers make time travel back to 2149 possible?]]>
+						<choice item="A" name="To bring more people from 2149 to the prehistoric earth. "/>
+						<choice item="B" name="To bring natural resources from the prehistoric earth to 2149. "/>
+						<choice item="C" name="To bring natural resources from 2149 to the prehistoric earth. "/>
+						<choice item="D" name="To stop people of 2149 from going to the prehistoric earth. "/>
+					</question>
+					<question rec_id="4" choice="A">
+						<![CDATA[The sci-fi TV series Terra Nova tries to ______.]]>
+						<choice item="A" name="warn people not to overuse the earth's natural resources"/>
+						<choice item="B" name="tell us the future of mankind"/>
+						<choice item="C" name="show how wonderful time travel is"/>
+						<choice item="D" name="tell us there will always be solutions to energy crises"/>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+</package>
+ 

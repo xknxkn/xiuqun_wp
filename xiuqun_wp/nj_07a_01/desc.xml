@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_07a</book_id>
+	<unit_id>nj_07a_01</unit_id>
+	<version>8</version>
+	<unit>unit1</unit>
+	<title>Relatives in Beijing</title>
+	<words>
+		<part part_index="0" page="8">
+			<record rec_id="0" rec_time="3" name="invite" symbol="in5vait" explain="v.邀请" sound="nj_07a_01.mp3" from=" 6:31.480" to=" 6:32.286" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="expensive" symbol="ik5spensiv" explain="adj.昂贵的" sound="nj_07a_01.mp3" from="6:32.611" to="6:34.392" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="talk to" symbol="tR:k tE" explain="说话；讲话；谈话" sound="nj_07a_01.mp3" from="6:34.206" to="6:35.677" allWordsNum="2"/>
+			<record rec_id="3" rec_time="3" name="brochure" symbol="5brEuFE(r)" explain="n.资料手册" sound="nj_07a_01.mp3" from="6:35.782" to="6:37.266" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="agent" symbol="5eidVEnt" explain="n.代理人；经纪人" sound="nj_07a_01.mp3" from="6:37.097" to="6:38.425" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="soon" symbol="su:n" explain="adv.不久；很快；马上" sound="nj_07a_01.mp3" from="6:38.594" to="6:40.131" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="at the end of August" symbol="At TE end Cv R:5gQst" explain="在（八月）底" sound="nj_07a_01.mp3" from="6:40.118" to="6:42.188" allWordsNum="5"/>
+			<record rec_id="7" rec_time="3" name="swan" symbol="swCn" explain="n.天鹅" sound="nj_07a_01.mp3" from="6:42.331" to="6:43.803" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="raise" symbol="reiz" explain="v.提升；举起" sound="nj_07a_01.mp3" from="6:43.842" to="6:45.248" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="national" symbol="5nAFnEl" explain="adj.国家的" sound="nj_07a_01.mp3" from="6:45.339" to="6:46.602" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="brick" symbol="brik" explain="n.砖" sound="nj_07a_01.mp3" from="6:46.732" to="6:47.852" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="stone" symbol="stEun" explain="n.石头；石料；岩石" sound="nj_07a_01.mp3" from="6:48.139" to="6:49.259" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="mountain" symbol="5mauntEn" explain="n.高山；山岳" sound="nj_07a_01.mp3" from="6:49.428" to="6:50.899" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="ancient" symbol="5einFEnt" explain="adj.古老的" sound="nj_07a_01.mp3" from="6:50.782" to="6:52.201" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="history" symbol="5histri" explain="n.历史" sound="nj_07a_01.mp3" from="6:52.201" to="6:53.595" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="interest" symbol="5intrEst" explain="n.吸引力；趣味" sound="nj_07a_01.mp3" from="6:53.621" to="6:54.871" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="holiday" symbol="5hClidei" explain="n.假期" sound="nj_07a_01.mp3" from="6:54.962" to="6:56.108" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="wonderful" symbol="5wQndEfl" explain="adj.精彩的；令人高兴的" sound="nj_07a_01.mp3" from="6:56.225" to="6:57.696" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="another" symbol="E5nQTE(r)" explain="pron.另一（事物或人）" sound="nj_07a_01.mp3" from="6:57.657" to="6:58.803" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<sentences>
+		<part part_index="0" name="Look, read and answer" page="2">
+			<record rec_id="0" rec_time="5" name="Kitty is asking Ben some questions about the photograph." sound="nj_07a_01.mp3" from="1:15.999" to=" 1:21.041" allWordsNum="9" /> 
+  			<record rec_id="1" rec_time="5" name="Here's a photograph from Uncle Weiming." sound="nj_07a_01.mp3" from="1:22.380" to="1:25.000" allWordsNum="7" /> 
+			<record rec_id="2" rec_time="5" name="We're going to visit his family soon." sound="nj_07a_01.mp3" from="1:25.603" to="1:28.020" allWordsNum="8" /> 
+			<record rec_id="3" rec_time="5" name="Where does Uncle Weiming live?" sound="nj_07a_01.mp3" from="1:29.435" to="1:31.345" allWordsNum="5" /> 
+			<record rec_id="4" rec_time="5" name="When are we going to visit him?" sound="nj_07a_01.mp3" from="1:32.438" to="1:33.902" allWordsNum="7" /> 
+			<record rec_id="5" rec_time="5" name="What are the names of our cousins?" sound="nj_07a_01.mp3" from="1:35.035" to="1:37.115" allWordsNum="7" /> 
+			<record rec_id="6" rec_time="5" name="How old are they?" sound="nj_07a_01.mp3" from="1:37.680" to="1:38.825" allWordsNum="4" /> 
+			<exercise type="3" index="0"/>
+		</part>
+		<part part_index="1" name="Look and read" page="6">
+			<record rec_id="0" rec_time="10" name="The children are planning to visit different places of interesting in Beijing." sound="nj_07a_01.mp3" from="4:53.879" to="4:59.784" allWordsNum="11"/>
+			<record rec_id="1" rec_time="8" name="Simon, which place are we going to visit?" sound="nj_07a_01.mp3" from="4:59.836" to="5:04.443" allWordsNum="8"/>
+			<record rec_id="2" rec_time="8" name="We're going to visit the Summer Palace on 21 August." sound="nj_07a_01.mp3" from="5:04.425" to="5:09.482" allWordsNum="11"/>
+			<record rec_id="3" rec_time="3" name="Where is it?" sound="nj_07a_01.mp3" from="5:09.708" to="5:11.543" allWordsNum="3"/>
+			<record rec_id="4" rec_time="5" name="It's in the north-west of Beijing." sound="nj_07a_01.mp3" from="5:11.491" to="5:14.764" allWordsNum="6"/>
+			<record rec_id="5" rec_time="8" name="What can we see at the Summer Palace?" sound="nj_07a_01.mp3" from="5:14.557" to="5:18.141" allWordsNum="8"/>
+			<record rec_id="6" rec_time="8" name="We can see a lot of old buildings and temples." sound="nj_07a_01.mp3" from="5:18.031" to="5:22.106" allWordsNum="10"/>
+			<record rec_id="7" rec_time="5" name="We can see swans swimming on the lake." sound="nj_07a_01.mp3" from="5:22.158" to="5:25.309" allWordsNum="8"/>
+			<exercise type="3" index="0"/>
+		</part>
+	</sentences>
+	<texts>
+		<part part_index="0" name="The Summer Palace" page="5">
+			<record rec_id="0" rec_time="20" sound="nj_07a_01.mp3">
+				<subrecord rec_id="1" rec_time="5" name="It is the north-west of Beijing." sound="nj_07a_01.mp3" from="3:41.340" to="3:43.650" allWordsNum="6"/>
+				<subrecord rec_id="2" rec_time="7" name="Tourists can see a lot of old buildings and temples at the palace. " sound="nj_07a_01.mp3" from="3:44.576" to="3:48.862" allWordsNum="13"/>
+				<subrecord rec_id="3" rec_time="5" name="Kunming Lake is a beautiful lake inside the palace." sound="nj_07a_01.mp3" from="3:50.047" to="3:53.476" allWordsNum="9"/>
+				<subrecord rec_id="4" rec_time="5" name="Tourists can see swans swimming on the lake." sound="nj_07a_01.mp3" from="3:54.221" to="3:57.145" allWordsNum="8"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="1" name="Tian'anmen Square" page="5">
+			<record rec_id="0" rec_time="20" sound="nj_07a_01.mp3">
+				<subrecord rec_id="1" rec_time="5" name="It is in the centre of Beijing." sound="nj_07a_01.mp3" from="4:00.895" to="4:03.354" allWordsNum="7"/>
+				<subrecord rec_id="2" rec_time="5" name="It is a huge open area." sound="nj_07a_01.mp3" from="4:03.299" to="4:05.921" allWordsNum="6"/>
+				<subrecord rec_id="3" rec_time="5" name="It can hold more than one million people. " sound="nj_07a_01.mp3" from="4:05.758" to="4:09.012" allWordsNum="8"/>
+				<subrecord rec_id="4" rec_time="6" name="Every morning,tourists can see soldiers raising the Chinese national flag in the square." sound="nj_07a_01.mp3" from="4:09.066" to="4:15.881" allWordsNum="14"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="2" name="The Great Wall" page="5">
+		  	<record rec_id="0" rec_time="20" sound="nj_07a_01.mp3">
+				<subrecord rec_id="1" rec_time="5" name="It is north of Beijing." sound="nj_07a_01.mp3" from="4:18.920" to="4:20.641" allWordsNum="5"/>
+				<subrecord rec_id="2" rec_time="5" name="It is a long wall with towers on it." sound="nj_07a_01.mp3" from="4:21.589" to="4:24.015" allWordsNum="9"/>
+				<subrecord rec_id="3" rec_time="5" name="People built it a long time ago with bricks and stones." sound="nj_07a_01.mp3" from="4:24.996" to="4:29.292" allWordsNum="11"/>
+	      		<subrecord rec_id="4" rec_time="5" name="Tourists can see beautiful mountains from the wall." sound="nj_07a_01.mp3" from="4:29.843" to="4:33.234" allWordsNum="7"/>
+		  	</record>
+     	  	 <exercise type="4" index="0"/>
+   	</part>
+	<part part_index="3" name="The Palace Museum" page="5">
+    	<record rec_id="0" rec_time="20" sound="nj_07a_01.mp3">
+			<subrecord rec_id="1" rec_time="5" name="It is in the centre of Beijing." sound="nj_07a_01.mp3" from="4:37.423" to="4:39.150" allWordsNum="7"/>
+			<subrecord rec_id="2" rec_time="5" name="It is a place with many ancient buildings." sound="nj_07a_01.mp3" from="4:39.947" to="4:42.311" allWordsNum="8"/>
+			<subrecord rec_id="3" rec_time="5" name="If tourists want to know the history of China, they can visit the museum." sound="nj_07a_01.mp3" from="4:43.375" to="4:47.599" allWordsNum="14"/>
+		</record>
+		<exercise type="4" index="0"/>
+	</part>
+	<part part_index="4" name="Look and read" page="7">
+	    <record rec_id="0" rec_time="5" sound="nj_07a_01.mp3">
+	        <subrecord rec_id="1" rec_time="5" name="7 September" sound="nj_07a_01.mp3" from="  5:45.583" to="  5:47.707" allWordsNum="2"/>
+	    </record>
+	    <record rec_id="1" rec_time="5" sound="nj_07a_01.mp3">
+	        <subrecord rec_id="2" rec_time="5" name="Dear Lucy" sound="nj_07a_01.mp3" from="5:48.573" to="5:49.903" allWordsNum="2"/>
+	    </record>
+    	<record rec_id="2" rec_time="18" sound="nj_07a_01.mp3">
+			<subrecord rec_id="3" rec_time="5" name="We are back in Garden City now." sound="nj_07a_01.mp3" from="5:50.324" to="5:52.491" allWordsNum="7"/>
+			<subrecord rec_id="4" rec_time="5" name="Ben and I had a wonderful time in Beijing." sound="nj_07a_01.mp3" from="5:53.153" to="5:55.741" allWordsNum="9"/>
+			<subrecord rec_id="5" rec_time="5" name="Thank you very much." sound="nj_07a_01.mp3" from="5:56.343" to="5:57.968" allWordsNum="4"/>
+			<subrecord rec_id="6" rec_time="5" name="I have got some photos for you." sound="nj_07a_01.mp3" from="5:58.570" to="6:00.857" allWordsNum="7"/>
+			<subrecord rec_id="7" rec_time="5" name="They are great! " sound="nj_07a_01.mp3" from="6:00.977" to="6:02.181" allWordsNum="3"/>
+			<subrecord rec_id="8" rec_time="5" name="Here is a photo of Simon and Ben." sound="nj_07a_01.mp3" from="6:02.603" to="6:05.251" allWordsNum="8"/>
+			<subrecord rec_id="9" rec_time="5" name="They are standing on the Great Wall." sound="nj_07a_01.mp3" from="6:05.612" to="6:07.839" allWordsNum="7"/>
+		</record>
+		<record rec_id="3" rec_time="20" sound="nj_07a_01.mp3">
+			<subrecord rec_id="10" rec_time="5" name="Another is a photo of you and me." sound="nj_07a_01.mp3" from="6:08.381" to="6:10.788" allWordsNum="8"/>
+			<subrecord rec_id="11" rec_time="5" name="We are standing in front of an ancient building at the Palace Museum." sound="nj_07a_01.mp3" from="6:10.909" to="6:15.242" allWordsNum="13"/>
+			<subrecord rec_id="12" rec_time="5" name="We really enjoyed our holiday." sound="nj_07a_01.mp3" from="6:16.326" to="6:18.974" allWordsNum="5"/>
+			<subrecord rec_id="13" rec_time="5" name="Would you like to visit us in Garden City for the Spring Festival?" sound="nj_07a_01.mp3" from="6:19.570" to="6:23.494" allWordsNum="13"/>
+		</record>
+		<record rec_id="4" rec_time="3" sound="nj_07a_01.mp3">
+	        <subrecord rec_id="14" rec_time="3" name="Love" sound="nj_07a_01.mp3" from=" 6:24.617" to=" 6:25.064" allWordsNum="1"/>
+	    </record>
+		<record rec_id="5" rec_time="3" sound="nj_07a_01.mp3">
+	        <subrecord rec_id="15" rec_time="3" name="Kitty" sound="nj_07a_01.mp3" from="6:25.169" to="6:25.632" allWordsNum="1"/>
+	    </record>
+		<exercise type="4" index="0"/>
+      </part>	
+	</texts>
+	<dialogs>
+		<part part_index="0" name="Listen and say" page="2">
+			<record rec_id="0" rec_time="15" name="Look, Ben, I've got a letter from Uncle Weiming. He lives in Beijing. He has invited us to stay with his family in August." sound="nj_07a_01.mp3" from="0:18.164" to="0:28.555" allWordsNum="24"/>
+			<record rec_id="1" rec_time="6" name="I haven't seen my cousins before." sound="nj_07a_01.mp3" from="0:28.750" to="0:32.514" allWordsNum="6"/>
+			<record rec_id="2" rec_time="10" name="Your uncle has sent us a photograph. These are your cousins, Simon and Lucy." sound="nj_07a_01.mp3" from="0:32.501" to="0:39.649" allWordsNum="14"/>
+			<record rec_id="3" rec_time="6" name="How old are they?" sound="nj_07a_01.mp3" from="0:39.884" to="0:42.384" allWordsNum="4"/>
+			<record rec_id="4" rec_time="6" name="Simon is twelve and Lucy is ten. " sound="nj_07a_01.mp3" from="0:42.696" to="0:46.707" allWordsNum="7"/>
+			<record rec_id="5" rec_time="5" name="Are we going to travel to Beijing by plane?" sound="nj_07a_01.mp3" from="0:47.176" to="0:50.639" allWordsNum="9"/>
+			<record rec_id="6" rec_time="8" name="Perhaps, but plane tickets are very expensive." sound="nj_07a_01.mp3" from="0:50.822" to="0:55.496" allWordsNum="7"/>
+			<record rec_id="7" rec_time="8" name="Let's go by train. It's cheaper and more interesting." sound="nj_07a_01.mp3" from="0:55.600" to="1:00.978" allWordsNum="9"/>
+			<record rec_id="8" rec_time="12" name="That's a good idea. Let's to talk to Mum and Kitty.  I'm going to get some brochures from the travel agent." sound="nj_07a_01.mp3" from="1:01.173" to="1:10.262" allWordsNum="21"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="1" name="At the travel agent's" page="3">
+			<record rec_id="0" rec_time="5" name="Good morning. Can I help you?" sound="nj_07a_01.mp3" from="1:47.568" to="1:50.433" allWordsNum="6"/>
+			<record rec_id="1" rec_time="15" name="Yes, we'd like to travel to Beijing by plane. How long does it take to travel from Garden City to Beijing by plane?" sound="nj_07a_01.mp3" from="1:50.915" to="2:00.720" allWordsNum="23"/>
+			<record rec_id="2" rec_time="5" name="It takes about two and a half hours." sound="nj_07a_01.mp3" from="2:01.750" to="2:04.600" allWordsNum="8"/>
+			<record rec_id="3" rec_time="5" name="How much does it cost?" sound="nj_07a_01.mp3" from="2:05.500" to="2:07.634" allWordsNum="5"/>
+			<record rec_id="4" rec_time="5" name="One thousand and five hundred yuan." sound="nj_07a_01.mp3" from="2:08.055" to="2:10.473" allWordsNum="6"/>
+			<record rec_id="5" rec_time="5" name="That's expensive." sound="nj_07a_01.mp3" from="2:11.550" to="2:13.090" allWordsNum="2"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="2" name="Listen and say" page="4">
+		  <record rec_id="0" rec_time="5" name="When are we going to visit Beijing?" sound="nj_07a_01.mp3" from="2:21.586" to="2:24.502" allWordsNum="7"/>
+			<record rec_id="1" rec_time="5" name="We're going to visit Beijing on 16 August." sound="nj_07a_01.mp3" from="2:25.313" to="2:29.347" allWordsNum="9"/>
+			<record rec_id="2" rec_time="5" name="How long are we going to stay there?" sound="nj_07a_01.mp3" from="2:30.199" to="2:32.663" allWordsNum="8"/>
+			<record rec_id="3" rec_time="10" name="We're going to stay there for two weeks. We're going to come back at the end of August." sound="nj_07a_01.mp3" from="2:33.245" to="2:39.913" allWordsNum="17"/>
+			<record rec_id="4" rec_time="5" name="How are we going to get there?" sound="nj_07a_01.mp3" from="2:43.307" to="2:45.687" allWordsNum="6"/>
+			<record rec_id="5" rec_time="5" name="We're going to get there by plane." sound="nj_07a_01.mp3" from="2:46.598" to="2:48.717" allWordsNum="8"/>
+			<record rec_id="6" rec_time="5" name="Can we travel by train? It's cheaper." sound="nj_07a_01.mp3" from="2:49.769" to="2:53.130" allWordsNum="7"/> 
+			<record rec_id="7" rec_time="10" name="The train is slower than the plane. It takes fifteen hours to travel from Garden City to Beijing." sound="nj_07a_01.mp3" from="2:53.999" to="3:01.401" allWordsNum="18"/>
+			<exercise type="5" index="0"/>
+      </part>
+    </dialogs>
+</package>
+ 

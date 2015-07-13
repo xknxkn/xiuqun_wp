@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_08b</book_id>
+	<unit_id>nj_08b_01</unit_id>
+	<version>9</version>
+	<unit>unit1</unit>
+	<title>Trees</title>
+<words>
+		<part part_index="0" page="13">
+			<record rec_id="0" rec_time="3" name="average" symbol="5AvEridV" explain="adj.平均的" sound="nj_08b_01.mp3" from=" 7:50.286" to=" 7:51.368" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="item" symbol="5aitEm" explain="n.一件物品" sound="nj_08b_01.mp3" from="   7:52.882" to="  7:53.766" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="product" symbol="5prCdQkt" explain="n.产品" sound="nj_08b_01.mp3" from="   7:54.938" to="   7:55.821" allWordsNum="1"/>
+		  <record rec_id="3" rec_time="3" name="fighter" symbol="5faitE(r)" explain="n.斗士；战士" sound="nj_08b_01.mp3" from="  7:57.300" to="   7:58.327" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="fact" symbol="fAkt" explain="n.事实" sound="nj_08b_01.mp3" from="  7:59.535" to="   8:00.148" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="scientist" symbol="5saiEntist" explain="n.科学家" sound="nj_08b_01.mp3" from="  8:01.483" to="  8:02.456" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="interested" symbol="5intrEstid" explain="adj.感兴趣的" sound="nj_08b_01.mp3" from="  8:03.827" to="   8:04.818" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="(be) interested in" symbol="(bi:) 5intrEstid in" explain="对......感兴趣" sound="nj_08b_01.mp3" from="  8:06.556" to="  8:07.769" allWordsNum="3"/>
+			<record rec_id="8" rec_time="3" name="notebook" symbol="5nEutbuk" explain="n.笔记本" sound="nj_08b_01.mp3" from="  8:09.440" to="  8:10.327" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="suppose" symbol="sE5pEuz" explain="v.（根据所知）认为；推断；料想" sound="nj_08b_01.mp3" from="  8:11.520" to="  8:12.416" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="breathe" symbol="bri:T" explain="v.呼吸" sound="nj_08b_01.mp3" from="   8:13.915" to="   8:14.455" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="pure" symbol="pjuE(r)" explain="adj.纯净的" sound="nj_08b_01.mp3" from="  8:15.729" to="  8:16.320" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="gas" symbol="gAs" explain="n.气体" sound="nj_08b_01.mp3" from="   8:17.492" to="  8:18.257" allWordsNum="1"/>
+			<record rec_id="13" rec_time="4" name="release" symbol="ri5li:s" explain="v.释放；放出" sound="nj_08b_01.mp3" from="  8:19.572" to="   8:20.326" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="oxygen" symbol="5CksidVEn" explain="n.氧；氧气" sound="nj_08b_01.mp3" from="   8:21.631" to="  8:22.466" allWordsNum="1"/>
+			<record rec_id="15" rec_time="4" name="hectare" symbol="5hektZE(r)" explain="n.公顷" sound="nj_08b_01.mp3" from="   8:23.934" to="  8:24.719" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="produce" symbol="prE5dju:s" explain="v.产生；生产" sound="nj_08b_01.mp3" from="  8:25.738" to="  8:26.584" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="alive" symbol="E5laiv" explain="adj.活着；在世" sound="nj_08b_01.mp3" from="   8:27.726" to="   8:28.531" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="as well as" symbol="Az wel Az" explain="也；还" sound="nj_08b_01.mp3" from="  8:29.571" to="  8:30.549" allWordsNum="3"/>
+			<record rec_id="19" rec_time="3" name="natural" symbol="5nAtFrEl" explain="adj.自然的；天然的" sound="nj_08b_01.mp3" from="  8:31.630" to="  8:32.435" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="air conditioner" symbol="5eE kEn5diFEnE(r)" explain="n.空调" sound="nj_08b_01.mp3" from="  8:33.816" to="  8:34.632" allWordsNum="2"/>
+			<record rec_id="21" rec_time="3" name="warn" symbol="wR:n" explain="v.使警惕；警告" sound="nj_08b_01.mp3" from="  8:36.308" to="   8:36.998" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="protect" symbol="prE5tekt" explain="v.保护" sound="nj_08b_01.mp3" from="  8:37.994" to="  8:38.761" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="chemical" symbol="5kemikl" explain="n.化学物质；化学品" sound="nj_08b_01.mp3" from="  8:39.979" to="  8:40.746" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="nasty" symbol="nB:sti" explain="adj.令人厌恶的；令人不悦的" sound="nj_08b_01.mp3" from="   8:41.926" to="  8:42.838" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="join" symbol="dVCin" explain="v.连接；加入" sound="nj_08b_01.mp3" from="  8:43.995" to="  8:44.746" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="communicate" symbol="kE5mju:nikeit" explain="v.交流信息；沟通" sound="nj_08b_01.mp3" from="   8:46.049" to="   8:46.968" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="one another" symbol="wQn E5nQE" explain="pron.互相" sound="nj_08b_01.mp3" from="  8:48.225" to="   8:49.107" allWordsNum="2"/>
+			<record rec_id="28" rec_time="3" name="burn" symbol="bE:n" explain="v.(使)烧毁；烧死" sound="nj_08b_01.mp3" from="  8:50.583" to="  8:51.125" allWordsNum="1"/>
+			<record rec_id="29" rec_time="3" name="replace" symbol="ri5pleis" explain="v.替换；取代" sound="nj_08b_01.mp3" from="  8:52.211" to="  8:53.115" allWordsNum="1"/>
+			<record rec_id="30" rec_time="3" name="hardly" symbol="5hB:dli" explain="adv.几乎不" sound="nj_08b_01.mp3" from="   8:54.525" to="   8:55.269" allWordsNum="1"/>
+			<record rec_id="31" rec_time="3" name="destroy" symbol="di5strCi" explain="v.摧毁；毁灭" sound="nj_08b_01.mp3" from="  8:56.434" to="  8:57.254" allWordsNum="1"/>
+			<record rec_id="32" rec_time="3" name="exchange" symbol="iks5tFeindV" explain="v.交流" sound="nj_08b_01.mp3" from="  8:58.541" to="  8:59.430" allWordsNum="1"/>
+			<record rec_id="33" rec_time="3" name="nature" symbol="5neitFE(r)" explain="n.自然界；大自然" sound="nj_08b_01.mp3" from="  9:00.626" to="   9:01.384" allWordsNum="1"/>
+			<record rec_id="34" rec_time="3" name="main" symbol="mein" explain="adj.主要的；最重要的" sound="nj_08b_01.mp3" from="  9:02.488" to="  9:03.193" allWordsNum="1"/>
+			<record rec_id="35" rec_time="3" name="lorry" symbol="5lCri" explain="n.卡车" sound="nj_08b_01.mp3" from="  9:04.412" to="  9:05.063" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Trees for Life" page="11">
+			<record rec_id="0" rec_time="5" sound="nj_08b_01.mp3">
+			<subrecord rec_id="1" rec_time="3" name="Dear friends" sound="nj_08b_01.mp3" from="  5:57.154" to="  5:59.733" allWordsNum="2"/>
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_08b_01.mp3">
+			<subrecord rec_id="2" rec_time="6" name="Trees are our friends. They work hard for us." sound="nj_08b_01.mp3" from="  5:59.935" to="  6:05.174" allWordsNum="9"/>
+			<subrecord rec_id="3" rec_time="5" name="They clean the air and cool our cities." sound="nj_08b_01.mp3" from="  6:05.174" to="  6:08.680" allWordsNum="8"/>
+			<subrecord rec_id="4" rec_time="6" name="They remove dust and produce the oxygen we breathe." sound="nj_08b_01.mp3" from="  6:08.680" to="  6:13.032" allWordsNum="9"/>
+			<subrecord rec_id="5" rec_time="7" name="Trees reduce sound pollution for large urban areas and add beauty to cities." sound="nj_08b_01.mp3" from="  6:13.073" to="  6:19.561" allWordsNum="13"/>
+			<subrecord rec_id="6" rec_time="7" name="Without trees, soil would be washed away and there would be no food for us to eat." sound="nj_08b_01.mp3" from="  6:19.641" to="  6:26.371" allWordsNum="17"/>
+			<subrecord rec_id="7" rec_time="7" name="Without trees cooling the air, the Earth would be too hot to live on." sound="nj_08b_01.mp3" from="  6:26.371" to="  6:31.852" allWordsNum="14"/>
+			</record>
+			<record rec_id="2" rec_time="25" sound="nj_08b_01.mp3">
+			<subrecord rec_id="8" rec_time="6" name="Trees provide food and shelter for both humans and animals." sound="nj_08b_01.mp3" from="  6:32.175" to="  6:37.414" allWordsNum="10"/>
+			<subrecord rec_id="9" rec_time="6" name="They also supply material for houses, furniture, paper products, etc." sound="nj_08b_01.mp3" from="  6:37.696" to="  6:44.224" allWordsNum="10"/>
+			<subrecord rec_id="10" rec_time="6" name="Some trees even provide important ingredients for medicines that cure illnesses." sound="nj_08b_01.mp3" from="  6:44.587" to="  6:50.148" allWordsNum="11"/>
+			<subrecord rec_id="11" rec_time="5" name="Without trees, we would die." sound="nj_08b_01.mp3" from="  6:50.309" to="  6:53.896" allWordsNum="5"/>
+			</record>
+			<record rec_id="3" rec_time="25" sound="nj_08b_01.mp3">
+			<subrecord rec_id="12" rec_time="7" name="In the last 200 years, more than half of all the trees on the Earth have been destroyed." sound="nj_08b_01.mp3" from="  6:54.984" to="  7:00.868" allWordsNum="18"/>
+			<subrecord rec_id="13" rec_time="6" name="For every tree being planted today, 30 trees are being cut down." sound="nj_08b_01.mp3" from="  7:00.989" to="  7:06.268" allWordsNum="12"/>
+			<subrecord rec_id="14" rec_time="5" name="We need more trees!" sound="nj_08b_01.mp3" from="  7:06.590" to="  7:08.847" allWordsNum="4"/>
+			</record>
+			<record rec_id="4" rec_time="40" sound="nj_08b_01.mp3">
+			<subrecord rec_id="15" rec_time="5" name="Trees for life is making a difference." sound="nj_08b_01.mp3" from="  7:10.379" to="  7:12.918" allWordsNum="7"/>
+			<subrecord rec_id="16" rec_time="6" name="We plant trees and take care of them to help protect our environment." sound="nj_08b_01.mp3" from="  7:12.998" to="  7:17.995" allWordsNum="13"/>
+			<subrecord rec_id="17" rec_time="6" name="We warmly welcome anyone who would like to join us in this project." sound="nj_08b_01.mp3" from="  7:18.156" to="  7:23.033" allWordsNum="13"/>
+			<subrecord rec_id="18" rec_time="6" name="We want to plant 100 million trees in the next 10 years." sound="nj_08b_01.mp3" from="  7:23.033" to="  7:28.312" allWordsNum="12"/>
+			<subrecord rec_id="19" rec_time="12" name="If you want to find out more about us, please send us an e-mail at info@treesforlife.org." sound="nj_08b_01.mp3" from="  7:28.755" to="  7:38.629" allWordsNum="16"/>
+			</record>
+			<record rec_id="5" rec_time="10" sound="nj_08b_01.mp3">
+			<subrecord rec_id="20" rec_time="5" name="We hope you will have lots of fun with us." sound="nj_08b_01.mp3" from="  7:39.314" to="  7:42.135" allWordsNum="10"/>
+			</record>
+			<record rec_id="6" rec_time="3" sound="nj_08b_01.mp3">
+			<subrecord rec_id="21" rec_time="3" name="From" sound="nj_08b_01.mp3" from="  7:42.256" to="  7:43.384" allWordsNum="1"/>	
+			</record>			
+			<record rec_id="7" rec_time="5" sound="nj_08b_01.mp3">
+			<subrecord rec_id="22" rec_time="5" name="TREES FOR LIFE " sound="nj_08b_01.mp3" from="  7:43.263" to="  7:45.198" allWordsNum="3"/>	
+			</record>	
+			<exercise type="4" index="0"/>
+		</part>
+			<part part_index="1" name="POLLUTION FIGHTERS" page="3">
+			<record rec_id="0" rec_time="6" sound="nj_08b_01.mp3">
+			<subrecord rec_id="1" rec_time="6" name="Why are you so interested in trees, Doctor Ray?" sound="nj_08b_01.mp3" from="  0:20.240" to="  0:23.846" allWordsNum="9"/>
+			</record>
+			<record rec_id="1" rec_time="5" sound="nj_08b_01.mp3">
+			<subrecord rec_id="2" rec_time="5" name="They're the biggest and oldest living things on the Earth, Judy." sound="nj_08b_01.mp3" from="  0:23.997" to="  0:28.451" allWordsNum="11"/>
+			</record>
+			<record rec_id="2" rec_time="10" sound="nj_08b_01.mp3">
+			<subrecord rec_id="3" rec_time="10" name="Yes, but what good are trees? They make streets more beautiful and less noisy, but what else can they do?" sound="nj_08b_01.mp3" from="  0:28.724" to="  0:36.844" allWordsNum="20"/>
+			</record>
+				<record rec_id="3" rec_time="20" sound="nj_08b_01.mp3">
+			<subrecord rec_id="4" rec_time="20" name="Well, the wood in your pencil, the rubber on the end of your pencil, the paper in your notebook and the fruit in your bowl all come from trees! And, I suppose you also enjoy breathing pure, cool air." sound="nj_08b_01.mp3" from="  0:37.511" to="  0:53.630" allWordsNum="39"/>
+			</record>
+				<record rec_id="4" rec_time="3" sound="nj_08b_01.mp3">
+				<subrecord rec_id="5" rec_time="3" name="Of course." sound="nj_08b_01.mp3" from="  0:53.994" to="  0:55.570" allWordsNum="2"/>
+			</record>
+				<record rec_id="5" rec_time="20" sound="nj_08b_01.mp3">
+				<subrecord rec_id="6" rec_time="20" name="Then you must thank trees for that too. They take harmful gases from the air, and release oxygen back into the air. How many people are there in your class, Judy?" sound="nj_08b_01.mp3" from="  0:56.206" to="  1:09.265" allWordsNum="31"/>
+			</record>
+				<record rec_id="6" rec_time="3" sound="nj_08b_01.mp3">
+				<subrecord rec_id="7" rec_time="3" name="Forty-six." sound="nj_08b_01.mp3" from="  1:09.810" to="  1:11.538" allWordsNum="2"/>
+			</record>
+				<record rec_id="7" rec_time="10" sound="nj_08b_01.mp3">
+				<subrecord rec_id="8" rec_time="10" name="Well, one and a half hectares of trees could produce enough oxygen to keep your whole class alive and healthy for a whole year." sound="nj_08b_01.mp3" from="  1:11.962" to="  1:21.809" allWordsNum="24"/>
+			</record>
+				<record rec_id="8" rec_time="3" sound="nj_08b_01.mp3">
+				<subrecord rec_id="9" rec_time="3" name="That's wonderful!" sound="nj_08b_01.mp3" from="  1:22.536" to="  1:24.506" allWordsNum="2"/>
+			</record>
+				<record rec_id="9" rec_time="20" sound="nj_08b_01.mp3">
+				<subrecord rec_id="10" rec_time="20" name="Trees cool the air as well as clean it. They are natural air conditioners. Three trees can do the job of 15 air conditioners running almost all day." sound="nj_08b_01.mp3" from="  1:24.748" to="  1:37.777" allWordsNum="28"/>
+			</record>
+				<record rec_id="10" rec_time="5" sound="nj_08b_01.mp3">
+				<subrecord rec_id="11" rec_time="5" name="You certainly know a lot about trees, Doctor Ray." sound="nj_08b_01.mp3" from="  1:38.323" to="  1:41.898" allWordsNum="9"/>
+			</record>
+				<record rec_id="11" rec_time="50" sound="nj_08b_01.mp3">
+				<subrecord  rec_id="12" rec_time="50" name="Thank you, Judy, but I don't, really. Scientists are only now beginning to understand them. For example, when insects attack a tree, it can warn its neighbours. The trees can then protect themselves by producing a chemical that makes their leaves taste nasty. And some trees can join their roots together underground, and pass food and water to each other. Trees are communicating with one another, but we don't know how." sound="nj_08b_01.mp3" from="  1:41.958" to="  2:15.743" allWordsNum="71"/>
+			</record>
+				<record rec_id="12" rec_time="5" sound="nj_08b_01.mp3">
+				<subrecord rec_id="13" rec_time="5" name="Are trees in danger?" sound="nj_08b_01.mp3" from="   2:16.197" to="  2:18.136" allWordsNum="4"/>
+			</record>
+				<record rec_id="13" rec_time="16" sound="nj_08b_01.mp3">
+				<subrecord rec_id="14" rec_time="16" name="In great danger. We cut down and burn millions every year, but we replace hardly any of them. We are destroying our best fighters against pollution." sound="nj_08b_01.mp3" from="  2:18.318" to="  2:30.802" allWordsNum="26"/>
+			</record>
+			<exercise type="4" index="0"/>
+			</part>
+			<part part_index="2" name="Restoring paradise" page="0" source="2">
+			<record rec_id="0" rec_time="24" sound="8B Unit 1.mp3">
+				<subrecord rec_id="1" rec_time="10" name="Vanda and Linda from Xishuangbanna, Yunnan, were very special contestants at last year's China's Got Talent. " sound="8B Unit 1.mp3" from="  0:05.807" to="  0:15.378" allWordsNum="16"/>
+				<subrecord rec_id="2" rec_time="9" name="The little sisters sang a beautiful song called Endless Flowers, and even had a five-year-old elephant dance for their performance. " sound="8B Unit 1.mp3" from="  0:15.828" to="  0:24.662" allWordsNum="20"/>
+				<subrecord rec_id="3" rec_time="5" name="The song is about their love for the tropical rainforest in their hometown. " sound="8B Unit 1.mp3" from="  0:25.112" to="  0:29.693" allWordsNum="13"/>
+			</record>
+			<record rec_id="1" rec_time="7" sound="8B Unit 1.mp3">
+				<subrecord rec_id="4" rec_time="7" name="People were moved by the song, but the story of the little sisters' family was even more touching. " sound="8B Unit 1.mp3" from="  0:31.124" to="  0:37.955" allWordsNum="18"/>
+			</record>
+			<record rec_id="2" rec_time="31" sound="8B Unit 1.mp3">
+				<subrecord rec_id="5" rec_time="7" name="Linda and Vanda's father was the late German biologist and rainforest expert Josef Margraf. " sound="8B Unit 1.mp3" from="  0:39.386" to="  0:46.094" allWordsNum="14"/>
+				<subrecord rec_id="6" rec_time="6" name="His passion for biodiversity and the environment began at the age of 18. " sound="8B Unit 1.mp3" from="  0:46.544" to="  0:52.106" allWordsNum="13"/>
+				<subrecord rec_id="7" rec_time="13" name="By 1989, he had succeeded in creating a new way to recover and renew the rainforests, which rewrote the textbooks on rainforest protection in the Philippines. " sound="8B Unit 1.mp3" from="  0:52.474" to="  1:05.398" allWordsNum="26"/>
+				<subrecord rec_id="8" rec_time="5" name="For that he was given a Philippine Presidential Award in 1997. " sound="8B Unit 1.mp3" from="  1:05.930" to="  1:10.838" allWordsNum="11"/>
+			</record>
+			<record rec_id="3" rec_time="17" sound="8B Unit 1.mp3">
+				<subrecord rec_id="9" rec_time="11" name="In the same year, he was assigned by the European Union to lead a panel on a rainforest protection project in Xishuangbanna for six years. " sound="8B Unit 1.mp3" from="  1:11.247" to="  1:21.390" allWordsNum="25"/>
+				<subrecord rec_id="10" rec_time="6" name="Eventually Margraf left the panel and decided to rescue the world on his own. " sound="8B Unit 1.mp3" from="  1:21.799" to="  1:27.075" allWordsNum="14"/>
+			</record>
+			<record rec_id="4" rec_time="16" sound="8B Unit 1.mp3">
+				<subrecord rec_id="11" rec_time="6" name="In 2000, Margraf met Li Minguo and they got married soon. " sound="8B Unit 1.mp3" from="  1:28.466" to="  1:34.028" allWordsNum="11"/>
+				<subrecord rec_id="12" rec_time="4" name="Their love for nature brought the couple closer together. " sound="8B Unit 1.mp3" from="  1:34.437" to="  1:37.914" allWordsNum="9"/>
+				<subrecord rec_id="13" rec_time="6" name="They set up Seeds of Heaven &amp; Beyond Biodiversity Development Center in Yunnan. " sound="8B Unit 1.mp3" from="  1:38.323" to="  1:44.172" allWordsNum="13"/>
+			</record>
+			<record rec_id="5" rec_time="20" sound="8B Unit 1.mp3">
+				<subrecord rec_id="14" rec_time="7" name="They rented 10,667 square meters of land along the Lancang River. " sound="8B Unit 1.mp3" from="  1:45.685" to="  1:51.902" allWordsNum="11"/>
+				<subrecord rec_id="15" rec_time="13" name="During that time, no other people lived within 100 kilometers and the place was wild and remote, ruled by rubber trees previously planted by humans who had left. " sound="8B Unit 1.mp3" from="  1:52.229" to="  2:04.703" allWordsNum="28"/>
+			</record>
+			<record rec_id="6" rec_time="30" sound="8B Unit 1.mp3">
+				<subrecord rec_id="16" rec_time="5" name="They cut down the rubber trees and planted thousands of different plants. " sound="8B Unit 1.mp3" from="  2:06.258" to="  2:10.879" allWordsNum="12"/>
+				<subrecord rec_id="17" rec_time="13" name="Official statistics showed, in the past 50 years, the temperature difference between seasons in Xishuangbanna has increased while the relative humidity decreased. " sound="8B Unit 1.mp3" from="  2:11.247" to="  2:23.763" allWordsNum="22"/>
+				<subrecord rec_id="18" rec_time="8" name="Rubber trees draw great amount of water from underground to make themselves grow, just like a pump. " sound="8B Unit 1.mp3" from="  2:24.213" to="  2:31.247" allWordsNum="17"/>
+				<subrecord rec_id="19" rec_time="4" name="No other plant can survive near rubber trees. " sound="8B Unit 1.mp3" from="  2:31.615" to="  2:34.969" allWordsNum="8"/>
+			</record>
+			<record rec_id="7" rec_time="23" sound="8B Unit 1.mp3">
+				<subrecord rec_id="20" rec_time="8" name="The rubber industry brings money, but the growth of the rubber has already caused water resources to drop in Yunnan. " sound="8B Unit 1.mp3" from="  2:35.419" to="  2:43.395" allWordsNum="20"/>
+				<subrecord rec_id="21" rec_time="3" name="It also destroys biodiversity. " sound="8B Unit 1.mp3" from="  2:43.722" to="  2:46.380" allWordsNum="4"/>
+				<subrecord rec_id="22" rec_time="6" name="Actually, any single species dominating an environment is a disaster. " sound="8B Unit 1.mp3" from="  2:46.708" to="  2:52.556" allWordsNum="10"/>
+				<subrecord rec_id="23" rec_time="6" name="So there shouldn't be any large-scale single crop industry in the rainforest. " sound="8B Unit 1.mp3" from="  2:52.965" to=" 2:58.282" allWordsNum="12"/>
+			</record>
+			<record rec_id="8" rec_time="23" sound="8B Unit 1.mp3">
+				<subrecord rec_id="24" rec_time="13" name="Until his death, Margraf stayed in China to discover nearly extinct species and helped establish a biodiversity system in the rainforest region in Southwestern China. " sound="8B Unit 1.mp3" from="  2:59.815" to="  3:12.371" allWordsNum="25"/>
+				<subrecord rec_id="25" rec_time="3" name="But now it is all up to Li Minguo. " sound="8B Unit 1.mp3" from="  3:12.658" to="  3:15.439" allWordsNum="9"/>
+				<subrecord rec_id="26" rec_time="3" name="'This was a life-subject for Josef. " sound="8B Unit 1.mp3" from="  3:15.766" to="  3:18.588" allWordsNum="6"/>
+				<subrecord rec_id="27" rec_time="4" name="It is a great honor for me,' said Li. " sound="8B Unit 1.mp3" from="  3:19.161" to="  3:22.474" allWordsNum="9"/>
+			</record>
+		<exercise type="4" index="0"/>
+      </part>
+      <part part_index="3" name="Restoring paradise" page="0" source="2">
+      	<article allWordsNum="396">
+            	<![CDATA[
+Vanda and Linda from Xishuangbanna, Yunnan, were very special contestants at last year's China's Got Talent. The little sisters sang a beautiful song called Endless Flowers, and even had a five-year-old elephant dance for their performance. The song is about their love for the tropical rainforest in their hometown.
+People were moved by the song, but the story of the little sisters' family was even more touching.
+Linda and Vanda's father was the late (已故的) German biologist and rainforest expert Josef Margraf (马悠). His passion for biodiversity (生物多样性) and the environment began at the age of 18. By 1989, he had succeeded in creating a new way to recover and renew the rainforests, which rewrote the textbooks on rainforest protection in the Philippines (菲律宾). For that he was given a Philippine Presidential Award in 1997. In the same year, he was assigned by the European Union to lead a panel (专门小组) on a rainforest protection project in Xishuangbanna for six years. Eventually Margraf left the panel and decided to rescue the world on his own.
+In 2000, Margraf met Li Minguo (李旻果) and they got married soon. Their love for nature brought the couple closer together. They set up Seeds of Heaven &amp; Beyond Biodiversity Development Center (天籽生物多样性发展中心) in Yunnan.
+They rented 10,667 square meters of land along the Lancang River (澜沧江，湄公河上游在中国境内河段的名称). During that time, no other people lived within 100 kilometers and the place was wild and remote, ruled by rubber trees previously planted by humans who had left.
+They cut down the rubber trees and planted thousands of different plants. Official statistics (数据) showed, in the past 50 years, the temperature difference between seasons in Xishuangbanna has increased while the relative humidity (湿度) decreased. Rubber trees draw great amount of water from underground to make themselves grow, just like a pump (抽水机). No other plant can survive near rubber trees. The rubber industry brings money, but the growth of the rubber has already caused water resources to drop in Yunnan. It also destroys biodiversity. Actually, any single species dominating an environment is a disaster. So there shouldn't be any large-scale (大规模的) single crop industry in the rainforest.
+Until his death, Margraf stayed in China to discover nearly extinct species and helped establish a biodiversity system in the rainforest region in Southwestern China. But now it is all up to Li Minguo. "This was a life-subject for Josef. It is a great honor for me," said Li.
+     	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="0" name="Choose the best answer. " qtype="1" >
+					<question rec_id="0" choice="C">
+						<![CDATA[Linda and Vanda sang Endless Flowers at last year’s China’s Got Talent to ______.]]>
+						<choice item="A" name="show their appreciation for a kind of flower"/>
+						<choice item="B" name="teach a five-year-old elephant to dance"/>
+						<choice item="C" name="express their love for the tropical rainforest"/>
+						<choice item="D" name="express their love for their father"/>
+					</question>
+					<question rec_id="1" choice="C">
+						<![CDATA[According to the passage, what happened to Josef Margraf in 1997?
+     ① He developed an interest in biodiversity and the environment.
+     ② He found a new way to recover and renew the rainforests. 
+     ③ He received a Philippine Presidential Award. 
+     ④ He was assigned by the European Union to lead a panel on a rainforest protection project in Xishuangbanna.]]>
+						<choice item="A" name="①②"/>
+						<choice item="B" name="②③"/>
+						<choice item="C" name="③④"/>
+						<choice item="D" name="①④"/>
+					</question>
+					<question rec_id="2" choice="A">
+						<![CDATA[Too many rubber trees planted in one area may cause ______.]]>
+						<choice item="A" name="relative humidity to decrease"/>
+						<choice item="B" name="relative humidity to increase"/>
+						<choice item="C" name="temperature to decrease"/>
+						<choice item="D" name="temperature to increase"/>
+					</question>
+					<question rec_id="3" choice="D">
+						<![CDATA[The area Josef Margraf and Li Minguo rented ______.]]>
+						<choice item="A" name="was wild and remote"/>
+						<choice item="B" name="used to have many rubber trees"/>
+						<choice item="C" name="was along the Lancang River"/>
+						<choice item="D" name="all of the above"/>
+					</question>
+					<question rec_id="4" choice="B">
+						<![CDATA[______ is a good way to maintain the biodiversity in an area.]]>
+						<choice item="A" name="Planting a special kind of plant in a moderate amount"/>
+						<choice item="B" name="Planting different kinds of plants in a moderate amount"/>
+						<choice item="C" name="Planting a special kind of plant as many as possible"/>
+						<choice item="D" name="Planting different kinds of plants as many as possible"/>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+</package>
+ 

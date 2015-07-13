@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_09a</book_id>
+	<unit_id>nj_09a_03</unit_id>
+	<version>6</version>
+	<unit>unit3</unit>
+	<title>Pets</title>
+	<words>
+		<part part_index="0" page="50">
+			<record rec_id="0" rec_time="3" name="from side to side" symbol="frCm said tu said" explain="从左到右边" sound="nj_09a_03.mp3" from="    8:04.448" to="  8:06.398" allWordsNum="4"/>
+			<record rec_id="1" rec_time="3" name="opinion" symbol="E5pinjEn" explain="n.想法；看法；意见" sound="nj_09a_03.mp3" from="  8:08.022" to="  8:09.347" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="cute" symbol="kju:t" explain="adj.可爱的；漂亮迷人的" sound="nj_09a_03.mp3" from="  8:10.172" to="  8:11.447" allWordsNum="1"/>
+			<record rec_id="3" rec_time="3" name="grow up" symbol="grEu Qp" explain="成长；长大" sound="nj_09a_03.mp3" from="  8:12.197" to="  8:13.471" allWordsNum="2"/>
+			<record rec_id="4" rec_time="3" name="responsibility" symbol="ri7spCnsE5bilEti" explain="n.责任" sound="nj_09a_03.mp3" from="  8:14.271" to="  8:15.996" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="according to" symbol="E5kR:diN tE" explain="prep.据（......所说）" sound="nj_09a_03.mp3" from="  8:17.671" to="  8:19.820" allWordsNum="2"/>
+			<record rec_id="6" rec_time="3" name="death" symbol="deW" explain="n.死；死亡" sound="nj_09a_03.mp3" from="  8:21.320" to="  8:22.570" allWordsNum="2"/>
+			<record rec_id="7" rec_time="3" name="care for" symbol="5kZE fR:" explain="关爱" sound="nj_09a_03.mp3" from="  8:23.595" to="  8:24.895" allWordsNum="2"/>
+			<record rec_id="8" rec_time="3" name="respect" symbol="ris5pekt" explain="v.慎重对待；尊重" sound="nj_09a_03.mp3" from="  8:26.119" to="  8:27.094" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="faithfully" symbol="5feiWfEli" explain="adv.忠实地；忠诚地" sound="nj_09a_03.mp3" from="  8:28.219" to="  8:29.394" allWordsNum="2"/>
+			<record rec_id="10" rec_time="3" name="in one's opinion" symbol="in wQnz E5pinjEn" explain="依某人的看法" sound="nj_09a_03.mp3" from="  8:30.769" to="  8:32.443" allWordsNum="3"/>
+			<record rec_id="11" rec_time="3" name="mess" symbol="mes" explain="n.杂乱；粪便" sound="nj_09a_03.mp3" from="  8:34.043" to="  8:35.193" allWordsNum="2"/>
+			<record rec_id="12" rec_time="3" name="fur" symbol="fE:(r)" explain="n.(动物的)毛皮" sound="nj_09a_03.mp3" from="  8:36.043" to="  8:37.267" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="result" symbol="ri5zQlt" explain="n.后果；结果" sound="nj_09a_03.mp3" from="  8:38.317" to="  8:39.417" allWordsNum="3"/>
+			<record rec_id="14" rec_time="3" name="as a result" symbol="Es e ri5zQlt" explain="因此；结果" sound="nj_09a_03.mp3" from="  8:40.492" to="  8:41.967" allWordsNum="3"/>
+			<record rec_id="15" rec_time="3" name="bite" symbol="bait" explain="v.咬" sound="nj_09a_03.mp3" from="  8:43.341" to="  8:44.541" allWordsNum="2"/>
+			<record rec_id="16" rec_time="3" name="what's more" symbol="wCts mR:(r)" explain="而且" sound="nj_09a_03.mp3" from="  8:45.491" to="  8:46.716" allWordsNum="2"/>
+			<record rec_id="17" rec_time="3" name="extremely" symbol="ik5stri:mli" explain="adv.极其；非常" sound="nj_09a_03.mp3" from="  8:47.866" to="  8:49.290" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="unhappy" symbol="Qn5hApi" explain="adj.不快乐的；不幸福的；悲伤的" sound="nj_09a_03.mp3" from="  8:50.490" to="  8:51.740" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="clean out" symbol="kli:n aut" explain="把（某物）内部彻底打扫干净" sound="nj_09a_03.mp3" from="  8:52.790" to="  8:54.265" allWordsNum="2"/>
+			<record rec_id="20" rec_time="3" name="right now" symbol="rait nau" explain="立即；马上" sound="nj_09a_03.mp3" from="  8:55.290" to="  8:56.439" allWordsNum="2"/>
+			<record rec_id="21" rec_time="3" name="surprised" symbol="sE5praizd" explain="adj.惊讶的" sound="nj_09a_03.mp3" from="  8:57.564" to="  8:58.739" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="shocked" symbol="FCkt" explain="adj.震惊的" sound="nj_09a_03.mp3" from="  8:59.939" to="  9:01.039" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="salary" symbol="5sAlEri" explain="n.薪金；薪水" sound="nj_09a_03.mp3" from="  9:02.038" to="  9:03.088" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="certain" symbol="5sE:tn" explain="adj.一定（量）的" sound="nj_09a_03.mp3" from="  9:04.063" to="  9:05.213" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="goldfish" symbol="5gEuldfiF" explain="n.金鱼" sound="nj_09a_03.mp3" from="  9:06.088" to="  9:07.138" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="right away" symbol="rait Ewei" explain="立即；马上" sound="nj_09a_03.mp3" from="  9:08.187" to="  9:09.312" allWordsNum="3"/>
+			<record rec_id="27" rec_time="3" name="apologize" symbol="E5pClEdVaiz" explain="v.道歉" sound="nj_09a_03.mp3" from="  9:10.237" to="  9:11.562" allWordsNum="1"/>
+			<record rec_id="28" rec_time="3" name="make a complaint" symbol="meik E kEm5pleint" explain="投诉" sound="nj_09a_03.mp3" from="  9:12.737" to="  9:14.136" allWordsNum="3"/>
+			<record rec_id="29" rec_time="3" name="(be)wrong with" symbol="(bi) rCN wiT" explain="有问题；有毛病" sound="nj_09a_03.mp3" from="  9:15.661" to="  9:17.486" allWordsNum="3"/>
+			<record rec_id="30" rec_time="3" name="review" symbol="ri5vju:" explain="n.（书刊、戏剧、电影等的）评论" sound="nj_09a_03.mp3" from="  9:18.836" to="  9:19.760" allWordsNum="1"/>
+			<record rec_id="31" rec_time="3" name="not only ... but (also)... " symbol="nCt 5Eunli bQt (R:lsEu)" explain="不但……而且……" sound="nj_09a_03.mp3" from="  9:20.960" to="  9:24.335" allWordsNum="4"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Head to head" page="37">
+			<record rec_id="0" rec_time="25" sound="nj_09a_03.mp3">
+				<subrecord rec_id="1" rec_time="5" name="Emma and Matt give their opinions about pet dogs. " sound="nj_09a_03.mp3" from="  0:00.000" to="  0:03.514" allWordsNum="9"/>
+				<subrecord rec_id="2" rec_time="5" name="Is it a good idea to keep pet dogs?" sound="nj_09a_03.mp3" from="  0:03.570" to="  0:06.333" allWordsNum="9"/>
+				</record>
+			<record rec_id="1" rec_time="25" sound="nj_09a_03.mp3">
+				<subrecord rec_id="3" rec_time="5" name="Keeping pet dogs is a good idea, says Emma. " sound="nj_09a_03.mp3" from="  0:06.559" to="  0:10.017" allWordsNum="9"/>
+				</record>
+			<record rec_id="2" rec_time="25" sound="nj_09a_03.mp3">
+				<subrecord rec_id="4" rec_time="8" name="I think that having a pet dog can change a person's life. " sound="nj_09a_03.mp3" from="  0:10.637" to="  0:14.997" allWordsNum="12"/>
+				<subrecord rec_id="5" rec_time="6" name="Therefore, people should be allowed to have pet dogs. " sound="nj_09a_03.mp3" from="  0:15.204" to="  0:18.455" allWordsNum="9"/>
+				<subrecord rec_id="6" rec_time="3" name="There are lots of reasons for this. " sound="nj_09a_03.mp3" from="  0:18.568" to="  0:20.297" allWordsNum="7"/>
+				</record>
+			<record rec_id="3" rec_time="25" sound="nj_09a_03.mp3">
+				<subrecord rec_id="7" rec_time="5" name="First, dogs are really cute. " sound="nj_09a_03.mp3" from="  0:20.635" to="  0:23.266" allWordsNum="5"/>
+				<subrecord rec_id="8" rec_time="12" name="It's nice to pick them up and hold them in our arms, and it's wonderful to see them growing up quickly. " sound="nj_09a_03.mp3" from="  0:23.473" to="  0:29.055" allWordsNum="21"/>
+			</record>
+			<record rec_id="4" rec_time="60" sound="nj_09a_03.mp3">
+				<subrecord rec_id="9" rec_time="8" name="Second, we can learn about responsibility from keeping pet dogs. " sound="nj_09a_03.mp3" from="  0:29.619" to="  0:34.618" allWordsNum="10"/>
+				<subrecord rec_id="10" rec_time="6" name="We have to feed them, train them and play with them. " sound="nj_09a_03.mp3" from="  0:34.825" to="  0:38.226" allWordsNum="11"/>
+				<subrecord rec_id="11" rec_time="5" name="We even have to take care of them at night. " sound="nj_09a_03.mp3" from="  0:38.358" to="  0:40.763" allWordsNum="10"/>
+				<subrecord rec_id="12" rec_time="10" name="According to my mum, this helps us become more responsible people. " sound="nj_09a_03.mp3" from="  0:40.876" to="  0:45.293" allWordsNum="11"/>
+			</record>
+			<record rec_id="5" rec_time="25" sound="nj_09a_03.mp3">
+				<subrecord rec_id="13" rec_time="6" name="We can also learn about life and death from dogs. " sound="nj_09a_03.mp3" from="  0:46.533" to="  0:49.672" allWordsNum="10"/>
+				<subrecord rec_id="14" rec_time="12" name="Young people can learn how to care for others and how to respect all living things by keeping a pet dog. " sound="nj_09a_03.mp3" from="  0:49.747" to="  0:56.137" allWordsNum="21"/>
+				</record>
+			<record rec_id="6" rec_time="25" sound="nj_09a_03.mp3">
+				<subrecord rec_id="15" rec_time="6" name="A dog will love you faithfully for many years. " sound="nj_09a_03.mp3" from="  0:57.001" to="  1:00.046" allWordsNum="9"/>
+				<subrecord rec_id="16" rec_time="6" name="Keeping pet dogs is something everyone can enjoy. " sound="nj_09a_03.mp3" from="  1:00.347" to="  1:03.729" allWordsNum="8"/>
+				</record>
+			<record rec_id="7" rec_time="25" sound="nj_09a_03.mp3">
+				<subrecord rec_id="17" rec_time="8" name="Keeping pet dogs is not a good idea, says Matt. " sound="nj_09a_03.mp3" from="  1:04.650" to="  1:08.917" allWordsNum="10"/>
+				</record>
+			<record rec_id="8" rec_time="25" sound="nj_09a_03.mp3">
+				<subrecord rec_id="18" rec_time="8" name="In my opinion, it is never a good idea to keep a pet dog. " sound="nj_09a_03.mp3" from="  1:09.593" to="  1:13.634" allWordsNum="14"/>
+				</record>
+			<record rec_id="9" rec_time="60" sound="nj_09a_03.mp3">
+				<subrecord rec_id="19" rec_time="5" name="Pet dogs create a lot of mess. " sound="nj_09a_03.mp3" from="  1:14.216" to="  1:16.641" allWordsNum="7"/> 
+				<subrecord rec_id="20" rec_time="14" name="They leave fur and hair on the floor, on beds and on sofas, and they need to be washed regularly. " sound="nj_09a_03.mp3" from="  1:16.735" to="  1:23.989" allWordsNum="20"/>
+				<subrecord rec_id="21" rec_time="8" name="Some people are not very good at cleaning up after their dogs when they take them for a walk. " sound="nj_09a_03.mp3" from="  1:24.384" to="  1:29.327" allWordsNum="19"/>
+			  <subrecord rec_id="22" rec_time="10" name="As a result, these dogs create a lot of mess on the streets and in parks. " sound="nj_09a_03.mp3" from="  1:29.646" to="  1:34.984" allWordsNum="16"/>
+				</record>
+			<record rec_id="10" rec_time="60" sound="nj_09a_03.mp3">
+				<subrecord rec_id="23" rec_time="6" name="We should remember that not all dogs are friendly. " sound="nj_09a_03.mp3" from="  1:35.604" to="  1:38.742" allWordsNum="9"/>
+				<subrecord rec_id="24" rec_time="6" name="Some dogs bark at people they do not know. " sound="nj_09a_03.mp3" from="  1:39.118" to="  1:42.125" allWordsNum="9"/>
+				<subrecord rec_id="25" rec_time="5" name="This can frighten young children. " sound="nj_09a_03.mp3" from="  1:42.257" to="  1:44.437" allWordsNum="5"/>
+				<subrecord rec_id="26" rec_time="5" name="A few dogs bark all night. " sound="nj_09a_03.mp3" from="  1:44.794" to="  1:47.312" allWordsNum="6"/>
+				<subrecord rec_id="27" rec_time="6" name="This stops their neighbours from getting any sleep. " sound="nj_09a_03.mp3" from="  1:47.538" to="  1:50.733" allWordsNum="8"/>
+				<subrecord rec_id="28" rec_time="6" name="A small number of pet dogs even bite people. " sound="nj_09a_03.mp3" from="  1:51.034" to="  1:54.567" allWordsNum="9"/>
+			</record>
+			<record rec_id="11" rec_time="60" sound="nj_09a_03.mp3">
+				<subrecord rec_id="29" rec_time="6" name="What's more, most people in modern cities live in flats. " sound="nj_09a_03.mp3" from="  1:55.281" to="  1:58.871" allWordsNum="10"/>
+				<subrecord rec_id="30" rec_time="6" name="They have no choice but to keep their dogs in small spaces. " sound="nj_09a_03.mp3" from="  1:58.833" to="  2:02.498" allWordsNum="12"/>
+				<subrecord rec_id="31" rec_time="6" name="This may make the dogs feel extremely unhappy. " sound="nj_09a_03.mp3" from="  2:02.893" to="  2:06.332" allWordsNum="8"/>
+				<subrecord rec_id="32" rec_time="10" name="They always need fresh air and large open spaces where they can run free. " sound="nj_09a_03.mp3" from="  2:06.614" to="  2:11.914" allWordsNum="14"/>
+			</record>
+			<record rec_id="12" rec_time="25" sound="nj_09a_03.mp3">
+				<subrecord rec_id="33" rec_time="8" name="Finally, paying for dog food and visiting the vet can be expensive. " sound="nj_09a_03.mp3" from="  2:12.797" to="  2:17.552" allWordsNum="12"/>
+				<subrecord rec_id="34" rec_time="6" name="I believe that people should not keep pet dogs. " sound="nj_09a_03.mp3" from="  2:18.247" to="  2:21.517" allWordsNum="9"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+			<part part_index="1" name="The Fisherman and the Fish" page="47">
+				<record rec_id="0" rec_time="60" sound="nj_09a_03.mp3">
+					<subrecord rec_id="1" rec_time="8" name="Once upon a time in Russia, there lived an old fisherman and his wife. " sound="nj_09a_03.mp3" from="  5:36.534" to="  5:41.176" allWordsNum="14"/>
+					<subrecord rec_id="2" rec_time="8" name="They were poor and lived in an old, mud hut near the sea. " sound="nj_09a_03.mp3" from="  5:41.247" to="  5:45.696" allWordsNum="13"/>
+					<subrecord rec_id="3" rec_time="8" name="One morning, something unusual happened while the fisherman was at work. " sound="nj_09a_03.mp3" from="  5:46.046" to="  5:50.170" allWordsNum="11"/>
+					<subrecord rec_id="4" rec_time="6" name="He caught a small, golden fish in his net. " sound="nj_09a_03.mp3" from="  5:50.470" to="  5:53.920" allWordsNum="9"/>
+				</record>
+				<record rec_id="1" rec_time="25" sound="nj_09a_03.mp3">
+					<subrecord rec_id="5" rec_time="12" name="The fish begged the fisherman to let him go and offered to grant the fisherman any wish in return. " sound="nj_09a_03.mp3" from="  5:53.920" to="  6:00.094" allWordsNum="19"/>
+					<subrecord rec_id="6" rec_time="10" name="However, the man was kind and asked for nothing before returning the fish to the sea. " sound="nj_09a_03.mp3" from="  6:00.219" to="  6:06.218" allWordsNum="16"/>
+					</record>
+				<record rec_id="2" rec_time="60" sound="nj_09a_03.mp3">
+					<subrecord rec_id="7" rec_time="6" name="The man went home and told his wife about the fish. " sound="nj_09a_03.mp3" from="  6:07.092" to="  6:10.842" allWordsNum="11"/>
+					<subrecord rec_id="8" rec_time="8" name="She shouted at him angrily and called him a fool for not making a wish. " sound="nj_09a_03.mp3" from="  6:11.667" to="  6:16.666" allWordsNum="15"/>
+					<subrecord rec_id="9" rec_time="14" name="She sent him back to the sea to catch the fish and ask for a new bucket because theirs bucket was broken. " sound="nj_09a_03.mp3" from="  6:16.816" to="  6:24.065" allWordsNum="22"/>
+				</record>
+				<record rec_id="3" rec_time="60" sound="nj_09a_03.mp3">
+					<subrecord rec_id="10" rec_time="10" name="The Sun was shining as the man met the fish again and when he returned, he saw a new bucket. " sound="nj_09a_03.mp3" from="  6:24.290" to="  6:30.289" allWordsNum="20"/>
+					<subrecord rec_id="11" rec_time="8" name="But the fisherman's wife was still not happy and wanted a new house. " sound="nj_09a_03.mp3" from="  6:30.839" to="  6:35.613" allWordsNum="13"/>
+					<subrecord rec_id="12" rec_time="8" name="The weather was getting bad as the man explained to the fish about his rude wife. " sound="nj_09a_03.mp3" from="  6:36.038" to="  6:40.887" allWordsNum="16"/>
+					<subrecord rec_id="13" rec_time="8" name="The fish comforted him and promised to grant the second wish. " sound="nj_09a_03.mp3" from="  6:41.312" to="  6:45.361" allWordsNum="11"/>
+					<subrecord rec_id="14" rec_time="6" name="When he returned, he saw a nice, new cottage. " sound="nj_09a_03.mp3" from="  6:45.536" to="  6:49.535" allWordsNum="9"/>
+					</record>
+				<record rec_id="4" rec_time="60" sound="nj_09a_03.mp3">
+					<subrecord rec_id="15" rec_time="8" name="The next day, his wife said that she wanted to be mayor of the city. " sound="nj_09a_03.mp3" from="  6:50.685" to="  6:55.609" allWordsNum="15"/>
+					<subrecord rec_id="16" rec_time="12" name="The waves were getting big and the sky was becoming dark as the man apologized to the golden fish. " sound="nj_09a_03.mp3" from="  6:55.934" to="  7:01.958" allWordsNum="19"/>
+					<subrecord rec_id="17" rec_time="8" name="Again, like the wishes before, this wish was granted. " sound="nj_09a_03.mp3" from="  7:02.308" to="  7:07.107" allWordsNum="9"/>
+					<subrecord rec_id="18" rec_time="10" name="When he returned, he found his wife dressed in expensive clothes and giving orders to servants. " sound="nj_09a_03.mp3" from="  7:07.332" to="  7:13.206" allWordsNum="16"/>\
+					<subrecord rec_id="19" rec_time="12" name="She told her husband that he still had to sleep in the hut even though she now had a bigger house. " sound="nj_09a_03.mp3" from="  7:13.731" to="  7:20.080" allWordsNum="21"/>
+					<subrecord rec_id="20" rec_time="10" name="She was a very greedy woman and the following week she demanded to be queen of all the land. " sound="nj_09a_03.mp3" from="  7:20.530" to="  7:25.929" allWordsNum="19"/>
+				</record>
+				<record rec_id="5" rec_time="60" sound="nj_09a_03.mp3">
+					<subrecord rec_id="21" rec_time="6" name="Again the fisherman went down to the shore. " sound="nj_09a_03.mp3" from="  7:26.879" to="  7:30.029" allWordsNum="8"/>
+					<subrecord rec_id="22" rec_time="5" name="By now there was a terrible storm. " sound="nj_09a_03.mp3" from="  7:30.254" to="  7:32.878" allWordsNum="7"/>
+					<subrecord rec_id="23" rec_time="8" name="There was thunder and lightning, and giant waves in the sea. " sound="nj_09a_03.mp3" from="  7:33.028" to="  7:37.277" allWordsNum="11"/>
+					<subrecord rec_id="24" rec_time="10" name="The man shouted as loudly as he could so that the fish could hear him. " sound="nj_09a_03.mp3" from="  7:37.552" to="  7:42.577" allWordsNum="15"/>
+				</record>
+				<record rec_id="6" rec_time="60" sound="nj_09a_03.mp3">
+					<subrecord rec_id="25" rec_time="10" name="This time the fish did not reply and turned around to swim out to sea. " sound="nj_09a_03.mp3" from="  7:42.727" to="  7:47.926" allWordsNum="15"/>
+					<subrecord rec_id="26" rec_time="8" name="The fisherman waited but the golden fish never came back. " sound="nj_09a_03.mp3" from="  7:48.201" to="  7:52.525" allWordsNum="10"/>
+					<subrecord rec_id="27" rec_time="12" name="When the man returned home, he found his wife in the old, mud hut holding their broken bucket. " sound="nj_09a_03.mp3" from="  7:52.750" to="  7:59.499" allWordsNum="18"/>
+				</record>
+			<exercise type="4" index="0"/>
+		</part>
+	</texts>
+</package>
+ 

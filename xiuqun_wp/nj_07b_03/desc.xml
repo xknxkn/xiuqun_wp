@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_07b</book_id>
+	<unit_id>nj_07b_03</unit_id>
+	<version>6</version>
+	<unit>unit3</unit>
+	<title>A visit to Garden City</title>
+	<words>
+		<part part_index="0" page="19">
+			<record rec_id="0" rec_time="3" name="since" symbol="sins" explain="prep.从......以来；自从" sound="nj_07b_03.mp3" from="  3:00.011" to="  3:01.417" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="quite" symbol="kwait" explain="adv.相当；十分" sound="nj_07b_03.mp3" from="  3:02.099" to="  3:03.378" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="quite a few" symbol="kwait E fju:" explain="相当多；不少" sound="nj_07b_03.mp3" from="  3:04.444" to="  3:05.723" allWordsNum="3"/>
+			<record rec_id="3" rec_time="3" name="machine" symbol="mE5Fi:n" explain="n.机器；机器装置" sound="nj_07b_03.mp3" from="  3:06.703" to="  3:08.195" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="waiter" symbol="5weitE(r)" explain="n.服务员；侍者" sound="nj_07b_03.mp3" from="  3:08.664" to="  3:09.986" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="coach" symbol="kEutF" explain="n.(体育运功的)教练" sound="nj_07b_03.mp3" from="  3:10.497" to="  3:11.947" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="train" symbol="trein" explain="v.训练；培训" sound="nj_07b_03.mp3" from="  3:12.586" to="  3:13.865" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="headmaster" symbol="7hed5mB:stE(r)" explain="n.校长" sound="nj_07b_03.mp3" from="    3:14.969" to="    3:16.108" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="charge" symbol="tFB:dV" explain="n.主管；掌管" sound="nj_07b_03.mp3" from="  3:17.080" to="  3:18.316" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="in charge of" symbol="in tFB:dV Cv" explain="负责掌管" sound="nj_07b_03.mp3" from="  3:18.827" to="  3:20.405" allWordsNum="3"/>
+			<record rec_id="10" rec_time="3" name="field" symbol="fi:ld" explain="n.田地" sound="nj_07b_03.mp3" from="  3:21.087" to="  3:22.621" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="tell the time" symbol="tel TE taim" explain="报时" sound="nj_07b_03.mp3" from="  3:23.090" to="  3:24.966" allWordsNum="3"/>
+			<record rec_id="12" rec_time="3" name="key" symbol="ki:" explain="n.钥匙" sound="nj_07b_03.mp3" from="  3:25.563" to="  3:26.586" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="ring" symbol="riN" explain="n.小环；小圈" sound="nj_07b_03.mp3" from="  3:27.311" to="  3:28.973" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="key ring" symbol="ki: riN" explain="n.钥匙圈；钥匙环" sound="nj_07b_03.mp3" from="  3:29.399" to="  3:30.977" allWordsNum="2"/>
+			<record rec_id="15" rec_time="3" name="cable" symbol="5keibl" explain="n.缆绳" sound="nj_07b_03.mp3" from="  3:31.659" to="  3:33.108" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="cable car" symbol="5keibl kB:" explain="n.缆车" sound="nj_07b_03.mp3" from="  3:33.833" to="  3:35.538" allWordsNum="2"/>
+			<record rec_id="17" rec_time="3" name="fantastic" symbol="fAn5tAstik" explain="adj.极好的" sound="nj_07b_03.mp3" from="  3:36.305" to="  3:37.670" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="have a good time" symbol="hAv E gud taim" explain="过得愉快" sound="nj_07b_03.mp3" from="  3:38.352" to="  3:40.099" allWordsNum="4"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<dialogs>
+		<part part_index="0" name="Relatives and their jobs" page="16">
+			<record rec_id="0" rec_time="5" name="What's Aunt Maggie's job? " sound="nj_07b_03.mp3" from="  0:07.959" to="  0:10.964" allWordsNum="8"/>
+			<record rec_id="1" rec_time="6" name="My mother is a teacher. She teaches Maths in a school. " sound="nj_07b_03.mp3" from="  0:11.701" to="  0:16.294" allWordsNum="11"/>
+			<record rec_id="2" rec_time="5" name="How long has she been a teacher? " sound="nj_07b_03.mp3" from="  0:16.974" to="  0:19.185" allWordsNum="7"/>
+			<record rec_id="3" rec_time="9" name="She has been a teacher since 1997. She has been a teacher for quite a few years. " sound="nj_07b_03.mp3" from="  0:20.263" to="  0:27.180" allWordsNum="17"/>
+			<record rec_id="4" rec_time="5" name="What's Uncle David's job? " sound="nj_07b_03.mp3" from="  0:28.314" to="  0:30.808" allWordsNum="4"/>
+			<record rec_id="5" rec_time="20" name="My father is a policeman. He has been a policeman for twelve years. He catches thieves and helps keep the city safe. Aunt Betty works in a company in Beijing, doesn't she? " sound="nj_07b_03.mp3" from="  0:31.489" to="  0:44.529" allWordsNum="34"/>
+			<record rec_id="6" rec_time="8" name="Yes, you're right. My mother is an architect. She has been an architect for ten years. " sound="nj_07b_03.mp3" from="  0:46.116" to="  0:52.750" allWordsNum="18"/>
+			<record rec_id="7" rec_time="5" name="What does an architect do? " sound="nj_07b_03.mp3" from="  0:54.904" to="  0:56.775" allWordsNum="5"/>
+			<record rec_id="8" rec_time="5" name="An architect draws plans of buildings. " sound="nj_07b_03.mp3" from="  0:57.796" to="  1:00.744" allWordsNum="6"/>
+			<record rec_id="9" rec_time="8" name="I know Uncle Weiming is an engineer. He works in a company and designs machines. " sound="nj_07b_03.mp3" from="  1:02.785" to="  1:09.192" allWordsNum="15"/>
+			<record rec_id="10" rec_time="10" name="That's right. My father has been an engineer since 2004. He has been an engineer for several years. " sound="nj_07b_03.mp3" from="  1:09.929" to="  1:17.129" allWordsNum="20"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="1" name="Look, listen and say" page="18">
+			<record rec_id="0" rec_time="5" name="Look at this watch. It's nice. " sound="nj_07b_03.mp3" from="  1:35.953" to="  1:39.241" allWordsNum="8"/>
+			<record rec_id="1" rec_time="3" name="What's a watch? " sound="nj_07b_03.mp3" from="  1:40.205" to="  1:41.793" allWordsNum="3"/>
+			<record rec_id="2" rec_time="5" name="A watch is used for telling the time. " sound="nj_07b_03.mp3" from="  1:42.360" to="  1:44.911" allWordsNum="8"/>
+			<record rec_id="3" rec_time="5" name="This key ring is nice too. " sound="nj_07b_03.mp3" from="  1:48.369" to="  1:50.581" allWordsNum="6"/>
+			<record rec_id="4" rec_time="3" name="What's a key ring? " sound="nj_07b_03.mp3" from="  1:51.431" to="  1:53.189" allWordsNum="4"/>
+			<record rec_id="5" rec_time="5" name="A key ring is used for holding the keys. " sound="nj_07b_03.mp3" from="  1:54.946" to="  1:58.461" allWordsNum="9"/>
+			<exercise type="5" index="0"/>
+		</part>
+    </dialogs>
+    <texts>
+    	<part part_index="0" name="Nice—a beautiful city in France" page="0" source="2">
+			<record rec_id="0" rec_time="8" sound="7B Unit 3.mp3">
+				<subrecord rec_id="1" rec_time="3" name="Nice is the fifth largest city in France. " sound="7B Unit 3.mp3" from="  0:06.955" to="  0:09.888" allWordsNum="8"/>
+				<subrecord rec_id="2" rec_time="5" name="It is like a magnet and attracts people from all over the world. " sound="7B Unit 3.mp3" from="  0:10.503" to="  0:14.665" allWordsNum="13"/>
+			</record>
+			<record rec_id="1" rec_time="10" sound="7B Unit 3.mp3">
+				<subrecord rec_id="3" rec_time="5" name="Nice's charm comes from its sunny weather and beautiful beaches. " sound="7B Unit 3.mp3" from="  0:16.230" to="  0:20.642" allWordsNum="10"/>
+				<subrecord rec_id="4" rec_time="5" name="The city is well-known for the great view from the Promenade des Anglais. " sound="7B Unit 3.mp3" from="  0:21.104" to="  0:25.800" allWordsNum="13"/>
+			</record>
+			<record rec_id="2" rec_time="36" sound="7B Unit 3.mp3">
+				<subrecord rec_id="5" rec_time="6" name="The Promenade is a famous seaside walkway in Nice and runs for several miles. " sound="7B Unit 3.mp3" from="  0:27.294" to="  0:32.630" allWordsNum="14"/>
+				<subrecord rec_id="6" rec_time="6" name="It has existed for a long time, dating back to the 1800s. " sound="7B Unit 3.mp3" from="  0:33.128" to="  0:38.464" allWordsNum="12"/>
+				<subrecord rec_id="7" rec_time="9" name="Today, it is a famous tourist attraction and is home to many hotels, dozens of cafes and miles of beach. " sound="7B Unit 3.mp3" from="  0:38.962" to="  0:47.856" allWordsNum="20"/>
+				<subrecord rec_id="8" rec_time="5" name="If you take a trip to Nice, you should not miss the Promenade. " sound="7B Unit 3.mp3" from="  0:48.283" to="  0:53.014" allWordsNum="13"/>
+				<subrecord rec_id="9" rec_time="10" name="It is worth a visit even if you just plan to find a blue chair, have a seat, listen to the waves and enjoy the sunshine. " sound="7B Unit 3.mp3" from="  0:53.441" to="  1:03.224" allWordsNum="26"/>
+			</record>
+			<record rec_id="3" rec_time="7" sound="7B Unit 3.mp3">
+				<subrecord rec_id="10" rec_time="4" name="There are many other places to see in the city of Nice. " sound="7B Unit 3.mp3" from="  1:04.576" to="  1:08.311" allWordsNum="12"/>
+				<subrecord rec_id="11" rec_time="3" name="Here are some of tourists' favorites：" sound="7B Unit 3.mp3" from="  1:09.094" to="  1:11.549" allWordsNum="6"/>
+			</record>
+			<record rec_id="4" rec_time="16" sound="7B Unit 3.mp3">
+				<subrecord rec_id="12" rec_time="4" name="The Cours Selaya Flower Market is a must-see. " sound="7B Unit 3.mp3" from="  1:13.082" to="  1:16.355" allWordsNum="8"/>
+				<subrecord rec_id="13" rec_time="4" name="It is also one of the main neighborhoods for dining. " sound="7B Unit 3.mp3" from="  1:16.924" to="  1:19.984" allWordsNum="10"/>
+				<subrecord rec_id="14" rec_time="5" name="If you want to have seafood, it is the place to go. " sound="7B Unit 3.mp3" from="  1:20.340" to="  1:24.573" allWordsNum="12"/>
+				<subrecord rec_id="15" rec_time="3" name="There are also many souvenir shops there. " sound="7B Unit 3.mp3" from="  1:25.000" to="  1:27.988" allWordsNum="7"/>
+			</record>
+			<record rec_id="5" rec_time="10" sound="7B Unit 3.mp3">
+				<subrecord rec_id="16" rec_time="4" name="Cimiez is a hilltop neighborhood in Nice. " sound="7B Unit 3.mp3" from="  1:29.518" to="  1:32.542" allWordsNum="7"/>
+				<subrecord rec_id="17" rec_time="3" name="It has a famous art museum. " sound="7B Unit 3.mp3" from="  1:33.289" to="  1:35.387" allWordsNum="6"/>
+				<subrecord rec_id="18" rec_time="3" name="You can see many wonderful works of art in it. " sound="7B Unit 3.mp3" from="  1:35.708" to="  1:38.625" allWordsNum="10"/>
+			</record>
+		<exercise type="4" index="0"/>
+      </part>	
+    	<part part_index="1" name="Nice—a beautiful city in France" page="0" source="2">
+      	<article allWordsNum="200">
+            	<![CDATA[
+Nice (pronounced like the English word "niece") is the fifth largest city in France. It is like a magnet and attracts people from all over the world.
+Nice's charm comes from its sunny weather and beautiful beaches. The city is well-known for the great view from the Promenade des Anglais (盎格鲁街).
+The Promenade is a famous seaside walkway in Nice and runs for several miles. It has existed for a long time, dating back to the 1800s. Today, it is a famous tourist attraction and is home to many hotels, dozens of cafes and miles of beach. If you take a trip to Nice, you should not miss the Promenade. It is worth a visit even if you just plan to find a blue chair, have a seat, listen to the waves and enjoy the sunshine.
+There are many other places to see in the city of Nice. Here are some of tourists' favorites：
+◆ The Cours Selaya Flower Market (赛道塞拉亚花卉市场) is a must-see. It is also one of the main neighborhoods for dining. If you want to have seafood, it is the place to go. There are also many souvenir (纪念品) shops there.
+◆ Cimiez (西米埃) is a hilltop neighborhood in Nice. It has a famous art museum. You can see many wonderful works of art in it.
+    	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="0" name="Choose the best answer. " qtype="1" >
+					<question rec_id="0" choice="A">
+						<![CDATA[What's the weather like in Nice?]]>
+						<choice item="A" name="It is always sunny. "/>
+						<choice item="B" name="It often rains. "/>
+						<choice item="C" name="It is always cloudy. "/>
+						<choice item="D" name="None of the above. "/>
+					</question>
+					<question rec_id="1" choice="B">
+						<![CDATA[What can you see on the Promenade des Anglais?	
+    ① Many souvenir shops. ② Many cafes. ③ Many hotels. ④ A famous art museum.]]>
+						<choice item="A" name="①②"/>
+						<choice item="B" name="②③"/>
+						<choice item="C" name="③④"/>
+						<choice item="D" name="①④"/>
+					</question>
+					<question rec_id="2" choice="B">
+						<![CDATA[Which of the following statements is true?]]>
+						<choice item="A" name="Nice is the largest city in France. "/>
+						<choice item="B" name="The Promenade des Anglais has a long history. "/>
+						<choice item="C" name="The Cours Selaya Flower Market has a lot of museums. "/>
+						<choice item="D" name="Cimiez is located in the city centre. "/>
+					</question>
+					</section>
+			</exercise>
+    </part>
+    	</texts>
+</package>
+ 

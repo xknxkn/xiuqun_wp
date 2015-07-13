@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_07a</book_id>
+	<unit_id>nj_07a_10</unit_id>
+	<version>5</version>
+	<unit>unit10</unit>
+	<title>A birthday party</title>
+	<words>
+		<part part_index="0" page="81">
+			<record rec_id="0" rec_time="3" name="sound" symbol="saund" explain="v.听起来好像" sound="nj_07a_10.mp3" from="  5:01.921" to="  5:03.200" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="forward" symbol="5fR:wEd" explain="adv.向前；向将来" sound="nj_07a_10.mp3" from="  5:03.200" to="  5:04.614" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="look forward to" symbol="luk 5fR:wEd tE" explain="期待着" sound="nj_07a_10.mp3" from="  5:04.715" to="  5:06.129" allWordsNum="3"/>
+		  <record rec_id="3" rec_time="3" name="pity" symbol="5piti" explain="n.遗憾；可惜" sound="nj_07a_10.mp3" from="  5:06.129" to="  5:07.442" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="karaoke" symbol="7kAri5Euki" explain="n.卡拉OK" sound="nj_07a_10.mp3" from="   5:08.131" to="  5:08.830" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="chess" symbol="tFes" explain="n.国际象棋" sound="nj_07a_10.mp3" from="  5:09.395" to="  5:09.970" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="ingredient" symbol="in5gri:diEnt" explain="n.原料；成分" sound="nj_07a_10.mp3" from="  5:10.337" to="  5:11.785" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="powder" symbol="5paudE(r)" explain="n.粉末；细面" sound="nj_07a_10.mp3" from="  5:11.852" to="  5:13.199" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="icing" symbol="5aisiN" explain="n.糖霜；糖衣" sound="nj_07a_10.mp3" from="  5:13.199" to="  5:14.377" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="thirdly" symbol="5WE:dli" explain="adv.第三" sound="nj_07a_10.mp3" from="  5:14.444" to="  5:15.690" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="beat" symbol="bi:t" explain="v.（用叉等）快速搅拌；打" sound="nj_07a_10.mp3" from="  5:15.555" to="  5:16.767" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="add ... to ..." symbol="Ad ... tE ..." explain="加上" sound="nj_07a_10.mp3" from="  5:17.003" to="  5:18.754" allWordsNum="2"/>
+			<record rec_id="12" rec_time="3" name="stir" symbol="stE:(r)" explain="v.搅动；搅和；搅拌" sound="nj_07a_10.mp3" from="  5:19.259" to="  5:20.672" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="spring roll" symbol="7spriN 5rEul" explain="n.春卷" sound="nj_07a_10.mp3" from="  5:20.639" to="  5:22.221" allWordsNum="2"/>
+			<record rec_id="14" rec_time="3" name="soya milk" symbol="5sCia milk" explain="n.豆浆；豆奶" sound="nj_07a_10.mp3" from="  5:22.187" to="  5:23.871" allWordsNum="2"/>
+			<record rec_id="15" rec_time="3" name="battery" symbol="5bAtEri" explain="n.电池" sound="nj_07a_10.mp3" from="  5:23.904" to="  5:25.049" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="decorate" symbol="5dekEreit" explain="v.装饰；装潢" sound="nj_07a_10.mp3" from="  5:25.150" to="  5:26.564" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="balloon" symbol="bE5lu:n" explain="n.气球" sound="nj_07a_10.mp3" from="  5:26.699" to="  5:28.011" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="fork" symbol="fR:k" explain="n.叉子" sound="nj_07a_10.mp3" from="  5:27.877" to="  5:29.122" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="charcoal" symbol="5tFB:kEul" explain="n.炭；木炭" sound="nj_07a_10.mp3" from="  5:29.055" to="  5:30.570" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="everybody" symbol="5evribCdi" explain="pron.每人；人人" sound="nj_07a_10.mp3" from="  5:30.435" to="  5:31.950" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+  <texts>
+		<part part_index="0" name="Writing" page="80">
+			<record rec_id="0" rec_time="5" sound="nj_07a_10.mp3">
+			<subrecord rec_id="1" rec_time="3" name="Dear Lucy." sound="nj_07a_10.mp3" from="  4:15.694" to="  4:17.343" allWordsNum="2"/>	
+			</record>
+			<record rec_id="1" rec_time="25" sound="nj_07a_10.mp3">
+			<subrecord rec_id="2" rec_time="4" name="Last Saturday was Ben's birthday." sound="nj_07a_10.mp3" from="  4:17.848" to="  4:20.474" allWordsNum="5"/>
+			<subrecord rec_id="3" rec_time="5" name="We had a birthday party for him." sound="nj_07a_10.mp3" from="  4:20.676" to="  4:23.370" allWordsNum="7"/>
+			<subrecord rec_id="4" rec_time="10" name="Our friends Peter, Tom and Alice came to my flat at three o'clock in the afternoon." sound="nj_07a_10.mp3" from="  4:23.605" to="  4:29.766" allWordsNum="16"/>
+			<subrecord rec_id="5" rec_time="5" name="We had a lot of delicious food and drink." sound="nj_07a_10.mp3" from="  4:30.002" to="  4:33.031" allWordsNum="9"/>
+			</record>
+			<record rec_id="2" rec_time="25" sound="nj_07a_10.mp3">
+			<subrecord rec_id="6" rec_time="4" name="First, we watched some cartoons." sound="nj_07a_10.mp3" from="  4:33.536" to="  4:36.230" allWordsNum="5"/>
+			<subrecord rec_id="7" rec_time="5" name="Next, we sang a birthday song to Ben and gave him presents." sound="nj_07a_10.mp3" from="  4:36.364" to="  4:40.101" allWordsNum="12"/>
+			<subrecord rec_id="8" rec_time="4" name="My present to Ben was a chocolate cake." sound="nj_07a_10.mp3" from="  4:40.707" to="  4:43.266" allWordsNum="8"/>
+			<subrecord rec_id="9" rec_time="4" name="Mum taught me to make it." sound="nj_07a_10.mp3" from="  4:43.535" to="  4:45.622" allWordsNum="6"/>
+			<subrecord rec_id="10" rec_time="4" name="After that, we had a barbecue." sound="nj_07a_10.mp3" from="  4:46.127" to="  4:48.181" allWordsNum="6"/>
+			</record>
+			<record rec_id="3" rec_time="10" sound="nj_07a_10.mp3">
+			<subrecord rec_id="11" rec_time="5" name="Everybody enjoyed the party very much." sound="nj_07a_10.mp3" from="  4:48.248" to="  4:51.110" allWordsNum="6"/>
+			<subrecord rec_id="12" rec_time="5" name="Here are some photos of the party." sound="nj_07a_10.mp3" from="  4:51.110" to="  4:53.500" allWordsNum="7"/>
+			</record>
+			<record rec_id="4" rec_time="5" sound="nj_07a_10.mp3">
+			<subrecord rec_id="13" rec_time="2" name="Write soon." sound="nj_07a_10.mp3" from="  4:53.668" to="  4:55.116" allWordsNum="2"/>
+			</record>
+			<record rec_id="5" rec_time="3" sound="nj_07a_10.mp3">
+			<subrecord rec_id="14" rec_time="2" name="Yours" sound="nj_07a_10.mp3" from=" 4:55.271" to=" 4:56.133" allWordsNum="1"/>
+			</record>
+			<record rec_id="6" rec_time="3" sound="nj_07a_10.mp3">
+			<subrecord rec_id="15" rec_time="2" name="Kitty" sound="nj_07a_10.mp3" from=" 4:56.271" to="4:56.878" allWordsNum="1"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="Read" page="75">
+			<record rec_id="0" rec_time="5" name="Hello. This is Kitty. May I speak to Peter, please?" sound="nj_07a_10.mp3" from="  0:15.629" to="  0:20.017" allWordsNum="10"/>
+			<record rec_id="1" rec_time="5" name="Hello, Kitty. This is Peter speaking." sound="nj_07a_10.mp3" from="  0:20.017" to="  0:22.882" allWordsNum="6"/>
+			<record rec_id="2" rec_time="10" name="It's Ben's birthday on Saturday. I'm planning a party. Are you free on Saturday at three o'clock in the afternoon?" sound="nj_07a_10.mp3" from="  0:23.196" to="  0:30.225" allWordsNum="20"/>
+			<record rec_id="3" rec_time="5" name="Yes, I am. What are we going to do at the party?" sound="nj_07a_10.mp3" from="  0:30.270" to="  0:34.300" allWordsNum="12"/>
+			<record rec_id="4" rec_time="10" name="We're going to have a lot of delicious food and drink. We're going to watch some cartoons. We're going to have a barbecue in the evening." sound="nj_07a_10.mp3" from="  0:34.434" to="  0:42.717" allWordsNum="20"/>
+			<record rec_id="5" rec_time="5" name="It sounds great! I'm looking forward to it." sound="nj_07a_10.mp3" from="  0:42.807" to="  0:46.075" allWordsNum="8"/>
+			<record rec_id="6" rec_time="5" name="I'll see you on Saturday afternoon at three o'clock at my flat." sound="nj_07a_10.mp3" from="  0:46.344" to="  0:50.060" allWordsNum="12"/>
+			<record rec_id="7" rec_time="5" name="Yes, thanks. I'll see you then." sound="nj_07a_10.mp3" from="  0:49.971" to="  0:53.150" allWordsNum="6"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="1" name="Read" page="75">
+			<record rec_id="0" rec_time="5" name="Hello, Jill. This is Kitty. How are you?" sound="nj_07a_10.mp3" from="  0:56.015" to="  1:00.000" allWordsNum="8"/>
+			<record rec_id="1" rec_time="3" name="Hello, Kitty. I'm fine, thanks." sound="nj_07a_10.mp3" from="  1:01.120" to="  1:03.851" allWordsNum="5"/>
+			<record rec_id="2" rec_time="10" name="This Saturday is Ben's birthday. I'm planning a party. Are you free on Saturday at three o'clock in the afternoon?" sound="nj_07a_10.mp3" from="  1:04.478" to="1:12.598" allWordsNum="20"/>
+			<record rec_id="3" rec_time="5" name="I'm sorry. I've got something to do on Saturday." sound="nj_07a_10.mp3" from="  1:13.225" to="  1:17.030" allWordsNum="9"/>
+			<record rec_id="4" rec_time="3" name="Oh, what a pity!" sound="nj_07a_10.mp3" from="  1:17.299" to="  1:19.583" allWordsNum="4"/>
+			<record rec_id="5" rec_time="5" name="Have a great party. Say  Happy Birthday  to Ben for me, please." sound="nj_07a_10.mp3" from="  1:19.941" to="  1:24.060" allWordsNum="12"/>
+			<record rec_id="6" rec_time="2" name="Yes, I will." sound="nj_07a_10.mp3" from="  1:24.418" to="  1:26.075" allWordsNum="3"/>
+			<record rec_id="7" rec_time="2" name="Thank you. Bye." sound="nj_07a_10.mp3" from="  1:26.075" to="  1:27.955" allWordsNum="3"/>
+			<record rec_id="8" rec_time="1" name="Bye." sound="nj_07a_10.mp3" from="  1:28.045" to="  1:28.985" allWordsNum="1"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="2" name="Look and read" page="76">
+			<record rec_id="0" rec_time="8" name="Mum, I'd like to bake a chocolate cake for Ben. What ingredients do we need?" sound="nj_07a_10.mp3" from="  1:34.659" to="  1:41.822" allWordsNum="15"/>
+			<record rec_id="1" rec_time="20" name="To make a chocolate cake, we need some eggs, some sugar, some butter, some flour and some chocolate powder. To make the icing, we need some chocolate powder, some butter, some icing sugar and some milk. We have to go to the supermarket to buy these things." sound="nj_07a_10.mp3" from="  1:41.927" to="  2:01.204" allWordsNum="47"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="3" name="Look, listen and act" page="78">
+			<record rec_id="0" rec_time="7" name="Ben's birthday party is on Saturday afternoon. What food shall we have at the party?" sound="nj_07a_10.mp3" from="  2:15.072" to="  2:21.300" allWordsNum="15"/>
+			<record rec_id="1" rec_time="5" name="Let's have some chicken wings and spring rolls." sound="nj_07a_10.mp3" from="  2:22.411" to="  2:26.518" allWordsNum="8"/>
+			<record rec_id="2" rec_time="7" name="Yes, that's a good idea. Let's have some chicken wings and spring rolls." sound="nj_07a_10.mp3" from="  2:26.552" to="  2:32.578" allWordsNum="13"/>
+			<record rec_id="3" rec_time="5" name="Shall we have some crisps?" sound="nj_07a_10.mp3" from="  2:32.948" to="  2:35.338" allWordsNum="5"/>
+			<record rec_id="4" rec_time="6" name="No, I don't like crisps very much. I'd rather have some nuts." sound="nj_07a_10.mp3" from="  2:35.473" to="  2:41.129" allWordsNum="12"/>
+			<record rec_id="5" rec_time="5" name="What drink shall we have at the party?" sound="nj_07a_10.mp3" from="  2:43.788" to="  2:46.818" allWordsNum="8"/>
+			<record rec_id="6" rec_time="5" name="Shall we have some orange juice?" sound="nj_07a_10.mp3" from="  2:47.491" to="  2:49.848" allWordsNum="6"/>
+			<record rec_id="7" rec_time="5" name="Yes, that's a good idea. Let's have some orange juice." sound="nj_07a_10.mp3" from="  2:49.983" to="  2:54.696" allWordsNum="10"/>
+			<record rec_id="8" rec_time="6" name="No, I don't like orange juice very much. I'd rather have some soya milk." sound="nj_07a_10.mp3" from="  2:54.931" to="  3:00.755" allWordsNum="14"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="4" name="Listen and say" page="79">
+			<record rec_id="0" rec_time="5" name="I'd like to take some photographs. What do I need to buy?" sound="nj_07a_10.mp3" from="  3:15.972" to="  3:20.550" allWordsNum="12"/>
+			<record rec_id="1" rec_time="8" name="We don't have any batteries at home, so you need to buy some batteries. You need to buy them at the supermarket. " sound="nj_07a_10.mp3" from="  3:20.921" to="  3:28.260" allWordsNum="22"/>
+			<record rec_id="2" rec_time="5" name="I'd like to decorate the flat for the party." sound="nj_07a_10.mp3" from="  3:28.967" to="  3:32.603" allWordsNum="9"/>
+			<record rec_id="3" rec_time="10" name="You need to buy some balloons and flowers. We have some balloons at home, but we don't have any flowers." sound="nj_07a_10.mp3" from="  3:33.276" to="  3:40.615" allWordsNum="20"/>
+			<record rec_id="4" rec_time="5" name="I'd like to put some candles on the chocolate cake." sound="nj_07a_10.mp3" from="  3:43.072" to="  3:45.968" allWordsNum="10"/>
+			<record rec_id="5" rec_time="5" name="You need to buy some candles and matches." sound="nj_07a_10.mp3" from="  3:46.843" to="  3:50.007" allWordsNum="8"/>
+			<record rec_id="6" rec_time="5" name="I'd also like to have a barbecue." sound="nj_07a_10.mp3" from="  3:50.613" to="  3:53.542" allWordsNum="7"/>
+			<record rec_id="7" rec_time="8" name="We don't have any forks or charcoal, so you need to buy some forks and charcoal." sound="nj_07a_10.mp3" from="  3:53.980" to="  4:00.006" allWordsNum="16"/>
+			<exercise type="5" index="0"/>
+		</part>
+	</dialogs>
+</package>
+ 

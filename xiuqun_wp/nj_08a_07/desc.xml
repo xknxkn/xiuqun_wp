@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_08a</book_id>
+	<unit_id>nj_08a_07</unit_id>
+	<version>3</version>
+	<unit>unit7</unit>
+	<title>Nobody wins</title>
+	<words>
+		<part part_index="0" page="124">
+			<record rec_id="0" rec_time="3" name="per" symbol="pE(r)" explain="prep.每；每一" sound="nj_08a_07.mp3" from="  8:37.049" to="  8:37.827" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="escape" symbol="i5skeip" explain="v.逃走；逃跑" sound="nj_08a_07.mp3" from="  8:39.283" to="  8:40.227" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="escape from" symbol="i5skeip frCm" explain="（从监禁或管制中）逃跑；逃走；逃出" sound="nj_08a_07.mp3" from="  8:41.625" to="  8:42.775" allWordsNum="1"/>
+		  <record rec_id="3" rec_time="3" name="kill" symbol="kil" explain="v.杀死；导致死亡" sound="nj_08a_07.mp3" from="  8:44.199" to="  8:44.993" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="lie" symbol="lai" explain="v.躺；平卧" sound="nj_08a_07.mp3" from="  8:46.474" to="  8:47.061" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="fall asleep" symbol="fR:l E5sli:p" explain="入睡" sound="nj_08a_07.mp3" from="  8:48.601" to="  8:49.842" allWordsNum="2"/>
+			<record rec_id="6" rec_time="3" name="snore" symbol="snR:(r)" explain="v.打鼾；打呼噜" sound="nj_08a_07.mp3" from="  8:51.356" to="  8:52.357" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="laser" symbol="5leizE(r)" explain="n.激光（器）" sound="nj_08a_07.mp3" from="  8:53.441" to="  8:54.343" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="torch" symbol="tR:tF" explain="n.手电筒" sound="nj_08a_07.mp3" from="  8:55.493" to="  8:56.470" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="case" symbol="keis" explain="n.容器；盒；套" sound="nj_08a_07.mp3" from="  8:57.711" to="  8:58.629" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="attract" symbol="E5trAkt" explain="v.吸引" sound="nj_08a_07.mp3" from="  8:59.746" to="  9:00.623" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="interrupt" symbol="7intE5rQpt" explain="v.插嘴；打扰；打岔" sound="nj_08a_07.mp3" from="  9:01.989" to="  9:03.006" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="moment" symbol="5mEumEnt" explain="n.片刻；瞬间" sound="nj_08a_07.mp3" from="  9:04.264" to="  9:05.108" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="aim" symbol="eim" explain="v.瞄准；对准" sound="nj_08a_07.mp3" from="  9:06.341" to="  9:07.193" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="aim at" symbol="eim At" explain="瞄准；对准" sound="nj_08a_07.mp3" from="  9:08.377" to="  9:09.320" allWordsNum="2"/>
+			<record rec_id="15" rec_time="3" name="beam" symbol="bi:m" explain="n.光线；波束" sound="nj_08a_07.mp3" from="  9:10.636" to="  9:11.455" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="hit" symbol="hit" explain="v.击中；命中" sound="nj_08a_07.mp3" from="  9:12.456" to="  9:13.126" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="attack" symbol="E5tAk" explain="v.袭击；攻击" sound="nj_08a_07.mp3" from="  9:14.309" to="  9:15.054" allWordsNum="1"/>
+		  <record rec_id="18" rec_time="3" name="damage" symbol="5dAmidV" explain="v.损害；毁坏；破坏" sound="nj_08a_07.mp3" from="  9:16.527" to="  9:17.363" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="finished" symbol="5finiFt" explain="adj.完蛋；失败；垮台" sound="nj_08a_07.mp3" from="  9:18.703" to="  9:19.547" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="make sure" symbol="meik FuE" explain="确保；设法保证" sound="nj_08a_07.mp3" from="  9:20.706" to="  9:21.765" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="whisper" symbol="5wispE(r)" explain="v.耳语；低语；小声说" sound="nj_08a_07.mp3" from="  9:23.163" to="  9:23.891" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="be done for" symbol="bi: dQn fR:" explain="处境艰难；注定完蛋；肯定不行" sound="nj_08a_07.mp3" from="  9:25.348" to="  9:26.291" allWordsNum="3"/>
+			<record rec_id="23" rec_time="3" name="panic" symbol="5pAnik" explain="v.（使）惊慌失措" sound="nj_08a_07.mp3" from="  9:27.888" to="  9:28.533" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="freedom" symbol="5fri:dEm" explain="n.自由" sound="nj_08a_07.mp3" from="  9:29.816" to="  9:30.552" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="figure" symbol="5figE(r)" explain="n.（远处人的）轮廓；（隐约可见的）人影" sound="nj_08a_07.mp3" from="  9:31.736" to="  9:32.571" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="silently" symbol="5sailEntli" explain="adv.悄悄地；静静地" sound="nj_08a_07.mp3" from="  9:33.755" to="  9:34.698" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="search" symbol="sE:tF" explain="v.搜查；查找" sound="nj_08a_07.mp3" from="  9:36.005" to="  9:36.948" allWordsNum="1"/>
+			<record rec_id="28" rec_time="3" name="crash" symbol="krAF" explain="v.猛撞；碰撞" sound="nj_08a_07.mp3" from="  9:38.090" to="  9:38.992" allWordsNum="1"/>
+			<record rec_id="29" rec_time="3" name="base" symbol="beis" explain="n.基地；总部" sound="nj_08a_07.mp3" from="  9:40.432" to="  9:41.251" allWordsNum="1"/>
+			<record rec_id="30" rec_time="3" name="petrol" symbol="5petrEl" explain="n.汽油" sound="nj_08a_07.mp3" from="  9:42.476" to="  9:43.187" allWordsNum="1"/>
+			<record rec_id="31" rec_time="3" name="decide" symbol="di5said" explain="v.决定" sound="nj_08a_07.mp3" from="  9:44.464" to="  9:45.448" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Escaping from Gork" page="111">
+			<record rec_id="0" rec_time="25" sound="nj_08a_07.mp3">
+				<subrecord rec_id="1" rec_time="8" name="After his supper, Gork lay down on his bed and fell asleep almost immediately. " sound="nj_08a_07.mp3" from="  0:24.013" to="  0:30.396" allWordsNum="14"/>
+				<subrecord rec_id="2" rec_time="3" name="He started to snore. " sound="nj_08a_07.mp3" from="  0:30.611" to="  0:32.486" allWordsNum="4"/>
+				<subrecord rec_id="3" rec_time="3" name="The noise shook the cave. " sound="nj_08a_07.mp3" from="  0:32.690" to="  0:34.912" allWordsNum="5"/>
+			</record>
+			<record rec_id="1" rec_time="25" sound="nj_08a_07.mp3">
+			<subrecord rec_id="4" rec_time="3" name="'Listen, everyone,' I said. " sound="nj_08a_07.mp3" from="  0:35.442" to="  0:37.828" allWordsNum="4"/>
+			<subrecord rec_id="5" rec_time="3" name="'Here's my plan.' " sound="nj_08a_07.mp3" from="  0:38.072" to="  0:39.703" allWordsNum="3"/>
+			</record>
+			<record rec_id="2" rec_time="30" sound="nj_08a_07.mp3">
+				<subrecord rec_id="6" rec_time="8" name="From my pocket, I took my small, powerful laser torch. " sound="nj_08a_07.mp3" from="  0:40.009" to="  0:45.106" allWordsNum="10"/>
+				<subrecord rec_id="7" rec_time="8" name="Because it was in a plastic case, the magnet could not attract it. " sound="nj_08a_07.mp3" from="  0:45.351" to="  0:50.040" allWordsNum="13"/>
+				<subrecord rec_id="8" rec_time="6" name="'We'll use this to escape from the cage,' I said. " sound="nj_08a_07.mp3" from="  0:50.366" to="  0:53.934" allWordsNum="10"/>
+				<subrecord rec_id="9" rec_time="6" name="'First, I'll melt the bars and then ...' " sound="nj_08a_07.mp3" from="  0:54.199" to="  0:57.338" allWordsNum="7"/>
+			</record>
+			<record rec_id="3" rec_time="25" sound="nj_08a_07.mp3">
+				<subrecord rec_id="10" rec_time="3" name="Peters interrupted me. " sound="nj_08a_07.mp3" from="  0:57.705" to="  0:59.316" allWordsNum="3"/>
+				<subrecord rec_id="11" rec_time="3" name="'I know, Captain. " sound="nj_08a_07.mp3" from="  0:59.377" to="  1:00.661" allWordsNum="3"/>
+				<subrecord rec_id="12" rec_time="5" name="Then you'll use the torch to kill Gork.' " sound="nj_08a_07.mp3" from="  1:00.825" to="  1:03.903" allWordsNum="8"/>
+			</record>
+			<record rec_id="4" rec_time="25" sound="nj_08a_07.mp3">
+				<subrecord rec_id="13" rec_time="3" name="'use your brain,' I said. " sound="nj_08a_07.mp3" from="  1:04.311" to="  1:06.778" allWordsNum="5"/>
+				<subrecord rec_id="14" rec_time="6" name="'If we kill Gork, how will we escape?" sound="nj_08a_07.mp3" from="  1:06.900" to="  1:10.101" allWordsNum="8"/> 
+				<subrecord rec_id="15" rec_time="4" name="We're too weak to open the door. " sound="nj_08a_07.mp3" from="  1:10.162" to="  1:12.506" allWordsNum="7"/>
+				<subrecord rec_id="16" rec_time="4" name="Here's what we'll do! We'll ...' " sound="nj_08a_07.mp3" from="  1:12.894" to="  1:15.463" allWordsNum="5"/>
+			</record>
+			<record rec_id="5" rec_time="35" sound="nj_08a_07.mp3">
+				<subrecord rec_id="17" rec_time="6" name="Moments later, we were all out of the cage. " sound="nj_08a_07.mp3" from="  1:16.217" to="  1:19.907" allWordsNum="9"/>
+				<subrecord rec_id="18" rec_time="8" name="I went over to the bed, and stood beside Gork's head. " sound="nj_08a_07.mp3" from="  1:19.948" to="  1:24.005" allWordsNum="11"/> 
+				<subrecord rec_id="19" rec_time="6" name="I said loudly, 'Gork, this is Nobody.' " sound="nj_08a_07.mp3" from="  1:24.209" to="  1:28.205" allWordsNum="7"/>
+				<subrecord rec_id="20" rec_time="3" name="Gork woke up. " sound="nj_08a_07.mp3" from="  1:28.510" to="  1:29.938" allWordsNum="3"/>
+				<subrecord rec_id="21" rec_time="6" name="I aimed the torch at his eye and pressed the button. " sound="nj_08a_07.mp3" from="  1:30.264" to="  1:33.954" allWordsNum="11"/>
+			  <subrecord rec_id="22" rec_time="4" name="The laser beam hit Gork in the eye. " sound="nj_08a_07.mp3" from="  1:34.178" to="  1:37.032" allWordsNum="8"/>
+			</record>
+			<record rec_id="6" rec_time="25" sound="nj_08a_07.mp3">
+				<subrecord rec_id="23" rec_time="8" name="Gork roared, 'I can't see! My eye!'" sound="nj_08a_07.mp3" from="  1:37.440" to="  1:42.007" allWordsNum="7"/>
+				<subrecord rec_id="24" rec_time="6" name="The noise brought the kangaroos running into the room. " sound="nj_08a_07.mp3" from="  1:42.292" to="  1:45.676" allWordsNum="9"/>
+			</record>
+			<record rec_id="7" rec_time="25" sound="nj_08a_07.mp3">
+				<subrecord rec_id="25" rec_time="4" name="'What's wrong, Gork?' they shouted. " sound="nj_08a_07.mp3" from="  1:46.105" to="  1:48.408" allWordsNum="5"/>
+			</record>
+			<record rec_id="8" rec_time="25" sound="nj_08a_07.mp3">
+				<subrecord rec_id="26" rec_time="4" name="Gork shouted back, 'It's Nobody. " sound="nj_08a_07.mp3" from="  1:48.775" to="  1:51.793" allWordsNum="5"/>
+				<subrecord rec_id="27" rec_time="3" name="Nobody attacked me. " sound="nj_08a_07.mp3" from="  1:51.793" to="1:53.628" allWordsNum="3"/>
+				<subrecord rec_id="28" rec_time="3" name="Nobody damaged my eye.' " sound="nj_08a_07.mp3" from="  1:53.689" to="  1:56.074" allWordsNum="4"/>
+			</record>
+			<record rec_id="9" rec_time="25" sound="nj_08a_07.mp3">
+				<subrecord rec_id="29" rec_time="8" name="The kangaroos laughed and said, 'Nobody attacked him. " sound="nj_08a_07.mp3" from="  1:56.278" to="  2:00.906" allWordsNum="8"/>
+				<subrecord rec_id="30" rec_time="4" name="Gork's having a bad dream. " sound="nj_08a_07.mp3" from="  2:00.987" to="  2:03.332" allWordsNum="5"/>				
+				<subrecord rec_id="31" rec_time="3" name="Let's go back to bed. " sound="nj_08a_07.mp3" from="  2:03.291" to="  2:04.800" allWordsNum="5"/>
+				<subrecord rec_id="32" rec_time="3" name="Good night, Gork.' " sound="nj_08a_07.mp3" from="  2:04.820" to="  2:06.064" allWordsNum="3"/>
+			</record>
+			<record rec_id="10" rec_time="25" sound="nj_08a_07.mp3">
+				<subrecord rec_id="33" rec_time="6" name="My crew and I quickly ran among the kangaroos. " sound="nj_08a_07.mp3" from="  2:08.734" to="  2:12.098" allWordsNum="9"/>
+				<subrecord rec_id="34" rec_time="8" name="Gork said, 'Nobody, I know you're hiding among my kangaroos. " sound="nj_08a_07.mp3" from="  2:12.527" to="  2:17.827" allWordsNum="10"/>
+				<subrecord rec_id="35" rec_time="6" name="I'll get you. You're finished, all of you.' " sound="nj_08a_07.mp3" from="  2:17.827" to="  2:20.906" allWordsNum="8"/>
+			</record>
+			<record rec_id="11" rec_time="25" sound="nj_08a_07.mp3">
+				<subrecord rec_id="36" rec_time="8" name="He opened the cave door a little and told his kangaroos to go out one by one. " sound="nj_08a_07.mp3" from="  2:21.232" to="  2:26.920" allWordsNum="17"/>
+				<subrecord rec_id="37" rec_time="10" name="As they hopped through the door, he felt their backs with his hands to make sure we were not riding on them. " sound="nj_08a_07.mp3" from="  2:27.205" to="  2:33.994" allWordsNum="22"/>
+			</record>
+			<record rec_id="12" rec_time="25" sound="nj_08a_07.mp3">
+				<subrecord rec_id="38" rec_time="5" name="'What do we do now?' Peters whispered. " sound="nj_08a_07.mp3" from="  2:34.586" to="  2:37.440" allWordsNum="7"/>
+				<subrecord rec_id="39" rec_time="5" name="'We can't get out on the kangaroos. " sound="nj_08a_07.mp3" from="  2:37.562" to="  2:39.968" allWordsNum="7"/>
+				<subrecord rec_id="40" rec_time="3" name="We're done for.' " sound="nj_08a_07.mp3" from="  2:40.029" to="  2:41.313" allWordsNum="3"/>
+			</record>
+			<record rec_id="13" rec_time="30" sound="nj_08a_07.mp3">
+				<subrecord rec_id="41" rec_time="3" name="'Don't panic, Peters,' I said. " sound="nj_08a_07.mp3" from="  2:41.864" to="  2:44.208" allWordsNum="5"/>
+				<subrecord rec_id="42" rec_time="8" name="'We can't get out on the kangaroos but we can get out in them. " sound="nj_08a_07.mp3" from="  2:44.514" to="  2:49.224" allWordsNum="14"/>	
+				<subrecord rec_id="43" rec_time="5" name="Here, get inside this one.' " sound="nj_08a_07.mp3" from="  2:49.448" to="  2:51.752" allWordsNum="5"/>
+				<subrecord rec_id="44" rec_time="6" name="Peters climbed into the giant kangaroo's pocket. " sound="nj_08a_07.mp3" from="  2:52.180" to="  2:55.523" allWordsNum="7"/>
+				<subrecord rec_id="45" rec_time="6" name="A few moments later, he escaped through the door to freedom. " sound="nj_08a_07.mp3" from="  2:55.748" to="  2:59.621" allWordsNum="11"/>			
+			</record>
+      <record rec_id="14" rec_time="25" sound="nj_08a_07.mp3">
+				<subrecord rec_id="46" rec_time="14" name="'That's how we all got free,' said Captain King, 'and back to our spaceship and, finally, back to the safety of the Earth.' " sound="nj_08a_07.mp3" from="  3:00.783" to="  3:08.530" allWordsNum="23"/>
+			</record>
+      <record rec_id="15" rec_time="25" sound="nj_08a_07.mp3">
+				<subrecord rec_id="47" rec_time="5" name="'What happened to Gork?' asked someone. " sound="nj_08a_07.mp3" from="  3:09.285" to="  3:12.057" allWordsNum="6"/>
+			</record>
+      <record rec_id="16" rec_time="25" sound="nj_08a_07.mp3">
+				<subrecord rec_id="48" rec_time="5" name="'Gork? I don't know. " sound="nj_08a_07.mp3" from="  3:12.404" to="  3:14.810" allWordsNum="4"/>
+				<subrecord rec_id="49" rec_time="6" name="Maybe he's still in his cave——looking for Nobody.' " sound="nj_08a_07.mp3" from="  3:14.993" to="  3:18.377" allWordsNum="9"/>
+			</record>
+			<record rec_id="17" rec_time="25" sound="nj_08a_07.mp3">
+			<subrecord rec_id="50" rec_time="10" name="Just then, a huge figure was moving silently towards the captain's house ... " sound="nj_08a_07.mp3" from="  3:19.274" to="  3:24.697" allWordsNum="13"/>
+			</record>
+			<exercise type="4" index="0"/>
+			</part>
+	</texts>
+</package>

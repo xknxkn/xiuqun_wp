@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_08a</book_id>
+	<unit_id>nj_08a_05</unit_id>
+	<version>3</version>
+	<unit>unit5</unit>
+	<title>Encyclopaedias</title>
+	<words>
+		<part part_index="0" page="87">
+			<record rec_id="0" rec_time="3" name="Africa" symbol="5AfrikE" explain="n.非洲" sound="nj_08a_05.mp3" from="  8:32.411" to="  8:33.538" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="Europe" symbol="5juErEp" explain="n.欧洲" sound="nj_08a_05.mp3" from="  8:34.819" to="  8:35.761" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="fierce" symbol="fiEs" explain="adj.凶猛的；凶狠的" sound="nj_08a_05.mp3" from="  8:36.981" to="  8:38.000" allWordsNum="1"/>
+		  <record rec_id="3" rec_time="3" name="though" symbol="TEu" explain="conj.虽然；尽管；即使" sound="nj_08a_05.mp3" from="  8:39.127" to="  8:40.053" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="look up" symbol="luk Qp" explain="（在词典或参考书中）查阅" sound="nj_08a_05.mp3" from="  8:41.164" to="  8:42.261" allWordsNum="2"/>
+			<record rec_id="5" rec_time="3" name="encyclopaedia" symbol="in7saiklE5pi:diE" explain="n.百科全书" sound="nj_08a_05.mp3" from="  8:43.758" to="  8:45.147" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="dinosaur" symbol="5dainEsR:(r)" explain="n.恐龙" sound="nj_08a_05.mp3" from="  8:46.645" to="  8:47.787" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="exist" symbol="ig5zist" explain="v.存在；实际上有" sound="nj_08a_05.mp3" from="  8:48.976" to="  8:50.211" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="even" symbol="5i:vn" explain="adv.甚至" sound="nj_08a_05.mp3" from="  8:51.307" to="  8:52.218" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="harmless" symbol="5hB:mlEs" explain="adj.无害的；不会导致损伤的" sound="nj_08a_05.mp3" from="  8:53.546" to="  8:54.642" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="harmful" symbol="5hB:mfl" explain="adj.有害的；导致损害的" sound="nj_08a_05.mp3" from="  8:56.093" to="  8:57.050" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="die out" symbol="dai aut" explain="灭绝；消失" sound="nj_08a_05.mp3" from="  8:58.285" to="  8:59.428" allWordsNum="2"/>
+			<record rec_id="12" rec_time="3" name="nobody" symbol="5nEubEdi" explain="pron.没有人" sound="nj_08a_05.mp3" from="  9:00.555" to="  9:01.450" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="know about" symbol="nEu E5baut" explain="知道；知悉；了解" sound="nj_08a_05.mp3" from="  9:02.561" to="  9:03.750" allWordsNum="2"/>
+			<record rec_id="14" rec_time="3" name="skeleton" symbol="5skelitn" explain="n.骨骼；骨架；骨骼标本" sound="nj_08a_05.mp3" from="  9:05.032" to="  9:05.989" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="footprint" symbol="5futprint" explain="n.脚印；足迹" sound="nj_08a_05.mp3" from="  9:07.069" to="  9:07.996" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="leave ... behind" symbol="li:v bi5haind" explain="遗留" sound="nj_08a_05.mp3" from="  9:08.937" to="  9:10.512" allWordsNum="2"/>
+			<record rec_id="17" rec_time="3" name="thinker" symbol="5WiNkE(r)" explain="n.思想家" sound="nj_08a_05.mp3" from="  9:11.901" to="  9:12.781" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="Greece" symbol="gri:s" explain="n.希腊" sound="nj_08a_05.mp3" from="  9:13.785" to="  9:14.850" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="as ... as possible" symbol="Az Az 5pCsib(E)l" explain="尽可能地" sound="nj_08a_05.mp3" from="  9:15.730" to="  9:17.891" allWordsNum="3"/>
+			<record rec_id="20" rec_time="3" name="jar" symbol="dVB:(r)" explain="n.缸；坛子；罐子" sound="nj_08a_05.mp3" from="  9:20.084" to="  9:20.933" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="amusement park" symbol="E5mju:zmEnt pB:k" explain="游乐场；娱乐园" sound="nj_08a_05.mp3" from="  9:21.921" to="  9:23.326" allWordsNum="2"/>
+			<record rec_id="22" rec_time="3" name="create" symbol="kri5eit" explain="v.创造；创建" sound="nj_08a_05.mp3" from="  9:24.869" to="  9:25.904" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="character" symbol="5kArEktE(r)" explain="n.人物；角色" sound="nj_08a_05.mp3" from="  9:26.953" to="  9:28.034" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="mail" symbol="meil" explain="n.邮件；信件" sound="nj_08a_05.mp3" from="  9:29.068" to="  9:30.026" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="real" symbol="5ri:El" explain="adj.真实的；实际存在的" sound="nj_08a_05.mp3" from="  9:30.921" to="  9:31.878" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="while" symbol="wail" explain="conj.与......同时" sound="nj_08a_05.mp3" from="  9:32.666" to="  9:33.715" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="cause" symbol="kR:z" explain="v.使发生；引起；导致" sound="nj_08a_05.mp3" from="  9:34.534" to="  9:35.522" allWordsNum="1"/>
+			<record rec_id="28" rec_time="3" name="harm" symbol="hB:m" explain="n.伤害；损害" sound="nj_08a_05.mp3" from="  9:36.293" to="  9:37.312" allWordsNum="1"/>
+			<record rec_id="29" rec_time="3" name="believe" symbol="bi5li:v" explain="v.相信" sound="nj_08a_05.mp3" from="  9:38.084" to="  9:38.980" allWordsNum="1"/>
+			<record rec_id="30" rec_time="3" name="die of" symbol="dai Cv" explain="死于......" sound="nj_08a_05.mp3" from="  9:39.844" to="  9:40.925" allWordsNum="2"/>
+			<record rec_id="31" rec_time="3" name="disease" symbol="di5zi:z" explain="n.病；疾病" sound="nj_08a_05.mp3" from="  9:41.959" to="  9:42.963" allWordsNum="1"/>
+			<record rec_id="32" rec_time="3" name="government" symbol="5gQvEnmEnt" explain="n.政府；内阁" sound="nj_08a_05.mp3" from="  9:43.966" to="  9:45.016" allWordsNum="1"/>
+			<record rec_id="33" rec_time="3" name="repair" symbol="ri5pZE(r)" explain="v.修理；修补；修缮" sound="nj_08a_05.mp3" from="  9:45.910" to="  9:46.790" allWordsNum="1"/>
+			<record rec_id="34" rec_time="3" name="fee" symbol="fi:" explain="n.费用" sound="nj_08a_05.mp3" from="  9:47.670" to="  9:48.642" allWordsNum="1"/>
+			<record rec_id="35" rec_time="3" name="journey" symbol="5dVE:ni" explain="n.（尤指长途）旅行；行程" sound="nj_08a_05.mp3" from="  9:49.476" to="  9:50.371" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Look it up" page="75">
+			<record rec_id="0" rec_time="25" sound="nj_08a_05.mp3">
+			<subrecord rec_id="1" rec_time="5" name="May's father bought her an encyclopaedia. " sound="nj_08a_05.mp3" from="  0:17.013" to="  0:21.153" allWordsNum="6"/>
+			<subrecord rec_id="2" rec_time="5" name="Here are three articles she found in it. " sound="nj_08a_05.mp3" from="  0:21.468" to="  0:25.113" allWordsNum="8"/>
+			</record> 
+			<record rec_id="1" rec_time="25" sound="nj_08a_05.mp3">
+			<subrecord rec_id="3" rec_time="8" name="Dinosaurs lived on the Earth over sixty million years ago. This was a long time before people existed. " sound="nj_08a_05.mp3" from="  0:28.353" to="  0:36.273" allWordsNum="18"/>
+			<subrecord rec_id="4" rec_time="5" name="Dinosaurs lived everywhere. " sound="nj_08a_05.mp3" from="  0:36.768" to="  0:39.153" allWordsNum="3"/>
+			</record>
+			<record rec_id="2" rec_time="25" sound="nj_08a_05.mp3">
+			<subrecord rec_id="5" rec_time="5" name="Some were as small as chickens. " sound="nj_08a_05.mp3" from="  0:39.513" to="  0:41.988" allWordsNum="6"/>
+			<subrecord rec_id="6" rec_time="5" name="Others were as big as ten elephants. " sound="nj_08a_05.mp3" from="  0:42.078" to="  0:45.183" allWordsNum="7"/>
+			<subrecord rec_id="7" rec_time="5" name="Some dinosaurs even had wings and could fly. " sound="nj_08a_05.mp3" from="  0:45.273" to="  0:49.143" allWordsNum="8"/>
+			</record>
+			<record rec_id="3" rec_time="25" sound="nj_08a_05.mp3">
+			<subrecord rec_id="8" rec_time="5" name="Many dinosaurs were harmless. " sound="nj_08a_05.mp3" from="  0:49.998" to="  0:52.743" allWordsNum="4"/>
+			<subrecord rec_id="9" rec_time="5" name="They were as gentle as sheep and ate plants. " sound="nj_08a_05.mp3" from="  0:52.878" to="  0:56.163" allWordsNum="9"/>
+			<subrecord rec_id="10" rec_time="5" name="Others were harmful. " sound="nj_08a_05.mp3" from="  0:56.343" to="  0:58.413" allWordsNum="3"/>
+			<subrecord rec_id="11" rec_time="5" name="They were fiercer than tigers and ate meat. " sound="nj_08a_05.mp3" from="  0:58.503" to="  1:01.833" allWordsNum="8"/>
+			</record>
+			<record rec_id="4" rec_time="25" sound="nj_08a_05.mp3">
+			<subrecord rec_id="12" rec_time="5" name="Dinosaurs all died out suddenly. " sound="nj_08a_05.mp3" from="  1:02.868" to="  1:06.018" allWordsNum="5"/>
+			<subrecord rec_id="13" rec_time="5" name="Nobody knows why. " sound="nj_08a_05.mp3" from="  1:06.198" to="  1:08.133" allWordsNum="3"/>
+			<subrecord rec_id="14" rec_time="12" name="We know about the lives of dinosaurs from the skeletons, eggs and footprints they left behind. (See Earth History)" sound="nj_08a_05.mp3" from="  1:08.493" to="  1:18.888" allWordsNum="19"/>
+			</record>
+			<record rec_id="5" rec_time="25" sound="nj_08a_05.mp3">
+			<subrecord rec_id="15" rec_time="5" name="Diogenes was a famous thinker. " sound="nj_08a_05.mp3" from="  1:23.703" to="  1:26.493" allWordsNum="5"/>
+			<subrecord rec_id="16" rec_time="5" name="He lived in Greece about two thousand years ago. " sound="nj_08a_05.mp3" from="  1:26.943" to="  1:30.768" allWordsNum="9"/>
+			<subrecord rec_id="17" rec_time="6" name="He taught that the way to be happy was to own as few things as possible. " sound="nj_08a_05.mp3" from="  1:31.398" to="  1:37.068" allWordsNum="16"/>
+			</record>
+			<record rec_id="6" rec_time="30" sound="nj_08a_05.mp3">
+			<subrecord rec_id="18" rec_time="8" name="All he owned was a big jar that he lived in, a coat, a bag and a cup. " sound="nj_08a_05.mp3" from="  1:37.743" to="  1:44.808" allWordsNum="18"/>
+			<subrecord rec_id="19" rec_time="3" name="He was very happy. " sound="nj_08a_05.mp3" from="  1:45.033" to="  1:46.788" allWordsNum="4"/>
+			<subrecord rec_id="20" rec_time="15" name="One day, Diogenes saw a boy drinking water from his hands by a fountain, so he threw away his cup and became even happier. (See Greece)" sound="nj_08a_05.mp3" from="  1:47.508" to="  1:59.568" allWordsNum="26"/>
+			</record>
+			<record rec_id="7" rec_time="25" sound="nj_08a_05.mp3">
+			<subrecord rec_id="21" rec_time="5" name="Disneyland is a famous amusement park in the USA. " sound="nj_08a_05.mp3" from="  2:03.618" to="  2:08.298" allWordsNum="9"/>
+			<subrecord rec_id="22" rec_time="15" name="Disneyland was created by Walt Disney (1901-1966), who is famous for his cartoon characters: Mickey Mouse, Donald Duck, Goofy, Snow White and many others. " sound="nj_08a_05.mp3" from="  2:08.478" to="  2:23.283" allWordsNum="25"/>
+			</record>
+			<record rec_id="8" rec_time="30" sound="nj_08a_05.mp3">
+			<subrecord rec_id="23" rec_time="5" name="Disney was born in the USA. " sound="nj_08a_05.mp3" from="  2:23.733" to="  2:26.613" allWordsNum="6"/>
+			<subrecord rec_id="24" rec_time="8" name="After leaving school, he sold newspapers and delivered mail. " sound="nj_08a_05.mp3" from="  2:26.883" to="  2:31.428" allWordsNum="9"/>
+			<subrecord rec_id="25" rec_time="5" name="At the same time, he studied art at night. " sound="nj_08a_05.mp3" from="  2:31.653" to="  2:35.343" allWordsNum="9"/>
+			<subrecord rec_id="26" rec_time="8" name="Finally he got a job that he really liked——rawing cartoons for films. " sound="nj_08a_05.mp3" from="  2:35.838" to="  2:41.868" allWordsNum="13"/>
+			</record>
+			<record rec_id="9" rec_time="25" sound="nj_08a_05.mp3">
+			<subrecord rec_id="27" rec_time="6" name="Disney's most famous cartoon character, Mickey Mouse, was a real mouse. " sound="nj_08a_05.mp3" from="  2:42.543" to="  2:48.078" allWordsNum="11"/>
+			<subrecord rec_id="28" rec_time="6" name="It sometimes sat on Disney's desk while he was working. " sound="nj_08a_05.mp3" from="  2:48.303" to="  2:52.083" allWordsNum="10"/>
+			<subrecord rec_id="29" rec_time="5" name="Disney drew the mouse and put it in a cartoon. " sound="nj_08a_05.mp3" from="  2:52.713" to="  2:56.493" allWordsNum="10"/>
+			<subrecord rec_id="30" rec_time="8" name="Soon Mickey became a star and Disney became rich and famous. (See Cartoons)" sound="nj_08a_05.mp3" from="  2:56.448" to="  3:04.233" allWordsNum="13"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+	</texts>
+</package>
+ 

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_07b</book_id>
+	<unit_id>nj_07b_10</unit_id>
+	<version>8</version>
+	<unit>unit10</unit>
+	<title>Water Festival</title>
+	<words>
+		<part part_index="0" page="72">
+			<record rec_id="0" rec_time="3" name="iced" symbol="aist" explain="adj.冰镇的；加冰块的" sound="nj_07b_10.mp3" from="  4:40.586" to="  4:42.222" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="punch" symbol="pQntF" explain="n.潘趣酒；宾治酒" sound="nj_07b_10.mp3" from="  4:42.348" to="  4:44.047" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="ice cube" symbol="5ais kju:b" explain="n.小冰块" sound="nj_07b_10.mp3" from="  4:44.361" to="  4:46.312" allWordsNum="2"/>
+			<record rec_id="3" rec_time="3" name="form" symbol="fR:m" explain="n.形态；形式" sound="nj_07b_10.mp3" from="  4:46.500" to="  4:48.136" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="freeze" symbol="fri:z" explain="v.(使)冻结；结冰" sound="nj_07b_10.mp3" from="  4:48.325" to="  4:50.275" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="cool down" symbol="ku:l daun" explain="变凉；冷却下来" sound="nj_07b_10.mp3" from="  4:50.401" to="  4:52.037" allWordsNum="2"/>
+			<record rec_id="6" rec_time="3" name="turn into" symbol="tE:n 5intu:" explain="转变成；将......变成" sound="nj_07b_10.mp3" from="  4:52.414" to="  4:54.428" allWordsNum="2"/>
+			<record rec_id="7" rec_time="3" name="lid" symbol="lid" explain="n.(容器的)盖；盖子" sound="nj_07b_10.mp3" from="  4:54.616" to="  4:56.441" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="second" symbol="5sekEnd" explain="n.秒" sound="nj_07b_10.mp3" from="  4:57.007" to="  4:58.769" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="straw" symbol="strR:" explain="n.(喝饮料用的)吸管" sound="nj_07b_10.mp3" from="  4:59.272" to="  5:01.285" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="toothpick" symbol="5tu:Wpik" explain="n.牙签" sound="nj_07b_10.mp3" from="  5:01.285" to="  5:02.858" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="hole" symbol="hEul" explain="n.洞；孔；坑" sound="nj_07b_10.mp3" from="  5:03.550" to="  5:05.186" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="side" symbol="said" explain="n.边" sound="nj_07b_10.mp3" from="  5:05.752" to="  5:07.451" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="connect" symbol="kE5nekt" explain="v.(使)连接" sound="nj_07b_10.mp3" from="  5:07.954" to="  5:09.464" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="allow" symbol="E5lau" explain="v.允许；准许" sound="nj_07b_10.mp3" from="  5:09.653" to="  5:11.352" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="play with" symbol="plei wiT" explain="玩耍" sound="nj_07b_10.mp3" from="  5:11.792" to="  5:13.302" allWordsNum="2"/>
+			<record rec_id="16" rec_time="3" name="safety" symbol="5seifti" explain="n.安全" sound="nj_07b_10.mp3" from="  5:13.617" to="  5:15.504" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Read and make" page="69">
+			<record rec_id="0" rec_time="20" sound="nj_07b_10.mp3">
+				<subrecord rec_id="1" rec_time="15" name="All you need is a lunch box lid, a paper cup, a straw, some tape, some toothpicks and some pieces of coloured paper. " sound="nj_07b_10.mp3" from="  2:09.201" to="  2:21.866" allWordsNum="23"/>
+			</record>
+			<record rec_id="1" rec_time="20" sound="nj_07b_10.mp3">
+				<subrecord rec_id="2" rec_time="10" name="Make a hole at the bottom of the paper cup and on one side of the lunch box lid. " sound="nj_07b_10.mp3" from="  2:25.186" to="  2:31.750" allWordsNum="20"/>
+			</record>
+			<record rec_id="2" rec_time="20" sound="nj_07b_10.mp3">
+				<subrecord rec_id="3" rec_time="6" name="Connect the holes in the lid and the cup with the straw. " sound="nj_07b_10.mp3" from="  2:34.453" to="  2:38.932" allWordsNum="12"/>
+				</record>
+			<record rec_id="3" rec_time="20" sound="nj_07b_10.mp3">
+				<subrecord rec_id="4" rec_time="8" name="Stick the cup and the lid together with the tape. " sound="nj_07b_10.mp3" from="  2:41.866" to="  2:45.573" allWordsNum="10"/>
+				</record>
+			<record rec_id="4" rec_time="20" sound="nj_07b_10.mp3">
+				<subrecord rec_id="5" rec_time="8" name="use the coloured paper to make some small flags and stick them to the lid. " sound="nj_07b_10.mp3" from="  2:48.739" to="  2:54.608" allWordsNum="15"/>
+			</record>
+			<record rec_id="5" rec_time="20" sound="nj_07b_10.mp3">
+				<subrecord rec_id="6" rec_time="10" name="Put your boat on the water and pour some water into the cup. Now the boat is moving. " sound="nj_07b_10.mp3" from="  2:57.234" to="  3:05.033" allWordsNum="18"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="1" name="The Thailand water festival" page="0" source="2">
+			<record rec_id="0" rec_time="15" sound="7B Unit 10.mp3">
+				<subrecord rec_id="1" rec_time="6" name="Songkran, the Thailand water festival, is the traditional Thai New Year. " sound="7B Unit 10.mp3" from="  0:06.052" to="  0:11.984" allWordsNum="11"/>
+				<subrecord rec_id="2" rec_time="9" name="It runs for three days from April 13 to April 15 every year, and attracts many tourists from all over the world. " sound="7B Unit 10.mp3" from="  0:12.559" to="  0:21.033" allWordsNum="22"/>
+			</record>
+			<record rec_id="1" rec_time="10" sound="7B Unit 10.mp3">
+				<subrecord rec_id="3" rec_time="4" name="The water festival is about cleaning and fresh starts. " sound="7B Unit 10.mp3" from="  0:22.456" to="  0:25.967" allWordsNum="9"/>
+				<subrecord rec_id="4" rec_time="6" name="During Songkran, splashing people with water can bring them good luck in the new year. " sound="7B Unit 10.mp3" from="  0:26.511" to="  0:32.292" allWordsNum="15"/>
+			</record>
+			<record rec_id="2" rec_time="4" sound="7B Unit 10.mp3">
+				<subrecord rec_id="5" rec_time="4" name="Do you know how to celebrate the Thailand water festival? " sound="7B Unit 10.mp3" from="  0:33.654" to="  0:37.164" allWordsNum="10"/>
+			</record>
+			<record rec_id="3" rec_time="9" sound="7B Unit 10.mp3">
+				<subrecord rec_id="6" rec_time="3" name="Keep a good attitude! " sound="7B Unit 10.mp3" from="  0:38.617" to="  0:40.070" allWordsNum="4"/>
+				<subrecord rec_id="7" rec_time="6" name="Both Thais and tourists are going to splash you with water—don't get mad! " sound="7B Unit 10.mp3" from="  0:40.524" to="  0:45.729" allWordsNum="14"/>
+			</record>
+			<record rec_id="4" rec_time="5" sound="7B Unit 10.mp3">
+				<subrecord rec_id="8" rec_time="5" name="Buy a water cannon in the market, and then you can join the fun! " sound="7B Unit 10.mp3" from="  0:47.212" to="  0:51.449" allWordsNum="14"/>
+			</record>
+			<record rec_id="5" rec_time="10" sound="7B Unit 10.mp3">
+				<subrecord rec_id="9" rec_time="8" name="The traditional way to wish someone well at Songkran and to make peace after splashing them is with: Sah-wah-dee pee mai. " sound="7B Unit 10.mp3" from="  0:52.874" to="  1:00.561" allWordsNum="23"/>
+				<subrecord rec_id="10" rec_time="2" name="It means 'Happy New Year!'" sound="7B Unit 10.mp3" from="  1:00.985" to="  1:02.680" allWordsNum="5"/>
+			</record>
+		<exercise type="4" index="0"/>
+      </part>
+		<part part_index="2" name="The Thailand water festival" page="0" source="2">
+      	<article allWordsNum="127">
+            	<![CDATA[
+Songkran (宋干节), the Thailand water festival, is the traditional Thai New Year. It runs for three days from April 13 to April 15 every year, and attracts many tourists from all over the world.
+The water festival is about cleaning and fresh starts. During Songkran, splashing (泼) people with water can bring them good luck in the new year.
+Do you know how to celebrate the Thailand water festival?
+● Keep a good attitude! Both Thais and tourists are going to splash you with water—don’t get mad!
+● Buy a water cannon (水炮) in the market, and then you can join the fun!
+● The traditional way to wish someone well at Songkran and to make peace after splashing them is with: Sah-wah-dee pee mai. It means "Happy New Year!"
+           	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="2" name="True or false. " qtype="2">
+					<question rec_id="0" choice="true">
+						<![CDATA[Songkran is the traditional Thai New Year.]]>
+					</question>
+					<question rec_id="1" choice="true">
+						<![CDATA[People in Thailand celebrate Songkran in April every year.]]>
+					</question>
+					<question rec_id="2" choice="true">
+						<![CDATA[Splashing people with water in Songkran can bring them good luck.]]>
+					</question>
+					<question rec_id="3" choice="false">
+						<![CDATA[If you want to splash people with water in Songkran, you need to say "Sah-wah-dee pee mai" first.]]>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="Preparing for the Water Festival" page="67">
+			<record rec_id="0" rec_time="8" name="Summer is coming soon. Let's have a festival about water. " sound="nj_07b_10.mp3" from="  0:14.856" to="  0:20.427" allWordsNum="10"/>
+			<record rec_id="1" rec_time="10" name="That's a good idea. I can make iced fruit punch for my classmates. It's easy to make. " sound="nj_07b_10.mp3" from="  0:20.891" to="  0:27.933" allWordsNum="17"/>
+			<record rec_id="2" rec_time="6" name="First, get a can of lemonade and different kinds of fruit juice. " sound="nj_07b_10.mp3" from="  0:34.624" to="  0:39.302" allWordsNum="12"/>
+			<record rec_id="3" rec_time="6" name="Next, make ice cubes out of the different kinds of fruit juice. " sound="nj_07b_10.mp3" from="  0:42.166" to="  0:46.907" allWordsNum="12"/>
+			<record rec_id="4" rec_time="5" name="Then pour the lemonade into a glass. " sound="nj_07b_10.mp3" from="  0:49.580" to="  0:52.316" allWordsNum="7"/>
+			<record rec_id="5" rec_time="7" name="Finally, add the ice cubes to the lemonade. The iced fruit punch is ready. " sound="nj_07b_10.mp3" from="  0:55.403" to="  1:01.194" allWordsNum="14"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="1" name="Dialog" page="68">
+			<record rec_id="0" rec_time="25" name="I've got some questions for you to think about. What happens when water boils? What happens when water freezes? What happens when ice melts? What happens when steam cools down?" sound="nj_07b_10.mp3" from="  1:07.860" to="  1:25.657" allWordsNum="30"/>
+			<record rec_id="1" rec_time="5" name="When water boils, it turns into steam. " sound="nj_07b_10.mp3" from="  1:27.514" to="  1:31.460" allWordsNum="7"/>
+			<record rec_id="2" rec_time="5" name="When water freezes, it turns into ice. " sound="nj_07b_10.mp3" from="  1:31.924" to="  1:36.025" allWordsNum="7"/>
+			<record rec_id="3" rec_time="5" name="When ice melts, it turns into water. " sound="nj_07b_10.mp3" from="  1:36.257" to="  1:40.204" allWordsNum="7"/>
+			<record rec_id="4" rec_time="5" name="When steam cools down, it turns into water. " sound="nj_07b_10.mp3" from="  1:40.668" to="  1:45.001" allWordsNum="8"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="2" name="Dialog" page="69">
+		  <record rec_id="0" rec_time="5" name="What are you going to do for the Water Festival, Peter?" sound="nj_07b_10.mp3" from="  1:52.275" to="  1:56.221" allWordsNum="11"/>
+			<record rec_id="1" rec_time="8" name="I'm going to teach you how to make a water boat. You can make it move by pouring water into it. " sound="nj_07b_10.mp3" from="  1:56.995" to="  2:04.268" allWordsNum="21"/>
+			<record rec_id="2" rec_time="5" name="It sounds very interesting. " sound="nj_07b_10.mp3" from="  2:04.578" to="  2:07.131" allWordsNum="4"/>
+			<exercise type="5" index="0"/>
+      </part>
+      <part part_index="3" name="A game about signs" page="70">
+		  <record rec_id="0" rec_time="7" name="I've prepared a game about signs. To play the game, you have to know what my signs mean. " sound="nj_07b_10.mp3" from="  3:18.398" to="  3:24.976" allWordsNum="18"/>
+			<record rec_id="1" rec_time="5" name="This sign means: People mustn't dive. " sound="nj_07b_10.mp3" from="  3:25.832" to="  3:30.074" allWordsNum="6"/>
+			<record rec_id="2" rec_time="5" name="This sign means: People mustn't swim. " sound="nj_07b_10.mp3" from="  3:31.160" to="  3:34.284" allWordsNum="6"/>
+			<exercise type="5" index="0"/>
+      </part>
+      <part part_index="4" name="Dialog" page="71">
+		  <record rec_id="0" rec_time="12" name="I've put all the signs in this box. We can play a game now. Players have to pick a sign from the box and say where they usually find that sign. " sound="nj_07b_10.mp3" from="  3:43.461" to="  3:55.005" allWordsNum="31"/>
+			<record rec_id="1" rec_time="8" name="Kitty, let's start with you. Pick a sign from the box. Where do we usually find this sign?" sound="nj_07b_10.mp3" from="  3:58.064" to="  4:05.924" allWordsNum="18"/>
+			<record rec_id="2" rec_time="5" name="We usually find this sign near a river or a lake. " sound="nj_07b_10.mp3" from="  4:07.306" to="  4:10.825" allWordsNum="11"/>
+			<record rec_id="3" rec_time="5" name="Kitty, you're right. You get one point.   " sound="nj_07b_10.mp3" from="  4:11.779" to="  4:14.936" allWordsNum="7"/>
+			<record rec_id="4" rec_time="5" name="Joe, it's your turn now. Where do we usually find this sign?" sound="nj_07b_10.mp3" from="  4:18.192" to="  4:22.633" allWordsNum="12"/>
+			<record rec_id="5" rec_time="5" name="We usually find this sign near a beach. " sound="nj_07b_10.mp3" from="  4:22.896" to="  4:25.790" allWordsNum="8"/>
+			<record rec_id="6" rec_time="5" name="No, we usually find this sign at a swimming pool. " sound="nj_07b_10.mp3" from="  4:26.711" to="  4:30.526" allWordsNum="10"/>
+			<record rec_id="7" rec_time="5" name="Peter, you're right. You get one point. " sound="nj_07b_10.mp3" from="  4:31.447" to="  4:34.868" allWordsNum="7"/>
+			<exercise type="5" index="0"/>
+      </part>
+    </dialogs>
+</package>
+ 

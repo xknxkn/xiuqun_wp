@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_09b</book_id>
+	<unit_id>nj_09b_01</unit_id>
+	<version>5</version>
+	<unit>unit1</unit>
+	<title>Saving the Earth</title>
+	<words>
+		<part part_index="0" page="17">
+			<record rec_id="0" rec_time="3" name="atmosphere" symbol="5AtmEsfiE(r)" explain="n.(围绕地球的)大气；大气层" sound="nj_09b_01.mp3" from=" 10:23.499" to=" 10:25.462" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="global" symbol="5glEubl" explain="adj.全球的；全世界的" sound="nj_09b_01.mp3" from=" 10:29.459" to=" 10:31.567" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="global warming" symbol="5glEubl wR:miN" explain="全球变暖" sound="nj_09b_01.mp3" from=" 10:34.256" to=" 10:36.727" allWordsNum="1"/>
+		  <record rec_id="3" rec_time="3" name="flood" symbol="flQd" explain="n.洪水" sound="nj_09b_01.mp3" from=" 10:40.579" to=" 10:42.033" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="consumer" symbol="kEn5sju:mE(r)" explain="n.消费者" sound="nj_09b_01.mp3" from=" 10:45.812" to=" 10:47.920" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="various" symbol="5vZEriEs" explain="adj.各种各样的" sound="nj_09b_01.mp3" from=" 10:50.827" to=" 10:52.717" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="threat" symbol="Wret" explain="n.威胁" sound="nj_09b_01.mp3" from=" 10:55.406" to=" 10:57.368" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="greenhouse" symbol="5gri:nhaus" explain="n.温室；暖房" sound="nj_09b_01.mp3" from=" 10:59.549" to=" 11:01.656" allWordsNum="1"/>
+			<record rec_id="8" rec_time="4" name="the greenhouse effect" symbol="Ti: gri:nhaus i5fekt" explain="温室效应" sound="nj_09b_01.mp3" from=" 11:03.982" to=" 11:07.398" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="writer" symbol="5raitE(r)" explain="n.作家" sound="nj_09b_01.mp3" from=" 11:11.212" to="11:12.589" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="sunlight" symbol="5sQnlait" explain="n.阳光；日光" sound="nj_09b_01.mp3" from=" 11:14.884" to=" 11:17.501" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="warmth" symbol="wR:mW" explain="n.温暖；暖和" sound="nj_09b_01.mp3" from=" 11:19.172" to=" 11:21.207" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="lifeless" symbol="5laiflEs" explain="adj.无生命的；无生物生长的" sound="nj_09b_01.mp3" from=" 11:23.242" to=" 11:25.205" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="carbon dioxide" symbol="7kB:bEn dai5Cksaid" explain="二氧化碳" sound="nj_09b_01.mp3" from=" 11:28.039" to=" 11:30.583" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="fuel" symbol="5fjU:El" explain="n.燃料" sound="nj_09b_01.mp3" from=" 11:34.508" to=" 11:36.688" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="ozone" symbol="5EuzEun" explain="n.臭氧" sound="nj_09b_01.mp3" from=" 11:38.215" to=" 11:39.813" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="layer" symbol="5leiE(r)" explain="n.层；表面" sound="nj_09b_01.mp3" from=" 11:42.793" to=" 11:44.756" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="ozone layer" symbol="5EuzEun 5leiE(r)" explain="臭氧层" sound="nj_09b_01.mp3" from=" 11:46.645" to=" 11:48.753" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="occur" symbol="E5kX:(r)" explain="v.存在于；出现在" sound="nj_09b_01.mp3" from=" 11:51.588" to=" 11:53.041" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="protective" symbol="prE5tektiv" explain="adj.保护的；防护的" sound="nj_09b_01.mp3" from=" 11:55.730" to=" 11:57.838" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="burn ... up" symbol="bE:n Qp" explain="焚毁；烧掉" sound="nj_09b_01.mp3" from=" 12:01.181" to=" 12:03.435" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="CFC" symbol="7si:ef5si:" explain="n.氟氯代烃；含氯氟烃" sound="nj_09b_01.mp3" from=" 12:06.196" to=" 12:08.522" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="spray can" symbol="5sprei kAn " explain="喷雾罐；喷漆罐" sound="nj_09b_01.mp3" from=" 12:11.575" to=" 12:13.319" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="destruction" symbol="di5strQkFn" explain="n.摧毁；毁灭；破坏" sound="nj_09b_01.mp3" from=" 12:16.590" to=" 12:18.261" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="soil" symbol="sCil" explain="n.土壤" sound="nj_09b_01.mp3" from=" 12:21.096" to=" 12:23.276" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="erosion" symbol="i5rEuVn" explain="n.侵蚀；腐蚀" sound="nj_09b_01.mp3" from=" 12:26.183" to=" 12:28.219" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="flooding" symbol="5flQdiN" explain="n.洪水泛滥" sound="nj_09b_01.mp3" from=" 12:31.126" to=" 12:32.652" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="massive" symbol="5mAsiv" explain="adj.巨大的" sound="nj_09b_01.mp3" from=" 12:35.341" to=" 12:36.649" allWordsNum="1"/>
+			<record rec_id="28" rec_time="3" name="do with" symbol="du wiT" explain="处理" sound="nj_09b_01.mp3" from=" 12:39.557" to=" 12:41.301" allWordsNum="1"/>
+			<record rec_id="29" rec_time="3" name="billion" symbol="5biljEn" explain="n.十亿" sound="nj_09b_01.mp3" from=" 12:44.644" to=" 12:46.679" allWordsNum="1"/>
+			<record rec_id="30" rec_time="3" name="environmentally friendly" symbol="in7vairEn5mentEli 5frendli" explain="环保的；不损害环境的" sound="nj_09b_01.mp3" from=" 12:49.223" to=" 12:52.130" allWordsNum="1"/>
+			<record rec_id="31" rec_time="3" name="coal" symbol="kEul" explain="n.煤" sound="nj_09b_01.mp3" from=" 12:56.128" to=" 12:58.453" allWordsNum="1"/>
+			<record rec_id="32" rec_time="3" name="compare" symbol="kEm5pZE(r)" explain="v.比较" sound="nj_09b_01.mp3" from=" 13:00.561" to=" 13:02.524" allWordsNum="1"/>
+		  <record rec_id="33" rec_time="3" name="compare ... to" symbol="kEm5pZE tu" explain="将......比做" sound="nj_09b_01.mp3" from=" 13:04.849" to=" 13:06.739" allWordsNum="1"/>
+			<record rec_id="34" rec_time="3" name="classical" symbol="5klAsikl" explain="adj.古典的" sound="nj_09b_01.mp3" from=" 13:10.664" to=" 13:12.553" allWordsNum="1"/>
+			<record rec_id="35" rec_time="3" name="anywhere" symbol="5eniwZE(r)" explain="adv.在任何地方" sound="nj_09b_01.mp3" from=" 13:16.914" to=" 13:18.586" allWordsNum="1"/>
+			<record rec_id="36" rec_time="3" name="grateful" symbol="5greitfl" explain="adj.感激的；表示感谢的" sound="nj_09b_01.mp3" from=" 13:21.420" to=" 13:23.019" allWordsNum="1"/>
+		  <exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="The green consumer" page="3">
+			<record rec_id="0" rec_time="30" sound="nj_09b_01.mp3">
+			<subrecord rec_id="1" rec_time="5" name="This book says our world is in danger. " sound="nj_09b_01.mp3" from="  1:06.303" to="  1:09.783" allWordsNum="8"/>
+			<subrecord rec_id="2" rec_time="5" name="It describes the various threats to the environment. " sound="nj_09b_01.mp3" from="  1:09.686" to="  1:13.456" allWordsNum="8"/>
+			<subrecord rec_id="3" rec_time="8" name="The situation is so serious that we must do something to save the Earth. " sound="nj_09b_01.mp3" from="  1:13.166" to="  1:18.966" allWordsNum="14"/>
+			</record>
+			<record rec_id="1" rec_time="5" sound="nj_09b_01.mp3">
+			<subrecord rec_id="4" rec_time="3" name="The greenhouse effect" sound="nj_09b_01.mp3" from="  1:22.736" to="  1:24.766" allWordsNum="3"/>
+			</record>
+			<record rec_id="2" rec_time="45" sound="nj_09b_01.mp3">
+			<subrecord rec_id="5" rec_time="10" name="The writers ask us to 'imagine that the Earth is inside a kind of greenhouse with the atmosphere around it. " sound="nj_09b_01.mp3" from="  1:24.863" to="  1:32.596" allWordsNum="20"/>
+			<subrecord rec_id="6" rec_time="8" name="The atmosphere acts like the glass: it lets sunlight in and keeps warmth from getting out. " sound="nj_09b_01.mp3" from="  1:32.306" to="  1:39.266" allWordsNum="16"/>
+			<subrecord rec_id="7" rec_time="6" name="The atmosphere is essential for all living things. " sound="nj_09b_01.mp3" from="  1:39.169" to="  1:43.326" allWordsNum="8"/>
+			<subrecord rec_id="8" rec_time="7" name="Without it, the Earth would be as cold and lifeless as the surface of the moon'. " sound="nj_09b_01.mp3" from="  1:43.132" to="  1:49.126" allWordsNum="16"/>
+			</record>
+			<record rec_id="3" rec_time="60" sound="nj_09b_01.mp3">
+			<subrecord rec_id="9" rec_time="12" name="'The trouble is that our atmosphere is changing because we are polluting it with chemicals——in the form of gases——and it is keeping in too much heat!'" sound="nj_09b_01.mp3" from="  1:50.962" to="  2:01.112" allWordsNum="29"/>
+			<subrecord rec_id="10" rec_time="10" name="These gases, mainly carbon dioxide (CO2), are produced by burning fuels such as petrol. " sound="nj_09b_01.mp3" from="  2:01.015" to="  2:09.328" allWordsNum="14"/>
+			<subrecord rec_id="11" rec_time="10" name="The greenhouse effect may cause the level of the sea to rise and flood cities and even whole countries. " sound="nj_09b_01.mp3" from="  2:09.232" to="  2:17.158" allWordsNum="19"/>
+			</record>
+			<record rec_id="4" rec_time="5" sound="nj_09b_01.mp3">
+			<subrecord rec_id="12" rec_time="3" name="Damage to the ozone layer" sound="nj_09b_01.mp3" from="  2:18.512" to="  2:21.508" allWordsNum="5"/>
+			</record>
+			<record rec_id="5" rec_time="25" sound="nj_09b_01.mp3">
+			<subrecord rec_id="13" rec_time="10" name="The writers tell us that 'ozone is a gas which occurs 20 to 50 km above the ground. " sound="nj_09b_01.mp3" from="  2:21.315" to="  2:28.951" allWordsNum="18"/>
+			<subrecord rec_id="14" rec_time="5" name="It forms an essential protective layer around the Earth. " sound="nj_09b_01.mp3" from="  2:28.661" to="  2:32.528" allWordsNum="9"/>
+			<subrecord rec_id="15" rec_time="5" name="Without it, the Sun would burn us up'. " sound="nj_09b_01.mp3" from="  2:32.431" to="  2:35.815" allWordsNum="8"/>
+			</record>
+			<record rec_id="6" rec_time="25" sound="nj_09b_01.mp3">
+			<subrecord rec_id="16" rec_time="8" name="We are making holes in the ozone layer, mainly by using chemicals called CFCs. " sound="nj_09b_01.mp3" from="  2:35.621" to="  2:42.484" allWordsNum="14"/>
+			<subrecord rec_id="17" rec_time="10" name="We use these in fridges and spray cans, and to make plastic items such as fast food boxes. " sound="nj_09b_01.mp3" from="  2:42.194" to="  2:49.734" allWordsNum="18"/>
+			</record>
+			<record rec_id="7" rec_time="5" sound="nj_09b_01.mp3">
+			<subrecord rec_id="18" rec_time="3" name="Destruction of the forests" sound="nj_09b_01.mp3" from="  2:51.184" to="  2:54.374" allWordsNum="4"/>
+			</record>
+			<record rec_id="8" rec_time="25" sound="nj_09b_01.mp3">
+			<subrecord rec_id="19" rec_time="10" name="The burning and cutting down of the forests is making the greenhouse effect worse because trees take in CO2. " sound="nj_09b_01.mp3" from="  2:54.568" to="  3:01.914" allWordsNum="19"/>
+			<subrecord rec_id="20" rec_time="10" name="It also causes soil erosion and flooding, as well as destroying the homes of people and animals that live in the forests. " sound="nj_09b_01.mp3" from="  3:01.914" to="  3:10.227" allWordsNum="22"/>
+			</record>
+			<record rec_id="9" rec_time="5" sound="nj_09b_01.mp3">
+			<subrecord rec_id="21" rec_time="3" name="Bad habits" sound="nj_09b_01.mp3" from="  3:12.837" to="  3:14.674" allWordsNum="2"/>
+			</record>
+			<record rec_id="10" rec_time="60" sound="nj_09b_01.mp3">
+			<subrecord rec_id="22" rec_time="10" name="Many of our habits cause pollution, especially our habit of using things once and then throwing them away. " sound="nj_09b_01.mp3" from="  3:14.384" to="  3:21.730" allWordsNum="18"/>
+			<subrecord rec_id="23" rec_time="6" name="This creates massive mountains of rubbish. " sound="nj_09b_01.mp3" from="  3:21.759" to="  3:25.327" allWordsNum="6"/>
+			<subrecord rec_id="24" rec_time="5" name="We do not know what to do with the rubbish and it pollutes our land and sea. " sound="nj_09b_01.mp3" from="   3:25.435" to="  3:29.868" allWordsNum="17"/>
+			<subrecord rec_id="25" rec_time="7" name="For example, people throw away as many as seven billion drink cans in Britain each year. " sound="nj_09b_01.mp3" from="3:29.850" to="  3:35.650" allWordsNum="16"/>
+			<subrecord rec_id="26" rec_time="5" name="That is enough to reach from the Earth to the moon. " sound="nj_09b_01.mp3" from="3:35.553" to="  3:39.420" allWordsNum="11"/>
+			</record>
+			<record rec_id="11" rec_time="5" sound="nj_09b_01.mp3">
+			<subrecord rec_id="27" rec_time="3" name="How can we save the Earth?" sound="nj_09b_01.mp3" from="  3:40.483" to="  3:42.707" allWordsNum="6"/>
+			</record>
+			<record rec_id="12" rec_time="25" sound="nj_09b_01.mp3">
+			<subrecord rec_id="28" rec_time="5" name="The book is asking us to become 'green consumers'. " sound="nj_09b_01.mp3" from="  3:42.803" to="  3:46.766" allWordsNum="9"/>
+			<subrecord rec_id="29" rec_time="6" name="That means we should only buy and use environmentally friendly goods so that we can save the Earth. " sound="nj_09b_01.mp3" from="  3:46.670" to="  3:52.663" allWordsNum="18"/>
+			<subrecord rec_id="30" rec_time="5" name="These goods will not damage the environment. " sound="nj_09b_01.mp3" from="  3:53.050" to="  3:56.143" allWordsNum="7"/>
+			</record>
+			<record rec_id="13" rec_time="10" sound="nj_09b_01.mp3">
+			<subrecord rec_id="31" rec_time="6" name="Let's be green consumers and enjoy living a better life on the Earth!" sound="nj_09b_01.mp3" from="  3:58.656" to="  4:03.876" allWordsNum="13"/>
+		  </record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="1" name="MILLIONS OF TREES ON FIRE" page="14">
+			<record rec_id="0" rec_time="25" sound="nj_09b_01.mp3">
+			<subrecord rec_id="1" rec_time="6" name="Tim: In South-east Asia, thousands of hectares of forests are still on fire. " sound="nj_09b_01.mp3" from="  7:56.395" to="  8:02.136" allWordsNum="13"/>
+			<subrecord rec_id="2" rec_time="6" name="The smog from the fire has already caused hundreds of deaths and illnesses. " sound="nj_09b_01.mp3" from="  8:02.500" to="  8:07.878" allWordsNum="13"/>
+			<subrecord rec_id="3" rec_time="6" name="Our reporter, Penny Wang, is there and has this report. " sound="nj_09b_01.mp3" from="  8:08.169" to="  8:13.256" allWordsNum="10"/>
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_09b_01.mp3">
+			<subrecord rec_id="4" rec_time="6" name="Penny: It's now just three in the afternoon, but it seems like night-time. " sound="nj_09b_01.mp3" from="  8:13.838" to="  8:18.635" allWordsNum="13"/>
+			<subrecord rec_id="5" rec_time="6" name="A thick smog is covering most of the countries in South-east Asia. " sound="nj_09b_01.mp3" from="  8:18.562" to="  8:23.286" allWordsNum="12"/>
+			<subrecord rec_id="6" rec_time="5" name="Many people are wearing masks to cover their mouths and noses. " sound="nj_09b_01.mp3" from="  8:23.141" to="  8:27.792" allWordsNum="11"/>
+			<subrecord rec_id="7" rec_time="5" name="Thousands are suffering from eye or breathing problems. " sound="nj_09b_01.mp3" from="  8:27.574" to="  8:31.136" allWordsNum="8"/>
+			<subrecord rec_id="8" rec_time="10" name="One doctor told me that living in this smog is like smoking 600 cigarettes a day. " sound="nj_09b_01.mp3" from="  8:30.990" to="  8:38.476" allWordsNum="16"/>
+			</record>
+			<record rec_id="2" rec_time="60" sound="nj_09b_01.mp3">
+			<subrecord rec_id="9" rec_time="5" name="The fires are still burning. " sound="nj_09b_01.mp3" from="  8:38.404" to="  8:40.948" allWordsNum="5"/>
+      <subrecord rec_id="10" rec_time="12" name="There are 8,500 firefighters trying to put out the fires, and another 2,000 are coming from around the world to help them. " sound="nj_09b_01.mp3" from="  8:40.730" to="  8:50.977" allWordsNum="21"/>
+			<subrecord rec_id="11" rec_time="5" name="But the fires are too big to put out. " sound="nj_09b_01.mp3" from="  8:51.195" to="  8:54.248" allWordsNum="9"/>
+			<subrecord rec_id="12" rec_time="10" name="The only thing that can extinguish them now is lots of rain-and rain is not expected for several weeks. " sound="nj_09b_01.mp3" from="  8:54.248" to="  9:02.388" allWordsNum="20"/>
+			</record>
+			<record rec_id="3" rec_time="25" sound="nj_09b_01.mp3">
+			<subrecord rec_id="13" rec_time="6" name="Tim: Penny, can you remind us how these terrible fires started?" sound="nj_09b_01.mp3" from="  9:03.624" to="  9:08.421" allWordsNum="11"/>
+			</record>
+			<record rec_id="4" rec_time="60" sound="nj_09b_01.mp3">
+			<subrecord rec_id="14" rec_time="6" name="Penny: Well, most of the fires were started by farmers. " sound="nj_09b_01.mp3" from="  9:08.348" to="  9:12.636" allWordsNum="10"/>
+			<subrecord rec_id="15" rec_time="5" name="They wanted to clear the land before they planted new fields. " sound="nj_09b_01.mp3" from="  9:12.636" to="  9:16.488" allWordsNum="11"/>
+			<subrecord rec_id="16" rec_time="6" name="But this year things are much worse than usual. " sound="nj_09b_01.mp3" from="  9:16.197" to="  9:20.268" allWordsNum="9"/>
+			<subrecord rec_id="17" rec_time="5" name="Some big companies bought large areas of land. " sound="nj_09b_01.mp3" from="  9:20.486" to="  9:23.829" allWordsNum="8"/>
+			<subrecord rec_id="18" rec_time="10" name="They are using fires to clear them quickly so that they can plant rice, palm oil trees or rubber trees. " sound="nj_09b_01.mp3" from="  9:23.902" to="  9:31.315" allWordsNum="20"/>
+      <subrecord rec_id="19" rec_time="6" name="Second, a drought started many months ago so the land is very dry. " sound="nj_09b_01.mp3" from="  9:31.678" to="  9:37.493" allWordsNum="13"/>
+      </record>
+			<record rec_id="5" rec_time="25" sound="nj_09b_01.mp3">
+			<subrecord rec_id="20" rec_time="8" name="Tim: Penny, you've told us about some of the effects of the fire on people. " sound="nj_09b_01.mp3" from="  9:37.929" to="  9:43.598" allWordsNum="15"/>
+			<subrecord rec_id="21" rec_time="5" name="What other problems are the fires causing?" sound="nj_09b_01.mp3" from="  9:43.598" to="  9:47.087" allWordsNum="7"/>
+			</record>
+			<record rec_id="6" rec_time="60" sound="nj_09b_01.mp3">
+			<subrecord rec_id="22" rec_time="5" name="Penny: Well, there are almost no tourists here at the moment. " sound="nj_09b_01.mp3" from="  9:47.305" to="  9:51.520" allWordsNum="11"/>
+			<subrecord rec_id="23" rec_time="6" name="Also, the smog has caused some bad accidents. " sound="nj_09b_01.mp3" from="  9:51.447" to="  9:55.154" allWordsNum="8"/>
+			<subrecord rec_id="24" rec_time="6" name="But the most serious problem is that the fire is destroying the forests. " sound="nj_09b_01.mp3" from="  9:55.081" to=" 10:00.096" allWordsNum="13"/>
+			<subrecord rec_id="25" rec_time="6" name="As you know, trees take harmful gases from the air, and release oxygen. " sound="nj_09b_01.mp3" from="  9:59.951" to=" 10:05.475" allWordsNum="13"/>
+			<subrecord rec_id="26" rec_time="6" name="They are very important to the world, and now millions of them are burning. " sound="nj_09b_01.mp3" from=" 10:05.402" to=" 10:10.344" allWordsNum="14"/>
+			</record>
+			<record rec_id="7" rec_time="25" sound="nj_09b_01.mp3">
+			<subrecord rec_id="27" rec_time="10" name="Tim: I hope the fire will be put out soon. " sound="nj_09b_01.mp3" from=" 10:10.344" to=" 10:14.632" allWordsNum="10"/>
+      </record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="2" name="Green Consumer Day makes a difference!" page="0" source="2">
+			<record rec_id="0" rec_time="20" sound="9B Unit 1.mp3">
+				<subrecord rec_id="1" rec_time="4" name="Mark your calendar for Green Consumer Day, September 28. " sound="9B Unit 1.mp3" from="0:07.251" to=" 0:10.206" allWordsNum="9"/>
+				<subrecord rec_id="2" rec_time="12" name="This day was created with the intention of providing a time to think about our choices as consumers and consider how they could be greener. " sound="9B Unit 1.mp3" from="0:12.886 " to="0:23.205" allWordsNum="25"/>
+			</record>
+			<record rec_id="1" rec_time="50" sound="9B Unit 1.mp3">
+				<subrecord rec_id="3" rec_time="15" name="Lately, terms such as global warming, recyclable and environmentally friendly, have created a buzz even among common people—thanks to the newspapers and electronic media. " sound="9B Unit 1.mp3" from="0:24.673  " to="0:38.422  " allWordsNum="25"/>
+				<subrecord rec_id="4" rec_time="10" name="So, people are getting more 'Green Conscious' than 'Brand Conscious,' and are voting with their shopping dollars. " sound="9B Unit 1.mp3" from="0:38.997" to="0:47.122" allWordsNum="17"/>
+				<subrecord rec_id="5" rec_time="8" name="People are more concerned than ever about the environmental impact of products they buy. " sound="9B Unit 1.mp3" from="0:47.840" to="0:53.703" allWordsNum="14"/>
+				<subrecord rec_id="6" rec_time="12" name="Practical consumers purchase those products and packages that can be recycled or otherwise safely disposed of in their communities. " sound="9B Unit 1.mp3" from="0:54.349" to="1:03.491" allWordsNum="19"/>
+			</record>
+			<record rec_id="2" rec_time="50" sound="9B Unit 1.mp3">
+				<subrecord rec_id="7" rec_time="8" name="Green Consumerism has helped spur significant shifts in the way in which some industries produce their products. " sound="9B Unit 1.mp3" from="1:05.250" to="1:12.717" allWordsNum="17"/>
+				<subrecord rec_id="8" rec_time="12" name="Although green consumers express their environmental concerns in individual ways, they are motivated by universal needs. " sound="9B Unit 1.mp3" from="1:13.399" to="1:22.888" allWordsNum="16"/>
+				<subrecord rec_id="9" rec_time="10" name="These needs translate into new purchasing habits—they look at the ways products are developed and marketed. " sound="9B Unit 1.mp3" from="1:23.499" to="1:30.523" allWordsNum="18"/>
+				<subrecord rec_id="10" rec_time="8" name="Many industries have realized that it is not easy to meet the appetite of green shoppers. " sound="9B Unit 1.mp3" from="1:31.181" to="1:37.642" allWordsNum="16"/>
+			  <subrecord rec_id="11" rec_time="6" name="So in turn, they have also started to adopt green techniques. " sound="9B Unit 1.mp3" from="1:38.097" to="1:43.554" allWordsNum="11"/>
+			</record>
+			<record rec_id="3" rec_time="40" sound="9B Unit 1.mp3">
+				<subrecord rec_id="12" rec_time="15" name="So, if you are not a green consumer, then Green Consumer Day is the day when you can think and rethink on what you buy, the impact it has on us and on our common environment. " sound="9B Unit 1.mp3" from="1:45.253" to="1:58.858" allWordsNum="36"/>
+				<subrecord rec_id="13" rec_time="8" name="We can take our small steps, which would contribute to the bigger cause—Environment Protection. " sound="9B Unit 1.mp3" from="1:59.361" to="2:06.349" allWordsNum="15"/>
+				<subrecord rec_id="14" rec_time="15" name="Let's Go Green and make a difference! " sound="9B Unit 1.mp3" from="2:06.745" to="2:09.904" allWordsNum="7"/>
+				</record>
+		<exercise type="4" index="0"/>
+      </part>	
+      <part part_index="3" name="Green Consumer Day makes a difference!" page="0" source="2">
+      	<article allWordsNum="245">
+            	<![CDATA[
+Mark your calendar for Green Consumer Day, September 28. This day was created with the intention of providing a time to think about our choices as consumers and consider how they could be greener.
+Lately, terms such as global warming, recyclable and environmentally friendly, have created a buzz even among common people—thanks to the newspapers and electronic media. So, people are getting more "Green Conscious" than "Brand Conscious," and are voting with their shopping dollars. People are more concerned than ever about the environmental impact of products they buy. Practical consumers purchase those products and packages that can be recycled or otherwise safely disposed of in their communities. 
+Green Consumerism (绿色消费主义) has helped spur (刺激) significant shifts in the way in which some industries produce their products. Although green consumers express their environmental concerns in individual ways, they are motivated by universal needs. These needs translate into new purchasing habits—they look at the ways products are developed and marketed. Many industries have realized that it is not easy to meet the appetite of green shoppers. So in turn, they have also started to adopt green techniques.
+So, if you are not a green consumer, then Green Consumer Day is the day when you can think and rethink on what you buy, the impact it has on us and on our common environment. We can take our small steps, which would contribute to the bigger cause—Environment Protection. Let's Go Green and make a difference!
+ 	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="0" name="Choose the best answer. " qtype="1" >
+					<question rec_id="0" choice="C">
+						<![CDATA[Green Consumer Day was created ___________________.]]>
+						<choice item="A" name="for consumers to purchase green goods"/>
+						<choice item="B" name="for businesses to sell green goods"/>
+						<choice item="C" name="for people to think about their shopping habits"/>
+						<choice item="D" name="for people to shop wisely"/>
+					</question>
+					<question rec_id="1" choice="B">
+						<![CDATA[The underlined word "buzz" most probably means _____________.]]>
+						<choice item="A" name="impression"/>
+						<choice item="B" name="feeling of excitement"/>
+						<choice item="C" name="agreement"/>
+						<choice item="D" name="action"/>
+					</question>
+					<question rec_id="2" choice="A">
+						<![CDATA[What does the sentence "people are getting more 'Green Conscious' than 'Brand Conscious'(in paragraph 2)" mean?]]>
+						<choice item="A" name="People are becoming more environmentally friendly and caring less about brand names when shopping. "/>
+						<choice item="B" name="People like to buy products of green color. "/>
+						<choice item="C" name="People care about both environmental protection and brand names when shopping. "/>
+						<choice item="D" name="People care more about brand names than environment protection when shopping. "/>
+					</question>
+					<question rec_id="3" choice="B">
+						<![CDATA[Green consumers are least likely to buy ___________.]]>
+						<choice item="A" name="a plastic Christmas tree"/>
+						<choice item="B" name="a box of heavily packaged moon cakes"/>
+						<choice item="C" name="a second hand computer"/>
+						<choice item="D" name="a glass lunchbox"/>
+					</question>
+					<question rec_id="4" choice="D">
+						<![CDATA[Why do some industries begin to adopt green techniques?]]>
+						<choice item="A" name="To save the cost of producing their products. "/>
+						<choice item="B" name="To save the cost of marketing their products. "/>
+						<choice item="C" name="To protect the environment. "/>
+						<choice item="D" name="To meet the needs of green shoppers. "/>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="Dialog" page="11">
+			<record rec_id="0" rec_time="10" name="Let's have a drink, Pansy. They've got cola, milk, tea and coffee. Which would you prefer?" sound="nj_09b_01.mp3" from="  7:25.366" to="  7:32.906" allWordsNum="16"/>
+			<record rec_id="1" rec_time="5" name="I'd prefer a cola. What about you?" sound="nj_09b_01.mp3" from="  7:32.712" to="  7:35.902" allWordsNum="7"/>
+			<record rec_id="2" rec_time="10" name="I'm going to have a hot coffee. I need something to warm me up. Waiter! One cola and one coffee, please. " sound="nj_09b_01.mp3" from="  7:35.902" to="  7:44.796" allWordsNum="21"/>
+			<exercise type="5" index="0"/>
+		</part>
+	</dialogs>
+</package>
+ 

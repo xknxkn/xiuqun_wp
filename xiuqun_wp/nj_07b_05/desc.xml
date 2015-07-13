@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_07b</book_id>
+	<unit_id>nj_07b_05</unit_id>
+	<version>8</version>
+	<unit>unit5</unit>
+	<title>What can we learn from others?</title>
+	<words>
+		<part part_index="0" page="36">
+			<record rec_id="0" rec_time="3" name="learn from" symbol="lE:n frCm" explain="向......学习" sound="nj_07b_05.mp3" from="  2:47.786" to="  2:49.021" allWordsNum="2"/>
+			<record rec_id="1" rec_time="3" name="wife" symbol="waif" explain="n.妻子" sound="nj_07b_05.mp3" from="  2:49.929" to="  2:50.931" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="long ago" symbol="lCN E5gEu" explain="很久以前" sound="nj_07b_05.mp3" from="  2:51.840" to="  2:53.331" allWordsNum="2"/>
+			<record rec_id="3" rec_time="3" name="hut" symbol="hQt" explain="n.小屋" sound="nj_07b_05.mp3" from="  2:54.216" to="  2:55.241" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="fairy" symbol="5fZEri" explain="n.仙子；小精灵" sound="nj_07b_05.mp3" from="  2:56.057" to="  2:57.222" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="hard-working" symbol="7hB:d 5wE:kiN" explain="adj.工作努力的；辛勤的" sound="nj_07b_05.mp3" from="  2:58.107" to="  2:59.529" allWordsNum="2"/>
+			<record rec_id="6" rec_time="3" name="although" symbol="R:l5TEu" explain="conj.虽然；尽管；即使" sound="nj_07b_05.mp3" from="  3:00.274" to="  3:01.858" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="earn" symbol="E:n" explain="v.挣得；挣钱" sound="nj_07b_05.mp3" from="  3:02.721" to="  3:03.792" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="gold" symbol="gEuld" explain="n.金；金子；黄金" sound="nj_07b_05.mp3" from="  3:04.748" to="  3:05.912" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="coin" symbol="kCin" explain="n.硬币" sound="nj_07b_05.mp3" from="  3:06.914" to=" 3:08.056" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="comfortable" symbol="5kQmftEbl" explain="adj.舒服的" sound="nj_07b_05.mp3" from="  3:09.407" to="  3:10.456" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="reply" symbol="ri5plai" explain="v.回答" sound="nj_07b_05.mp3" from="  3:11.830" to="  3:12.949" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="greedy" symbol="5gri:di" explain="adj.贪婪的" sound="nj_07b_05.mp3" from="  3:14.114" to="  3:15.022" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="happiness" symbol="5hApinis" explain="n.幸福" sound="nj_07b_05.mp3" from="  3:16.234" to="  3:17.306" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="forever" symbol="fE5revE(r)" explain="adv.永远" sound="nj_07b_05.mp3" from="  3:18.424" to="  3:19.426" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="disappear" symbol="7disE5piE(r)" explain="v.消失" sound="nj_07b_05.mp3" from="  3:20.658" to="  3:21.870" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="vote" symbol="vEut" explain="v.投票；表决；选举" sound="nj_07b_05.mp3" from="  3:22.942" to="  3:23.990" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="vote for" symbol="vEut fE(r)" explain="表决（支持）；投票（赞成）" sound="nj_07b_05.mp3" from="  3:25.085" to="  3:26.413" allWordsNum="2"/>
+			<record rec_id="18" rec_time="3" name="give up" symbol="giv Qp" explain="放弃" sound="nj_07b_05.mp3" from="  3:27.555" to="  3:28.533" allWordsNum="2"/>
+			<record rec_id="19" rec_time="3" name="pocket" symbol="5pCkit" explain="n.口袋" sound="nj_07b_05.mp3" from="  3:29.512" to="  3:30.467" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="pocket money" symbol="5pCkit 5mQni" explain="n.零花钱；零用钱" sound="nj_07b_05.mp3" from="  3:31.516" to="  3:32.774" allWordsNum="2"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+	<part part_index="0" name="The happy farmer and his wife" page="32">
+    	<record rec_id="0" rec_time="28" sound="nj_07b_05.mp3">
+			<subrecord rec_id="1" rec_time="13" name="Long ago, there was a poor farmer called Fred. Fred and his wife, Doris, lived in an old small hut. " sound="nj_07b_05.mp3" from="  0:10.179" to="  0:18.958" allWordsNum="20"/>
+			<subrecord rec_id="2" rec_time="5" name="One winter night, the Luck Fairy visited them. " sound="nj_07b_05.mp3" from="  0:20.112" to="  0:24.233" allWordsNum="8"/>
+			<subrecord rec_id="3" rec_time="5" name="'Fred, you're a good and hard-working farmer. " sound="nj_07b_05.mp3" from="  0:25.470" to="  0:28.973" allWordsNum="8"/>
+			<subrecord rec_id="4" rec_time="5" name="I'd like to give you three wishes,' said the Luck Fairy. " sound="nj_07b_05.mp3" from="  0:29.467" to="  0:33.300" allWordsNum="14"/>
+			</record>
+		<record rec_id="1" rec_time="21" sound="nj_07b_05.mp3">
+			<subrecord rec_id="5" rec_time="5" name="Fred and Doris smiled at each other, and said, 'Thank you very much. " sound="nj_07b_05.mp3" from="  0:34.537" to="  0:39.153" allWordsNum="14"/>
+			<subrecord rec_id="6" rec_time="3" name="We don't need any wishes. " sound="nj_07b_05.mp3" from="  0:39.441" to="  0:41.873" allWordsNum="5"/>
+			<subrecord rec_id="7" rec_time="5" name="Although we're old, we work in the fields every day.'" sound="nj_07b_05.mp3" from="  0:42.202" to="  0:45.664" allWordsNum="10"/>
+			<subrecord rec_id="8" rec_time="3" name="'You don't earn much. " sound="nj_07b_05.mp3" from="  0:46.860" to="  0:48.508" allWordsNum="4"/>
+			<subrecord rec_id="9" rec_time="5" name="I can give you some gold coins,' said the Fairy. " sound="nj_07b_05.mp3" from="  0:48.920" to="  0:52.547" allWordsNum="10"/>
+		</record>
+				<record rec_id="2" rec_time="28" sound="nj_07b_05.mp3">
+			<subrecord rec_id="10" rec_time="5" name="'Although we're poor, we live happily,' said Doris. " sound="nj_07b_05.mp3" from="  0:53.083" to="  0:58.111" allWordsNum="10"/>
+			<subrecord rec_id="11" rec_time="8" name="'Your hut is old and small. I can give you a big new house,' said the Fairy. " sound="nj_07b_05.mp3" from="  0:58.894" to="  1:05.777" allWordsNum="17"/>
+			<subrecord rec_id="12" rec_time="6" name="'Although our hut is old and small, it's very comfortable. " sound="nj_07b_05.mp3" from="  1:05.841" to="  1:10.663" allWordsNum="12"/>
+			<subrecord rec_id="13" rec_time="3" name="I like this hut very much. " sound="nj_07b_05.mp3" from="  1:11.258" to="  1:13.401" allWordsNum="6"/>
+			<subrecord rec_id="14" rec_time="5" name="I've lived here with Doris for many years,' replied Fred. " sound="nj_07b_05.mp3" from="  1:13.896" to="  1:17.605" allWordsNum="12"/>
+		</record>
+				<record rec_id="3" rec_time="20" sound="nj_07b_05.mp3">
+			<subrecord rec_id="15" rec_time="5" name="'How about some beautiful clothes?' asked the Fairy. " sound="nj_07b_05.mp3" from="  1:18.800" to="  1:22.674" allWordsNum="8"/>
+			<subrecord rec_id="16" rec_time="5" name="'Although our clothes are old, they're still comfortable. " sound="nj_07b_05.mp3" from="  1:23.208" to=" 1:27.247" allWordsNum="10"/>
+			<subrecord rec_id="17" rec_time="5" name="They keep us warm in winter,' answered Doris. " sound="nj_07b_05.mp3" from="  1:27.414" to="  1:31.659" allWordsNum="9"/>
+			<subrecord rec_id="18" rec_time="3" name="'You're not greedy. " sound="nj_07b_05.mp3" from="  1:32.978" to="  1:34.379" allWordsNum="3"/>
+			</record>
+				<record rec_id="4" rec_time="20" sound="nj_07b_05.mp3">
+			<subrecord rec_id="19" rec_time="7" name="I like you very much, I hope other people will learn from you. " sound="nj_07b_05.mp3" from="  1:34.915" to="  1:39.531" allWordsNum="11"/>
+			<subrecord rec_id="20" rec_time="7" name="I wish you happiness and health forever,' said the Fairy. " sound="nj_07b_05.mp3" from="  1:40.149" to="  1:44.023" allWordsNum="10"/>
+			<subrecord rec_id="21" rec_time="3" name="Then she disappeared. " sound="nj_07b_05.mp3" from="  1:44.930" to="  1:46.908" allWordsNum="3"/>
+		</record>
+		<exercise type="4" index="0"/>
+      </part>	
+      <part part_index="0" name="What can we learn from 2 Broke Girls?" page="0" source="2">
+			<record rec_id="0" rec_time="10" sound="7B Unit 5.mp3">
+				<subrecord rec_id="1" rec_time="3" name="Have you heard of 2 Broke Girls? " sound="7B Unit 5.mp3" from="  0:07.136" to="  0:09.142" allWordsNum="7"/>
+				<subrecord rec_id="2" rec_time="4" name="It is a popular American television sitcom. " sound="7B Unit 5.mp3" from="  0:09.741" to="  0:13.154" allWordsNum="7"/>
+				<subrecord rec_id="3" rec_time="3" name="The show centers on two poor girls." sound="7B Unit 5.mp3" from="  0:13.647" to="  0:16.357" allWordsNum="7"/>
+			</record>
+			<record rec_id="1" rec_time="25" sound="7B Unit 5.mp3">
+				<subrecord rec_id="4" rec_time="3" name="One is called Max. " sound="7B Unit 5.mp3" from="  0:17.870" to="  0:19.559" allWordsNum="4"/>
+				<subrecord rec_id="5" rec_time="7" name="She comes from a poor working-class family and has been living on her own since she was a teenager. " sound="7B Unit 5.mp3" from="  0:20.157" to="  0:27.090" allWordsNum="19"/>
+				<subrecord rec_id="6" rec_time="3" name="The other one is called Caroline. " sound="7B Unit 5.mp3" from="  0:27.512" to="  0:29.905" allWordsNum="6"/>
+				<subrecord rec_id="7" rec_time="6" name="She was born rich, but has been left with nothing after her father's crimes. " sound="7B Unit 5.mp3" from="  0:30.363" to="  0:36.205" allWordsNum="14"/>
+		    <subrecord rec_id="8" rec_time="6" name="The two become friends and build toward their dream of one day opening a cupcake shop. " sound="7B Unit 5.mp3" from="  0:36.627" to="  0:41.906" allWordsNum="16"/>
+			</record>
+			<record rec_id="2" rec_time="7" sound="7B Unit 5.mp3">
+				<subrecord rec_id="9" rec_time="7" name="The show not only brings you happiness, but also teaches you some life lessons. " sound="7B Unit 5.mp3" from="  0:43.349" to="    0:49.718" allWordsNum="14"/>
+			</record>
+			<record rec_id="3" rec_time="3" sound="7B Unit 5.mp3">
+				<subrecord rec_id="10" rec_time="3" name="Lesson One: We can start over." sound="7B Unit 5.mp3" from="  0:51.337" to="  0:53.977" allWordsNum="6"/>
+			</record>
+			<record rec_id="4" rec_time="13" sound="7B Unit 5.mp3">
+				<subrecord rec_id="11" rec_time="5" name="Sometimes we cannot predict and control what will happen in our lives. " sound="7B Unit 5.mp3" from="  0:55.595" to="  1:00.241" allWordsNum="12"/>
+				<subrecord rec_id="12" rec_time="8" name="When a bad thing happens, we should pick ourselves up, make a new plan to move forward and never look back. " sound="7B Unit 5.mp3" from="  1:00.663" to="  1:08.636" allWordsNum="21"/>
+			</record>
+			<record rec_id="5" rec_time="3" sound="7B Unit 5.mp3">
+				<subrecord rec_id="13" rec_time="3" name="Lesson Two: Friends are important." sound="7B Unit 5.mp3" from="  1:10.185" to="  1:13.000" allWordsNum="5"/>
+			</record>
+			<record rec_id="6" rec_time="24" sound="7B Unit 5.mp3">
+				<subrecord rec_id="14" rec_time="6" name="Many people think that money can make us happy, but it is not true. " sound="7B Unit 5.mp3" from="  1:14.619" to="  1:19.968" allWordsNum="14"/>
+				<subrecord rec_id="15" rec_time="5" name="2 Broke Girls tells us that life's real treasures are friends. " sound="7B Unit 5.mp3" from="  1:20.390" to="  1:24.473" allWordsNum="11"/>
+				<subrecord rec_id="16" rec_time="6" name="We can have fun without money if we are having a good time with our friends. " sound="7B Unit 5.mp3" from="  1:25.036" to="  1:30.068" allWordsNum="16"/>
+				<subrecord rec_id="17" rec_time="7" name="Money can buy us expensive clothes and big houses, but it cannot buy us happiness. " sound="7B Unit 5.mp3" from="  1:30.631" to="  1:37.599" allWordsNum="15"/>
+				</record>
+		<exercise type="4" index="0"/>
+      </part>	
+      <part part_index="2" name="What can we learn from 2 Broke Girls?" page="0" source="2">
+      	<article allWordsNum="194">
+            	<![CDATA[
+Have you heard of 2 Broke Girls (《破产姐妹》)? It is a popular American television sitcom. The show centers on two poor girls.
+One is called Max. She comes from a poor working-class family and has been living on her own since she was a teenager. The other one is called Caroline. She was born rich, but has been left with nothing after her father’s crimes (罪行). The two become friends and build toward their dream of one day opening a cupcake shop.
+The show not only brings you happiness, but also teaches you some life lessons.
+<b><font color='#000000'>Lesson One: We can start over.</font></b>
+Sometimes we cannot predict and control what will happen in our lives. When a bad thing happens, we should pick ourselves up, make a new plan to move forward and never look back.
+<b><font color='#000000'>Lesson Two: Friends are important.</font></b>
+Many people think that money can make us happy, but it is not true. 2 Broke Girls tells us that life’s real treasures are friends. We can have fun without money if we are having a good time with our friends. Money can buy us expensive clothes and big houses, but it cannot buy us happiness.
+           	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="0" name="Choose the best answer. " qtype="1" >
+					<question rec_id="0" choice="B">
+						<![CDATA[2 Broke Girls is a _____.]]>
+						<choice item="A" name="science fiction movie"/>
+						<choice item="B" name="comedy television show "/>
+						<choice item="C" name="medical drama"/>
+						<choice item="D" name="none of the above "/>
+					</question>
+					<question rec_id="1" choice="C">
+						<![CDATA[Which of the following statements is true about Max and Caroline?]]>
+						<choice item="A" name="Max comes from a rich family. "/>
+						<choice item="B" name="Max lives with her parents. "/>
+						<choice item="C" name="Caroline used to be rich. "/>
+						<choice item="D" name="Caroline comes from a working-class family. "/>
+					</question>
+					<question rec_id="2" choice="D">
+						<![CDATA[2 Broke Girls tells us that life’s real treasure(s) _____.]]>
+						<choice item="A" name="is money "/>
+						<choice item="B" name="are expensive clothes"/>
+						<choice item="C" name="are big houses "/>
+						<choice item="D" name="are friends "/>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="Model students" page="34">
+			<record rec_id="0" rec_time="15" name="We're going to vote for model students. Who do you think is a model student? What can we learn from him or her?" sound="nj_07b_05.mp3" from="  2:05.702" to="  2:14.274" allWordsNum="25"/>
+			<record rec_id="1" rec_time="12" name="Peter is a model student. Although Peter is busy, he always helps his classmates. " sound="nj_07b_05.mp3" from="  2:15.964" to="  2:22.517" allWordsNum="14"/>
+			<record rec_id="2" rec_time="10" name="Kitty is a model student. Although Maths is difficult for Kitty, she never gives it up. " sound="nj_07b_05.mp3" from="  2:24.578" to="  2:31.213" allWordsNum="16"/>
+			<record rec_id="3" rec_time="12" name="Jill is a model student. Although Jill lives far away from school, she is never late for class. " sound="nj_07b_05.mp3" from="  2:32.285" to="  2:40.239" allWordsNum="18"/>
+			<exercise type="5" index="0"/>
+      </part>
+    </dialogs>
+</package>
+ 

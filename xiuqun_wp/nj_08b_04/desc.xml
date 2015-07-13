@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_08b</book_id>
+	<unit_id>nj_08b_04</unit_id>
+	<version>5</version>
+	<unit>unit4</unit>
+	<title>Numbers</title>
+<words>
+		<part part_index="0" page="69">
+			<record rec_id="0" rec_time="3" name="passage" symbol="5pAsidV" explain="n.章节；段落" sound="nj_08b_04.mp3" from="  8:13.950" to="  8:14.856" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="term" symbol="tE:m" explain="n.学期" sound="nj_08b_04.mp3" from="  8:16.014" to="  8:16.860" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="publish" symbol="5pQbliF" explain="v.出版；发表" sound="nj_08b_04.mp3" from="  8:17.722" to="  8:18.701" allWordsNum="1"/>
+		  <record rec_id="3" rec_time="3" name="elect" symbol="i5lekt" explain="v.选举；推选" sound="nj_08b_04.mp3" from="  8:19.429" to="  8:20.246" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="chief" symbol="tFi:f" explain="adj.最重要的；主要的" sound="nj_08b_04.mp3" from="  8:21.285" to="  8:22.250" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="editor" symbol="5editE(r)" explain="n.(报刊、杂志的)编辑" sound="nj_08b_04.mp3" from="  8:23.081" to="  8:23.853" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="suggest" symbol="sE5dVest" explain="v.建议；提议" sound="nj_08b_04.mp3" from="  8:24.804" to="  8:25.650" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="experience" symbol="ik5spiEriEns" explain="n.经验；实践" sound="nj_08b_04.mp3" from="  8:26.645" to="  8:27.788" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="take charge of" symbol="teik tFB:dV Cv" explain="主管；掌管" sound="nj_08b_04.mp3" from="  8:28.857" to="  8:30.104" allWordsNum="3"/>
+			<record rec_id="9" rec_time="3" name="ought to" symbol="R:t tE" explain="v.应该；应当" sound="nj_08b_04.mp3" from="  8:31.321" to="  8:32.183" allWordsNum="2"/>
+			<record rec_id="10" rec_time="3" name="talk ... over" symbol="tR:k EuvE" explain="详细讨论；详谈" sound="nj_08b_04.mp3" from="  8:33.459" to="  8:35.404" allWordsNum="2"/>
+			<record rec_id="11" rec_time="3" name="reader" symbol="5ri:dE(r)" explain="n.读者" sound="nj_08b_04.mp3" from="  8:37.112" to="  8:37.973" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="consider" symbol="kEn5sidE(r)" explain="v.仔细考虑；细想" sound="nj_08b_04.mp3" from="  8:38.879" to="  8:39.859" allWordsNum="1"/>
+			<record rec_id="13" rec_time="4" name="briefly" symbol="5bri:fli" explain="adv.短暂地" sound="nj_08b_04.mp3" from="  8:40.809" to="  8:41.789" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="whether" symbol="5weTE(r)" explain="conj.是否" sound="nj_08b_04.mp3" from="  8:42.843" to="  8:43.615" allWordsNum="1"/>
+			<record rec_id="15" rec_time="4" name="a bit" symbol="E bit" explain="有点；一点" sound="nj_08b_04.mp3" from="  8:44.476" to="  8:45.233" allWordsNum="2"/>
+			<record rec_id="16" rec_time="3" name="decision" symbol="di5siVn" explain="n.决定" sound="nj_08b_04.mp3" from="  8:46.213" to="  8:46.955" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="make a decision" symbol="meik E di5siVn" explain="作出决定" sound="nj_08b_04.mp3" from="  8:47.980" to="  8:49.168" allWordsNum="3"/>
+			<record rec_id="18" rec_time="3" name="conclude" symbol="kEn5klu:d" explain="v.（使）结束；终止" sound="nj_08b_04.mp3" from="  8:50.534" to="  8:51.513" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="monitor" symbol="5mCnitE(r)" explain="n.班长" sound="nj_08b_04.mp3" from="  8:52.479" to="  8:53.265" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="choice" symbol="tFRis" explain="n.入选者；被选中的东西" sound="nj_08b_04.mp3" from="  8:54.245" to="  8:55.092" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="agree on" symbol="E5gri: Cn" explain="一致同意" sound="nj_08b_04.mp3" from="  8:56.027" to="  8:57.051" allWordsNum="2"/>
+			<record rec_id="22" rec_time="3" name="youth" symbol="ju:W" explain="n.青年时期" sound="nj_08b_04.mp3" from="  8:57.987" to="  8:58.640" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="in all" symbol="in R:l" explain="总共；共计" sound="nj_08b_04.mp3" from="  8:59.605" to="  9:00.392" allWordsNum="2"/>
+			<record rec_id="24" rec_time="3" name="talent" symbol="5tAlEnt" explain="n.天才；天赋" sound="nj_08b_04.mp3" from="  9:01.372" to="  9:02.367" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="gather" symbol="5gATE(r)" explain="v.聚集；召集" sound="nj_08b_04.mp3" from="  9:03.302" to="  9:04.133" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="congratulation" symbol="kEn7grAtFU5leiFn" explain="n.（常用复数形式）祝贺；恭喜" sound="nj_08b_04.mp3" from="  9:05.529" to="  9:07.029" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="deserve" symbol="di5zE:v" explain="v.值得；应得" sound="nj_08b_04.mp3" from="  9:08.766" to="  9:09.716" allWordsNum="1"/>
+			<record rec_id="28" rec_time="3" name="delighted" symbol="di5laitid" explain="adj.高兴的；愉快的；快乐的" sound="nj_08b_04.mp3" from="  9:10.562" to="  9:11.483" allWordsNum="1"/>
+			<record rec_id="29" rec_time="3" name="shame" symbol="Feim" explain="n.羞耻；惭愧" sound="nj_08b_04.mp3" from="  9:12.359" to="  9:13.175" allWordsNum="1"/>
+			<record rec_id="30" rec_time="3" name="record" symbol="5rekR:d" explain="n.记录" sound="nj_08b_04.mp3" from="  9:14.081" to="  9:15.091" allWordsNum="1"/>
+			<record rec_id="31" rec_time="3" name="team" symbol="ti:m" explain="n.(游戏或运动的)队" sound="nj_08b_04.mp3" from="  9:16.100" to="  9:16.813" allWordsNum="1"/>
+			<record rec_id="32" rec_time="3" name="design" symbol="di5zain" explain="n.设计" sound="nj_08b_04.mp3" from="  9:17.689" to="  9:18.728" allWordsNum="1"/>
+			<record rec_id="33" rec_time="3" name="feature" symbol="fi:tFE(r)" explain="n.（报刊、电视等的）专题特写" sound="nj_08b_04.mp3" from="  9:19.576" to="  9:20.467" allWordsNum="1"/>
+			<record rec_id="34" rec_time="3" name="complain" symbol="kEm5plein" explain="v.抱怨；埋怨" sound="nj_08b_04.mp3" from="  9:21.328" to="  9:22.293" allWordsNum="1"/>
+			<record rec_id="35" rec_time="3" name="committee" symbol="kE5miti" explain="n.委员会" sound="nj_08b_04.mp3" from="  9:23.228" to="  9:24.104" allWordsNum="1"/>
+			<record rec_id="36" rec_time="3" name="prize" symbol="praiz" explain="n.奖；奖品；奖金" sound="nj_08b_04.mp3" from="  9:24.995" to="  9:25.886" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+	<part part_index="0" name="A new newspaper" page="55">
+			<record rec_id="0" rec_time="25" sound="nj_08b_04.mp3">
+			<subrecord rec_id="1" rec_time="10" name="Soon after the term started, some Grade Eight students at Mayfield School wanted to publish a newspaper." sound="nj_08b_04.mp3" from="  0:12.449" to="  0:20.672" allWordsNum="17"/>
+			<subrecord rec_id="2" rec_time="10" name="They held a meeting. Later, Arthur wrote this report about their meeting for the headmaster." sound="nj_08b_04.mp3" from="  0:20.997" to="  0:28.848" allWordsNum="15"/>
+			</record>
+			<record rec_id="1" rec_time="25" sound="nj_08b_04.mp3">
+			<subrecord rec_id="3" rec_time="10" name="We held a meeting after school. Pansy, Tony, Joyce, Millie and I were at the meeting." sound="nj_08b_04.mp3" from="  0:29.452" to="  0:38.093" allWordsNum="16"/>
+			</record>
+			<record rec_id="2" rec_time="35" sound="nj_08b_04.mp3">
+			<subrecord rec_id="4" rec_time="5" name="First, we decided to elect the chief editor." sound="nj_08b_04.mp3" from="  0:38.139" to="  0:41.856" allWordsNum="8"/>
+			<subrecord rec_id="5" rec_time="5" name="Tony suggested that we should choose Joyce, because she has experience." sound="nj_08b_04.mp3" from="  0:42.274" to="  0:47.245" allWordsNum="11"/>
+			<subrecord rec_id="6" rec_time="5" name="She was an editor of her class newspaper last year." sound="nj_08b_04.mp3" from="  0:47.384" to="  0:50.961" allWordsNum="10"/>
+			<subrecord rec_id="7" rec_time="5" name="Then we all voted for her." sound="nj_08b_04.mp3" from="  0:51.426" to="  0:53.702" allWordsNum="6"/>
+			<subrecord rec_id="8" rec_time="6" name="We elected Joyce to be the chief editor." sound="nj_08b_04.mp3" from="  0:54.074" to="  0:57.093" allWordsNum="8"/>
+			</record>
+			<record rec_id="3" rec_time="25" sound="nj_08b_04.mp3">
+			<subrecord rec_id="9" rec_time="5" name="Then Joyce took charge of the meeting." sound="nj_08b_04.mp3" from="  0:58.115" to="  1:00.717" allWordsNum="7"/>
+			<subrecord rec_id="10" rec_time="5" name="She said that we ought to elect a secretary next." sound="nj_08b_04.mp3" from="  1:01.042" to="  1:04.248" allWordsNum="10"/>
+			<subrecord rec_id="11" rec_time="5" name="She asked for suggestions." sound="nj_08b_04.mp3" from="  1:04.480" to="  1:06.988" allWordsNum="4"/>
+			</record>
+			<record rec_id="4" rec_time="25" sound="nj_08b_04.mp3">
+			<subrecord rec_id="12" rec_time="5" name="Millie suggested me, because I have experience too." sound="nj_08b_04.mp3" from="  1:07.778" to="  1:11.866" allWordsNum="8"/>
+			<subrecord rec_id="13" rec_time="5" name="I was secretary  of the Reading Club last year. " sound="nj_08b_04.mp3" from="  1:12.145" to="  1:15.769" allWordsNum="9"/>
+			<subrecord rec_id="14" rec_time="5" name="Then the others voted for me, and I was elected to be the secretary." sound="nj_08b_04.mp3" from="  1:16.233" to="  1:20.925" allWordsNum="14"/>
+			<subrecord rec_id="15" rec_time="5" name="I started taking notes." sound="nj_08b_04.mp3" from="  1:21.436" to="  1:23.666" allWordsNum="4"/>
+			</record>
+			<record rec_id="5" rec_time="35" sound="nj_08b_04.mp3">
+			<subrecord rec_id="16" rec_time="5" name="Joyce said that the other three would be editors of the paper." sound="nj_08b_04.mp3" from="  1:24.456" to="  1:28.683" allWordsNum="12"/>
+			<subrecord rec_id="17" rec_time="5" name="They would be responsible for different sections of the paper." sound="nj_08b_04.mp3" from="  1:28.916" to="  1:32.772" allWordsNum="10"/>
+			<subrecord rec_id="18" rec_time="5" name="Pansy asked which sections they would have." sound="nj_08b_04.mp3" from="  1:33.375" to="  1:37.045" allWordsNum="7"/>
+			<subrecord rec_id="19" rec_time="8" name="Joyce told them to talk it over among themselves, and said we would decide at the next meeting." sound="nj_08b_04.mp3" from="  1:37.324" to="  1:44.293" allWordsNum="18"/>
+			</record>
+			<record rec_id="6" rec_time="25" sound="nj_08b_04.mp3">
+			<subrecord rec_id="20" rec_time="5" name="Then we made a list of some other things we should discuss." sound="nj_08b_04.mp3" from="  1:45.175" to="  1:48.845" allWordsNum="12"/>
+			<subrecord rec_id="21" rec_time="5" name="For example, how often should we publish the paper?" sound="nj_08b_04.mp3" from="  1:48.985" to="  1:52.933" allWordsNum="9"/>
+			<subrecord rec_id="22" rec_time="5" name="Should it be free to readers, or should they pay for it?" sound="nj_08b_04.mp3" from="  1:53.444" to="  1:57.114" allWordsNum="12"/>
+			<subrecord rec_id="23" rec_time="5" name="What should we call it?" sound="nj_08b_04.mp3" from="  1:57.393" to="  1:59.484" allWordsNum="5"/>
+			</record>
+			<record rec_id="7" rec_time="25" sound="nj_08b_04.mp3">
+			<subrecord rec_id="24" rec_time="5" name="We considered the last question briefly." sound="nj_08b_04.mp3" from="  2:00.877" to="  2:03.432" allWordsNum="6"/>
+			<subrecord rec_id="25" rec_time="5" name="Pansy asked whether we could call it the Mayfield Sun. " sound="nj_08b_04.mp3" from="  2:03.943" to="  2:08.032" allWordsNum="10"/>
+			<subrecord rec_id="26" rec_time="6" name="Millie suggested the Mayfield Mirror or the Mayfield Star." sound="nj_08b_04.mp3" from="  2:08.450" to="  2:14.257" allWordsNum="9"/>
+			</record>
+			<record rec_id="8" rec_time="35" sound="nj_08b_04.mp3">
+			<subrecord rec_id="27" rec_time="8" name="We all had different ideas, and so Joyce said that we should think about this a bit longer." sound="nj_08b_04.mp3" from="  2:15.418" to="  2:21.457" allWordsNum="18"/>
+			<subrecord rec_id="28" rec_time="5" name="We would make a decision about the name at the next meeting." sound="nj_08b_04.mp3" from="   2:21.946" to="   2:25.903" allWordsNum="12"/>
+			<subrecord rec_id="29" rec_time="5" name="We agreed to conclude the meeting then." sound="nj_08b_04.mp3" from="  2:25.921" to="  2:28.856" allWordsNum="7"/>
+			<subrecord rec_id="30" rec_time="6" name="We arranged to have the next meeting in one week's time." sound="nj_08b_04.mp3" from="  2:29.345" to="  2:33.396" allWordsNum="13"/>			
+			</record>
+			<exercise type="4" index="0"/>
+			</part>
+		<part part_index="1" name="My most exciting day" page="62">
+			<record rec_id="0" rec_time="25" sound="nj_08b_04.mp3">
+			<subrecord rec_id="1" rec_time="8" name="My most exciting day was in November last year, at the annual Youth League Party in the park." sound="nj_08b_04.mp3" from="  2:56.803" to="  3:03.785" allWordsNum="18"/>		
+			<subrecord rec_id="2" rec_time="5" name="The chief secretary started the party at 11 p.m." sound="nj_08b_04.mp3" from="  3:03.909" to="  3:08.295" allWordsNum="9"/>		
+			<subrecord rec_id="3" rec_time="10" name="There were many League members from all over the city——about 2,000 in all. It was very exciting." sound="nj_08b_04.mp3" from="  3:08.481" to="  3:16.575" allWordsNum="18"/>		
+			</record>
+			<record rec_id="1" rec_time="35" sound="nj_08b_04.mp3">
+			<subrecord rec_id="4" rec_time="5" name="First, we all said our League Promise." sound="nj_08b_04.mp3" from="  3:17.378" to="  3:20.653" allWordsNum="7"/>		
+			<subrecord rec_id="5" rec_time="3" name="Then we marched around the streets." sound="nj_08b_04.mp3" from="  3:20.962" to="  3:23.557" allWordsNum="6"/>		
+			<subrecord rec_id="6" rec_time="5" name="After that, we all formed into big circles and danced." sound="nj_08b_04.mp3" from="  3:23.866" to="  3:27.882" allWordsNum="10"/>			
+			<subrecord rec_id="7" rec_time="5" name="A helicopter flew over us and took a photograph from the air." sound="nj_08b_04.mp3" from="  3:28.191" to="  3:32.578" allWordsNum="12"/>	
+			<subrecord rec_id="8" rec_time="6" name="I have a copy of that photograph in my classroom now." sound="nj_08b_04.mp3" from="  3:32.825" to="  3:36.841" allWordsNum="11"/>	
+			</record>
+			<record rec_id="2" rec_time="25" sound="nj_08b_04.mp3">
+			<subrecord rec_id="9" rec_time="8" name="After that, we had some activities. There were nineteen games stalls altogether." sound="nj_08b_04.mp3" from="  3:37.706" to="  3:44.317" allWordsNum="12"/>	
+			<subrecord rec_id="10" rec_time="8" name="I played at a game. In the game, people tried to throw table tennis balls into metal jars." sound="nj_08b_04.mp3" from="  3:44.379" to="  3:52.041" allWordsNum="18"/>	
+			<subrecord rec_id="11" rec_time="3" name="It was good fun." sound="nj_08b_04.mp3" from="  3:52.041" to="  3:53.832" allWordsNum="4"/>	
+		  </record>
+			<record rec_id="3" rec_time="45" sound="nj_08b_04.mp3">
+			<subrecord rec_id="12" rec_time="5" name="I also had time to run around and look at the other games." sound="nj_08b_04.mp3" from="  3:54.883" to="  3:59.208" allWordsNum="13"/>	
+			<subrecord rec_id="13" rec_time="5" name="There were some good shows too." sound="nj_08b_04.mp3" from="  3:59.270" to="  4:01.741" allWordsNum="6"/>	
+			<subrecord rec_id="14" rec_time="8" name="There was a talent show and a competition for people wearing the national costumes of different cities." sound="nj_08b_04.mp3" from="  4:01.865" to="  4:08.970" allWordsNum="17"/>	
+			<subrecord rec_id="15" rec_time="6" name="At the end, we gathered in clubs and sang some songs. " sound="nj_08b_04.mp3" from="  4:09.403" to="  4:13.851" allWordsNum="11"/>	
+			<subrecord rec_id="16" rec_time="5" name="It was wonderful to see so many friends together, and I really enjoyed that day." sound="nj_08b_04.mp3" from="  4:13.666" to="  4:20.648" allWordsNum="15"/>	
+			</record>
+			<exercise type="4" index="0"/>
+			</part>
+			<part part_index="2" name="Benjamin Franklin" page="66">
+			<record rec_id="0" rec_time="60" sound="nj_08b_04.mp3">
+			<subrecord rec_id="1" rec_time="12" name="Benjamin Franklin was born in Boston, Massachusetts in the USA on 17 January 1706." sound="nj_08b_04.mp3" from="  5:55.090" to="  6:05.080" allWordsNum="14"/>	
+			<subrecord rec_id="2" rec_time="6" name="He had a very big family——his parents had seventeen children." sound="nj_08b_04.mp3" from="  6:05.814" to="  6:11.193" allWordsNum="11"/>	
+			<subrecord rec_id="3" rec_time="5" name="He was a man of many talents and interests." sound="nj_08b_04.mp3" from="  6:12.066" to="  6:15.454" allWordsNum="9"/>	
+			<subrecord rec_id="4" rec_time="5" name="Among other things, he was a scientist and an inventor." sound="nj_08b_04.mp3" from="  6:15.838" to="  6:20.449" allWordsNum="10"/>	
+			<subrecord rec_id="5" rec_time="10" name="He was naturally curious about how things worked and was always searching for ways to make them better." sound="nj_08b_04.mp3" from="  6:21.008" to="  6:28.972" allWordsNum="18"/>	
+			</record>
+			<record rec_id="1" rec_time="35" sound="nj_08b_04.mp3">
+			<subrecord rec_id="6" rec_time="12" name="In 1747, Benjamin began his experiments on electricity with some very simple equipment. " sound="nj_08b_04.mp3" from="  6:30.194" to="  6:39.311" allWordsNum="13"/>	
+			<subrecord rec_id="7" rec_time="12" name="Although these experiments led to the discovery of some very important findings on electricity, Benjamin did not actually invent it." sound="nj_08b_04.mp3" from="  6:39.660" to="  6:49.755" allWordsNum="20"/>	
+			<subrecord rec_id="8" rec_time="10" name="However, he did invent the lightning conductor, which protects buildings and ships from damage caused by lightning." sound="nj_08b_04.mp3" from="  6:50.314" to="  6:59.466" allWordsNum="17"/>	
+			</record>
+			<record rec_id="2" rec_time="35" sound="nj_08b_04.mp3">
+			<subrecord rec_id="9" rec_time="5" name="Benjamin had poor vision and needed glasses." sound="nj_08b_04.mp3" from="  7:01.177" to="  7:04.880" allWordsNum="7"/>	
+			<subrecord rec_id="10" rec_time="15" name="He was tired of always taking them on and off, so he decided to invent a pair of glasses that would let him see both near and far things at the same time." sound="nj_08b_04.mp3" from="  7:05.404" to="  7:17.350" allWordsNum="33"/>	
+			<subrecord rec_id="11" rec_time="10" name=" He took the two different types of glasses, cut each lens in half, and then put half of each lens into another frame." sound="nj_08b_04.mp3" from="  7:18.362" to="  7:28.003" allWordsNum="23"/>	
+			<subrecord rec_id="12" rec_time="5" name="Nowadays, this type of glasses is known as bifocals." sound="nj_08b_04.mp3" from="  7:28.737" to="  7:34.011" allWordsNum="9"/>	
+			</record>
+			<record rec_id="3" rec_time="35" sound="nj_08b_04.mp3">
+			<subrecord rec_id="13" rec_time="5" name="During his life, he travelled across the Atlantic Ocean eight times." sound="nj_08b_04.mp3" from="  7:35.618" to="  7:40.962" allWordsNum="11"/>	
+			<subrecord rec_id="14" rec_time="5" name="These long journeys gave him a lot of time to learn about how ships worked." sound="nj_08b_04.mp3" from="  7:41.661" to="  7:47.214" allWordsNum="15"/>	
+			<subrecord rec_id="15" rec_time="10" name="He developed a way to make them safer and more efficient by inventing watertight bulkheads." sound="nj_08b_04.mp3" from="  7:48.158" to="  7:55.388" allWordsNum="15"/>	
+			<subrecord rec_id="16" rec_time="15" name="Other developments in safety that he made included establishing the first fire company in Philadelphia, USA, and improving the paving and lighting of the city's streets." sound="nj_08b_04.mp3" from="  7:55.967" to="   8:09.746" allWordsNum="28"/>	
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="3" name="French kids love their newspaper" page="0" source="2">
+			<record rec_id="0" rec_time="17" sound="8B Unit 4.mp3">
+				<subrecord rec_id="1" rec_time="6" name="Kids in France have their own newspaper made by children and for children. " sound="8B Unit 4.mp3" from="  0:06.283" to="  0:11.433" allWordsNum="13"/>
+				<subrecord rec_id="2" rec_time="11" name="Mon Quotidien, called My Daily in English, is the world's only daily newspaper for kids, and it has been going for 18 years. " sound="8B Unit 4.mp3" from="  0:11.836" to="  0:22.413" allWordsNum="23"/>
+			</record>
+			<record rec_id="1" rec_time="21" sound="8B Unit 4.mp3">
+				<subrecord rec_id="3" rec_time="4" name="This newspaper is aimed at 10 to 14-year-olds. " sound="8B Unit 4.mp3" from="  0:24.042" to="  0:27.701" allWordsNum="8"/>
+				<subrecord rec_id="4" rec_time="9" name="Combined with its sister papers for other age groups, Mon Quotidien sells 200,000 copies every day. " sound="8B Unit 4.mp3" from="  0:28.262" to="  0:36.702" allWordsNum="16"/>
+				<subrecord rec_id="5" rec_time="8" name="Kids get news, pictures, features and cartoons from the newspaper, and many of them seem to love it. " sound="8B Unit 4.mp3" from="  0:37.183" to="  0:45.116" allWordsNum="18"/>
+			</record>
+			<record rec_id="2" rec_time="11" sound="8B Unit 4.mp3">
+				<subrecord rec_id="6" rec_time="11" name="To make sure they keep in touch with their readers, the editors are joined twice a week by three kids, who help decide which stories to get into print. " sound="8B Unit 4.mp3" from="  0:46.718" to="  0:57.215" allWordsNum="29"/>
+			</record>
+			<record rec_id="3" rec_time="16" sound="8B Unit 4.mp3">
+				<subrecord rec_id="7" rec_time="16" name="Editor-in-chief Francois Dufour says the success of the newspaper is down to three things: kids who want to read news, parents who just want kids to read, and teachers who welcome anything they can use in their lessons. " sound="8B Unit 4.mp3" from="  0:58.657" to="  1:14.282" allWordsNum="38"/>
+			</record>
+			<record rec_id="4" rec_time="15" sound="8B Unit 4.mp3">
+				<subrecord rec_id="8" rec_time="15" name="Mon Quotidien has launched three other papers for different age groups: Le Petit Quotidien for eight to 10-year-olds, l'Actu for older teenagers, and most recently Quoti for very young readers. " sound="8B Unit 4.mp3" from="  1:15.938" to="  1:30.415" allWordsNum="30"/>
+			</record>
+			<record rec_id="5" rec_time="7" sound="8B Unit 4.mp3">
+				<subrecord rec_id="9" rec_time="7" name="In fact, Mon Quotidien is one of the few newspapers in France whose sales are not falling. " sound="8B Unit 4.mp3" from="  1:31.900" to="  1:38.550" allWordsNum="17"/>
+				</record>
+		<exercise type="4" index="0"/>
+      </part>	
+      <part part_index="4" name="French kids love their newspaper" page="0" source="2">
+      	<article allWordsNum="166">
+            	<![CDATA[
+Kids in France have their own newspaper made by children and for children. Mon Quotidien, called My Daily in English, is the world's only daily newspaper for kids, and it has been going for 18 years.
+This newspaper is aimed at 10 to 14-year-olds. Combined with its sister papers for other age groups, Mon Quotidien sells 200,000 copies every day. Kids get news, pictures, features (特辑，专题) and cartoons from the newspaper, and many of them seem to love it.
+To make sure they keep in touch with their readers, the editors are joined twice a week by three kids, who help decide which stories to get into print.
+Editor-in-chief (主编) Francois Dufour says the success of the newspaper is down to three things: kids who want to read news, parents who just want kids to read, and teachers who welcome anything they can use in their lessons.
+Mon Quotidien has launched three other papers for different age groups: Le Petit Quotidien for eight to 10-year-olds, l'Actu for older teenagers, and most recently Quoti for very young readers.
+In fact, Mon Quotidien is one of the few newspapers in France whose sales are not falling.
+         	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="2" name="True or false. " qtype="2">
+					<question rec_id="0" choice="true">
+						<![CDATA[Mon Quotidien is the world's only daily newspaper for kids.]]>
+					</question>
+					<question rec_id="1" choice="false">
+						<![CDATA[Mon Quotidien is aimed at readers who are eight to 10 years old.]]>
+					</question>
+					<question rec_id="2" choice="true">
+						<![CDATA[Kids love reading Mon Quotidien, because they can get news, pictures, features and cartoons from it.]]>
+					</question>
+					<question rec_id="3" choice="false">
+						<![CDATA[Three kids join the editors once a week to help decide which stories to get into print.]]>
+					</question>
+					<question rec_id="4" choice="false">
+						<![CDATA[There are other two different newspapers for different age groups to read.]]>
+					</question>
+					<question rec_id="5" choice="true">
+						<![CDATA[Mon Quotidien is one of the few newspapers that sell well in France.]]>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+	</package>
+ 

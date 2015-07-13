@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_07a</book_id>
+	<unit_id>nj_07a_03</unit_id>
+	<version>6</version>
+	<unit>unit3</unit>
+	<title>Friends from other countries</title>
+	<words>
+		<part part_index="0" page="21">
+			<record rec_id="0" rec_time="3" name="foreigner" symbol="5fCrEnE(r)" explain="n.外国人" sound="nj_07a_03.mp3" from="3:21.551" to="3:23.066" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="crowded" symbol="5kraudid" explain="adj.拥挤的" sound="nj_07a_03.mp3" from="3:23.066" to="3:24.557" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="example" symbol="ig5zB:mpl" explain="n.例子" sound="nj_07a_03.mp3" from="3:24.557" to="3:25.957" allWordsNum="1"/>
+		    <record rec_id="3" rec_time="3" name="for example" symbol="fR: ig5zB:mpl" explain="例如" sound="nj_07a_03.mp3" from="3:25.957" to="3:27.701" allWordsNum="2"/>
+			<record rec_id="4" rec_time="3" name="Canada" symbol="5kAnEdE" explain="n.加拿大" sound="nj_07a_03.mp3" from="3:27.701" to="3:29.009" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="Canadian" symbol="kE5neidiEn" explain="n.&amp;adj. 加拿大人；加拿大（人）的" sound="nj_07a_03.mp3" from="3:29.009" to="3:30.500" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="Australia" symbol="C5streiliE" explain="n.澳大利亚" sound="nj_07a_03.mp3" from="3:30.500" to="3:31.923" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="Australian" symbol="C5streiliEn" explain="n. &amp; adj. 澳大利亚人；澳大利亚（人）的" sound="nj_07a_03.mp3" from="3:31.923" to="3:33.346" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="India" symbol="5indiE" explain="n.印度" sound="nj_07a_03.mp3" from="3:33.346" to="3:34.860" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="Indian" symbol="5indiEn" explain="n. &amp; adj. 印度人；印度（人）的" sound="nj_07a_03.mp3" from="3:34.860" to="3:36.099" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="Britain" symbol="5britn" explain="n.英国" sound="nj_07a_03.mp3" from="3:36.099" to="3:37.522" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="British" symbol="5britiF" explain="n.&amp;adj. 英国人；英国（人）的" sound="nj_07a_03.mp3" from="3:37.522" to="3:38.991" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="Japanese" symbol="7dVApE5ni:z" explain="n.&amp;adj. 日本人；日本（人）的" sound="nj_07a_03.mp3" from="3:38.991" to="3:40.643" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="penfriend" symbol="5penfrend" explain="n.笔友" sound="nj_07a_03.mp3" from="3:40.643" to="3:42.043" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="magazine" symbol="7mAgE5zi:n" explain="n.杂志" sound="nj_07a_03.mp3" from="3:42.043" to="3:43.970" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="sex" symbol="seks" explain="n.性别" sound="nj_07a_03.mp3" from="3:43.970" to="3:45.645" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="nationality" symbol="7nAFE5nAlEti" explain="n.国籍" sound="nj_07a_03.mp3" from="3:45.645" to="3:47.389" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="international" symbol="7intE5nAFnEl" explain="adj.国际的" sound="nj_07a_03.mp3" from="3:47.389" to="3:48.858" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="yourself" symbol="jR:5self" explain="pron.你自己" sound="nj_07a_03.mp3" from="3:48.858" to="3:50.556" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="male" symbol="meil" explain="n.男性；雄性" sound="nj_07a_03.mp3" from="3:50.556" to="3:51.970" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="Toronto" symbol="tE5rCntEu" explain="n.多伦多" sound="nj_07a_03.mp3" from="3:51.970" to="3:53.447" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="junior" symbol="5dVu:niE(r)" explain="adj.初等的；初级的" sound="nj_07a_03.mp3" from="3:53.447" to="3:55.260" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<sentences>
+		<part part_index="0" name="Look and read" page="16">
+			<record rec_id="0" rec_time="5" name="Garden City is a crowded city." sound="nj_07a_03.mp3" from="0:00.000" to="0:03.380" allWordsNum="6"/>
+			<record rec_id="1" rec_time="5" name="Over six million people live in Garden City." sound="nj_07a_03.mp3" from="0:03.380" to="0:07.090" allWordsNum="8"/>
+			<record rec_id="2" rec_time="5" name="Most of them are Chinese." sound="nj_07a_03.mp3" from="0:07.090" to="0:09.963" allWordsNum="5"/>
+			<record rec_id="3" rec_time="5" name="Many people from other countries live in Garden City, too." sound="nj_07a_03.mp3" from="0:09.963" to="0:14.300" allWordsNum="10"/>
+			<record rec_id="4" rec_time="8" name="For example, there are more than twenty-eight thousand people from Canada in Garden City." sound="nj_07a_03.mp3" from="0:14.300" to="0:20.943" allWordsNum="14"/>
+			<record rec_id="5" rec_time="12" name="There are also people from the USA, Australia, Japan, the UK and India in Garden City." sound="nj_07a_03.mp3" from="0:20.943" to="0:30.307" allWordsNum="16"/>
+			<record rec_id="6" rec_time="5" name="What do we call people from Canada?" sound="nj_07a_03.mp3" from="0:31.474" to="0:34.992" allWordsNum="7"/>
+			<record rec_id="7" rec_time="5" name="We call them Canadians." sound="nj_07a_03.mp3" from="0:35.195" to="0:37.766" allWordsNum="4"/>
+			<exercise type="3" index="0"/>
+		</part>
+	</sentences>
+	<texts>
+		<part part_index="0" name="Read" page="19">
+		  <record rec_id="0" rec_time="5" sound="nj_07a_03.mp3">
+			<subrecord rec_id="1" rec_time="5" name="18 September" sound="nj_07a_03.mp3" from="2:21.788" to="2:23.844" allWordsNum="2"/>
+		  </record>
+		  <record rec_id="1" rec_time="5" sound="nj_07a_03.mp3">
+			<subrecord rec_id="2" rec_time="3" name="Dear Gary." sound="nj_07a_03.mp3" from="2:24.611" to="2:26.063" allWordsNum="3"/>
+		  </record>
+		  <record rec_id="2" rec_time="25" sound="nj_07a_03.mp3">
+			<subrecord rec_id="3" rec_time="5" name="Penfriends International sent your name to my school." sound="nj_07a_03.mp3" from="2:26.300" to="2:30.358" allWordsNum="8"/>
+			<subrecord rec_id="4" rec_time="5" name="I would like to be your penfriend." sound="nj_07a_03.mp3" from="2:30.381" to="2:33.112" allWordsNum="7"/>
+		  </record>
+		  <record rec_id="3" rec_time="25" sound="nj_07a_03.mp3">
+			<subrecord rec_id="5" rec_time="5" name="I am a girl from Garden City." sound="nj_07a_03.mp3" from="2:33.364" to="2:36.163" allWordsNum="7"/>
+			<subrecord rec_id="6" rec_time="5" name="I am Chinese." sound="nj_07a_03.mp3" from="2:36.164" to="2:38.045" allWordsNum="3"/>
+			<subrecord rec_id="7" rec_time="5" name="I am twelve years old." sound="nj_07a_03.mp3" from="2:38.068" to="2:40.133" allWordsNum="5"/>
+			<subrecord rec_id="8" rec_time="5" name="There are four people in my family." sound="nj_07a_03.mp3" from="2:40.202" to="2:43.208" allWordsNum="7"/>
+			<subrecord rec_id="9" rec_time="10" name="They are my mother, my father, my brother, Ben, and me." sound="nj_07a_03.mp3" from="2:43.208" to="2:48.440" allWordsNum="11"/>
+			<subrecord rec_id="10" rec_time="5" name="We have a pet dog." sound="nj_07a_03.mp3" from="2:48.486" to="2:50.298" allWordsNum="5"/>
+			<subrecord rec_id="11" rec_time="5" name="His name is Sam." sound="nj_07a_03.mp3" from="2:50.367" to="2:52.364" allWordsNum="4"/>
+			</record>
+		  <record rec_id="4" rec_time="25" sound="nj_07a_03.mp3">				
+			<subrecord rec_id="12" rec_time="5" name="I go to Rose Garden School." sound="nj_07a_03.mp3" from="2:52.823" to="2:55.897" allWordsNum="6"/>
+			<subrecord rec_id="13" rec_time="10" name="I am in Grade 7.My favourite subjects are Maths and Music." sound="nj_07a_03.mp3" from="2:55.920" to="3:01.955" allWordsNum="11"/>
+			<subrecord rec_id="14" rec_time="10" name="I like riding my bicycle, playing badminton and watching TV." sound="nj_07a_03.mp3" from="3:01.978" to="3:08.059" allWordsNum="10"/>
+		  </record>
+		  <record rec_id="5" rec_time="20" sound="nj_07a_03.mp3">				
+			<subrecord rec_id="15" rec_time="5" name="Here is a photo of my family." sound="nj_07a_03.mp3" from="3:08.633" to="3:11.570" allWordsNum="7"/>
+			<subrecord rec_id="16" rec_time="5" name="Please write soon and tell me about yourself." sound="nj_07a_03.mp3" from="3:11.593" to="3:14.989" allWordsNum="8"/>
+		  </record>
+		  <record rec_id="6" rec_time="5" sound="nj_07a_03.mp3">
+			<subrecord rec_id="17" rec_time="3" name="Yours" sound="nj_07a_03.mp3" from="3:15.197" to="3:16.144" allWordsNum="1"/>
+		  </record>
+		  <record rec_id="7" rec_time="5" sound="nj_07a_03.mp3">
+			<subrecord rec_id="18" rec_time="3" name="Kitty Li" sound="nj_07a_03.mp3" from="3:16.193" to=" 3:17.302" allWordsNum="2"/>
+		  </record>
+			<exercise type="4" index="0"/>
+		</part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="List and say" page="17">
+			<record rec_id="0" rec_time="15" name="Nowadays we can visit countries near or far away from China. We can also read about them in magazines and newspapers. Which country have you visited or read about?" sound="nj_07a_03.mp3" from="0:49.682" to="1:02.892" allWordsNum="29"/>
+			<record rec_id="1" rec_time="5" name="I've visited Japan. It's near China." sound="nj_07a_03.mp3" from="1:02.897" to="1:06.829" allWordsNum="6"/>
+			<record rec_id="2" rec_time="5" name="I've visited the UK. It's far away from China." sound="nj_07a_03.mp3" from="1:07.182" to="1:11.984" allWordsNum="9"/>
+			<record rec_id="3" rec_time="5" name="I've read about Canada. It's far away from China." sound="nj_07a_03.mp3" from="1:11.991" to="1:16.758" allWordsNum="9"/>
+			<record rec_id="4" rec_time="5" name="I've read about India. It's near China." sound="nj_07a_03.mp3" from="1:16.758" to="1:21.266" allWordsNum="7"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="1" name="List and say" page="18">
+			<record rec_id="0" rec_time="10" name="Would you like to write to a penfriend in another country? What would you like to know about your penfriend?" sound="nj_07a_03.mp3" from="1:26.985" to="1:34.501" allWordsNum="20"/>
+			<record rec_id="1" rec_time="10" name="I'd like to write to a girl. I'd like to know her age and interests." sound="nj_07a_03.mp3" from="1:34.893" to="1:40.993" allWordsNum="15"/>
+			<record rec_id="2" rec_time="10" name="I'd like to write to a boy. I'd like to know his favourite food." sound="nj_07a_03.mp3" from="1:41.146" to="1:47.094" allWordsNum="14"/>
+			<record rec_id="3" rec_time="10" name="I'd like to write to a boy. I'd like to know his favourite subjects at school." sound="nj_07a_03.mp3" from="1:47.983" to="1:54.112" allWordsNum="16"/>
+			<exercise type="5" index="0"/>
+		</part>
+	</dialogs>
+</package>
+ 

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_09b</book_id>
+	<unit_id>nj_09b_05</unit_id>
+	<version>4</version>
+	<unit>unit5</unit>
+	<title>A story by Mark Twain</title>
+	<words>
+		<part part_index="0" page="86">
+			<record rec_id="0" rec_time="3" name="include" symbol="in5klu:d" explain="v.使成为......的一部分" sound="nj_09b_05.mp3" from=" 11:33.757" to=" 11:35.871" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="fence" symbol="fens" explain="n.栅栏；篱笆" sound="nj_09b_05.mp3" from=" 11:38.172" to=" 11:40.951" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="sidewalk" symbol="5saidwR:k" explain="n.(马路边的)人行道" sound="nj_09b_05.mp3" from=" 11:42.791" to=" 11:44.624" allWordsNum="1"/>
+		  <record rec_id="3" rec_time="3" name="bucket" symbol="5bQkit" explain="n.（有提梁的）桶" sound="nj_09b_05.mp3" from=" 11:47.351" to=" 11:48.062" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="handle" symbol="5hAndl" explain="n.柄；把手" sound="nj_09b_05.mp3" from=" 11:51.561" to=" 11:53.577" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="depressed" symbol="di5prest" explain="adj.忧愁的；沮丧的" sound="nj_09b_05.mp3" from=" 11:55.137" to=" 11:57.748" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="yard" symbol="jB:d" explain="n.码（长度单位，等于3英尺或0.9144米）" sound="nj_09b_05.mp3" from=" 11:59.986" to=" 12:01.452" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="dip" symbol="dip" explain="v.蘸；浸" sound="nj_09b_05.mp3" from=" 12:03.568" to=" 12:05.974" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="stand back" symbol="stAnd bAk" explain="往后站；退后" sound="nj_09b_05.mp3" from=" 12:07.128" to=" 12:09.900" allWordsNum="2"/>
+			<record rec_id="9" rec_time="3" name="unpainted" symbol="Qn5peintid" explain="adj.未涂油漆的" sound="nj_09b_05.mp3" from=" 12:12.872" to=" 12:14.888" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="come along" symbol="kQm E5lCN" explain="到达；出现" sound="nj_09b_05.mp3" from=" 12:17.509" to=" 12:18.892" allWordsNum="2"/>
+			<record rec_id="11" rec_time="3" name="make fun of" symbol="meik fQn Cv" explain="嘲弄；拿......开玩笑" sound="nj_09b_05.mp3" from=" 12:21.558" to=" 12:23.880" allWordsNum="3"/>
+			<record rec_id="12" rec_time="3" name="just then" symbol="dVQst Ten" explain="那时；就在那时" sound="nj_09b_05.mp3" from=" 12:26.401" to=" 12:28.539" allWordsNum="2"/>
+			<record rec_id="13" rec_time="4" name="go on doing something" symbol="gEu Cn du:iN 5sQmWiN" explain="继续做某事" sound="nj_09b_05.mp3" from=" 12:30.938" to=" 12:33.627" allWordsNum="4"/>
+			<record rec_id="14" rec_time="3" name="ignore" symbol="ig5nR:(r)" explain="v.佯装未见；不予理睬" sound="nj_09b_05.mp3" from=" 12:36.270" to=" 12:38.409" allWordsNum="1"/>
+			<record rec_id="15" rec_time="4" name="chance" symbol="tFB:ns" explain="n.机会；机遇" sound="nj_09b_05.mp3" from=" 12:40.464" to=" 12:42.419" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="properly" symbol="5prCpEli" explain="adv.正确地；适当地" sound="nj_09b_05.mp3" from=" 12:44.107" to=" 12:46.451" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="only" symbol="5Eunli" explain="adj.唯一的；仅有的" sound="nj_09b_05.mp3" from=" 12:49.017" to=" 12:50.545" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="beg" symbol="beg" explain="v.恳求；哀求" sound="nj_09b_05.mp3" from=" 12:52.050" to=" 12:53.883" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="joy" symbol="dVCi" explain="n.高兴；喜悦" sound="nj_09b_05.mp3" from=" 12:55.327" to=" 12:57.243" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="marble" symbol="5mB:bl" explain="n.(玻璃)弹子" sound="nj_09b_05.mp3" from=" 12:58.871" to=" 13:00.887" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="and so on" symbol="And sEu Cn" explain="......等等" sound="nj_09b_05.mp3" from=" 13:03.064" to=" 13:05.080" allWordsNum="3"/>
+			<record rec_id="22" rec_time="3" name="gain" symbol="gein" explain="v.取得；赢得" sound="nj_09b_05.mp3" from=" 13:07.174" to=" 13:09.885" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="sort" symbol="sR:t" explain="n.种类；类别；品种" sound="nj_09b_05.mp3" from=" 13:11.878" to=" 13:13.467" allWordsNum="1"/>
+			<record rec_id="24" rec_time="5" name="trick...into doing something" symbol="trik 5intu du:iN 5sQmWiN" explain="诱使...做某事" sound="nj_09b_05.mp3" from=" 13:15.183" to=" 13:18.577" allWordsNum="4"/>
+			<record rec_id="25" rec_time="3" name="fool" symbol="fu:l" explain="v.欺骗；愚弄" sound="nj_09b_05.mp3" from=" 13:22.698" to="13:25.275" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="tell the truth" symbol="tel Ti: tru:W" explain="讲实话" sound="nj_09b_05.mp3" from=" 13:27.625" to=" 13:29.224" allWordsNum="3"/>
+			<record rec_id="25" rec_time="3" name="lecture" symbol="5lektFE(r)" explain="n.讲座；演讲" sound="nj_09b_05.mp3" from=" 13:31.829" to=" 13:33.479" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="port" symbol="pR:t" explain="n.港口城市；口岸" sound="nj_09b_05.mp3" from=" 13:36.083" to=" 13:37.889" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="silver" symbol="5silvE(r)" explain="n.银" sound="nj_09b_05.mp3" from=" 13:40.544" to=" 13:41.254" allWordsNum="1"/>	
+			<record rec_id="24" rec_time="3" name="no problem" symbol="nEu 5prCblEm" explain="没问题（表示乐于相助或事情容易做）" sound="nj_09b_05.mp3" from=" 13:43.309" to=" 13:45.203" allWordsNum="2"/>
+			<record rec_id="25" rec_time="3" name="come up" symbol="kQm Qp" explain="走到跟前；走近" sound="nj_09b_05.mp3" from=" 13:48.725" to=" 13:50.613" allWordsNum="2"/>								
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Tom Sawyer paints the fence" page="73">
+			<record rec_id="0" rec_time="20" sound="nj_09b_05.mp3">
+			<subrecord rec_id="1" rec_time="6" name="Saturday morning came, and everything was bright and fresh. " sound="nj_09b_05.mp3" from="  0:27.466" to="  0:32.729" allWordsNum="9"/>
+			<subrecord rec_id="2" rec_time="8" name="Every boy in town was happy, except Tom Sawyer. " sound="nj_09b_05.mp3" from="  0:32.729" to="  0:37.678" allWordsNum="9"/>
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_09b_05.mp3">
+			<subrecord rec_id="3" rec_time="8" name="Tom stood on the sidewalk with a bucket of white paint and a brush with a long handle. " sound="nj_09b_05.mp3" from="  0:37.914" to="  0:44.591" allWordsNum="18"/>
+			<subrecord rec_id="4" rec_time="6" name="He looked at the fence that his aunt had told him to paint, and felt very depressed. " sound="nj_09b_05.mp3" from="  0:45.141" to="  0:50.404" allWordsNum="17"/>
+			<subrecord rec_id="5" rec_time="8" name="It was thirty yards long, and three yards high! He dipped his brush in the paint and painted a corner of the fence. " sound="nj_09b_05.mp3" from="  0:50.976" to="  0:58.065" allWordsNum="23"/>
+			<subrecord rec_id="6" rec_time="5" name="Then he stood back and looked at it. " sound="nj_09b_05.mp3" from="  0:59.338" to="  1:01.390" allWordsNum="8"/>
+			<subrecord rec_id="7" rec_time="6" name="The section he had painted was so small, and the unpainted section was so huge! " sound="nj_09b_05.mp3" from="  1:02.374" to="  1:08.177" allWordsNum="15"/>
+			<subrecord rec_id="8" rec_time="5" name="He sat down under a tree to have a rest. " sound="nj_09b_05.mp3" from="  1:09.213" to="  1:11.942" allWordsNum="10"/>
+			</record>
+			<record rec_id="2" rec_time="25" sound="nj_09b_05.mp3">
+			<subrecord rec_id="9" rec_time="5" name="He began to think of the games which he had planned for this day. " sound="nj_09b_05.mp3" from="  1:12.782" to="  1:15.164" allWordsNum="14"/>
+			<subrecord rec_id="10" rec_time="5" name="Soon the boys who were free would come along and make fun of him. " sound="nj_09b_05.mp3" from="  1:15.917" to="  1:19.573" allWordsNum="14"/>
+			<subrecord rec_id="11" rec_time="6" name="But just then, he had a wonderful idea. He picked up his brush and went back to work. " sound="nj_09b_05.mp3" from="  1:20.219" to="  1:26.194" allWordsNum="18"/>
+			</record>
+			<record rec_id="3" rec_time="25" sound="nj_09b_05.mp3">
+			<subrecord rec_id="12" rec_time="5" name="Ben Rogers came along the road, singing happily and carrying an apple. " sound="nj_09b_05.mp3" from="  1:28.337" to="  1:33.173" allWordsNum="12"/>
+			<subrecord rec_id="13" rec_time="5" name="He stopped and looked at Tom. " sound="nj_09b_05.mp3" from="  1:34.278" to="  1:36.419" allWordsNum="6"/>
+			<subrecord rec_id="14" rec_time="5" name="Tom went on painting and ignored Ben. " sound="nj_09b_05.mp3" from="  1:37.145" to="  1:39.770" allWordsNum="7"/>			
+			</record>
+			<record rec_id="4" rec_time="25" sound="nj_09b_05.mp3">
+			<subrecord rec_id="15" rec_time="3" name="I'm going swimming, said Ben. " sound="nj_09b_05.mp3" from="  1:41.013" to="  1:43.155" allWordsNum="9"/>
+			<subrecord rec_id="16" rec_time="3" name="Do you want to go swimming, Tom?" sound="nj_09b_05.mp3" from="  1:43.638" to="  1:45.538" allWordsNum="8"/>
+			<subrecord rec_id="17" rec_time="3" name="But I guess you can't. " sound="nj_09b_05.mp3" from="  1:46.022" to="  1:47.541" allWordsNum="7"/>
+			<subrecord rec_id="18" rec_time="3" name="You have to stay and work, don't you?" sound="nj_09b_05.mp3" from="  1:47.714" to="  1:50.201" allWordsNum="11"/>
+			</record>
+			<record rec_id="5" rec_time="60" sound="nj_09b_05.mp3">
+			<subrecord rec_id="19" rec_time="3" name="Tom went on painting. " sound="nj_09b_05.mp3" from="  1:52.032" to="  1:53.551" allWordsNum="4"/>
+			<subrecord rec_id="20" rec_time="3" name="Work? he said. " sound="nj_09b_05.mp3" from="  1:54.000" to="  1:55.451" allWordsNum="5"/>
+			<subrecord rec_id="21" rec_time="3" name="This isn't work. " sound="nj_09b_05.mp3" from="  1:56.142" to="  1:57.385" allWordsNum="6"/>
+			<subrecord rec_id="22" rec_time="3" name="I'm enjoying myself. " sound="nj_09b_05.mp3" from="  1:58.111" to="  1:59.665" allWordsNum="5"/>
+			<subrecord rec_id="23" rec_time="5" name="Does a boy get a chance to paint a fence like this every day?" sound="nj_09b_05.mp3" from="  2:00.390" to="  2:03.775" allWordsNum="15"/>
+			</record>
+			<record rec_id="6" rec_time="60" sound="nj_09b_05.mp3">			
+			<subrecord rec_id="24" rec_time="4" name="Ben thought about this. " sound="nj_09b_05.mp3" from="  2:05.261" to="  2:06.608" allWordsNum="4"/>
+			<subrecord rec_id="25" rec_time="4" name="Tom went on painting, carefully. " sound="nj_09b_05.mp3" from="  2:07.609" to="  2:10.165" allWordsNum="5"/>
+			<subrecord rec_id="26" rec_time="8" name="Sometimes he stopped and stood back to look at the fence, and then added a bit more paint in just the right place. " sound="nj_09b_05.mp3" from="  2:11.443" to="  2:18.697" allWordsNum="23"/>
+			<subrecord rec_id="27" rec_time="4" name="Ben was watching every move. " sound="nj_09b_05.mp3" from="  2:19.526" to="  2:21.702" allWordsNum="5"/>
+			<subrecord rec_id="28" rec_time="5" name="He was getting more and more interested. " sound="nj_09b_05.mp3" from="  2:22.669" to="  2:24.949" allWordsNum="7"/>
+			</record>
+			<record rec_id="7" rec_time="5" sound="nj_09b_05.mp3">				
+			<subrecord rec_id="29" rec_time="5" name="After a while, he said, Tom, will you let me do some painting?" sound="nj_09b_05.mp3" from="  2:26.123" to="  2:31.304" allWordsNum="15"/>
+			</record>
+			<record rec_id="8" rec_time="25" sound="nj_09b_05.mp3">				
+			<subrecord rec_id="30" rec_time="5" name="Tom thought about it, but said, No, Ben, I can't. " sound="nj_09b_05.mp3" from="  2:32.444" to="  2:36.554" allWordsNum="10"/>
+			<subrecord rec_id="31" rec_time="5" name="You see, Aunt Polly wants is to be done properly. " sound="nj_09b_05.mp3" from="  2:36.900" to="  2:41.044" allWordsNum="10"/>
+		  <subrecord rec_id="32" rec_time="5" name="I'm the only one who can do it right. " sound="nj_09b_05.mp3" from="  2:41.528" to="  2:43.911" allWordsNum="12"/>
+			</record>
+			<record rec_id="9" rec_time="60" sound="nj_09b_05.mp3">			
+			<subrecord rec_id="33" rec_time="3" name="Oh, please, Tom, begged Ben. " sound="nj_09b_05.mp3" from="  2:45.293" to="  2:47.814" allWordsNum="5"/>
+			<subrecord rec_id="34" rec_time="3" name="I can do it. I'll be really careful. " sound="nj_09b_05.mp3" from="  2:48.263" to="  2:51.372" allWordsNum="11"/>
+			<subrecord rec_id="35" rec_time="5" name="Just let me try. I'll give you half of my apple. " sound="nj_09b_05.mp3" from="  2:51.372" to="  2:55.482" allWordsNum="13"/>
+			<subrecord rec_id="36" rec_time="3" name="I'll give you all of it!" sound="nj_09b_05.mp3" from="  2:55.793" to="  2:57.140" allWordsNum="9"/>
+			</record>
+			<record rec_id="10" rec_time="5" sound="nj_09b_05.mp3">			
+			<subrecord rec_id="37" rec_time="5" name="Well, all right, Ben, said Tom. But you must be careful. " sound="nj_09b_05.mp3" from="  2:58.280" to="  3:02.977" allWordsNum="15"/>
+			</record>
+			<record rec_id="11" rec_time="20" sound="nj_09b_05.mp3">			
+			<subrecord rec_id="38" rec_time="6" name="He gave Ben his brush with worry on his face but joy in his heart. " sound="nj_09b_05.mp3" from="  3:04.325" to="  3:08.849" allWordsNum="15"/>
+			<subrecord rec_id="39" rec_time="6" name="He sat down again under the tree, and started to eat the apple that Ben had given him. " sound="nj_09b_05.mp3" from="  3:09.817" to="  3:14.479" allWordsNum="18"/>
+			</record>
+		  <record rec_id="12" rec_time="60" sound="nj_09b_05.mp3">			
+			<subrecord rec_id="40" rec_time="5" name="All day, boys came to make fun, but they stayed to paint. " sound="nj_09b_05.mp3" from="  3:15.585" to="  3:20.213" allWordsNum="12"/>
+			<subrecord rec_id="41" rec_time="5" name="When Ben got tired, Billy Fisher was waiting. " sound="nj_09b_05.mp3" from="  3:20.697" to="  3:24.047" allWordsNum="8"/>
+			<subrecord rec_id="42" rec_time="5" name="He gave Tom a kite for a chance to paint. " sound="nj_09b_05.mp3" from="  3:24.600" to="  3:27.363" allWordsNum="10"/>									
+			<subrecord rec_id="43" rec_time="5" name="Then Johnny Miller offered him twelve marbles, and so on. " sound="nj_09b_05.mp3" from="  3:27.985" to="  3:31.715" allWordsNum="10"/>
+		  </record>
+		  <record rec_id="13" rec_time="60" sound="nj_09b_05.mp3">
+			<subrecord rec_id="44" rec_time="8" name="By the afternoon Tom had gained all sorts of toys, and the fence had gained three coats of paint. " sound="nj_09b_05.mp3" from="  3:32.371" to="  3:38.692" allWordsNum="19"/>
+			<subrecord rec_id="45" rec_time="5" name="Later Aunt Polly came to look at Tom's work. " sound="nj_09b_05.mp3" from="  3:39.245" to="  3:42.319" allWordsNum="11"/>									
+			<subrecord rec_id="46" rec_time="6" name="She was so pleased when she saw the painted fence that she gave Tom a large cake!" sound="nj_09b_05.mp3" from="  3:42.492" to="  3:48.053" allWordsNum="17"/>
+   	  </record>
+			<exercise type="4" index="0"/>
+		</part>
+			<part part_index="1" name="An extract from The Adventures of Tom Sawyer" page="83">
+			<record rec_id="0" rec_time="60" sound="nj_09b_05.mp3">
+      <subrecord rec_id="1" rec_time="8" name="Tom and Becky walked down a winding passage inside a cave, holding their candles high. " sound="nj_09b_05.mp3" from="  8:45.977" to="  8:53.003" allWordsNum="15"/>
+			<subrecord rec_id="2" rec_time="8" name="They saw names and dates written on the wall with candle smoke by other visitors to the cave. " sound="nj_09b_05.mp3" from="  8:53.126" to="  8:59.969" allWordsNum="18"/>
+			<subrecord rec_id="3" rec_time="6" name="Becky and Tom read some of them as they walked along. " sound="nj_09b_05.mp3" from="  9:00.580" to="  9:04.918" allWordsNum="11"/>
+			</record>
+			<record rec_id="1" rec_time="30" sound="nj_09b_05.mp3">
+      <subrecord rec_id="4" rec_time="13" name="They were talking so much that it was a little while before they noticed they were now in a part of the cave that had no writing on the wall. " sound="nj_09b_05.mp3" from="  9:05.284" to="  9:14.938" allWordsNum="30"/>				
+			<subrecord rec_id="5" rec_time="6" name="They used candle smoke to write their own names on the rock and walked on. " sound="nj_09b_05.mp3" from="  9:15.366" to="  9:20.803" allWordsNum="15"/>
+			</record>
+			<record rec_id="2" rec_time="60" sound="nj_09b_05.mp3">
+			<subrecord rec_id="6" rec_time="5" name="Soon they came to a place where a little stream of water was running. " sound="nj_09b_05.mp3" from="  9:21.231" to="  9:26.119" allWordsNum="14"/>
+			<subrecord rec_id="7" rec_time="8" name=" Over the years the cave wall had been shaped by the running stream, and it looked like a frozen waterfall. " sound="nj_09b_05.mp3" from="  9:26.608" to="  9:34.367" allWordsNum="20"/>
+			<subrecord rec_id="8" rec_time="8" name="Tom went behind it and lit it up with his candle so that Becky could see it better. " sound="nj_09b_05.mp3" from="  9:34.856" to="  9:41.393" allWordsNum="18"/>
+			<subrecord rec_id="9" rec_time="6" name="Behind the stone waterfall he found an opening in the rock, leading downwards. " sound="nj_09b_05.mp3" from="  9:42.127" to="  9:48.114" allWordsNum="13"/>
+      <subrecord rec_id="10" rec_time="3" name="At once he wanted to explore it. " sound="nj_09b_05.mp3" from="  9:48.298" to="  9:50.986" allWordsNum="7"/>			
+			</record>
+			<record rec_id="3" rec_time="60" sound="nj_09b_05.mp3">
+			<subrecord rec_id="11" rec_time="7" name="Becky agreed and together they started to walk down into the earth. " sound="nj_09b_05.mp3" from="  9:50.986" to="  9:56.790" allWordsNum="12"/>
+			<subrecord rec_id="12" rec_time="10" name="They wound this way and that, far into the cave, making smoke marks here and there to show the way back. " sound="nj_09b_05.mp3" from="  9:57.218" to=" 10:05.589" allWordsNum="21"/>
+			<subrecord rec_id="13" rec_time="3" name="This was exciting. " sound="nj_09b_05.mp3" from=" 10:05.650" to=" 10:07.421" allWordsNum="3"/>
+			<subrecord rec_id="14" rec_time="6" name="They would have a lot to tell their friends above when they returned. " sound="nj_09b_05.mp3" from=" 10:07.605" to=" 10:12.248" allWordsNum="13"/>
+			</record>
+			<record rec_id="4" rec_time="60" sound="nj_09b_05.mp3">
+			<subrecord rec_id="15" rec_time="10" name="In one place, they found a huge, open space full of shining stalactites, as long and thick as a man's leg. " sound="nj_09b_05.mp3" from=" 10:12.187" to=" 10:20.863" allWordsNum="23"/>
+			<subrecord rec_id="16" rec_time="10" name="They walked around it and left by one of the many passages that opened into it. " sound="nj_09b_05.mp3" from=" 10:21.108" to=" 10:26.545" allWordsNum="16"/>
+			<subrecord rec_id="17" rec_time="5" name="The next place they found was full of bats. " sound="nj_09b_05.mp3" from=" 10:27.156" to=" 10:30.211" allWordsNum="9"/>
+			<subrecord rec_id="18" rec_time="3" name="There were thousands of them. " sound="nj_09b_05.mp3" from=" 10:30.272" to=" 10:32.166" allWordsNum="5"/>
+      <subrecord rec_id="19" rec_time="6" name="The candle light woke them up, and they flew at the candle flames at once. " sound="nj_09b_05.mp3" from=" 10:32.289" to=" 10:37.421" allWordsNum="14"/>
+			</record>
+			<record rec_id="5" rec_time="60" sound="nj_09b_05.mp3">
+			<subrecord rec_id="20" rec_time="7" name="Tom knew this was dangerous and took Becky's hand to hurry her away. " sound="nj_09b_05.mp3" from=" 10:37.910" to=" 10:43.347" allWordsNum="15"/>
+			<subrecord rec_id="21" rec_time="5" name="He pulled her into the first opening he found. " sound="nj_09b_05.mp3" from=" 10:43.531" to=" 10:46.769" allWordsNum="9"/>
+			<subrecord rec_id="22" rec_time="8" name="And none too soon, one of the bats put out Becky's candle with its wings as she ran away. " sound="nj_09b_05.mp3" from=" 10:47.075" to=" 10:53.551" allWordsNum="21"/>
+			<subrecord rec_id="23" rec_time="12" name="The bats chased them quite a long way, but Tom and Becky ran into every new passage that they came to, and at last they got away. " sound="nj_09b_05.mp3" from=" 10:54.284" to=" 11:03.999" allWordsNum="27"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="2" name="An inspiring author—Mark Twain" page="0" source="2">
+			<record rec_id="0" rec_time="30" sound="9B Unit 5.mp3">
+				<subrecord rec_id="1" rec_time="5" name="Are you a big bookworm who is fond of Mark Twain? " sound="9B Unit 5.mp3" from="0:06.937" to="0:10.608" allWordsNum="11"/>
+				<subrecord rec_id="2" rec_time="8" name="He is famous for his stories about Tom Sawyer and his best friend Huckleberry Finn. " sound="9B Unit 5.mp3" from="0:10.806" to="0:16.259" allWordsNum="15"/>
+				<subrecord rec_id="3" rec_time="12" name="The character of Tom was based on Mark's own childhood, while that of Huckleberry Finn was shaped after his best pal, Tom Blankenship. " sound="9B Unit 5.mp3" from="0:16.547" to="0:26.606" allWordsNum="23"/>
+			</record>
+			<record rec_id="1" rec_time="30" sound="9B Unit 5.mp3">
+				<subrecord rec_id="4" rec_time="6" name="Not only did he write fun books, but also the author led a very interesting life. " sound="9B Unit 5.mp3" from="0:27.848" to="0:34.524" allWordsNum="16"/>
+				<subrecord rec_id="5" rec_time="12" name="He was an inventor, with patents on a self-adjusting vest strap, a history game to improve memory and a self-pasting scrapbook. " sound="9B Unit 5.mp3" from="0:34.632" to="0:45.213" allWordsNum="21"/>
+				<subrecord rec_id="6" rec_time="10" name="Unfortunately, the first two were way ahead of their time and the only one that brought him some money was the scrapbook. " sound="9B Unit 5.mp3" from="0:45.357" to="0:53.455" allWordsNum="22"/>
+			</record>
+			<record rec_id="2" rec_time="20" sound="9B Unit 5.mp3">
+				<subrecord rec_id="7" rec_time="12" name="Twain was also one of the passengers aboard the first 'luxury cruise' to Europe, an active man who fought for equality, and an amazing lover of cats. " sound="9B Unit 5.mp3" from="0:54.535" to="1:05.008" allWordsNum="27"/>
+				<subrecord rec_id="8" rec_time="6" name="It is said that at one time, he owned as many as 19 of them. " sound="9B Unit 5.mp3" from="1:05.224" to="1:10.839" allWordsNum="15"/>
+			</record>
+			<record rec_id="3" rec_time="15" sound="9B Unit 5.mp3">
+				<subrecord rec_id="9" rec_time="8" name="Mark's books are often described as the foundation of American literature. " sound="9B Unit 5.mp3" from="1:11.901" to="1:17.371" allWordsNum="11"/>
+				<subrecord rec_id="10" rec_time="5" name="You can choose some of his books to read if you are interested! " sound="9B Unit 5.mp3" from="1:17.671" to="1:21.486" allWordsNum="13"/>
+				</record>
+		<exercise type="4" index="0"/>
+      </part>	
+       <part part_index="3" name="An inspiring author—Mark Twain" page="0" source="2">
+      	<article allWordsNum="174">
+            	<![CDATA[
+Are you a big bookworm who is fond of Mark Twain? He is famous for his stories about Tom Sawyer and his best friend Huckleberry Finn. The character of Tom was based on Mark’s own childhood, while that of Huckleberry Finn was shaped after his best pal, Tom Blankenship.
+Not only did he write fun books, but also the author led a very interesting life. He was an inventor, with patents (专利) on a self-adjusting vest strap (可自我调节的有肩带的背心), a history game to improve memory and a self-pasting scrapbook (可自动黏贴的剪贴簿). Unfortunately, the first two were way ahead of their time and the only one that brought him some money was the scrapbook.
+Twain was also one of the passengers aboard the first “luxury cruise (豪华游轮)” to Europe, an active man who fought for equality (平等), and an amazing lover of cats. It is said that at one time, he owned as many as 19 of them.
+Mark’s books are often described as the foundation of American literature. You can choose some of his books to read if you are interested!
+     	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="2" name="True or false. " qtype="2">
+					<question rec_id="0" choice="true">
+						<![CDATA[Tom Sawyer was based on Mark Twain’s own childhood.]]>
+					</question>
+					<question rec_id="1" choice="true">
+						<![CDATA[Huckleberry Finn was shaped after Mark Twain’s best friend.]]>
+					</question>
+					<question rec_id="2" choice="true">
+						<![CDATA[Mark Twain had a patent on a self-adjusting vest strap.]]>
+					</question>
+					<question rec_id="3" choice="false">
+						<![CDATA[The invention of a history game to improve memory brought Mark Twain some money.]]>
+					</question>
+					<question rec_id="4" choice="true">
+						<![CDATA[Mark Twain once traveled to Europe on a ship.]]>
+					</question>
+					<question rec_id="5" choice="false">
+						<![CDATA[Mark Twain was a fan of dogs.]]>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="Dialog" page="80">
+			<record rec_id="0" rec_time="5" name="Hello, Doris. Let's go to the cinema this afternoon. " sound="nj_09b_05.mp3" from="  6:38.166" to="  6:41.505" allWordsNum="11"/>
+			<record rec_id="1" rec_time="8" name="Sorry, I've got to do the washing. But what about coming to help me? Then we can finish early and go. " sound="nj_09b_05.mp3" from="  6:42.716" to="  6:49.531" allWordsNum="23"/>
+			<record rec_id="2" rec_time="4" name="Well, er, that might be difficult. " sound="nj_09b_05.mp3" from="  6:50.366" to="  6:53.336" allWordsNum="6"/>
+			<record rec_id="3" rec_time="3" name="Why?" sound="nj_09b_05.mp3" from="  6:53.750" to="  6:54.579" allWordsNum="1"/>
+			<record rec_id="4" rec_time="5" name="Um, ah, I don't know how to use a washing machine. " sound="nj_09b_05.mp3" from="  6:55.443" to="  6:59.726" allWordsNum="13"/>
+			<record rec_id="5" rec_time="5" name="No problem. Our washing machine is broken. We'll use our hands. " sound="nj_09b_05.mp3" from="  7:00.037" to="  7:04.769" allWordsNum="13"/>
+			<record rec_id="6" rec_time="7" name="Yes, but you see, er, I'm a boy. Boys don't wash clothes. " sound="nj_09b_05.mp3" from="  7:05.667" to="  7:11.193" allWordsNum="16"/>
+			<record rec_id="7" rec_time="6" name="What rubbish! If you don't help me, I'll never go to the cinema with you again. " sound="nj_09b_05.mp3" from="  7:11.712" to="  7:16.616" allWordsNum="18"/>
+			<record rec_id="8" rec_time="4" name="OK. I'll be right over. " sound="nj_09b_05.mp3" from="  7:17.583" to="  7:20.174" allWordsNum="7"/>
+			<exercise type="5" index="0"/>
+		</part>
+	</dialogs>
+</package>
+ 

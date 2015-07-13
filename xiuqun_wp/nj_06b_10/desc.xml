@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_06b</book_id>
+	<unit_id>nj_06b_10</unit_id>
+	<version>5</version>
+	<unit>unit10</unit>
+	<title>Forests and land</title>
+	<words>
+		<part part_index="0" page="75">
+      <record rec_id="0" rec_time="3" name="forest" symbol="5fCrist" explain="n. 森林" sound="nj_06b_10.mp3" from="  0:04.662" to="  0:05.561" allWordsNum="1"/>
+      <record rec_id="1" rec_time="3" name="hollow" symbol="5hClEu" explain="n. 洞；孔" sound="nj_06b_10.mp3" from="  0:06.887" to="  0:07.742" allWordsNum="1"/>
+      <record rec_id="2" rec_time="3" name="area" symbol="5eEriE" explain="n. 地区" sound="nj_06b_10.mp3" from="  0:08.812" to="  0:09.924" allWordsNum="1"/>
+      <record rec_id="3" rec_time="3" name="provide" symbol="prE5vaid" explain="v. 供给" sound="nj_06b_10.mp3" from="  0:10.908" to="  0:12.106" allWordsNum="1"/>
+      <record rec_id="4" rec_time="3" name="insect" symbol="5insekt" explain="n. 昆虫" sound="nj_06b_10.mp3" from="  0:13.475" to="  0:14.587" allWordsNum="1"/>
+      <record rec_id="5" rec_time="3" name="nest" symbol="nest" explain="n. 窝；巢" sound="nj_06b_10.mp3" from="  0:15.656" to="  0:16.726" allWordsNum="1"/>
+      <record rec_id="6" rec_time="3" name="build" symbol="bild" explain="v. 建造" sound="nj_06b_10.mp3" from="  0:17.753" to="  0:18.822" allWordsNum="1"/>
+      <record rec_id="7" rec_time="3" name="wood" symbol="wud" explain="n. 木头" sound="nj_06b_10.mp3" from="  0:19.891" to="  0:20.790" allWordsNum="1"/>
+      <record rec_id="8" rec_time="3" name="cut down" symbol="kQt daun" explain="砍倒" sound="nj_06b_10.mp3" from="  0:21.774" to="  0:23.185" allWordsNum="2"/>
+      <record rec_id="9" rec_time="3" name="furniture" symbol="5fE:nitFE(r)" explain="n. 家具" sound="nj_06b_10.mp3" from="  0:24.597" to="  0:25.624" allWordsNum="1"/>
+      <record rec_id="10" rec_time="3" name="clay" symbol="klei" explain="n. 黏土" sound="nj_06b_10.mp3" from="  0:26.864" to="  0:27.891" allWordsNum="1"/>
+      <record rec_id="11" rec_time="3" name="wool" symbol="wul" explain="n. 羊毛" sound="nj_06b_10.mp3" from="  0:28.875" to="  0:29.816" allWordsNum="1"/>
+      <record rec_id="12" rec_time="3" name="cotton" symbol="5kCtn" explain="n. 棉花" sound="nj_06b_10.mp3" from="  0:30.971" to="  0:31.955" allWordsNum="1"/>
+      <record rec_id="13" rec_time="3" name="plastic" symbol="5plAstik" explain="n. &amp; adj. 塑料(的)" sound="nj_06b_10.mp3" from="  0:33.153" to="  0:34.222" allWordsNum="1"/>
+      <record rec_id="14" rec_time="3" name="oil" symbol="Cil" explain="n. 油；石油" sound="nj_06b_10.mp3" from="  0:35.420" to="  0:36.532" allWordsNum="1"/>
+      <record rec_id="15" rec_time="3" name="metal" symbol="5metl" explain="n. &amp; adj. 金属(的）" sound="nj_06b_10.mp3" from="  0:37.559" to="  0:38.628" allWordsNum="1"/>
+      <record rec_id="16" rec_time="3" name="ground" symbol="graund" explain="n. 土地" sound="nj_06b_10.mp3" from="  0:39.869" to="  0:41.067" allWordsNum="1"/>
+      <record rec_id="17" rec_time="3" name="sand" symbol="sAnd" explain="n. 沙" sound="nj_06b_10.mp3" from="  0:42.094" to="  0:43.120" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="chopstick" symbol="5tFCpstik" explain="n. 筷子" sound="nj_06b_10.mp3" from="  0:44.232" to="  0:45.516" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="material" symbol="mE5tiEriEl" explain="n. 材料" sound="nj_06b_10.mp3" from="  0:46.543" to="  0:47.826" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="(be) made of" symbol="(bi:) meid Cv" explain="由…制成的" sound="nj_06b_10.mp3" from="  0:49.066" to="  0:50.221" allWordsNum="3"/>
+			<record rec_id="21" rec_time="3" name="wooden" symbol="5wudn" explain="adj. 木制的" sound="nj_06b_10.mp3" from="  0:51.376" to="  0:52.360" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="woollen" symbol="5wulEn" explain="adj. 毛纺的；羊毛的" sound="nj_06b_10.mp3" from="  0:53.515" to="  0:54.457" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/> 
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<sentences>
+		<part part_index="0" name="What do we get from the environment?" page="72">
+			<record rec_id="0" rec_time="8" name="We get wood from trees. We can use wood to make paper. " sound="nj_06b_10.mp3" from="  1:22.687" to="  1:27.223" allWordsNum="12" /> 
+  		<record rec_id="1" rec_time="8" name="We get plastic from oil. We can use plastic to make cups. " sound="nj_06b_10.mp3" from="  1:28.417" to="  1:33.470" allWordsNum="12" /> 
+			<record rec_id="2" rec_time="6" name="We get oil, metal and clay from the ground. " sound="nj_06b_10.mp3" from="  1:34.505" to="  1:38.006" allWordsNum="9" /> 
+			<record rec_id="3" rec_time="5" name="We can use metal to make spoons. " sound="nj_06b_10.mp3" from="  1:38.891" to="  1:41.398" allWordsNum="7" /> 
+			<record rec_id="4" rec_time="5" name="We can use clay to make plates. " sound="nj_06b_10.mp3" from="  1:41.875" to="  1:44.700" allWordsNum="7" /> 
+			<record rec_id="5" rec_time="5" name="We get wool from sheep. " sound="nj_06b_10.mp3" from="  1:45.576" to="  1:47.446" allWordsNum="5" /> 
+			<record rec_id="6" rec_time="5" name="We get cotton from plants. " sound="nj_06b_10.mp3" from="  1:48.361" to="  1:50.629" allWordsNum="5" /> 
+			<record rec_id="7" rec_time="6" name="We can use wool and cotton to make clothes. " sound="nj_06b_10.mp3" from="  1:51.067" to="  1:54.569" allWordsNum="9" /> 
+			<record rec_id="8" rec_time="8" name="We get glass from sand. We can use glass to make bottles. " sound="nj_06b_10.mp3" from="  1:55.404" to="  2:01.413" allWordsNum="12" /> 
+			<exercise type="3" index="0"/>
+			</part>
+	</sentences>
+	<texts>
+		<part part_index="0" name="Forests" page="70">
+			<record rec_id="0" rec_time="60" sound="nj_06b_10.mp3">
+			<subrecord rec_id="1" rec_time="5" name="A forest is a large area of trees. " sound="nj_06b_10.mp3" from="  2:26.982" to="  2:30.147" allWordsNum="8"/>
+			<subrecord rec_id="2" rec_time="12" name="Forests are very important because they provide shelter and food for birds, animals and insects. " sound="nj_06b_10.mp3" from="  2:30.569" to="  2:37.585" allWordsNum="15"/>
+			<subrecord rec_id="3" rec_time="5" name="Birds make their nests in trees. " sound="nj_06b_10.mp3" from="  2:38.165" to="  2:40.908" allWordsNum="6"/>
+			<subrecord rec_id="4" rec_time="8" name="Small animals and insects build their homes in the hollows of trees. " sound="nj_06b_10.mp3" from="  2:41.172" to="  2:45.709" allWordsNum="12"/>
+			<subrecord rec_id="5" rec_time="6" name="Leaves, flowers and fruit are their food. " sound="nj_06b_10.mp3" from="  2:46.236" to="  2:50.087" allWordsNum="7"/>
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_06b_10.mp3">
+			<subrecord rec_id="6" rec_time="7" name="People in some countries cook food with wood. " sound="nj_06b_10.mp3" from="  2:51.723" to="  2:54.624" allWordsNum="8"/>
+			<subrecord rec_id="7" rec_time="5" name="They get wood from forests. " sound="nj_06b_10.mp3" from="  2:55.363" to="  2:57.262" allWordsNum="5"/>
+			</record>
+			<record rec_id="2" rec_time="60" sound="nj_06b_10.mp3">
+			<subrecord rec_id="8" rec_time="8" name="We cut down trees to make houses, furniture and paper. " sound="nj_06b_10.mp3" from="  2:58.580" to="  3:03.064" allWordsNum="10"/>
+			<subrecord rec_id="9" rec_time="10" name="Many animals in forests die because they lose their homes and food. " sound="nj_06b_10.mp3" from="  3:03.803" to="  3:08.603" allWordsNum="12"/>
+			<subrecord rec_id="10" rec_time="5" name="We must stop cutting down forests. " sound="nj_06b_10.mp3" from="  3:09.447" to="  3:11.821" allWordsNum="6"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="1" name="A fantasy forest" page="0" source="2">
+			<record rec_id="0" rec_time="6" sound="6B Unit 10.mp3">
+				<subrecord rec_id="1" rec_time="6" name="With their trunks all bent towards the north, the trees look like something out of a fairy tale." sound="6B Unit 10.mp3" from="  0:05.888" to="  0:11.590" allWordsNum="18"/>
+			</record>
+			<record rec_id="1" rec_time="17" sound="6B Unit 10.mp3">
+				<subrecord rec_id="2" rec_time="12" name="In a small forest in Poland, about 400 strange pine trees grow with a 90 degree bend right at the base of the tree trunks, and all bend towards the north for some reason. " sound="6B Unit 10.mp3" from="  0:13.161" to="  0:24.809" allWordsNum="34"/>
+				<subrecord rec_id="3" rec_time="5" name="These pine trees in the forest were planted around 1930. " sound="6B Unit 10.mp3" from="  0:25.204" to="  0:29.744" allWordsNum="10"/>
+			</record>
+			<record rec_id="2" rec_time="13" sound="6B Unit 10.mp3">
+				<subrecord rec_id="4" rec_time="5" name="Someone says that people at that time made the trees grow in this way.  " sound="6B Unit 10.mp3" from="  0:31.152" to="  0:35.692" allWordsNum="14"/>
+				<subrecord rec_id="5" rec_time="8" name="They used the trees to make bent-wood furniture, and create a memorable experience for anyone visiting Poland. " sound="6B Unit 10.mp3" from="  0:35.918" to="  0:43.223" allWordsNum="17"/>
+				</record>
+		<exercise type="4" index="0"/>
+      </part>	
+		 <part part_index="2" name="A fantasy forest" page="0" source="2">
+      	<article allWordsNum="93">
+            	<![CDATA[
+With their trunks (树干) all bent towards the north, the trees look like something out of a fairy tale.
+In a small forest in Poland, about 400 strange pine trees (松树) grow with a 90 degree bend right at the base of the tree trunks, and all bend towards the north for some reason. These pine trees in the forest were planted around 1930.
+Someone says that people at that time made the trees grow in this way. They used the trees to make bent-wood furniture, and creat a memorable experience for anyone visiting Poland.
+        	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="2" name="True or false. " qtype="2">
+					<question rec_id="0" choice="false">
+						<![CDATA[The pine trees' trunks bend towards the south.]]>
+					</question>
+					<question rec_id="1" choice="true">
+						<![CDATA[There are about 400 pine trees in the forest.]]>
+					</question>
+					<question rec_id="2" choice="true">
+						<![CDATA[The pine trees were planted about 80 years ago.]]>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+		<dialogs>
+		<part part_index="0" name="Dialog" page="74">
+			<record rec_id="0" rec_time="5" name="Touch it. How does it feel?" sound="nj_06b_10.mp3" from="  3:26.993" to="  3:30.142" allWordsNum="6"/>
+      <record rec_id="1" rec_time="5" name="It's hard and rough. " sound="nj_06b_10.mp3" from="  3:30.958" to="  3:32.736" allWordsNum="4"/>	
+			<record rec_id="2" rec_time="5" name="What is it made of? What is it?" sound="nj_06b_10.mp3" from="  3:33.811" to="  3:36.961" allWordsNum="8"/>
+			<record rec_id="3" rec_time="5" name="It's made of wood. It's a wooden box. " sound="nj_06b_10.mp3" from="  3:38.110" to="  3:41.445" allWordsNum="7"/>
+			<record rec_id="4" rec_time="5" name="Touch it. How does it feel?" sound="nj_06b_10.mp3" from="  3:44.666" to="  3:47.631" allWordsNum="6"/>
+      <record rec_id="5" rec_time="5" name="It's soft. " sound="nj_06b_10.mp3" from="  3:47.890" to="  3:49.484" allWordsNum="2"/>
+			<record rec_id="6" rec_time="5" name="What is it made of? What is it?" sound="nj_06b_10.mp3" from="  3:50.262" to="  3:52.893" allWordsNum="8"/>
+			<record rec_id="7" rec_time="5" name="It's made of wool. It's a woollen scarf. " sound="nj_06b_10.mp3" from="  3:53.115" to="  3:56.821" allWordsNum="8"/>
+			<exercise type="5" index="0"/>
+		</part>
+    </dialogs>
+</package>
+ 

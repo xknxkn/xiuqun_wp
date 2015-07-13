@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_08b</book_id>
+	<unit_id>nj_08b_06</unit_id>
+	<version>7</version>
+	<unit>unit6</unit>
+	<title>Travel</title>
+	<words>
+		<part part_index="0" page="107">
+			<record rec_id="0" rec_time="3" name="defeat" symbol="di5fi:t" explain="v.击败；战胜" sound="nj_08b_06.mp3" from="  8:55.309" to="  8:56.136" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="wine" symbol="wain" explain="n.葡萄酒" sound="nj_08b_06.mp3" from="  8:57.405" to="   8:58.080" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="adult" symbol="5AdQlt" explain="n.成年人" sound="nj_08b_06.mp3" from="   8:59.092" to="   8:59.791" allWordsNum="1"/>
+		  <record rec_id="3" rec_time="3" name="France" symbol="frB:ns" explain="n.法国" sound="nj_08b_06.mp3" from="   9:00.780" to="   9:01.567" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="now that" symbol="nau TAt" explain="既然；由于" sound="nj_08b_06.mp3" from="   9:02.651" to="   9:03.398" allWordsNum="2"/>
+			<record rec_id="5" rec_time="3" name="abroad" symbol="E5brR:d" explain="adv.在国外；到国外" sound="nj_08b_06.mp3" from="  9:04.483" to="   9:05.327" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="Paris" symbol="5pAris" explain="n.巴黎" sound="nj_08b_06.mp3" from="   9:06.250" to="   9:06.989" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="destination" symbol="7desti5neiFn" explain="n.目的地；终点" sound="nj_08b_06.mp3" from="    9:07.994" to="   9:08.998" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="world-famous" symbol="7wE:ld 5feimEs" explain="adj.举世闻名的" sound="nj_08b_06.mp3" from="  9:10.106" to="   9:11.376" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="landmark" symbol="5lAndmB:k" explain="n.地标" sound="nj_08b_06.mp3" from="   9:12.476" to="  9:13.296" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="such as" symbol="sQtF Az" explain="例如" sound="nj_08b_06.mp3" from="   9:14.332" to="  9:15.168" allWordsNum="2"/>
+			<record rec_id="11" rec_time="3" name="tree-lined" symbol="5trI: 5laind" explain="adj.绿树成行的；绿树成荫的" sound="nj_08b_06.mp3" from="   9:16.228" to="   9:17.136" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="attraction" symbol="E5trAkFn" explain="n.有吸引力的事或物" sound="nj_08b_06.mp3" from="   9:18.261" to="  9:19.104" allWordsNum="1"/>
+			<record rec_id="13" rec_time="4" name="go on to do something" symbol="gEu Cn tE dU: 5sQmWiN" explain="接着做另一事" sound="nj_08b_06.mp3" from="   9:20.084" to="   9:21.755" allWordsNum="5"/>
+			<record rec_id="14" rec_time="3" name="enable" symbol="i5neibl" explain="v.使能够；使有机会" sound="nj_08b_06.mp3" from="   9:23.788" to="  9:24.462" allWordsNum="1"/>
+			<record rec_id="15" rec_time="4" name="agricultural" symbol="7Agri5kQltFErEl" explain="adj.农业的" sound="nj_08b_06.mp3" from="   9:25.491" to="  9:26.495" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="region" symbol="5rI:dVEn" explain="n.地区；区域；地方" sound="nj_08b_06.mp3" from="   9:27.845" to="  9:28.527" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="wheat" symbol="wi:t" explain="n.小麦" sound="nj_08b_06.mp3" from="   9:29.797" to="  9:30.463" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="sunflower" symbol="5sQnflauE(r)" explain="n.向日葵；葵花" sound="nj_08b_06.mp3" from="   9:31.669" to="   9:32.624" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="vineyard" symbol="5vinjEd" explain="n.葡萄园" sound="nj_08b_06.mp3" from=" 9:33.653" to=" 9:34.496  " allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="excellent" symbol="5eksElEnt" explain="adj.极好的；优秀的" sound="nj_08b_06.mp3" from="     9:35.541" to="   9:36.456" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="scenic" symbol="5si:nik" explain="adj.风景优美的" sound="nj_08b_06.mp3" from="   9:37.340" to="  9:38.095" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="castle" symbol="5kB:sl" explain="n.城堡" sound="nj_08b_06.mp3" from="   9:39.083" to="    9:39.831" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="queen" symbol="kwi:n" explain="n.女王；王后" sound="nj_08b_06.mp3" from="    9:40.795" to="   9:41.469" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="influence" symbol="5inflUEns" explain="n.影响" sound="nj_08b_06.mp3" from="    9:42.409" to="   9:43.422" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="in some ways" symbol="in sQm weiz" explain="在某些方面" sound="nj_08b_06.mp3" from="   9:44.265" to="   9:45.334" allWordsNum="3"/>
+			<record rec_id="26" rec_time="3" name="French" symbol="frentF" explain="adj.法国的" sound="nj_08b_06.mp3" from="   9:46.410" to="   9:47.133" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="cheese" symbol="tFi:z" explain="n.干酪；奶酪" sound="nj_08b_06.mp3" from="    9:48.001" to="    9:48.812" allWordsNum="1"/>
+			<record rec_id="28" rec_time="3" name="leader" symbol="5li:dE(r)" explain="n.领先者；领导者" sound="nj_08b_06.mp3" from="    9:49.688" to="  9:50.459" allWordsNum="1"/>
+			<record rec_id="29" rec_time="3" name="culture" symbol="5kQltFE(r)" explain="n.文化（艺术、音乐、文学等的统称）" sound="nj_08b_06.mp3" from="    9:51.222" to="   9:52.001" allWordsNum="1"/>
+			<record rec_id="30" rec_time="3" name="further" symbol="5fE:TE(r)" explain="v.继续；使......进一步" sound="nj_08b_06.mp3" from="    9:53.054" to="   9:53.753" allWordsNum="1"/>
+			<record rec_id="31" rec_time="3" name="concert" symbol="5kCnsEt" explain="n.音乐会；演奏会" sound="nj_08b_06.mp3" from="   9:54.942" to="   9:55.705" allWordsNum="1"/>
+			<record rec_id="32" rec_time="3" name="throughout" symbol="Wru:5aut" explain="prep.各处；遍及" sound="nj_08b_06.mp3" from="  9:56.693" to="   9:57.408" allWordsNum="1"/>
+			<record rec_id="33" rec_time="3" name="level" symbol="5levl" explain="n.楼层；层面" sound="nj_08b_06.mp3" from="  9:58.468" to="   9:59.224" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="France is calling" page="93">
+			<record rec_id="0" rec_time="25" sound="nj_08b_06.mp3">
+				<subrecord rec_id="1" rec_time="7" name="Now that winter is behind us, many people are starting to think about going abroad for the summer holidays. " sound="nj_08b_06.mp3" from="  0:12.599" to="  0:19.286" allWordsNum="19"/>
+				<subrecord rec_id="2" rec_time="5" name="This year, why not spread your wings and visit France? " sound="nj_08b_06.mp3" from="  0:19.572" to="  0:23.699" allWordsNum="10"/>
+				</record>
+			<record rec_id="1" rec_time="25" sound="nj_08b_06.mp3">
+				<subrecord rec_id="3" rec_time="3" name="Paris is the capital of France. " sound="nj_08b_06.mp3" from="  0:24.821" to="  0:27.075" allWordsNum="6"/>
+				<subrecord rec_id="4" rec_time="5" name="It is one of the most popular tourist destinations in the world. " sound="nj_08b_06.mp3" from="  0:27.085" to="  0:31.385" allWordsNum="12"/>
+			<subrecord rec_id="5" rec_time="12" name="With its world-famous landmarks such as the Eiffel Tower and the Arc de Triomphe, and its wide, tree-lined streets, Paris is one of the most beautiful cities in the world. " sound="nj_08b_06.mp3" from="  0:31.664" to="  0:42.853" allWordsNum="32"/>
+			</record>
+			<record rec_id="2" rec_time="25" sound="nj_08b_06.mp3">
+				<subrecord rec_id="6" rec_time="8" name="If you are taking your children with you, remember that EuroDisney is just an hour away from the centre of Paris. " sound="nj_08b_06.mp3" from=" 0:44.006" to="  0:51.519" allWordsNum="21"/>
+				<subrecord rec_id="7" rec_time="6" name="It offers many of the same attractions as the Disney parks in the USA. " sound="nj_08b_06.mp3" from="  0:51.752" to="  0:57.043" allWordsNum="14"/>
+			</record>
+			<record rec_id="3" rec_time="25" sound="nj_08b_06.mp3">
+				<subrecord rec_id="8" rec_time="6" name="If you want to go on to visit Britain, you can now do it without flying or taking a ferry. " sound="nj_08b_06.mp3" from="  0:58.197" to="  1:03.985" allWordsNum="20"/>
+				<subrecord rec_id="9" rec_time="8" name="The Channel Tunnel enables you to travel by train from Paris to London in about three hours. " sound="nj_08b_06.mp3" from="  1:04.641" to="  1:10.662" allWordsNum="17"/>
+				</record>
+			<record rec_id="4" rec_time="25" sound="nj_08b_06.mp3">
+				<subrecord rec_id="10" rec_time="8" name="The centre of France is a big, agricultural region, growing crops such as wheat and sunflowers, and there are many vineyards. " sound="nj_08b_06.mp3" from="  1:12.334" to="  1:20.980" allWordsNum="21"/>
+				<subrecord rec_id="11" rec_time="4" name="Farmers grow grapes there to make excellent wine. " sound="nj_08b_06.mp3" from="  1:22.218" to="  1:25.519" allWordsNum="8"/>
+				<subrecord rec_id="12" rec_time="9" name="One of the most scenic areas is the Loire Valley, where you can visit the old castles in which the kings and queens of France used to live. " sound="nj_08b_06.mp3" from="  1:26.228" to="  1:34.609" allWordsNum="28"/>
+			</record>
+			<record rec_id="5" rec_time="30" sound="nj_08b_06.mp3">
+				<subrecord rec_id="13" rec_time="5" name="France, like China, is famous for its food. " sound="nj_08b_06.mp3" from="  1:36.101" to="  1:39.498" allWordsNum="8"/>
+				<subrecord rec_id="14" rec_time="7" name="In our city, we can see the influence of France in some ways. Some bakeries provide French bread and cakes. " sound="nj_08b_06.mp3" from="  1:40.154" to="  1:47.625" allWordsNum="20"/>
+				<subrecord rec_id="15" rec_time="5" name="Other popular French products are cheese and wine. " sound="nj_08b_06.mp3" from="  1:48.070" to="  1:51.879" allWordsNum="8"/>
+			</record>
+			<record rec_id="5" rec_time="30" sound="nj_08b_06.mp3">
+				<subrecord rec_id="16" rec_time="5" name="France is a leader in art and culture too. " sound="nj_08b_06.mp3" from="  1:53.012" to="  1:56.176" allWordsNum="9"/>
+				<subrecord rec_id="17" rec_time="6" name="A lot of young students from different countries go to France to further their studies. " sound="nj_08b_06.mp3" from="  1:56.684" to="  2:01.488" allWordsNum="15"/>
+				<subrecord rec_id="18" rec_time="9" name="Every year, French film festivals, exhibitions and concerts are organized throughout the world. " sound="nj_08b_06.mp3" from="  2:02.387" to="  2:09.170" allWordsNum="13"/>
+			</record>	
+			<exercise type="4" index="0"/>                          
+		</part>
+		 <part part_index="1" name="The Leaning Tower of Pisa" page="104">
+			<record rec_id="0" rec_time="60" sound="nj_08b_06.mp3">
+				<subrecord rec_id="1" rec_time="7" name="The Tower of Pisa was built to be the most beautiful bell tower in Italy. " sound="nj_08b_06.mp3" from="5:46.530" to="  5:52.287" allWordsNum="15"/>
+				<subrecord rec_id="2" rec_time="5" name="It is the bell tower of the Pisa Cathedral. " sound="nj_08b_06.mp3" from="  5:52.636" to="  5:56.276" allWordsNum="9"/>
+				<subrecord rec_id="3" rec_time="10" name="However, not only is the marble tower beautiful, it is perhaps the strangest tower in the world. " sound="nj_08b_06.mp3" from="  5:56.784" to="  6:04.636" allWordsNum="17"/>
+				<subrecord rec_id="4" rec_time="7" name="It leans to one side and looks like it is going to fall over. " sound="nj_08b_06.mp3" from="  6:05.038" to="  6:10.519" allWordsNum="14"/>
+				</record>
+			<record rec_id="1" rec_time="60" sound="nj_08b_06.mp3">
+				<subrecord rec_id="5" rec_time="10" name="The building of the tower began in August 1173 and took nearly two hundred years to complete. " sound="nj_08b_06.mp3" from="  6:11.017" to="  6:19.514" allWordsNum="17"/>
+				<subrecord rec_id="6" rec_time="10" name="Nobody is certain who designed the tower, but for many years it was said that Bonanno Pisano was the architect. " sound="nj_08b_06.mp3" from="  6:19.980" to="  6:28.953" allWordsNum="20"/>
+				<subrecord rec_id="7" rec_time="11" name="In 1319, all the floors were finished and years later, work eventually began on the bell chamber at the top. " sound="nj_08b_06.mp3" from="  6:29.758" to="  6:39.461" allWordsNum="20"/>
+				<subrecord rec_id="8" rec_time="5" name="It was officially opened after nearly 200 years of construction. " sound="nj_08b_06.mp3" from="  6:40.213" to="  6:45.133" allWordsNum="13"/>
+				<subrecord rec_id="9" rec_time="3" name="The tower has eight floors. " sound="nj_08b_06.mp3" from="  6:45.684" to="  6:48.721" allWordsNum="5"/>
+				<subrecord rec_id="10" rec_time="8" name="It is 54.5 metres tall with 294 steps up to the bell chamber. " sound="nj_08b_06.mp3" from="  6:48.890" to="  6:56.731" allWordsNum="13"/>
+				<subrecord rec_id="11" rec_time="5" name="From the top, there is a very beautiful view. " sound="nj_08b_06.mp3" from="  6:56.996" to="  7:00.530" allWordsNum="12"/>
+				<subrecord rec_id="12" rec_time="10" name="The Italian scientist, Galileo, once did his famous experiments about gravity and falling objects from the top of the tower. " sound="nj_08b_06.mp3" from="  7:00.975" to="  7:11.260" allWordsNum="20"/>
+				</record>
+			<record rec_id="2" rec_time="60" sound="nj_08b_06.mp3">
+				<subrecord rec_id="13" rec_time="3" name="Why does the tower lean? " sound="nj_08b_06.mp3" from="  7:12.471" to="  7:14.540" allWordsNum="5"/>
+				<subrecord rec_id="14" rec_time="5" name="In fact, it was already leaning while they were building it. " sound="nj_08b_06.mp3" from="  7:14.765" to="  7:19.283" allWordsNum="14"/>
+				<subrecord rec_id="15" rec_time="10" name="As soon as three floors had been built, by 1178, it began to lean as the ground beneath it sank. " sound="nj_08b_06.mp3" from="  7:19.607" to="  7:29.022" allWordsNum="20"/>
+				<subrecord rec_id="16" rec_time="10" name="The builders tried to make the tower straight again as they added more floors, but the lean only got worse as the tower grew. " sound="nj_08b_06.mp3" from="  7:29.838" to="  7:39.155" allWordsNum="24"/>
+				<subrecord rec_id="17" rec_time="11" name="It continued to lean by about 1 millimetre every year until finally, on 7 January 1990, it was closed to the public. " sound="nj_08b_06.mp3" from="  7:39.789" to="  7:50.767" allWordsNum="22"/>
+				<subrecord rec_id="18" rec_time="5" name="For ten years, the rescue of the tower was a serious problem. " sound="nj_08b_06.mp3" from="  7:51.681" to="  7:56.551" allWordsNum="12"/>
+			</record>
+			<record rec_id="3" rec_time="60" sound="nj_08b_06.mp3">
+				<subrecord rec_id="19" rec_time="10" name="The top was leaning over by 5 metres to the south and if its movement was not stopped, the tower would one day fall over. " sound="nj_08b_06.mp3" from="  7:57.283" to="  8:07.473" allWordsNum="25"/>
+				<subrecord rec_id="20" rec_time="8" name="Measurements taken in 1911 showed that the tower would collapse by 2050, if not sooner. " sound="nj_08b_06.mp3" from="  8:08.022" to="  8:16.185" allWordsNum="15"/>
+				<subrecord rec_id="21" rec_time="8" name=" After 10 years of hard work, it was officially reopened on 16 June 2001. " sound="nj_08b_06.mp3" from="  8:16.790" to="  8:24.854" allWordsNum="14"/>
+				<subrecord rec_id="22" rec_time="10" name="However, it was not opened to the public until the end of 2001 and even now, the number of visitors is restricted. " sound="nj_08b_06.mp3" from="  8:25.502" to="  8:36.170" allWordsNum="22"/>
+				<subrecord rec_id="23" rec_time="15" name="It is now safe for the next 300 years because engineers have reduced the lean by 50 centimetres to give it the same lean that it had in 1838. " sound="nj_08b_06.mp3" from="  8:36.494" to="  8:49.822" allWordsNum="28"/>
+				</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="2" name="Best trips" page="0" source="2">
+			<record rec_id="0" rec_time="4" sound="8B Unit 6.mp3">
+				<subrecord rec_id="1" rec_time="4" name="Best places around the world that you can't miss— " sound="8B Unit 6.mp3" from="  0:05.633" to="  0:08.835" allWordsNum="9"/>
+			</record>
+			<record rec_id="1" rec_time="4" sound="8B Unit 6.mp3">
+				<subrecord rec_id="2" rec_time="4" name="Marseille—France's new capital of culture " sound="8B Unit 6.mp3" from="  0:10.318" to="  0:13.994" allWordsNum="5"/>
+			</record>
+			<record rec_id="2" rec_time="20" sound="8B Unit 6.mp3">
+				<subrecord rec_id="3" rec_time="7" name="Cities may rise and fall, but the great ones—and Marseille is among them—always rise again. " sound="8B Unit 6.mp3" from="  0:15.595" to="  0:22.533" allWordsNum="17"/>
+				<subrecord rec_id="4" rec_time="13" name="Founded by ancient Greeks, France's second largest city was already 500 years old and a combination of many cultures when Caesar aid siege in 49 B.C. " sound="8B Unit 6.mp3" from="  0:22.830" to="  0:34.927" allWordsNum="26"/>
+			</record>
+			<record rec_id="3" rec_time="37" sound="8B Unit 6.mp3">
+				<subrecord rec_id="5" rec_time="11" name="These days Marseille has every right to act the show-off as it and the surrounding Provence region take up the role of 2013 European Capital of Culture. " sound="8B Unit 6.mp3" from="  0:36.172" to="  0:46.727" allWordsNum="27"/>
+				<subrecord rec_id="6" rec_time="7" name="There is a new energy in the city, especially in music, theater and museums. " sound="8B Unit 6.mp3" from="  0:46.978" to="  0:53.131" allWordsNum="14"/>
+				<subrecord rec_id="7" rec_time="13" name="Marseille's old pleasures remain as atrractive as ever: a walk along the narrow lanes of the Panier Quarter, the aromas of a good bouillabaisse, and a boat ride into the inlets. " sound="8B Unit 6.mp3" from="  0:53.487" to="    1:06.417" allWordsNum="31"/>
+				<subrecord rec_id="8" rec_time="6" name="No wonder visitors are becoming big fans of France's southern gateway. " sound="8B Unit 6.mp3" from="  1:06.819" to="  1:11.901" allWordsNum="11"/>
+			</record>
+			<record rec_id="4" rec_time="3" sound="8B Unit 6.mp3">
+				<subrecord rec_id="9" rec_time="3" name="Travel tips " sound="8B Unit 6.mp3" from="  1:13.328" to="  1:14.710" allWordsNum="2"/>
+			</record>
+			<record rec_id="5" rec_time="10" sound="8B Unit 6.mp3">
+				<subrecord rec_id="10" rec_time="10" name="When to go: June to August for beaches, April to May and September to October for comfortable temperatures and lighter tourist traffic. " sound="8B Unit 6.mp3" from="  1:16.271" to="  1:26.169" allWordsNum="22"/>
+			</record>
+			<record rec_id="6" rec_time="10" sound="8B Unit 6.mp3">
+				<subrecord rec_id="11" rec_time="10" name="Fun Fact: France's newest national park, Parc National des Calanques, is located on the outskirts of Marseille. " sound="8B Unit 6.mp3" from="  1:27.596" to="  1:37.494" allWordsNum="17"/>
+			</record>
+			<record rec_id="7" rec_time="4" sound="8B Unit 6.mp3">
+				<subrecord rec_id="12" rec_time="4" name="Raja Ampat—An Eden in Indonesia " sound="8B Unit 6.mp3" from="  1:38.876" to="  1:42.264" allWordsNum="6"/>
+			</record>
+			<record rec_id="8" rec_time="14" sound="8B Unit 6.mp3">
+				<subrecord rec_id="13" rec_time="4" name="Raja Ampat is a group of small islands in Indonesia. " sound="8B Unit 6.mp3" from="  1:43.780" to="  1:47.704" allWordsNum="10"/>
+				<subrecord rec_id="14" rec_time="4" name="It has been dubbed the Amazon of the Oceans. " sound="8B Unit 6.mp3" from="  1:48.061" to="  1:51.003" allWordsNum="9"/>
+				<subrecord rec_id="15" rec_time="3" name="Is that hyperbole? " sound="8B Unit 6.mp3" from="  1:51.538" to="  1:53.099" allWordsNum="3"/>
+				<subrecord rec_id="16" rec_time="3" name="Not really. " sound="8B Unit 6.mp3" from="  1:53.589" to="  1:54.748" allWordsNum="2"/>
+			</record>
+			<record rec_id="9" rec_time="26" sound="8B Unit 6.mp3">
+				<subrecord rec_id="17" rec_time="6" name="There are single reefs here containing more species than the entire Caribbean. " sound="8B Unit 6.mp3" from="  1:56.264" to="  2:01.436" allWordsNum="12"/>
+				<subrecord rec_id="18" rec_time="17" name="You can meet many interesting and rare sea animals there, such as Raja Ampat's walking shark and pygmy seahorse, along with more common creatures—manta rays, leatherback turtles, and bumphead parrotfish. " sound="8B Unit 6.mp3" from="  2:01.704" to="  2:18.468" allWordsNum="30"/>
+				<subrecord rec_id="19" rec_time="3" name="Not to mention coral species. " sound="8B Unit 6.mp3" from="  2:18.825" to="  2:21.634" allWordsNum="5"/>
+			</record>
+			<record rec_id="10" rec_time="3" sound="8B Unit 6.mp3">
+				<subrecord rec_id="20" rec_time="3" name="Travel tips " sound="8B Unit 6.mp3" from="  2:22.975" to="  2:24.313" allWordsNum="2"/>
+			</record>
+			<record rec_id="11" rec_time="12" sound="8B Unit 6.mp3">
+				<subrecord rec_id="21" rec_time="4" name="When to go: Late September through early June. " sound="8B Unit 6.mp3" from="  2:25.739" to="  2:29.440" allWordsNum="8"/>
+				<subrecord rec_id="22" rec_time="8" name="Be aware that mid-June through mid-September is monsoon season, with a lot of rainfall. " sound="8B Unit 6.mp3" from="  2:29.886" to="  2:36.529" allWordsNum="14"/>
+			</record>
+			<record rec_id="12" rec_time="9" sound="8B Unit 6.mp3">
+				<subrecord rec_id="23" rec_time="9" name="Fun Fact: On Raja Ampat's Um Island, bats circle the blue skies by day and seagulls take flight at night. " sound="8B Unit 6.mp3" from="    2:38.045" to="   2:46.873" allWordsNum="20"/>
+			</record>
+		<exercise type="4" index="0"/>
+      </part>	
+      <part part_index="3" name="Best trips" page="0" source="2">
+      	<article allWordsNum="322">
+            	<![CDATA[
+Best places around the world that you can't miss—
+<b><font color='#000000'>Marseille—France's new capital of culture</font></b>
+马赛——法国新兴的文化中心
+Cities may rise and fall, but the great ones—and Marseille is among them—always rise again. Founded by ancient Greeks, France's second largest city was already 500 years old and a combination of many cultures when Caesar (凯撒) laid siege (围城) in 49 B.C. 	These days Marseille has every right to act the show-off as it and the surrounding Provence (普罗旺斯) region take up the role of 2013 European Capital of Culture. There is a new energy in the city, especially in music, theater and museums. Marseille's old pleasures remain as atrractive as ever: a walk along the narrow lanes of the Panier Quarter (北非移民区), the aromas of a good bouillabaisse (浓味鱼肉汤), and a boat ride into the inlets (水湾，小港). No wonder visitors are becoming big fans of France's southern gateway.
+<b><font color='#000000'>Travel tips</font></b>
+When to go: June to August for beaches, April to May and September to October for comfortable temperatures and lighter tourist traffic.
+Fun Fact: France's newest national park, Parc National des Calanques (小海湾国家公园), is located on the outskirts (郊区) of Marseille.
+<b><font color='#000000'>Raja Ampat—An Eden in Indonesia</font></b>
+四王群岛——印尼的海上伊甸园
+Raja Ampat is a group of small islands in Indonesia. It has been dubbed the Amazon of the Oceans. Is that hyperbole? Not really.
+There are single reefs (礁) here containing more species than the entire  Caribbean (加勒比海). You can meet many interesting and rare sea animals there, such as Raja Ampat's walking shark and pygmy seahorse (豆丁海马), along with more common creatures—manta rays (蝠鲼), leatherback turtles, and bumphead parrotfish (隆头鹦哥鱼). Not to mention coral species.
+<b><font color='#000000'>Travel tips</font></b>
+When to go: Late September through early June. Be aware that mid-June through mid-September is monsoon season (季风季节), with a lot of rainfall.
+Fun Fact: On Raja Ampat's Um Island, bats circle the blue skies by day and seagulls take flight at night.
+    	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="120">
+				<section rec_id="0" name="Choose the best answer. " qtype="1" >
+					<question rec_id="0" choice="A">
+						<![CDATA[Marseille was founded ______.]]>
+						<choice item="A" name="by ancient Greeks"/>
+						<choice item="B" name="by Caesar"/>
+						<choice item="C" name="in 49 B.C. "/>
+						<choice item="D" name="50 years ago"/>
+					</question>
+					<question rec_id="1" choice="D">
+						<![CDATA[Which of the following statements is false?]]>
+						<choice item="A" name="Marseille is the second largest city in France. "/>
+						<choice item="B" name="Marseille has a history of 500 years. "/>
+						<choice item="C" name="Marseille is surrounded by the Provence region. "/>
+						<choice item="D" name="Marseille is located in the north of France. "/>
+					</question>
+					<question rec_id="2" choice="D">
+						<![CDATA[We can infer from the passage that ______ sees fewer visitors to Marseille.]]>
+						<choice item="A" name="June"/>
+						<choice item="B" name="July"/>
+						<choice item="C" name="August"/>
+						<choice item="D" name="September"/>
+					</question>
+					<question rec_id="3" choice="C">
+						<![CDATA[Raja Ampat is ______ in Indonesia.]]>
+						<choice item="A" name="an island"/>
+						<choice item="B" name="a sea park"/>
+						<choice item="C" name="a group of islands"/>
+						<choice item="D" name="a sea area"/>
+					</question>
+					<question rec_id="4" choice="A">
+						<![CDATA["Hyperbole" most probably means ______.]]>
+						<choice item="A" name="a way of describing something by saying it is much bigger, smaller, etc. than it actually is"/>
+						<choice item="B" name="a way of describing something according to the facts"/>
+						<choice item="C" name="a way of describing something based on false information"/>
+						<choice item="D" name="none of the above"/>
+					</question>
+					<question rec_id="5" choice="C">
+						<![CDATA[Raja Ampat is dubbed the Amazon of the Oceans because ______.]]>
+						<choice item="A" name="it is very big"/>
+						<choice item="B" name="it is very famous"/>
+						<choice item="C" name="it has many sea animals"/>
+						<choice item="D" name="it has many visitors"/>
+					</question>
+					<question rec_id="6" choice="B">
+						<![CDATA[Which of the following is a rare sea animal in Raja Ampat?]]>
+						<choice item="A" name="The manta ray. "/>
+						<choice item="B" name="The pygmy seahorse. "/>
+						<choice item="C" name="The coral. "/>
+						<choice item="D" name="The bumphead parrotfish. "/>
+					</question>
+					<question rec_id="7" choice="C">
+						<![CDATA[In June, it is ______.]]>
+						<choice item="A" name="recommended to visit Raja Ampat but not Marsaille's beaches"/>
+						<choice item="B" name="recommended to visit Marsaille's beaches but not Raja Ampat"/>
+						<choice item="C" name="recommended to visit both Raja Ampat and Marsaille's beaches"/>
+						<choice item="D" name="not recommended to visit Raja Ampat or Marsaille's beaches"/>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="Speaking" page="101">
+			<record rec_id="0" rec_time="6" name="Excuse me. How do I get to People's Square? " sound="nj_08b_06.mp3" from="  5:11.662" to="  5:16.019" allWordsNum="9"/>
+			<record rec_id="1" rec_time="10" name="Take the second turning on the left. Walk to the end of the road. You'll see People's Square in front of you. " sound="nj_08b_06.mp3" from="  5:16.388" to="  5:22.795" allWordsNum="16"/>
+			<record rec_id="2" rec_time="5" name="Can you also tell me the way to the post office? " sound="nj_08b_06.mp3" from="  5:22.921" to="  5:26.524" allWordsNum="14"/>
+			<record rec_id="3" rec_time="10" name="Take the first turning on your right. Walk to the end of the road. You'll see the post office across the street on your left. " sound="nj_08b_06.mp3" from="  5:26.510" to="  5:35.155" allWordsNum="25"/>
+			<record rec_id="4" rec_time="3" name="Thanks very much. " sound="nj_08b_06.mp3" from="  5:35.290" to="  5:36.722" allWordsNum="3"/>
+			<record rec_id="5" rec_time="3" name="No problem. " sound="nj_08b_06.mp3" from="  5:36.722" to="  5:38.083" allWordsNum="2"/>
+			<exercise type="5" index="0"/>
+			</part>
+	</dialogs>
+</package>
+ 

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_06b</book_id>
+	<unit_id>nj_06b_02</unit_id>
+	<version>6</version>
+	<unit>unit2</unit>
+	<title>A trip to Los Angeles</title>
+	<words>
+		<part part_index="0" page="12">
+      <record rec_id="0" rec_time="3" name="airport" symbol="5ZEpR:t" explain="n. 机场" sound="nj_06b_02.mp3" from="  0:04.530" to="  0:05.796" allWordsNum="1"/>
+      <record rec_id="1" rec_time="3" name="Los Angeles" symbol="7lCs 5AndVEli:z" explain="n. 洛杉矶" sound="nj_06b_02.mp3" from="  0:07.209" to="  0:08.719" allWordsNum="2"/>
+      <record rec_id="2" rec_time="3" name="suitcase" symbol="5su:tkeis" explain="n. 手提箱" sound="nj_06b_02.mp3" from="  0:10.326" to="  0:11.544" allWordsNum="1"/>
+      <record rec_id="3" rec_time="3" name="silk" symbol="silk" explain="n. 丝绸" sound="nj_06b_02.mp3" from="  0:12.908" to="  0:13.931" allWordsNum="1"/>
+      <record rec_id="4" rec_time="3" name="before" symbol="bi5fR:(r)" explain="adv. 以前" sound="nj_06b_02.mp3" from="  0:15.148" to="  0:16.463" allWordsNum="1"/>
+      <record rec_id="5" rec_time="3" name="T-shirt" symbol="5ti:FE:t" explain="n. T恤衫" sound="nj_06b_02.mp3" from="  0:17.730" to="  0:19.142" allWordsNum="1"/>
+      <record rec_id="6" rec_time="3" name="several" symbol="5sevrEl" explain="adj. 几个" sound="nj_06b_02.mp3" from="  0:20.945" to="  0:22.016" allWordsNum="1"/>
+      <record rec_id="7" rec_time="3" name="however" symbol="hau5evE(r)" explain="adv. 然而" sound="nj_06b_02.mp3" from="  0:23.575" to="  0:24.598" allWordsNum="1"/>
+      <record rec_id="8" rec_time="3" name="pack" symbol="pAk" explain="v. 装（箱）" sound="nj_06b_02.mp3" from="  0:25.913" to="  0:27.082" allWordsNum="1"/>
+      <record rec_id="9" rec_time="3" name="flight" symbol="flait" explain="n. 航班" sound="nj_06b_02.mp3" from="  0:28.154" to="  0:29.323" allWordsNum="1"/>
+      <record rec_id="10" rec_time="3" name="passenger" symbol="5pAsindVE(r)" explain="n. 乘客；旅客" sound="nj_06b_02.mp3" from="  0:30.541" to="  0:31.612" allWordsNum="1"/>
+      <record rec_id="11" rec_time="3" name="departure" symbol="di5pB:tFE(r)" explain="n. 离开；出发" sound="nj_06b_02.mp3" from="  0:32.879" to="  0:34.048" allWordsNum="1"/>
+      <record rec_id="12" rec_time="3" name="have to" symbol="hAv tE" explain="modal v. 不得不" sound="nj_06b_02.mp3" from="  0:35.314" to="  0:36.386" allWordsNum="2"/>
+      <record rec_id="13" rec_time="3" name="worry" symbol="5wQri" explain="v. 担心" sound="nj_06b_02.mp3" from="  0:37.604" to="  0:38.578" allWordsNum="1"/>
+      <record rec_id="14" rec_time="3" name="London" symbol="5lQndEn" explain="n. 伦敦" sound="nj_06b_02.mp3" from="  0:39.844" to="  0:40.916" allWordsNum="1"/>
+      <record rec_id="15" rec_time="3" name="note" symbol="nEut" explain="n. 注释；提醒" sound="nj_06b_02.mp3" from="  0:42.182" to="  0:43.108" allWordsNum="1"/>
+      <record rec_id="16" rec_time="3" name="trolley" symbol="5trCli" explain="n. 手推车" sound="nj_06b_02.mp3" from="  0:44.179" to="  0:45.251" allWordsNum="1"/>
+      <record rec_id="17" rec_time="3" name="passport" symbol="5pB:spR:t" explain="n. 护照" sound="nj_06b_02.mp3" from="  0:46.566" to="  0:47.589" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="boarding card" symbol="5bR:diN kB:d" explain="n. 登机牌" sound="nj_06b_02.mp3" from="  0:48.807" to="  0:50.073" allWordsNum="2"/>
+			<record rec_id="19" rec_time="3" name="name tag" symbol="5neim tAg" explain="n. 姓名牌" sound="nj_06b_02.mp3" from="  0:51.730" to="  0:52.947" allWordsNum="2"/>
+			<record rec_id="20" rec_time="3" name="bring" symbol="briN" explain="v. 带......到某处；带来" sound="nj_06b_02.mp3" from="  0:54.311" to="  0:55.285" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="dollar" symbol="5dClE(r)" explain="n. 元（美国、加拿大等国家货币单位）" sound="nj_06b_02.mp3" from="  0:56.454" to="  0:57.526" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="address" symbol="E5dres" explain="n. 地址" sound="nj_06b_02.mp3" from="  0:58.695" to="  0:59.718" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="checklist" symbol="5tFeklist" explain="n. 清单；核对表" sound="nj_06b_02.mp3" from="  1:01.033" to="  1:02.251" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/> 
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="A trip to Los Angeles" page="8">
+			<record rec_id="0" rec_time="30" sound="nj_06b_02.mp3">
+			<subrecord rec_id="1" rec_time="10" name="Mrs Wang and Grandma are going to Los Angeles, the USA, this Sunday to see Aunt Judy and Uncle Mike. " sound="nj_06b_02.mp3" from="  1:22.347" to="  1:32.085" allWordsNum="20"/>
+			<subrecord rec_id="2" rec_time="5" name="Aunt Judy and Uncle Mike have lived in Los Angeles for six years. " sound="nj_06b_02.mp3" from="  1:32.948" to="  1:37.886" allWordsNum="13"/>
+			<subrecord rec_id="3" rec_time="5" name="Mrs Wang and Grandma have not been to the USA before. " sound="nj_06b_02.mp3" from="  1:38.922" to="  1:42.928" allWordsNum="11"/>
+			<subrecord rec_id="4" rec_time="5" name="They plan to stay there for two weeks. " sound="nj_06b_02.mp3" from="  1:43.757" to="  1:46.520" allWordsNum="8"/>
+			</record>
+			<record rec_id="1" rec_time="35" sound="nj_06b_02.mp3">
+			<subrecord rec_id="5" rec_time="5" name="They have already done a lot of things. " sound="nj_06b_02.mp3" from="  1:47.797" to="  1:50.111" allWordsNum="8"/>
+			<subrecord rec_id="6" rec_time="5" name="They have bought their plane tickets. " sound="nj_06b_02.mp3" from="  1:50.940" to="  1:53.046" allWordsNum="6"/>
+			<subrecord rec_id="7" rec_time="6" name="Grandma has bought Aunt Judy plenty of T-shirts and several silk scarves. " sound="nj_06b_02.mp3" from="  1:53.703" to="  1:59.504" allWordsNum="12"/>
+			<subrecord rec_id="8" rec_time="5" name="However, they have not packed their suitcases yet. " sound="nj_06b_02.mp3" from="  2:00.126" to="  2:03.924" allWordsNum="8"/>
+			</record>
+			<record rec_id="2" rec_time="25" sound="nj_06b_02.mp3">
+			<subrecord rec_id="9" rec_time="5" name="'Have you got enough space in your suitcase?' asks Grandma. " sound="nj_06b_02.mp3" from="  2:05.483" to="  2:09.627" allWordsNum="10"/>
+			<subrecord rec_id="10" rec_time="5" name="'Yes. I haven't got too many things. " sound="nj_06b_02.mp3" from="  2:10.352" to="  2:13.460" allWordsNum="7"/>
+			<subrecord rec_id="11" rec_time="8" name="There's plenty of space in my suitcase for your clothes and the silk scarves,' answers Mrs Wang. " sound="nj_06b_02.mp3" from="  2:14.116" to="  2:20.608" allWordsNum="17"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="1" name="Chicago airport to hire goats" page="0" source="2">
+			<record rec_id="0" rec_time="5" sound="6B Unit 2.mp3">
+				<subrecord rec_id="1" rec_time="5" name="A Chicago airport wants to hire goats to trim the grass. " sound="6B Unit 2.mp3" from="  0:07.017" to="  0:11.406" allWordsNum="11"/>
+			</record>
+		<record rec_id="1" rec_time="13" sound="6B Unit 2.mp3">
+			  <subrecord rec_id="2" rec_time="5" name="The Chicago Department of Aviation has put out an ad for the goats. " sound="6B Unit 2.mp3" from="  0:13.117" to="  0:17.878" allWordsNum="13"/>
+				<subrecord rec_id="3" rec_time="8" name="They want to bring in thirty of the animals to eat grass and weeds in an area that's hard to reach with a lawn mower. " sound="6B Unit 2.mp3" from="  0:18.226" to="  0:25.565" allWordsNum="25"/>
+			</record>
+		<record rec_id="2" rec_time="14" sound="6B Unit 2.mp3">
+			  <subrecord rec_id="4" rec_time="9" name="They think goats will be more environmentally friendly than using a mower and other chemicals to keep the grass in check. " sound="6B Unit 2.mp3" from="  0:27.202" to="  0:35.410" allWordsNum="20"/>
+				<subrecord rec_id="5" rec_time="5" name="They're also planning to hire a goat herder to look after them. " sound="6B Unit 2.mp3" from="  0:35.832" to="  0:39.998" allWordsNum="12"/>
+			</record>
+		<record rec_id="3" rec_time="9" sound="6B Unit 2.mp3">
+			  <subrecord rec_id="6" rec_time="9" name="The grass is protected by a security fence, so the goats won't be in any danger of getting onto the runway. " sound="6B Unit 2.mp3" from="  0:41.585" to="  0:49.594" allWordsNum="21"/>
+			</record>
+		<record rec_id="4" rec_time="14" sound="6B Unit 2.mp3">
+			  <subrecord rec_id="7" rec_time="14" name="Hartsfield-Jackson Atlanta International Airport in the U.S. has also started using sheep to trim the grass and San Francisco International Airport has been using goats for years. " sound="6B Unit 2.mp3" from="  0:51.292" to="  1:04.360" allWordsNum="27"/>
+			</record>
+		<exercise type="4" index="0"/>
+      </part>	
+      <part part_index="2" name="Chicago airport to hire goats" page="0" source="2">
+      	<article allWordsNum="129">
+            	<![CDATA[
+A Chicago airport wants to hire goats to trim the grass.
+The Chicago Department of Aviation (芝加哥航空部门) has put out an ad for the goats. They want to bring in thirty of the animals to eat grass and weeds (杂草) in an area that's hard to reach with a lawn mower (割草机).
+They think goats will be more environmentally friendly than using a mower and other chemicals to keep the grass in check. They're also planning to hire a goat herder (牧羊人) to look after them.
+The grass is protected by a security fence (安全隔离墙), so the goats won't be in any danger of getting onto the runway.
+Hartsfield-Jackson Atlanta International Airport (亚特兰大哈兹菲尔德-杰克逊国际机场) in the U.S. has also started using sheep to trim the grass and San Francisco International Airport has been using goats for years.
+           	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="2" name="True or false. " qtype="2">
+					<question rec_id="0" choice="false">
+						<![CDATA[A Chicago airport wants to hire goats to clean the floor.]]>
+					</question>
+					<question rec_id="1" choice="true">
+						<![CDATA[The Chicago Department of Aviation wants to bring in thirty goats.]]>
+					</question>
+					<question rec_id="2" choice="false">
+						<![CDATA[Hartsfield-Jackson Atlanta International Airport has used sheep to trim the grass for years.]]>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+		<dialogs>
+		<part part_index="0" name="Dialog" page="9">
+			<record rec_id="0" rec_time="5" name="What time does your plane leave for Los Angeles tomorrow?" sound="nj_06b_02.mp3" from="  4:03.961" to="  4:07.195" allWordsNum="10"/>
+      <record rec_id="1" rec_time="5" name="At three o'clock in the afternoon. " sound="nj_06b_02.mp3" from="  4:07.407" to="  4:09.846" allWordsNum="6"/>		
+			<record rec_id="2" rec_time="5" name="How long does it take to travel to the airport?" sound="nj_06b_02.mp3" from="  4:11.384" to="  4:13.982" allWordsNum="10"/>
+			<record rec_id="3" rec_time="5" name="It takes about one and a half hours. " sound="nj_06b_02.mp3" from="  4:13.982" to="  4:16.686" allWordsNum="8"/>
+			<record rec_id="4" rec_time="5" name="What time should we arrive at the airport?" sound="nj_06b_02.mp3" from="  4:17.481" to="  4:20.291" allWordsNum="8"/>
+      <record rec_id="5" rec_time="15" name="The plane ticket says, 'All passengers must arrive at the airport two hours before the departure time.' We should arrive at the airport before one o'clock in the afternoon. " sound="nj_06b_02.mp3" from="  4:20.185" to="  4:32.061" allWordsNum="29"/>		
+			<record rec_id="6" rec_time="5" name="Oh, no! We'll have to stay there for two hours. " sound="nj_06b_02.mp3" from="  4:33.008" to="  4:37.303" allWordsNum="10"/>
+			<record rec_id="7" rec_time="5" name="Don't worry. There are plenty of shops at the airport. " sound="nj_06b_02.mp3" from="  4:37.250" to="  4:41.120" allWordsNum="10"/>
+			<record rec_id="8" rec_time="5" name="What time are we going to leave home tomorrow?" sound="nj_06b_02.mp3" from="  4:42.234" to="  4:44.991" allWordsNum="9"/>
+      <record rec_id="9" rec_time="5" name="We're going to leave home at eleven thirty in the morning. " sound="nj_06b_02.mp3" from="  4:45.203" to="  4:48.596" allWordsNum="11"/>		
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="1" name="Dialog" page="10">
+			<record rec_id="0" rec_time="5" name="Where can we find a trolley?" sound="nj_06b_02.mp3" from="  2:34.502" to="  2:36.788" allWordsNum="6"/>
+      <record rec_id="1" rec_time="5" name="Look at that sign. There are some trolleys over there. " sound="nj_06b_02.mp3" from="  2:37.042" to="  2:41.168" allWordsNum="10"/>		
+			<exercise type="5" index="0"/>
+		</part>
+    </dialogs>
+</package>
+ 

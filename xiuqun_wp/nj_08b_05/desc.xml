@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_08b</book_id>
+	<unit_id>nj_08b_05</unit_id>
+	<version>8</version>
+	<unit>unit5</unit>
+	<title>Magazine articles</title>
+	<words>
+		<part part_index="0" page="87">
+			<record rec_id="0" rec_time="3" name="sight" symbol="sait" explain="n.视力；视觉" sound="nj_08b_05.mp3" from="   9:21.501" to="   9:22.634" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="soul" symbol="sEul" explain="n.灵魂" sound="nj_08b_05.mp3" from="  9:23.885" to="   9:24.778" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="balance" symbol="5bAlEns" explain="n.平衡能力" sound="nj_08b_05.mp3" from="   9:25.992" to="  9:26.885" allWordsNum="1"/>
+		  <record rec_id="3" rec_time="3" name="line" symbol="lain" explain="n.线条" sound="nj_08b_05.mp3" from="   9:27.932" to="  9:28.853" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="belong to" symbol="bi5lCN tE" explain="属于" sound="nj_08b_05.mp3" from="  9:29.998" to="  9:30.961" allWordsNum="2"/>
+			<record rec_id="5" rec_time="3" name="drama" symbol="5drB:mE" explain="n.戏剧性事件" sound="nj_08b_05.mp3" from="  9:32.436" to="   9:33.099" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="as soon as" symbol="Az sU:n Az" explain="一 就" sound="nj_08b_05.mp3" from="    9:34.488" to="   9:35.482" allWordsNum="3"/>
+			<record rec_id="7" rec_time="3" name="reception" symbol="ri5sepFn" explain="n.接待处" sound="nj_08b_05.mp3" from="   9:36.910" to="  9:37.731" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="exclaim" symbol="ik5skleim" explain="v.惊叫；呼喊" sound="nj_08b_05.mp3" from="   9:39.127" to="  9:40.011" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="bark" symbol="bB:k" explain="v.(狗)吠叫" sound="nj_08b_05.mp3" from="   9:41.431" to="  9:41.999" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="at once" symbol="At wQns" explain="立即；马上" sound="nj_08b_05.mp3" from="  9:43.175" to="   9:44.011" allWordsNum="2"/>
+			<record rec_id="11" rec_time="3" name="guest" symbol="gest" explain="n.房客；旅客" sound="nj_08b_05.mp3" from="  9:45.439" to="  9:45.992" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="lead" symbol="li:d" explain="v.带路；引领" sound="nj_08b_05.mp3" from="   9:47.373" to="   9:48.012" allWordsNum="1"/>
+			<record rec_id="13" rec_time="4" name="personally" symbol="5pE:sEnEli" explain="adv.本人；亲自" sound="nj_08b_05.mp3" from="   9:49.164" to="   9:50.063" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="sensible" symbol="5sensEbl" explain="adj.明智的；理智的" sound="nj_08b_05.mp3" from="  9:51.223" to="  9:52.099" allWordsNum="1"/>
+			<record rec_id="15" rec_time="4" name="describe" symbol="di5skraib" explain="v.描述" sound="nj_08b_05.mp3" from="   9:53.283" to="  9:54.143" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="alarm" symbol="E5lB:m" explain="n.警报器" sound="nj_08b_05.mp3" from="    9:55.389" to="   9:56.249" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="fire alarm" symbol="5faiE E5lB:m" explain="火警报警器" sound="nj_08b_05.mp3" from="   9:57.578" to="   9:58.636" allWordsNum="2"/>
+			<record rec_id="18" rec_time="3" name="go off" symbol="gEu Cf" explain="(警报器等)突然发出巨响" sound="nj_08b_05.mp3" from="  9:59.820" to=" 10:00.648" allWordsNum="2"/>
+			<record rec_id="19" rec_time="3" name="surface" symbol="5sE:fis" explain="n.表面" sound="nj_08b_05.mp3" from=" 10:01.711" to=" 10:02.561" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="dead" symbol="ded" explain="adj.不运作的" sound="nj_08b_05.mp3" from=" 10:03.912" to="  10:04.510" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="cough" symbol="kCf" explain="v.咳嗽" sound="nj_08b_05.mp3" from=" 10:05.654" to=" 10:06.424" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="seem" symbol="si:m" explain="v.好像；似乎" sound="nj_08b_05.mp3" from="  10:07.590" to=" 10:08.418" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="wave" symbol="weiv" explain="v.挥手；招手；挥臂" sound="nj_08b_05.mp3" from=" 10:09.705" to=" 10:10.527" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="save one's life" symbol="seiv wQns laif" explain="救了某人的性命" sound="nj_08b_05.mp3" from=" 10:11.569" to=" 10:13.072" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="lend" symbol="lend" explain="v.借给；借出" sound="nj_08b_05.mp3" from=" 10:14.798" to=" 10:15.537" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="event" symbol="i5vent" explain="n.重要事情；大事" sound="nj_08b_05.mp3" from=" 10:16.453" to=" 10:17.280" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="take care" symbol="teik keE" explain="小心；留神" sound="nj_08b_05.mp3" from=" 10:18.170" to=" 10:19.166" allWordsNum="2"/>
+			<record rec_id="28" rec_time="3" name="mind" symbol="maind" explain="v.小心；注意" sound="nj_08b_05.mp3" from=" 10:20.180" to=" 10:21.061" allWordsNum="1"/>
+			<record rec_id="29" rec_time="4" name="look out" symbol="luk aut" explain="小心；当心" sound="nj_08b_05.mp3" from=" 10:22.031" to=" 10:22.938" allWordsNum="2"/>
+			<record rec_id="30" rec_time="3" name="watch out" symbol="wCtF aut" explain="留神；注意" sound="nj_08b_05.mp3" from=" 10:23.970" to=" 10:24.922" allWordsNum="2"/>
+			<record rec_id="31" rec_time="4" name="label" symbol="5leibl" explain="n.标签" sound="nj_08b_05.mp3" from=" 10:26.159" to=" 10:27.021" allWordsNum="1"/>
+			<record rec_id="32" rec_time="3" name="harbour" symbol="5hB:bE(r)" explain="n.港口；港湾" sound="nj_08b_05.mp3" from=" 10:27.964" to=" 10:28.774" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Blind man and eyes in fire drama" page="73">
+			<record rec_id="0" rec_time="25" sound="nj_08b_05.mp3">
+			<subrecord rec_id="1" rec_time="7" name="John Dancer's troubles began as soon as he walked into the Dragon Hotel with his friend, Charlie. " sound="nj_08b_05.mp3" from="  0:14.982" to="  0:21.491" allWordsNum="17"/>
+			<subrecord rec_id="2" rec_time="10" name="Together they went to the reception desk. John said, 'Good evening. My name's John Dancer. I've booked a room here.' " sound="nj_08b_05.mp3" from="  0:21.718" to="  0:31.121" allWordsNum="20"/>
+			</record>
+			<record rec_id="1" rec_time="25" sound="nj_08b_05.mp3">
+			<subrecord rec_id="3" rec_time="10" name="The clerk said, 'You're welcome to stay, sir, but I'm sorry we don't allow pets in this hotel.' " sound="nj_08b_05.mp3" from="  0:31.745" to="  0:38.121" allWordsNum="18"/>
+			</record>
+			<record rec_id="2" rec_time="25" sound="nj_08b_05.mp3">
+			<subrecord rec_id="4" rec_time="10" name="'Pets!' exclaimed John. 'Charlie isn't a pet. I'm blind and he's my eyes. He takes me everywhere. " sound="nj_08b_05.mp3" from="  0:38.746" to="  0:48.016" allWordsNum="17"/>
+			<subrecord rec_id="5" rec_time="8" name="Don't you, Charlie?' Charlie barked. It sounded like 'Yes'. " sound="nj_08b_05.mp3" from="  0:48.735" to="  0:55.036" allWordsNum="9"/>
+			</record>
+			<record rec_id="3" rec_time="25" sound="nj_08b_05.mp3">
+			<subrecord rec_id="6" rec_time="5" name="'I'm sorry, sir,' the clerk repeated, 'but the hotel rules say ...' " sound="nj_08b_05.mp3" from="  0:55.395" to="  1:00.485" allWordsNum="11"/>
+			<subrecord rec_id="7" rec_time="5" name="John interrupted, 'Please call the manager.' " sound="nj_08b_05.mp3" from="  1:00.522" to="  1:04.269" allWordsNum="6"/>
+			</record>
+			<record rec_id="4" rec_time="25" sound="nj_08b_05.mp3">
+			<subrecord rec_id="8" rec_time="15" name="The manager came. She agreed at once that John and Charlie could both be guests. She led them personally to their room. Before entering, John said, 'Can you tell me the location of the fire exit?'" sound="nj_08b_05.mp3" from="1:05.708" to="  1:20.692" allWordsNum="36"/>
+			<subrecord rec_id="9" rec_time="5" name=" 'It's the fifth door along from yours,' said the manager. " sound="nj_08b_05.mp3" from="  1:20.955" to="  1:25.585" allWordsNum="10"/>
+			<subrecord rec_id="10" rec_time="5" name="'Thank you,' said John. 'Safety first, you know.' " sound="nj_08b_05.mp3" from="   1:26.266" to="   1:30.738" allWordsNum="8"/>
+			<subrecord rec_id="11" rec_time="10" name="'You're very sensible, sir,' the manager said. She then described John's room to him, and left. " sound="nj_08b_05.mp3" from="  1:30.771" to="   1:39.043" allWordsNum="16"/>
+			</record>
+			<record rec_id="5" rec_time="25" sound="nj_08b_05.mp3">
+			<subrecord rec_id="12" rec_time="5" name="John tells us in his own words what happened next. " sound="nj_08b_05.mp3" from="  1:44.947" to="  1:48.423" allWordsNum="10"/>
+			<subrecord rec_id="13" rec_time="7" name="'I was asleep. Charlie woke me. He was pulling at my blankets and barking. " sound="nj_08b_05.mp3" from="  1:48.957" to="  1:56.390" allWordsNum="14"/>
+			<subrecord rec_id="14" rec_time="12" name="I smelt smoke! A fire!  But where? Just then, the fire alarm went off. I went to the door of my room. I felt it. " sound="nj_08b_05.mp3" from="  1:56.711" to="  2:09.064" allWordsNum="25"/>
+			<subrecord rec_id="15" rec_time="5" name="The surface was hot so I didn't open it. " sound="nj_08b_05.mp3" from="  2:09.117" to="  2:12.834" allWordsNum="9"/>
+			<subrecord rec_id="16" rec_time="8" name="The fire must be outside. I wet some towels and put them along the bottom of the door. " sound="nj_08b_05.mp3" from="  2:12.861" to="  2:19.759" allWordsNum="18"/>
+			</record>
+			<record rec_id="6" rec_time="25" sound="nj_08b_05.mp3">
+			<subrecord rec_id="17" rec_time="4" name="'I tried the phone. It was dead. " sound="nj_08b_05.mp3" from="  2:20.240" to="  2:23.422" allWordsNum="7"/>
+			<subrecord rec_id="18" rec_time="5" name="I coughed. A little smoke was getting past the towels. " sound="nj_08b_05.mp3" from="  2:23.903" to="  2:28.395" allWordsNum="10"/>
+			<subrecord rec_id="19" rec_time="6" name="So I lay on the floor with Charlie beside me and waited. " sound="nj_08b_05.mp3" from="  2:28.662" to="  2:32.459" allWordsNum="12"/>
+			<subrecord rec_id="20" rec_time="11" name="The minutes seemed like hours. Then I heard it-the sound of a fire engine. It was music to my ears. " sound="nj_08b_05.mp3" from="  2:33.021" to="  2:43.475" allWordsNum="20"/>
+			</record>
+			<record rec_id="7" rec_time="25" sound="nj_08b_05.mp3">
+			<subrecord rec_id="21" rec_time="5" name="'I opened the window, waved and shouted. Charlie barked. " sound="nj_08b_05.mp3" from="  2:43.903" to="  2:49.705" allWordsNum="9"/>
+			<subrecord rec_id="22" rec_time="10" name="Moments later, I heard a voice. The fireman at the window didn't want to take Charlie. " sound="nj_08b_05.mp3" from="  2:49.972" to="  2:56.549" allWordsNum="16"/>
+			<subrecord rec_id="23" rec_time="10" name="&quot;It's against the rules,&quot; he said. I explained about Charlie. Seconds later, we were both safe on the ground.' " sound="nj_08b_05.mp3" from="  2:56.549" to="  3:05.907" allWordsNum="19"/>
+			</record>
+			<record rec_id="8" rec_time="25" sound="nj_08b_05.mp3">
+			<subrecord rec_id="24" rec_time="4" name="'So you saved Charlie's life!' I said. " sound="nj_08b_05.mp3" from="  3:06.121" to="  3:09.570" allWordsNum="7"/>
+			<subrecord rec_id="25" rec_time="5" name="'Yes, and he saved mine,' said John. 'Didn't you, Charlie?'" sound="nj_08b_05.mp3" from="  3:09.704" to="  3:15.747" allWordsNum="10"/>
+			<subrecord rec_id="26" rec_time="5" name=" Charlie barked. It sounded like 'Yes'. " sound="nj_08b_05.mp3" from="  3:15.934" to="  3:20.025" allWordsNum="6"/>
+				  </record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="1" name="Scientist discovers a sixth sense" page="84">
+			<record rec_id="0" rec_time="25" sound="nj_08b_05.mp3">
+			<subrecord rec_id="1" rec_time="8" name="As we all know, there are five senses: hearing, smell, sight, taste and touch. " sound="nj_08b_05.mp3" from="  6:38.239" to="  6:46.347" allWordsNum="14"/>
+			<subrecord rec_id="2" rec_time="11" name="Now, however, a scientist has shown that we have a sixth sense: the ability to know when someone is watching us. " sound="nj_08b_05.mp3" from="  6:46.500" to="  6:56.647" allWordsNum="21"/>
+			</record>
+			<record rec_id="1" rec_time="25" sound="nj_08b_05.mp3">
+			<subrecord rec_id="3" rec_time="3" name="Many people have noticed this feeling. " sound="nj_08b_05.mp3" from="  6:57.820" to="  7:01.313" allWordsNum="6"/>
+			<subrecord rec_id="4" rec_time="6" name="For example, you are sitting in a cinema, and you feel that someone is watching you. " sound="nj_08b_05.mp3" from="  7:01.874" to="  7:08.069" allWordsNum="16"/>
+			<subrecord rec_id="5" rec_time="4" name="You look around quickly, and find that you are right. " sound="nj_08b_05.mp3" from="  7:08.503" to="  7:12.633" allWordsNum="10"/>
+			<subrecord rec_id="6" rec_time="5" name="A friend, at the back of the cinema, is staring at you. " sound="nj_08b_05.mp3" from="  7:12.633" to="  7:17.324" allWordsNum="12"/>
+			</record>
+			<record rec_id="2" rec_time="25" sound="nj_08b_05.mp3">
+			<subrecord rec_id="7" rec_time="8" name="Until now, no one has been able to prove scientifically that people really do have this ability. " sound="nj_08b_05.mp3" from="  7:18.931" to="  7:27.013" allWordsNum="17"/>
+			<subrecord rec_id="8" rec_time="10" name="But recently a scientist called Dr Rupert Sheldrake has announced the results of some new experiments. " sound="nj_08b_05.mp3" from="  7:27.650" to="  7:36.090" allWordsNum="16"/>
+			</record>
+			<record rec_id="3" rec_time="25" sound="nj_08b_05.mp3">
+			<subrecord rec_id="9" rec_time="4" name="The experiments work in this way. " sound="nj_08b_05.mp3" from="  7:36.574" to="  7:39.531" allWordsNum="6"/>
+			<subrecord rec_id="10" rec_time="4" name="Imagine two girls, Emma and Claire. " sound="nj_08b_05.mp3" from="  7:39.659" to="  7:43.075" allWordsNum="6"/>
+			<subrecord rec_id="11" rec_time="8" name="Emma sits on a chair and wears a blindfold over her eyes, so she cannot see. " sound="nj_08b_05.mp3" from="  7:43.585" to="  7:50.546" allWordsNum="16"/>
+			<subrecord rec_id="12" rec_time="3" name="Claire sits a few metres behind Emma. " sound="nj_08b_05.mp3" from="  7:51.183" to="  7:54.421" allWordsNum="7"/>
+			<subrecord rec_id="13" rec_time="3" name=" A teacher blows a whistle. " sound="nj_08b_05.mp3" from="  7:54.625" to="  7:57.404" allWordsNum="5"/>
+			<subrecord rec_id="14" rec_time="7" name="Then in random order, Claire either looks at Emma, or she looks in a different direction. " sound="nj_08b_05.mp3" from="  7:57.940" to="  8:06.124" allWordsNum="16"/>
+			<subrecord rec_id="15" rec_time="5" name="Emma must say if Claire is looking at her or not. " sound="nj_08b_05.mp3" from="  8:06.736" to="  8:11.121" allWordsNum="11"/>
+			<subrecord rec_id="16" rec_time="4" name="The experiment is repeated 20 times. " sound="nj_08b_05.mp3" from="  8:11.427" to="  8:15.047" allWordsNum="6"/>
+			</record>
+			<record rec_id="4" rec_time="25" sound="nj_08b_05.mp3">
+			<subrecord rec_id="17" rec_time="7" name="Dr Sheldrake repeated this simple experiment with hundreds of children. " sound="nj_08b_05.mp3" from="  8:16.909" to="  8:22.747" allWordsNum="10"/>
+			<subrecord rec_id="18" rec_time="12" name="The results were that the person who was wearing the blindfold, like Emma, could often feel that the other person was watching him or her. " sound="nj_08b_05.mp3" from="  8:23.155" to="  8:33.710" allWordsNum="25"/>
+			</record>
+			<record rec_id="5" rec_time="25" sound="nj_08b_05.mp3">
+			<subrecord rec_id="19" rec_time="7" name="Generally, the children knew about 60% of the time they were being watched. " sound="nj_08b_05.mp3" from="  8:34.450" to="  8:40.926" allWordsNum="13"/>
+			<subrecord rec_id="20" rec_time="7" name=" If the children were just guessing 'yes' or 'no', the result would only be 50%. " sound="nj_08b_05.mp3" from="  8:41.130" to="  8:47.988" allWordsNum="15"/>
+			</record>
+			<record rec_id="6" rec_time="25" sound="nj_08b_05.mp3">
+			<subrecord rec_id="21" rec_time="5" name="Some scientists say they do not agree that there is a sixth sense. " sound="nj_08b_05.mp3" from="  8:50.232" to="  8:55.076" allWordsNum="13"/>
+			<subrecord rec_id="22" rec_time="5" name="They say it is impossible to feel something in this way. " sound="nj_08b_05.mp3" from="  8:55.255" to="  8:59.997" allWordsNum="11"/>
+			<subrecord rec_id="23" rec_time="6" name="But Dr Sheldrake says that the results are accurate. " sound="nj_08b_05.mp3" from="  8:59.946" to="  9:05.020" allWordsNum="9"/>
+			<subrecord rec_id="24" rec_time="8" name="'These experiments were carried out by different people in different countries,' he said," sound="nj_08b_05.mp3" from="  9:05.427" to="  9:12.005" allWordsNum="13"/>
+			<subrecord rec_id="25" rec_time="5" name="'and yet they all showed almost the same results.' " sound="nj_08b_05.mp3" from="  9:12.056" to="  9:16.595" allWordsNum="9"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="2" name="Top teenage magazines you should know" page="0" source="2">
+			<record rec_id="0" rec_time="10" sound="8B Unit 5.mp3">
+				<subrecord rec_id="1" rec_time="5" name="When you want to consider reading magazines, what comes to mind? " sound="8B Unit 5.mp3" from="  0:06.573" to="  0:11.163" allWordsNum="11"/>
+				<subrecord rec_id="2" rec_time="5" name="Check out the following magazines that you may be interested in. " sound="8B Unit 5.mp3" from="  0:11.457" to="  0:15.460" allWordsNum="11"/>
+			</record>
+			<record rec_id="1" rec_time="2" sound="8B Unit 5.mp3">
+				<subrecord rec_id="3" rec_time="2" name="Teen Vogue " sound="8B Unit 5.mp3" from="  0:16.818" to="  0:17.810" allWordsNum="2"/>
+			</record>
+			<record rec_id="2" rec_time="14" sound="8B Unit 5.mp3">
+				<subrecord rec_id="4" rec_time="6" name="Teen Vogue is for teenagers passionate about style, fashion and beauty. " sound="8B Unit 5.mp3" from="  0:19.279" to="  0:24.493" allWordsNum="11"/>
+				<subrecord rec_id="5" rec_time="8" name="It also features the latest news and trends on family, health and other topics suitable for teenagers. " sound="8B Unit 5.mp3" from="  0:24.787" to="  0:31.911" allWordsNum="17"/>
+			</record>
+			<record rec_id="3" rec_time="2" sound="8B Unit 5.mp3">
+				<subrecord rec_id="6" rec_time="2" name="Twist " sound="8B Unit 5.mp3" from="  0:33.197" to="  0:34.041" allWordsNum="1"/>
+			</record>
+			<record rec_id="4" rec_time="20" sound="8B Unit 5.mp3">
+				<subrecord rec_id="7" rec_time="3" name="Twist is a teen celebrity magazine. " sound="8B Unit 5.mp3" from="  0:35.584" to="  0:37.934" allWordsNum="6"/>
+				<subrecord rec_id="8" rec_time="17" name="It is also a positive teen-gossip entertainment magazine famous for finding trends, for having the best photography and for the scoops on stars like Taylor Lautner, Jonas Brothers, Miley Cyrus, Demi Lovato and more! " sound="8B Unit 5.mp3" from="  0:38.338" to="  0:54.826" allWordsNum="34"/>
+			</record>
+			<record rec_id="5" rec_time="2" sound="8B Unit 5.mp3">
+				<subrecord rec_id="9" rec_time="2" name="Glitter " sound="8B Unit 5.mp3" from="  0:56.185" to="  0:57.066" allWordsNum="1"/>
+			</record>
+			<record rec_id="6" rec_time="13" sound="8B Unit 5.mp3">
+				<subrecord rec_id="10" rec_time="9" name="Glitter features entertainment, fashion, beauty, health and celebrity interviews for girls aged 13 to 17. " sound="8B Unit 5.mp3" from="  0:58.351" to="  1:06.834" allWordsNum="15"/>
+				<subrecord rec_id="11" rec_time="4" name="The magazine also highlights teen entrepreneurs and artists. " sound="8B Unit 5.mp3" from="    1:07.275" to="  1:11.204" allWordsNum="8"/>
+			</record>
+			<record rec_id="7" rec_time="2" sound="8B Unit 5.mp3">
+				<subrecord rec_id="12" rec_time="2" name="Seventeen " sound="8B Unit 5.mp3" from="  1:12.687" to="  1:13.715" allWordsNum="1"/>
+			</record>
+			<record rec_id="8" rec_time="13" sound="8B Unit 5.mp3">
+				<subrecord rec_id="13" rec_time="5" name="Seventeen is the world's most popular magazine for today's teenage girls. " sound="8B Unit 5.mp3" from="  1:15.184" to="  1:20.104" allWordsNum="11"/>
+				<subrecord rec_id="14" rec_time="8" name="You can find the latest information about style and beauty, relationships, college, careers and celebrities. " sound="8B Unit 5.mp3" from="  1:20.655" to="  1:28.404" allWordsNum="15"/>
+			</record>
+			<record rec_id="9" rec_time=" " sound="8B Unit 5.mp3">
+				<subrecord rec_id="15" rec_time="2" name="Boys' Life " sound="8B Unit 5.mp3" from="  1:29.726" to="  1:30.827" allWordsNum="2"/>
+			</record>
+			<record rec_id="10" rec_time=" " sound="8B Unit 5.mp3">
+				<subrecord rec_id="16" rec_time="5" name="Boys' Life is recommended for boys aged seven to 14. " sound="8B Unit 5.mp3" from="  1:32.260" to="  1:36.887" allWordsNum="10"/>
+				<subrecord rec_id="17" rec_time="5" name="It offers articles on history, outdoors, science and much more. " sound="8B Unit 5.mp3" from="  1:37.217" to="  1:42.101" allWordsNum="10"/>
+			</record>
+		<exercise type="4" index="0"/>
+      </part>
+      <part part_index="3" name="Top teenage magazines you should know" page="0" source="2">
+      	<article allWordsNum="166">
+            	<![CDATA[
+When you want to consider reading magazines, what comes to mind? Check out the following magazines that you may be interested in.
+<b><font color='#000000'>Teen Vogue</font></b>
+Teen Vogue is for teenagers passionate about style, fashion and beauty. It also features the latest news and trends on family, health and other topics suitable for teenagers.
+<b><font color='#000000'>Twist</font></b>
+Twist is a teen celebrity magazine. It is also a positive teen-gossip entertainment magazine famous for finding trends, for having the best photography and for the scoops (独家报道) on stars like Taylor Lautner (泰勒•洛特纳), Jonas Brothers (乔纳斯兄弟乐队), Miley Cyrus (麦莉•赛勒斯), Demi Lovato (黛米•洛瓦托) and more! 
+<b><font color='#000000'>Glitter </font></b>
+Glitter features entertainment, fashion, beauty, health and celebrity interviews for girls aged 13 to 17. The magazine also highlights (使......显著) teen entrepreneurs (企业家) and artists.
+<b><font color='#000000'>Seventeen</font></b>
+Seventeen is the world's most popular magazine for today's teenage girls. You can find the latest information about style and beauty, relationships, college, careers and celebrities.
+<b><font color='#000000'>Boys' Life</font></b>
+Boys' Life is recommended (推荐) for boys aged seven to 14. It offers articles on history, outdoors, science and much more.
+        	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="2" name="True or false. " qtype="2">
+					<question rec_id="0" choice="false">
+						<![CDATA[Teen Vogue is a teen celebrity magazine with the best photography.]]>
+					</question>
+					<question rec_id="1" choice="true">
+						<![CDATA[Teen Vogue features the latest news and trends on family, health and other topics suitable for teenagers.]]>
+					</question>
+					<question rec_id="2" choice="true">
+						<![CDATA[Twist is an entertainment magazine famous for finding trends.]]>
+					</question>
+					<question rec_id="3" choice="false">
+						<![CDATA[Seventeen is the world's most popular magazine for teenage boys.]]>
+					</question>
+					<question rec_id="4" choice="false">
+						<![CDATA[Glitter is targeted at teen girls aged 8 to 10.]]>
+					</question>
+					<question rec_id="5" choice="true">
+						<![CDATA[Glitter highlights talented teens who are entrepreneurs and artists.]]>
+					</question>
+					<question rec_id="6" choice="true">
+						<![CDATA[Boys' Life is a magazine recommended for boys aged seven to 14.]]>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+<dialogs>
+		<part part_index="0" name="Speaking" page="81">
+			<record rec_id="0" rec_time="3" name="Let's have a look in the South Seas Mall. " sound="nj_08b_05.mp3" from="  5:49.292" to="  5:51.759" allWordsNum="9"/>
+			<record rec_id="1" rec_time="3" name="All right, but mind the steps as you go in. " sound="nj_08b_05.mp3" from="  5:51.759" to="  5:55.174" allWordsNum="10"/>
+			<record rec_id="2" rec_time="4" name="Thanks. Let's go along this way. " sound="nj_08b_05.mp3" from="  5:55.157" to="  5:58.452" allWordsNum="6"/>
+			<record rec_id="3" rec_time="5" name="OK, but watch out. The floor's wet. You might slip. " sound="nj_08b_05.mp3" from="  5:58.383" to="  6:03.368" allWordsNum="10"/>
+			<record rec_id="4" rec_time="3" name="Here's an antique shop. Let's go in. " sound="nj_08b_05.mp3" from="  6:03.368" to="  6:06.400" allWordsNum="7"/>
+			<record rec_id="5" rec_time="4" name="Right, but take care. Don't break anything. " sound="nj_08b_05.mp3" from="  6:06.393" to="  6:09.868" allWordsNum="7"/>
+			<record rec_id="6" rec_time="5" name="Oh, I like this vase. I'll just pick it up and ... oops!" sound="nj_08b_05.mp3" from="  6:10.098" to="  6:15.221" allWordsNum="12"/>
+			<record rec_id="7" rec_time="3" name="Look out! You almost dropped it. " sound="nj_08b_05.mp3" from="  6:15.273" to="  6:18.036" allWordsNum="6"/>
+			<record rec_id="8" rec_time="10" name="Gosh, the label says it's 900 years old. But it only costs 8 dollars. I'm going to buy it. " sound="nj_08b_05.mp3" from="  6:18.671" to="  6:27.011" allWordsNum="19"/>
+			<record rec_id="9" rec_time="3" name="Be careful. Are you sure it's real?" sound="nj_08b_05.mp3" from="  6:27.076" to="  6:30.020" allWordsNum="7"/>
+			<exercise type="5" index="0"/>
+		</part>
+		</dialogs>
+</package>
+ 

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_07b</book_id>
+	<unit_id>nj_07b_01</unit_id>
+	<version>10</version>
+	<unit>unit1</unit>
+	<title>Writing a travel guide</title>
+	<words>
+		<part part_index="0" page="7">
+			<record rec_id="0" rec_time="3" name="guide" symbol="gaid" explain="n.指南；手册" sound="nj_07b_01.mp3" from="  3:09.856" to="  3:11.667" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="tour" symbol="tuE(r)" explain="n.旅行；旅游" sound="nj_07b_01.mp3" from="  3:12.221" to="  3:14.068" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="take part in" symbol="teik pB:t in" explain=" 参加（活动）" sound="nj_07b_01.mp3" from="  3:14.586" to="  3:17.246" allWordsNum="3"/>
+			<record rec_id="3" rec_time="3" name="pigeon" symbol="5pidVin" explain="n.鸽子" sound="nj_07b_01.mp3" from="  3:17.690" to="  3:19.537" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="reason" symbol="5rI:zn" explain="n.原因；理由" sound="nj_07b_01.mp3" from="  3:20.166" to="  3:21.865" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="creek" symbol="kri:k" explain="n.小河；小溪" sound="nj_07b_01.mp3" from="  3:22.383" to="  3:24.082" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="bund" symbol="bQnd" explain="n.堤岸" sound="nj_07b_01.mp3" from="  3:24.415" to="  3:26.484" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="grand" symbol="grAnd" explain="adj.（用于大建筑物等的名称）大" sound="nj_07b_01.mp3" from="  3:26.669" to="  3:28.665" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="theatre" symbol="5WiEtE(r)" explain="n.剧院" sound="nj_07b_01.mp3" from="  3:29.330" to="   3:31.251" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="botanical garden" symbol="bE7tAnikl 5gB:dn" explain="n.植物园" sound="nj_07b_01.mp3" from="  3:31.953" to="  3:34.466" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="oriental" symbol="7R:ri5entl" explain="adj.东方的" sound="nj_07b_01.mp3" from="  3:34.872" to="  3:37.311" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="pearl" symbol="pX:l" explain="n.珍珠" sound="nj_07b_01.mp3" from="  3:37.644" to="  3:39.491" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="century" symbol="5sentFEri" explain="n.世纪" sound="nj_07b_01.mp3" from="  3:39.824" to="  3:41.524" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="technology" symbol="tek5nClEdVi" explain="n.科技；工艺；工程技术" sound="nj_07b_01.mp3" from="  3:42.152" to="  3:44.037" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="sightseeing" symbol="5saitsI:iN" explain="n.观光；游览" sound="nj_07b_01.mp3" from="  3:44.000" to="  3:45.810" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="get on with" symbol="get Cn wiT" explain="进展" sound="nj_07b_01.mp3" from="  3:46.254" to="  3:48.360" allWordsNum="3"/>
+			<record rec_id="16" rec_time="3" name="(be) famous for" symbol="(bi:) 5feimEs fR:" explain="以......而著名" sound="nj_07b_01.mp3" from="  3:48.951" to="  3:50.984" allWordsNum="3"/>
+			<record rec_id="17" rec_time="3" name="view" symbol="vju:" explain="n.景色；风景" sound="nj_07b_01.mp3" from="  3:51.612" to="  3:53.349" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="(be) known as" symbol="(bi:) nEun Az" explain="被认为；誉为...... " sound="nj_07b_01.mp3" from="  3:53.977" to="  3:56.083" allWordsNum="3"/>
+			<record rec_id="19" rec_time="3" name="paradise" symbol="5pArEdais" explain="n.天堂" sound="nj_07b_01.mp3" from="  3:56.785" to="  3:59.224" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="therefore" symbol="5TZEfR:(r)" explain="adv.因此；所以" sound="nj_07b_01.mp3" from="  3:59.593" to="  4:01.811" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="surprising" symbol="sE5praiziN" explain="adj.令人惊奇的" sound="nj_07b_01.mp3" from="  4:02.439" to="  4:04.951" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="district" symbol="5distrikt" explain="n.地区；区域" sound="nj_07b_01.mp3" from="  4:04.582" to="  4:07.021" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="Maglev" symbol="5mAglev" explain="n.磁悬浮列车" sound="nj_07b_01.mp3" from="  4:07.501" to="  4:09.201" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="state" symbol="steit" explain="adj.国家的" sound="nj_07b_01.mp3" from="  4:09.718" to="  4:11.492" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="resort" symbol="ri5zR:t" explain="n.度假胜地" sound="nj_07b_01.mp3" from="  4:12.621" to="  4:14.337" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="observatory" symbol="Eb5zE:vEtri" explain="n.天文台" sound="nj_07b_01.mp3" from="  4:14.734" to="  4:16.693" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="plaza" symbol="5plB:zE" explain="n.购物中心" sound="nj_07b_01.mp3" from="  4:17.136" to="  4:19.464" allWordsNum="1"/>
+			<record rec_id="28" rec_time="3" name="cruise" symbol="kru:z" explain="n.乘船游览" sound="nj_07b_01.mp3" from="  4:20.092" to="  4:21.829" allWordsNum="1"/>
+			<record rec_id="29" rec_time="3" name="floating" symbol="5flEutiN" explain="adj.浮动的" sound="nj_07b_01.mp3" from="  4:22.531" to="  4:24.748" allWordsNum="1"/>
+			<record rec_id="30" rec_time="3" name="think of" symbol="WiNk Cv" explain="想出" sound="nj_07b_01.mp3" from="  4:25.561" to="  4:27.261" allWordsNum="2"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Shanghai-an interesting City" page="4">
+			<record rec_id="0" rec_time="20" sound="nj_07b_01.mp3">
+				<subrecord rec_id="1" rec_time="4" name="Shanghai  is in the east of China. " sound="nj_07b_01.mp3" from="  1:03.169" to="  1:05.570" allWordsNum="7"/>
+				<subrecord rec_id="2" rec_time="4" name="It is an international city. " sound="nj_07b_01.mp3" from="  1:06.595" to="  1:08.587" allWordsNum="5"/>
+				<subrecord rec_id="3" rec_time="5" name="Shanghai is famous for its night views. " sound="nj_07b_01.mp3" from="  1:09.700" to="  1:12.922" allWordsNum="7"/>
+				<subrecord rec_id="4" rec_time="5" name="It is one of the largest cities in the world. " sound="nj_07b_01.mp3" from="  1:14.181" to="  1:17.110" allWordsNum="10"/>
+			  </record>
+			<record rec_id="1" rec_time="22" sound="nj_07b_01.mp3">
+				<subrecord rec_id="5" rec_time="12" name="It is also known as a 'Shopping Paradise' because there are a lot of department stores and huge shopping centres. " sound="nj_07b_01.mp3" from="  1:18.235" to="  1:25.636" allWordsNum="22"/>
+				<subrecord rec_id="6" rec_time="10" name="Therefore, it is not surprising that many tourists come to visit Shanghai every year to shop!" sound="nj_07b_01.mp3" from="  1:26.878" to="  1:33.567" allWordsNum="16"/>
+				</record>
+			<record rec_id="2" rec_time="30" sound="nj_07b_01.mp3">
+				<subrecord rec_id="7" rec_time="5" name="People's Square is known as 'the centre of Shanghai'. " sound="nj_07b_01.mp3" from="  1:38.352" to="  1:41.912" allWordsNum="14"/>
+				<subrecord rec_id="8" rec_time="12" name="If you go there, you will see a huge open area with green grass, trees, fountains and pigeons. " sound="nj_07b_01.mp3" from="  1:42.972" to="  1:50.820" allWordsNum="18"/>
+				<subrecord rec_id="9" rec_time="4" name="There are many new buildings around the square. " sound="nj_07b_01.mp3" from="  1:51.284" to="  1:53.933" allWordsNum="8"/>
+	      <subrecord rec_id="10" rec_time="8" name="You will find Shanghai Grand Theatre and Shanghai Museum there. " sound="nj_07b_01.mp3" from="  1:54.943" to="  1:59.943" allWordsNum="10"/>
+		  </record>
+    <record rec_id="3" rec_time="35" sound="nj_07b_01.mp3">
+			 <subrecord rec_id="11" rec_time="5" name="Pudong New District is in the east of Shanghai. " sound="nj_07b_01.mp3" from="  2:05.010" to="  2:08.586" allWordsNum="9"/>
+			 <subrecord rec_id="12" rec_time="10" name="There are many bridges and tunnels, so it is convenient to travel between Pudong and Puxi. " sound="nj_07b_01.mp3" from="  2:10.126" to="  2:17.362" allWordsNum="16"/>
+			 <subrecord rec_id="13" rec_time="12" name="If you go to Pudong, you can see the Oriental Pearl TV Tower and Shanghai Science and Technology Museum. " sound="nj_07b_01.mp3" from="  2:18.736" to="  2:27.015" allWordsNum="19"/>
+			 <subrecord rec_id="14" rec_time="8" name="The Maglev takes you to the international airport in about eight minutes. " sound="nj_07b_01.mp3" from="  2:28.621" to="  2:33.753" allWordsNum="12"/>
+		  </record>
+    <record rec_id="4" rec_time="28" sound="nj_07b_01.mp3">
+			<subrecord rec_id="15" rec_time="10" name="If you go to Sheshan about 30 km south-west of the city, you will see Sheshan State Resort. " sound="nj_07b_01.mp3" from="  2:38.986" to="  2:47.297" allWordsNum="19"/>
+			<subrecord rec_id="16" rec_time="3" name="It has a huge park. " sound="nj_07b_01.mp3" from="  2:48.208" to="  2:49.864" allWordsNum="5"/>
+			<subrecord rec_id="17" rec_time="3" name="You can see many birds in the park. " sound="nj_07b_01.mp3" from="  2:50.940" to="  2:53.357" allWordsNum="8"/>
+			<subrecord rec_id="18" rec_time="5" name="You will also find a famous church and an observatory. " sound="nj_07b_01.mp3" from="  2:54.417" to="  2:58.391" allWordsNum="10"/>
+			<subrecord rec_id="19" rec_time="5" name="Tourists usually go there for sightseeing and fun. " sound="nj_07b_01.mp3" from="  2:59.864" to="  3:03.242" allWordsNum="8"/>
+			</record>
+			<exercise type="4" index="0"/>
+      </part>	
+      <part part_index="1" name="The 'Chinese yuan' travel guide" page="0" source="2">
+			<record rec_id="0" rec_time="15" sound="7B Unit 1.mp3">
+				<subrecord rec_id="1" rec_time="7" name="Money can take you to a lot of places, especially China's yuan which may inspire your next great trip. " sound="7B Unit 1.mp3" from="  0:06.476" to="  0:13.968" allWordsNum="19"/>
+				<subrecord rec_id="2" rec_time="8" name="The Renminbi notes are not just good for buying things; they are also ready-made travel guides. " sound="7B Unit 1.mp3" from="  0:14.398" to="  0:21.561" allWordsNum="16"/>
+			</record>
+			<record rec_id="1" rec_time="1" sound="7B Unit 1.mp3">
+				<subrecord rec_id="3" rec_time="1" name="* 1 yuan" sound="7B Unit 1.mp3" from="  0:23.029" to="  0:23.914" allWordsNum="2"/>
+			</record>
+			<record rec_id="2" rec_time="15" sound="7B Unit 1.mp3">
+				<subrecord rec_id="4" rec_time="7" name="What's on the yuan: One of the famous 'Ten Scenes of West Lake' in Hangzhou, Zhejiang province. " sound="7B Unit 1.mp3" from="  0:25.509" to="  0:32.697" allWordsNum="17"/>
+				<subrecord rec_id="5" rec_time="8" name="The two-meter-high stone pagodas you see on the note are located in the water on the south side of Xiaoying Island. " sound="7B Unit 1.mp3" from="  0:33.279" to="  0:40.770" allWordsNum="21"/>
+			</record>
+			<record rec_id="3" rec_time="17" sound="7B Unit 1.mp3">
+				<subrecord rec_id="6" rec_time="8" name="What to see: Summer is always a great time to go boating on the lake, but autumn is magical. " sound="7B Unit 1.mp3" from="  0:42.263" to="  0:49.401" allWordsNum="19"/>
+				<subrecord rec_id="7" rec_time="6" name="A candle is lit inside each pagoda on the night of the Mid-Autumn Festival. " sound="7B Unit 1.mp3" from="  0:49.831" to="  0:55.045" allWordsNum="14"/>
+				<subrecord rec_id="8" rec_time="3" name="It's quite beautiful. " sound="7B Unit 1.mp3" from="  0:55.601" to="  0:57.069" allWordsNum="3"/>
+			</record>
+			<record rec_id="4" rec_time="3" sound="7B Unit 1.mp3">
+				<subrecord rec_id="9" rec_time="3" name="How to get there: Take a West Lake boat. " sound="7B Unit 1.mp3" from="  0:58.664" to="  1:01.625" allWordsNum="9"/>
+			</record>
+			<record rec_id="5" rec_time="2" sound="7B Unit 1.mp3">
+				<subrecord rec_id="10" rec_time="2" name="* 5 yuan " sound="7B Unit 1.mp3" from="  1:03.245" to="  1:04.485" allWordsNum="2"/>
+			</record>
+			<record rec_id="6" rec_time="6" sound="7B Unit 1.mp3">
+				<subrecord rec_id="11" rec_time="6" name="What's on the yuan: A beautiful view of Mount Tai in the heart of Shandong province." sound="7B Unit 1.mp3" from="  1:06.003" to="  1:11.597" allWordsNum="16"/>
+			</record>
+			<record rec_id="7" rec_time="10" sound="7B Unit 1.mp3">
+				<subrecord rec_id="12" rec_time="10" name="What to see: A UNESCO World Heritage Site 1987 and a place of religious worship for over 3,000 years. " sound="7B Unit 1.mp3" from="  1:13.263" to="  1:22.627" allWordsNum="19"/>
+			</record>
+			<record rec_id="8" rec_time="9" sound="7B Unit 1.mp3">
+				<subrecord rec_id="13" rec_time="9" name="How to get there: Take a minibus that goes halfway up the mountain, and from there, a cable car takes you up to the peak. " sound="7B Unit 1.mp3" from="  1:24.272" to="  1:33.156" allWordsNum="25"/>
+			</record>
+		<exercise type="4" index="0"/>
+      </part>	
+     <part part_index="2" name="The 'Chinese yuan' travel guide" page="0" source="2">
+      	<article allWordsNum="182">
+            	<![CDATA[
+Money can take you to a lot of places, especially China's yuan which may inspire your next great trip. The Renminbi notes are not just good for buying things; they are also ready-made travel guides.
+<b><font color='#000000'>* 1 yuan</font></b>
+What's on the yuan: One of the famous "Ten Scenes of West Lake (西湖十景)" in Hangzhou, Zhejiang province. The two-meter-high stone pagodas (宝塔) you see on the note are located in the water on the south side of Xiaoying Island.
+What to see: Summer is always a great time to go boating on the lake, but autumn is magical. A candle is lit inside each pagoda on the night of the Mid-Autumn Festival. It's quite beautiful.
+How to get there: Take a West Lake boat.
+<b><font color='#000000'>* 5 yuan</font></b>
+What's on the yuan: A beautiful view of Mount Tai (泰山) in the heart of Shandong province.
+What to see: A UNESCO World Heritage Site (联合国科教文组织世界遗产景观) since 1987 and a place of religious worship (敬奉) for over 3,000 years.
+How to get there: Take a minibus that goes halfway up the mountain, and from there, a cable car (缆车) takes you up to the peak.
+        	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="0" name="Choose the best answer." qtype="1" >
+					<question rec_id="0" choice="C">
+						<![CDATA[According to the passage, people can use Renminbi notes to _____.
+    ① buy goods ② light candles ③ guide their trips ④ clean a table. ]]>
+						<choice item="A" name="①②"/>
+						<choice item="B" name="②③"/>
+						<choice item="C" name="①③"/>
+						<choice item="D" name="③④"/>
+					</question>
+					<question rec_id="1" choice="B">
+						<![CDATA[A candle is lit inside each pagoda in West Lake _____.]]>
+						<choice item="A" name="during the Spring Festival"/>
+						<choice item="B" name="at the Mid-Autumn Festival"/>
+						<choice item="C" name="every day "/>
+						<choice item="D" name="none of the above"/>
+					</question>
+					<question rec_id="2" choice="B">
+						<![CDATA[Which of the following statements is true?]]>
+						<choice item="A" name="Mount Tai is located in Hangzhou."/>
+						<choice item="B" name="The pagodas located in the water on the south side of Xiaoying Island are made of stones."/>
+						<choice item="C" name="Mount Tai has been a place of religious worship for about 300 years."/>
+						<choice item="D" name="People can take a bus to go to the peak of Mount Tai."/>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="Tour suggestions" page="2">
+			<record rec_id="0" rec_time="5" name="Where can tourists go in Shanghai?" sound="nj_07b_01.mp3" from="  0:08.532" to="  0:12.046" allWordsNum="6"/>
+			<record rec_id="1" rec_time="8" name="They can go to People's Square. They can see the beautiful fountains and pigeons. " sound="nj_07b_01.mp3" from="  0:13.011" to="  0:18.455" allWordsNum="14"/>
+			<record rec_id="2" rec_time="8" name="They can go to Yu Garden. They can eat different local snacks. " sound="nj_07b_01.mp3" from="  0:19.075" to="  0:24.518" allWordsNum="12"/>
+			<record rec_id="3" rec_time="10" name="They can go to Nanjing Road. They can buy things in large department stores. " sound="nj_07b_01.mp3" from="  0:25.758" to="  0:31.753" allWordsNum="14"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="1" name="Look and say" page="4">
+			<record rec_id="0" rec_time="5" name="How are you getting on with your travel guide?" sound="nj_07b_01.mp3" from="  0:42.560" to="  0:45.358" allWordsNum="9"/>
+			<record rec_id="1" rec_time="10" name="We've just written two pages.  Would you like to read them?" sound="nj_07b_01.mp3" from="  0:45.928" to="  0:50.746" allWordsNum="11"/>
+			<record rec_id="2" rec_time="5" name="Good. Let me see ... " sound="nj_07b_01.mp3" from="  0:51.368" to="  0:54.424" allWordsNum="4"/>
+			<exercise type="5" index="0"/>
+		</part>
+    </dialogs>
+</package>
+ 

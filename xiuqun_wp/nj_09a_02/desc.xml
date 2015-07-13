@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_09a</book_id>
+	<unit_id>nj_09a_02</unit_id>
+	<version>8</version>
+	<unit>unit2</unit>
+	<title>Traditional skills</title>
+	<words>
+		<part part_index="0" page="33">
+			<record rec_id="0" rec_time="3" name="pole" symbol="pEul" explain="n.杆子" sound="nj_09a_02.mp3" from="  3:51.174" to="  3:52.095" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="cormorant" symbol="5kR:mErEnt" explain="n.鸬鹚" sound="nj_09a_02.mp3" from="  3:53.610" to="  3:54.501" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="elderly" symbol="5eldEli" explain="adj.上了年纪的" sound="nj_09a_02.mp3" from="  3:55.838" to="  3:56.878" allWordsNum="1"/>
+			<record rec_id="3" rec_time="3" name="control" symbol="kEn5trEul" explain="v.控制" sound="nj_09a_02.mp3" from="  3:57.888" to="  3:58.987" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="raft" symbol="rB:ft" explain="n.木排；筏" sound="nj_09a_02.mp3" from="  3:59.938" to="  4:01.126" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="underwater" symbol="7QndE5wR:tE(r)" explain="adv.在水下" sound="nj_09a_02.mp3" from="  4:02.196" to="  4:03.532" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="up to" symbol="Qp tu" explain="到达（某数量、程度等）；至多有" sound="nj_09a_02.mp3" from="  4:05.226" to="  4:06.206" allWordsNum="2"/>
+			<record rec_id="7" rec_time="3" name="require" symbol="ri5kwaiE(r)" explain="v.需要；依靠" sound="nj_09a_02.mp3" from="  4:07.127" to="  4:08.256" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="rod" symbol="rCd" explain="n.杆；竿" sound="nj_09a_02.mp3" from="  4:09.296" to="  4:10.128" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="set off" symbol="set R:f" explain="出发；动身" sound="nj_09a_02.mp3" from="  4:10.930" to="  4:12.118" allWordsNum="2"/>
+			<record rec_id="10" rec_time="3" name="bamboo" symbol="7bAm5bu:" explain="n.竹子" sound="nj_09a_02.mp3" from="  4:12.962" to="  4:14.123" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="reach" symbol="ri:tF" explain="v.到达；抵达" sound="nj_09a_02.mp3" from="  4:15.039" to="  4:15.888" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="so that" symbol="sEu TAt" explain="（表示目的）为了；以便" sound="nj_09a_02.mp3" from="4:16.804" to="4:17.764" allWordsNum="2"/>
+			<record rec_id="13" rec_time="3" name="swallow" symbol="5swClEu" explain="v.吞下；咽下" sound="nj_09a_02.mp3" from="  4:18.680" to="  4:19.596" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="up and down" symbol="Qp And daun" explain="起伏；上下波动" sound="nj_09a_02.mp3" from="  4:20.579" to="  4:21.740" allWordsNum="3"/>
+			<record rec_id="15" rec_time="3" name="bang" symbol="bAN" explain="v.猛敲；砸" sound="nj_09a_02.mp3" from="  4:22.879" to="  4:23.684" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="at night" symbol="At nait" explain="在夜晚" sound="nj_09a_02.mp3" from="  4:24.666" to="  4:25.716" allWordsNum="2"/>
+			<record rec_id="17" rec_time="3" name="hang" symbol="hAN" explain="v.悬挂" sound="nj_09a_02.mp3" from="  4:26.833" to="  4:27.593" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="remove" symbol="ri5mu:v" explain="v.移走；拿开" sound="nj_09a_02.mp3" from="  4:28.575" to="  4:29.469" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="rest" symbol="rest" explain="n.剩余部分；其余" sound="nj_09a_02.mp3" from="  4:30.608" to="  4:31.725" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="traditional" symbol="trE5diFEnl" explain="adj.传统的" sound="nj_09a_02.mp3" from="  4:32.574" to="  4:33.646" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="skill" symbol="skil" explain="n.技能" sound="nj_09a_02.mp3" from="  4:34.741" to="  4:35.545" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="skin" symbol="skin" explain="n.皮肤" sound="nj_09a_02.mp3" from="  4:36.662" to="  4:37.555" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="mention" symbol="5menFn" explain="v.提到" sound="nj_09a_02.mp3" from="  4:38.583" to="  4:39.498" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="straight" symbol="streit" explain="adj.直的" sound="nj_09a_02.mp3" from="  4:40.481" to="  4:41.397" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="situation" symbol="7sitFU5eiFn" explain="n.场景" sound="nj_09a_02.mp3" from="  4:42.246" to="  4:43.519" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="imagine" symbol="i5mAdVin" explain="v.想像；设想" sound="nj_09a_02.mp3" from="  4:44.524" to="  4:45.596" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="Reading" page="20">
+			<record rec_id="0" rec_time="60" sound="nj_09a_02.mp3">
+				<subrecord rec_id="1" rec_time="12" name="Damin sits on the side of the river cooking a meal,with a large bird on his head. " sound="nj_09a_02.mp3" from="  0:00.474" to="  0:06.638" allWordsNum="18"/>
+				<subrecord rec_id="2" rec_time="10" name="The bird is a cormorant,and Damin is a fisherman. " sound="nj_09a_02.mp3" from="  0:06.835" to="  0:11.419" allWordsNum="10"/>
+				<subrecord rec_id="3" rec_time="6" name="He is over 65 now but still works every day. " sound="nj_09a_02.mp3" from="  0:11.695" to="  0:15.251" allWordsNum="10"/>
+				<subrecord rec_id="4" rec_time="10" name="He is thin,and of average height,but he is very fit. " sound="nj_09a_02.mp3" from="  0:15.409" to="  0:19.519" allWordsNum="12"/>
+				<subrecord rec_id="5" rec_time="14" name="Although he is an elderly man,he is strong enough to control his raft in the river where he lives and works with his cormorants. " sound="nj_09a_02.mp3" from="  0:19.756" to="  0:27.500" allWordsNum="25"/>
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_09a_02.mp3">	
+				<subrecord rec_id="6" rec_time="6" name="Cormorants are large black birds. " sound="nj_09a_02.mp3" from="  0:28.448" to="  0:31.807" allWordsNum="5"/>
+				<subrecord rec_id="7" rec_time="10" name="They are good at catching fish because they can swim well underwater. " sound="nj_09a_02.mp3" from="  0:31.925" to="  0:36.667" allWordsNum="13"/>
+			  <subrecord rec_id="8" rec_time="8" name="Their large feet are used to push them quickly through the water. " sound="nj_09a_02.mp3" from="  0:36.944" to="  0:41.132" allWordsNum="12"/>
+				<subrecord rec_id="9" rec_time="10" name="They can dive down 25 metres,and stay underwater for up to two minutes. " sound="nj_09a_02.mp3" from="  0:41.329" to="  0:46.466" allWordsNum="15"/>
+			</record>
+			<record rec_id="2" rec_time="60" sound="nj_09a_02.mp3">
+				<subrecord rec_id="10" rec_time="15" name="Damin does not require nets or a fishing rod to catch fish. It is done for him by his 12 cormorants. " sound="nj_09a_02.mp3" from="  0:47.177" to="  0:52.116" allWordsNum="21"/>
+				<subrecord rec_id="12" rec_time="7" name="Damin's fishing trips often begin in the late afternoon. " sound="nj_09a_02.mp3" from="  0:55.672" to="  0:59.031" allWordsNum="9"/>
+				<subrecord rec_id="13" rec_time="7" name="He sets off on his bamboo raft with his birds. " sound="nj_09a_02.mp3" from="  0:59.268" to="  1:02.390" allWordsNum="10"/>
+				<subrecord rec_id="14" rec_time="7" name="When he reaches the right place, he stops. " sound="nj_09a_02.mp3" from="  1:02.350" to="  1:05.471" allWordsNum="8"/>
+				<subrecord rec_id="15" rec_time="10" name="He ties a piece of grass around the neck of each bird,so that it cannot swallow the fish. " sound="nj_09a_02.mp3" from="  1:05.669" to="  1:10.529" allWordsNum="19"/>
+			</record>
+			<record rec_id="3" rec_time="60" sound="nj_09a_02.mp3">
+				<subrecord rec_id="16" rec_time="12" name="Then he pushes the birds into the water, and jumps up and down and bangs the water with his pole. " sound="nj_09a_02.mp3" from="  1:10.806" to="  1:16.732" allWordsNum="20"/>
+				<subrecord rec_id="17" rec_time="3" name="The fish are frightened by this. " sound="nj_09a_02.mp3" from="  1:17.049" to="  1:19.024" allWordsNum="6"/>
+				<subrecord rec_id="18" rec_time="7" name="At night a light is hung from the front of the raft. " sound="nj_09a_02.mp3" from="  1:19.182" to="  1:23.173" allWordsNum="12"/>
+				<subrecord rec_id="19" rec_time="8" name="This enables Damin to see better,and also attracts the fish. " sound="nj_09a_02.mp3" from="  1:23.213" to="  1:27.796" allWordsNum="11"/>
+			</record>
+			<record rec_id="4" rec_time="60" sound="nj_09a_02.mp3">
+				<subrecord rec_id="20" rec_time="10" name="The cormorants swim down and catch the fish,and bring them back to the raft. " sound="nj_09a_02.mp3" from="  1:27.875" to="  1:32.774" allWordsNum="15"/>
+				<subrecord rec_id="21" rec_time="12" name="The fish are then removed from the bird's mouths by Damin and thrown into a big basket. " sound="nj_09a_02.mp3" from="  1:32.972" to="  1:38.385" allWordsNum="17"/>
+				<subrecord rec_id="22" rec_time="12" name="Later some of the fish are sold,and the rest are divided between Damin's family and the cormorants. " sound="nj_09a_02.mp3" from="  1:38.780" to="  1:45.023" allWordsNum="18"/>
+			</record>
+			<record rec_id="5" rec_time="60" sound="nj_09a_02.mp3">
+				<subrecord rec_id="23" rec_time="12" name="Cormorant fishing is a traditional Chinese skill,probably more than a thousand years old. " sound="nj_09a_02.mp3" from="  1:46.643" to="  1:52.570" allWordsNum="14"/>
+				<subrecord rec_id="24" rec_time="12" name="Damin enjoys his work,and he is teaching his grandson everything he knows. " sound="nj_09a_02.mp3" from="  1:52.768" to="  1:57.904" allWordsNum="13"/>
+				<subrecord rec_id="25" rec_time="12" name="However,few young people are interested in doing this type of work in the modern world. " sound="nj_09a_02.mp3" from="  1:58.102" to="  2:03.515" allWordsNum="16"/>
+				<subrecord rec_id="26" rec_time="12" name="In 50 years,perhaps there will be no more cormorant fishermen in the world. " sound="nj_09a_02.mp3" from="  2:03.673" to="  2:08.810" allWordsNum="14"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="1" name="Some facts about tea" page="30">
+			<record rec_id="0" rec_time="60" sound="nj_09a_02.mp3">
+				<subrecord rec_id="1" rec_time="10" name="Tea is the most popular drink in the world besides water. " sound="nj_09a_02.mp3" from="  2:08.928" to="  2:13.591" allWordsNum="12"/>
+				<subrecord rec_id="2" rec_time="6" name="There are thousands of different types of tea. " sound="nj_09a_02.mp3" from="  2:13.630" to="  2:16.910" allWordsNum="8"/>
+				<subrecord rec_id="3" rec_time="5" name="All tea comes from the tea plant. " sound="nj_09a_02.mp3" from="  2:16.989" to="  2:19.557" allWordsNum="7"/>
+				<subrecord rec_id="4" rec_time="12" name="The leaves and buds of this plant are picked several times a year, usually by hand. " sound="nj_09a_02.mp3" from="  2:19.636" to="  2:25.089" allWordsNum="16"/>
+			  <subrecord rec_id="5" rec_time="14" name="After it has been picked, the tea is processed into black tea, oolong tea, green tea or white tea. " sound="nj_09a_02.mp3" from="  2:25.326" to="  2:33.228" allWordsNum="16"/>
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_09a_02.mp3">
+				<subrecord rec_id="6" rec_time="16" name="Black tea was invented in China during the Ming Dynasty as a way to keep tea fresh when it was transported long distances. " sound="nj_09a_02.mp3" from="  2:33.505" to="  2:41.328" allWordsNum="24"/>
+				<subrecord rec_id="7" rec_time="20" name="As tea has to travel a long distance to reach places such as the UK, Canada and Australia, it is not surprising that Westerners drink mostly black tea. " sound="nj_09a_02.mp3" from="2:41.526" to="  2:51.483" allWordsNum="27"/>
+				<subrecord rec_id="8" rec_time="7" name="However, the majority of the world drinks green tea. " sound="nj_09a_02.mp3" from="  2:51.681" to="  2:55.395" allWordsNum="9"/>
+				</record>
+			<record rec_id="2" rec_time="60" sound="nj_09a_02.mp3">
+				<subrecord rec_id="9" rec_time="12" name="Herbal tea is prepared in the same way as regular tea but is not real tea. " sound="nj_09a_02.mp3" from="  2:56.383" to="  3:02.665" allWordsNum="16"/>
+				<subrecord rec_id="10" rec_time="12" name="This is because it contains herbs, fruits, spices, etc.,instead of leaves from the tea plant. " sound="nj_09a_02.mp3" from="  3:02.705" to="  3:09.303" allWordsNum="16"/>
+				<subrecord rec_id="11" rec_time="8" name="To truly be tea, the leaves must come from this plant. " sound="nj_09a_02.mp3" from="  3:09.580" to="  3:14.163" allWordsNum="11"/>
+			</record>
+			<record rec_id="3" rec_time="60" sound="nj_09a_02.mp3">
+				<subrecord rec_id="12" rec_time="10" name="All tea naturally contains caffeine, which comes from the tea leaves. " sound="nj_09a_02.mp3" from="  3:14.598" to="  3:20.051" allWordsNum="11"/>
+				<subrecord rec_id="13" rec_time="12" name="Decaffeinated tea is regular tea (usually green or black) that has been processed to remove the caffeine. " sound="nj_09a_02.mp3" from="  3:20.110" to="  3:27.062" allWordsNum="17"/>
+				<subrecord rec_id="14" rec_time="6" name="In recent years, organic tea has become popular too. " sound="nj_09a_02.mp3" from="  3:27.448" to="  3:31.102" allWordsNum="9"/>
+				<subrecord rec_id="15" rec_time="10" name="This is tea that comes from plants that have been grown without the use of any chemicals. " sound="nj_09a_02.mp3" from="  3:31.459" to="  3:36.331" allWordsNum="17"/>
+			</record>
+			<record rec_id="4" rec_time="25" sound="nj_09a_02.mp3">
+				<subrecord rec_id="16" rec_time="12" name="People believe that it tastes better and is healthier but sometimes it costs more than non-organic tea. " sound="nj_09a_02.mp3" from="  3:36.676" to="  3:43.568" allWordsNum="18"/>
+				<subrecord rec_id="17" rec_time="6" name="This is because the size of the crops is often smaller. " sound="nj_09a_02.mp3" from="  3:43.776" to="  3:46.836" allWordsNum="11"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+	</texts>
+</package>
+ 

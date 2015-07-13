@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_07b</book_id>
+	<unit_id>nj_07b_09</unit_id>
+	<version>7</version>
+	<unit>unit9</unit>
+	<title>The wind is blowing</title>
+	<words>
+		<part part_index="0" page="65">
+			<record rec_id="0" rec_time="3" name="paragraph" symbol="5pArEgrB:f" explain="n.段；段落" sound="nj_07b_09.mp3" from="  6:22.502" to="  6:24.243" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="correct" symbol="kE5rekt" explain="adj.准确无误的；精确的；正确的" sound="nj_07b_09.mp3" from="  6:24.917" to="  6:26.546" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="order" symbol="5R:dE(r)" explain="n.顺序；次序" sound="nj_07b_09.mp3" from="  6:26.826" to="  6:28.455" allWordsNum="1"/>
+			<record rec_id="3" rec_time="3" name="strength" symbol="streNW" explain="n.体力；力气；力量" sound="nj_07b_09.mp3" from="  6:28.905" to="  6:31.376" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="in the end" symbol="in TE end" explain="最后；终于" sound="nj_07b_09.mp3" from="  6:31.432" to="  6:33.117" allWordsNum="3"/>
+			<record rec_id="5" rec_time="3" name="proud" symbol="praud" explain="adj.骄傲的；自豪的；得意的" sound="nj_07b_09.mp3" from="  6:34.072" to="  6:35.645" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="show off" symbol="FEu Cf" explain="炫耀；卖弄" sound="nj_07b_09.mp3" from="  6:36.319" to="  6:38.116" allWordsNum="2"/>
+			<record rec_id="7" rec_time="3" name="brightly" symbol="5braitli" explain="adv.阳光灿烂地；光线充足地；明亮地" sound="nj_07b_09.mp3" from="  6:38.397" to="  6:40.194" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="sweat" symbol="swet" explain="v.出汗；流汗" sound="nj_07b_09.mp3" from="  6:40.363" to="  6:42.048" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="take off" symbol="teik Cf" explain="脱下（衣服等）" sound="nj_07b_09.mp3" from="  6:42.890" to="  6:44.856" allWordsNum="2"/>
+			<record rec_id="10" rec_time="3" name="stick" symbol="stik" explain="n.棍；棒 v.粘；贴" sound="nj_07b_09.mp3" from="  6:45.193" to="  6:46.653" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="coloured" symbol="5kQlEd" explain="adj.有颜色的" sound="nj_07b_09.mp3" from="  6:47.215" to="  6:48.731" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="reel" symbol="ri:l" explain="n.卷筒；卷盘" sound="nj_07b_09.mp3" from="  6:49.405" to="  6:50.978" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="string" symbol="striN" explain="n.线；绳" sound="nj_07b_09.mp3" from="  6:51.652" to="  6:53.337" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="frame" symbol="freim" explain="n.框架" sound="nj_07b_09.mp3" from="  6:53.899" to="  6:55.640" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="onto" symbol="5CntE" explain="prep.向；朝" sound="nj_07b_09.mp3" from="  6:56.244" to="  6:58.098" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="tie" symbol="tai" explain="v.系；绑" sound="nj_07b_09.mp3" from="  6:58.659" to="  7:00.232" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="rise" symbol="raiz" explain="v.升起" sound="nj_07b_09.mp3" from="  7:01.131" to="  7:03.040" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="dive" symbol="daiv" explain="v.俯冲" sound="nj_07b_09.mp3" from="7:03.209" to="  7:05.511" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="flap" symbol="flAp" explain="v.(上下或左右)拍打" sound="nj_07b_09.mp3" from="  7:05.680" to="  7:07.477" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="sail" symbol="seil" explain="v.（船）航行；（人）乘船航行" sound="nj_07b_09.mp3" from="  7:07.814" to="  7:09.892" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="sailing boat" symbol="5seiliN bEut" explain="n.帆船" sound="nj_07b_09.mp3" from="  7:10.398" to="  7:12.083" allWordsNum="2"/>
+			<record rec_id="22" rec_time="3" name="lean" symbol="li:n" explain="v.倾斜；屈身" sound="nj_07b_09.mp3" from="  7:12.701" to="  7:14.498" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="speed" symbol="spi:d" explain="v.快速前行" sound="nj_07b_09.mp3" from="  7:14.779" to="  7:16.520" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="bow" symbol="bau" explain="v.（使）弯曲；点头；鞠躬" sound="nj_07b_09.mp3" from="  7:16.745" to="  7:18.542" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="sway" symbol="swei" explain="v.(使)摇摆；摆动" sound="nj_07b_09.mp3" from="  7:18.879" to="  7:20.957" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="among" symbol="E5mQN" explain="prep. 在......中；周围是" sound="nj_07b_09.mp3" from="  7:21.294" to="  7:22.811" allWordsNum="1"/>
+			<record rec_id="27" rec_time="3" name="slide" symbol="slaid" explain="v.(使)滑动；滑行" sound="nj_07b_09.mp3" from="  7:22.923" to="  7:25.001" allWordsNum="1"/>
+			<record rec_id="28" rec_time="3" name="dimple" symbol="5dimpl" explain="n.酒窝" sound="nj_07b_09.mp3" from="  7:25.394" to="  7:26.911" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+<part part_index="0" name="Text" page="60">
+			<record rec_id="0" rec_time="28" sound="nj_07b_09.mp3">
+				<subrecord rec_id="1" rec_time="4" name="Mr Wind was very proud. " sound="nj_07b_09.mp3" from="  1:07.927" to="  1:10.372" allWordsNum="5"/>
+				<subrecord rec_id="2" rec_time="4" name="He liked showing off his strength all the time. " sound="nj_07b_09.mp3" from="  1:10.658" to="  1:31.075" allWordsNum="9"/>
+				<subrecord rec_id="3" rec_time="12" name="One day, Mr Wind met Mr Sun and said, 'People always think that we're as strong as each other. " sound="nj_07b_09.mp3" from="  1:14.024" to="  1:22.089" allWordsNum="19"/>
+				<subrecord rec_id="4" rec_time="4" name="I think I'm stronger than you. " sound="nj_07b_09.mp3" from="  1:22.692" to="  1:25.105" allWordsNum="6"/>
+				<subrecord rec_id="5" rec_time="4" name="Shall we have a competition?'" sound="nj_07b_09.mp3" from="  1:25.264" to="  1:27.105" allWordsNum="5"/>
+			</record>
+			<record rec_id="1" rec_time="35" sound="nj_07b_09.mp3">
+				<subrecord rec_id="6" rec_time="3" name="Mr Wind blew and blew. " sound="nj_07b_09.mp3" from="  1:48.316" to="  1:50.348" allWordsNum="5"/>
+				<subrecord rec_id="7" rec_time="4" name="Soon his face became red. " sound="nj_07b_09.mp3" from="  1:50.761" to="  1:52.793" allWordsNum="5"/>
+				<subrecord rec_id="8" rec_time="5" name="However, he still could not get the man's coat off. " sound="nj_07b_09.mp3" from="  1:53.301" to="  1:56.508" allWordsNum="10"/>
+				<subrecord rec_id="9" rec_time="7" name="Mr Wind became very angry and he began to blow hard. " sound="nj_07b_09.mp3" from="  1:57.334" to="  2:01.461" allWordsNum="11"/>
+				<subrecord rec_id="10" rec_time="7" name="The man held his coat more tightly in the wind because he was cold. " sound="nj_07b_09.mp3" from="  2:02.128" to="  2:06.351" allWordsNum="14"/>
+				<subrecord rec_id="11" rec_time="6" name="Mr Wind felt very tired and looked disappointed. " sound="nj_07b_09.mp3" from="  2:07.145" to="  2:11.082" allWordsNum="8"/>
+			</record>
+			<record rec_id="2" rec_time="28" sound="nj_07b_09.mp3">
+				<subrecord rec_id="12" rec_time="4" name="'Don't feel sad,' said Mr Sun. " sound="nj_07b_09.mp3" from="  2:43.850" to="  2:46.359" allWordsNum="6"/>
+				<subrecord rec_id="13" rec_time="4" name="'Strength is not always important. " sound="nj_07b_09.mp3" from="  2:46.930" to="  2:49.566" allWordsNum="5"/>
+				<subrecord rec_id="14" rec_time="4" name="I think we're as strong as each other. " sound="nj_07b_09.mp3" from="  2:50.169" to="  2:52.455" allWordsNum="8"/>
+				<subrecord rec_id="15" rec_time="6" name="I can make plants grow and you can push boats forward. " sound="nj_07b_09.mp3" from="  2:53.281" to="  2:57.186" allWordsNum="10"/>
+				<subrecord rec_id="16" rec_time="3" name="Let's be friends forever.' " sound="nj_07b_09.mp3" from="  2:57.790" to="  2:59.536" allWordsNum="4"/>
+				<subrecord rec_id="17" rec_time="6" name="'I agree,' said Mr Wind and he smiled. " sound="nj_07b_09.mp3" from="  3:00.870" to="  3:05.061" allWordsNum="8"/>
+			</record>
+			<record rec_id="3" rec_time="18" sound="nj_07b_09.mp3">
+				<subrecord rec_id="18" rec_time="4" name="'Can you see that man over there? " sound="nj_07b_09.mp3" from="  1:31.170" to="  1:33.265" allWordsNum="7"/>
+				<subrecord rec_id="19" rec_time="7" name="Let's see who can get his coat off in the shortest time,' said Mr Wind. " sound="nj_07b_09.mp3" from="  1:33.742" to="  1:38.663" allWordsNum="15"/>
+				<subrecord rec_id="20" rec_time="6" name="'That's a good idea. You go first,' said Mr Sun. " sound="nj_07b_09.mp3" from="  1:40.060" to="  1:44.252" allWordsNum="10"/>
+			</record>
+			<record rec_id="4" rec_time="25" sound="nj_07b_09.mp3">
+				<subrecord rec_id="21" rec_time="4" name="'Let me try,' said Mr Sun. " sound="nj_07b_09.mp3" from="  2:14.765" to="  2:17.623" allWordsNum="6"/>
+				<subrecord rec_id="22" rec_time="3" name="He shone brightly. " sound="nj_07b_09.mp3" from="  2:17.814" to="  2:19.655" allWordsNum="3"/>
+				<subrecord rec_id="23" rec_time="5" name="Soon it became warmer and warmer. " sound="nj_07b_09.mp3" from="  2:20.386" to="  2:23.434" allWordsNum="6"/>
+				<subrecord rec_id="24" rec_time="5" name="The man felt very hot and started sweating. " sound="nj_07b_09.mp3" from="  2:24.132" to="  2:27.562" allWordsNum="8"/>
+				<subrecord rec_id="25" rec_time="3" name="He took off his coat. " sound="nj_07b_09.mp3" from="  2:28.228" to="  2:29.467" allWordsNum="5"/>
+				<subrecord rec_id="26" rec_time="4" name="Mr Wind's face became red again. " sound="nj_07b_09.mp3" from="  2:30.197" to="  2:32.674" allWordsNum="6"/>
+			</record>
+			<record rec_id="5" rec_time="10" sound="nj_07b_09.mp3">
+				<subrecord rec_id="27" rec_time="6" name="'You win, Mr Sun,' said Mr Wind sadly. " sound="nj_07b_09.mp3" from="  2:33.690" to="  2:37.881" allWordsNum="8"/>
+				<subrecord rec_id="28" rec_time="4" name="'I'm not as strong as you.' " sound="nj_07b_09.mp3" from="  2:37.945" to="  2:39.754" allWordsNum="6"/>
+			</record>
+		<exercise type="4" index="0"/>
+      </part>	
+      <part part_index="1" name="What is wind?" page="0" source="2">
+			<record rec_id="0" rec_time="13" sound="7B Unit 9.mp3">
+				<subrecord rec_id="1" rec_time="3" name="Wind is everywhere around us. " sound="7B Unit 9.mp3" from="  0:05.228" to="  0:07.552" allWordsNum="5"/>
+				<subrecord rec_id="2" rec_time="7" name="Do you know what wind is, what causes the wind to blow and what a windstorm is? " sound="7B Unit 9.mp3" from="  0:07.925" to="  0:13.983" allWordsNum="17"/>
+				<subrecord rec_id="3" rec_time="3" name="Let's learn together! " sound="7B Unit 9.mp3" from="  0:14.398" to="  0:15.975" allWordsNum="3"/>
+			</record>
+			<record rec_id="1" rec_time="2" sound="7B Unit 9.mp3">
+				<subrecord rec_id="4" rec_time="2" name="What is wind? " sound="7B Unit 9.mp3" from="  0:17.428" to="  0:18.797" allWordsNum="3"/>
+			</record>
+			<record rec_id="2" rec_time="16" sound="7B Unit 9.mp3">
+				<subrecord rec_id="5" rec_time="3" name="Wind is air in motion. " sound="7B Unit 9.mp3" from="  0:20.291" to="  0:21.950" allWordsNum="5"/>
+				<subrecord rec_id="6" rec_time="4" name="It is produced by the uneven heating of the earth's surface. " sound="7B Unit 9.mp3" from="  0:22.448" to="  0:26.266" allWordsNum="11"/>
+				<subrecord rec_id="7" rec_time="9" name="Since the earth's surface is made of different land and water formations, it absorbs the sun's radiation unevenly. " sound="7B Unit 9.mp3" from="  0:27.013" to="  0:35.229" allWordsNum="18"/>
+			</record>
+			<record rec_id="3" rec_time="5" sound="7B Unit 9.mp3">
+				<subrecord rec_id="8" rec_time="5" name="Two factors to describe wind: speed and direction. " sound="7B Unit 9.mp3" from="  0:36.515" to="  0:40.748" allWordsNum="8"/>
+			</record>
+			<record rec_id="4" rec_time="3" sound="7B Unit 9.mp3">
+				<subrecord rec_id="9" rec_time="3" name="What causes the wind to blow? " sound="7B Unit 9.mp3" from="  0:42.242" to="  0:44.067" allWordsNum="6"/>
+			</record>
+			<record rec_id="5" rec_time="18" sound="7B Unit 9.mp3">
+				<subrecord rec_id="10" rec_time="6" name="As the sun warms the earth's surface, the atmosphere gets warm too. " sound="7B Unit 9.mp3" from="  0:45.478" to="  0:51.039" allWordsNum="12"/>
+				<subrecord rec_id="11" rec_time="6" name="Some parts of the earth get direct rays from the sun all year round and are always warm. " sound="7B Unit 9.mp3" from="  0:51.371" to="  0:57.304" allWordsNum="18"/>
+				<subrecord rec_id="12" rec_time="6" name="Other places get indirect rays, so the weather there is colder. " sound="7B Unit 9.mp3" from="  0:57.636" to="  1:02.657" allWordsNum="11"/>
+			</record>
+			<record rec_id="6" rec_time="13" sound="7B Unit 9.mp3">
+				<subrecord rec_id="13" rec_time="5" name="Warm air weighs less than cold air, so it rises. " sound="7B Unit 9.mp3" from="  1:04.154" to="  1:08.428" allWordsNum="10"/>
+				<subrecord rec_id="14" rec_time="4" name="Then cool air moves in and replaces the rising warm air. " sound="7B Unit 9.mp3" from="  1:08.926" to="  1:12.619" allWordsNum="11"/>
+				<subrecord rec_id="15" rec_time="4" name="This movement of air is what makes the wind blow. " sound="7B Unit 9.mp3" from="  1:13.034" to="  1:16.229" allWordsNum="10"/>
+				</record>
+				<record rec_id="7" rec_time="2" sound="7B Unit 9.mp3">
+				<subrecord rec_id="16" rec_time="2" name="What is a windstorm? " sound="7B Unit 9.mp3" from="  1:17.640" to="  1:19.424" allWordsNum="4"/>
+				</record>
+				<record rec_id="6" rec_time=" " sound="7B Unit 9.mp3">
+				<subrecord rec_id="17" rec_time="6" name="A windstorm is just a storm with high winds, but little or no rain. " sound="7B Unit 9.mp3" from="  1:20.835" to="  1:26.437" allWordsNum="14"/>
+				</record>
+		<exercise type="4" index="0"/>
+      </part>	
+      <part part_index="2" name="What is wind? " page="0" source="2">
+      	<article allWordsNum="166">
+            	<![CDATA[
+Wind is everywhere around us. Do you know what wind is, what causes the wind to blow and what a windstorm is? Let's learn together!
+<b><font color='#000000'>What is wind?</font></b>
+Wind is air in motion. It is produced by the uneven heating of the earth's surface. Since the earth's surface is made of different land and water formations (形成物), it absorbs (吸收) the sun's radiation (紫外线) unevenly.
+Two factors to describe wind: speed and direction.
+<b><font color='#000000'>What causes the wind to blow?</font></b>
+As the sun warms the earth's surface, the atmosphere gets warm too. Some parts of the earth get direct rays(光线) from the sun all year round and are always warm. Other places get indirect rays, so the weather there is colder.
+Warm air weighs less than cold air, so it rises. Then cool air moves in and replaces the rising warm air. This movement of air is what makes the wind blow.
+<b><font color='#000000'>What is a windstorm?</font></b>
+A windstorm is just a storm with high winds, but little or no rain.
+  	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="0" name="Choose the best answer. " qtype="1" >
+					<question rec_id="0" choice="A">
+						<![CDATA[The earth's surface _______.]]>
+						<choice item="A" name="absorbs the sun's radiation unevenly"/>
+						<choice item="B" name="absorbs the sun's radiation evenly"/>
+						<choice item="C" name="doesn't absorb the sun's radiation"/>
+						<choice item="D" name="none of the above "/>
+					</question>
+					<question rec_id="1" choice="B">
+						<![CDATA[Cold air cannot rise like warm air, because _______.]]>
+						<choice item="A" name="it weighs less than warm air"/>
+						<choice item="B" name="it weighs more than warm air"/>
+						<choice item="C" name="it has no weight at all"/>
+						<choice item="D" name="it weighs the same as warm air"/>
+					</question>
+					<question rec_id="2" choice="B">
+						<![CDATA[A windstorm is a storm with _______.]]>
+						<choice item="A" name="a lot of rain"/>
+						<choice item="B" name="no rain"/>
+						<choice item="C" name="light wind"/>
+						<choice item="D" name="no wind"/>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="Mr Wind and Mr Sun" page="59">
+			<record rec_id="0" rec_time="10" name="Class, have you read the story about the competition between Mr Wind and Mr Sun? " sound="nj_07b_09.mp3" from="  0:21.632" to="  0:28.288" allWordsNum="15"/>
+			<record rec_id="1" rec_time="8" name="Yes, I have. I think Mr Sun is stronger than Mr Wind. " sound="nj_07b_09.mp3" from="  0:28.332" to="  0:33.508" allWordsNum="12"/>
+			<record rec_id="2" rec_time="8" name="I think Mr Wind is stronger than Mr Sun. He blow down trees and houses. " sound="nj_07b_09.mp3" from="  0:34.016" to="  0:39.509" allWordsNum="15"/>
+			<record rec_id="3" rec_time="15" name="Here are the paragraphs of the story. Put them in the correct order. Then answer the questions on the blackboard. " sound="nj_07b_09.mp3" from="  0:43.732" to="  0:51.416" allWordsNum="20"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="1" name="Dialog" page="62">
+			<record rec_id="0" rec_time="6" name="My kite is bigger and more beautiful than yours. " sound="nj_07b_09.mp3" from="  4:12.407" to="  4:15.773" allWordsNum="9"/>
+			<record rec_id="1" rec_time="6" name="Yes. Yours is bigger and more beautiful than mine. " sound="nj_07b_09.mp3" from="  4:16.726" to="  4:20.695" allWordsNum="9"/>
+			<record rec_id="2" rec_time="5" name="Her kite is not as beautiful as yours. " sound="nj_07b_09.mp3" from="  4:23.552" to="  4:26.315" allWordsNum="8"/>
+			<record rec_id="3" rec_time="7" name="No, hers is not as beautiful as mine. " sound="nj_07b_09.mp3" from="  4:26.918" to="  4:32.030" allWordsNum="8"/>
+			<record rec_id="4" rec_time="5" name="Their kite is not as colourful as ours. " sound="nj_07b_09.mp3" from="  4:35.491" to="  4:38.285" allWordsNum="8"/>
+			<record rec_id="5" rec_time="6" name="No. Ours is more colourful than theirs. " sound="nj_07b_09.mp3" from="  4:38.952" to="  4:42.858" allWordsNum="7"/>
+			<record rec_id="6" rec_time="6" name="Joe's kite is the biggest and the most beautiful. " sound="nj_07b_09.mp3" from="  4:46.096" to="  4:49.652" allWordsNum="8"/>
+			<record rec_id="7" rec_time="7" name="Mine is the biggest and the most beautiful. " sound="nj_07b_09.mp3" from="  4:50.764" to="  4:54.193" allWordsNum="8"/>			
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="2" name="Read" page="64">
+		  <record rec_id="0" rec_time="5" name="Flowers bow and sway among the grass. " sound="nj_07b_09.mp3" from="  5:55.478" to="  5:59.393" allWordsNum="7"/>
+			<record rec_id="1" rec_time="6" name="Clouds slide and hide. They move across the sky. " sound="nj_07b_09.mp3" from="  6:02.115" to="  6:06.555" allWordsNum="9"/>
+			<record rec_id="2" rec_time="10" name="Water smiles. Water shows dimples on her big, round face. " sound="nj_07b_09.mp3" from="  6:09.277" to="  6:15.460" allWordsNum="10"/>
+			<exercise type="5" index="0"/>
+      </part>
+    </dialogs>
+</package>
+ 

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_07b</book_id>
+	<unit_id>nj_07b_06</unit_id>
+	<version>9</version>
+	<unit>unit6</unit>
+	<title>Hard work for a better life</title>
+	<words>
+		<part part_index="0" page="42">
+			<record rec_id="0" rec_time="3" name="poem" symbol="5pEuim" explain="n.诗；韵文" sound="nj_07b_06.mp3" from="  4:11.810" to="  4:12.948" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="end" symbol="end" explain="v.结束" sound="nj_07b_06.mp3" from="  4:13.897" to="  4:15.288" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="temperature" symbol="5temprEtFE(r)" explain="n.气温；温度" sound="nj_07b_06.mp3" from="  4:16.047" to="  4:17.312" allWordsNum="1"/>
+			<record rec_id="3" rec_time="3" name="drop" symbol="drCp" explain="v.降低；减少" sound="nj_07b_06.mp3" from="  4:18.008" to="  4:19.589" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="shiver" symbol="5FivE(r)" explain="v.发抖" sound="nj_07b_06.mp3" from="  4:19.905" to="   4:21.328" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="blackboard" symbol="5blAkbR:d" explain="n. 黑板" sound="nj_07b_06.mp3" from="  4:22.277" to="  4:23.510" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="awful" symbol="5R:fl" explain="adj.糟糕的；极讨厌的" sound="nj_07b_06.mp3" from="  4:24.269" to="  4:25.470" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="grasshopper" symbol="5grB:shCpE(r)" explain="n.蚱蜢" sound="nj_07b_06.mp3" from="  4:26.482" to="  4:27.810" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="ant" symbol="Ant" explain="n.蚂蚁" sound="nj_07b_06.mp3" from="  4:28.538" to="  4:30.150" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="lazy" symbol="5leizi" explain="adj.懒惰的" sound="nj_07b_06.mp3" from="  4:30.720" to="  4:32.237" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="all the time" symbol="R:l TE taim" explain="一直；总是" sound="nj_07b_06.mp3" from="  4:32.933" to="  4:34.419" allWordsNum="3"/>
+			<record rec_id="11" rec_time="3" name="silly" symbol="5sili" explain="adj.愚蠢的；傻的" sound="nj_07b_06.mp3" from="  4:35.178" to="  4:36.316" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="at last" symbol="At lB:st" explain="终于；最终" sound="nj_07b_06.mp3" from="  4:36.886" to="  4:38.372" allWordsNum="2"/>
+			<record rec_id="13" rec_time="3" name="everywhere" symbol="5evriweE(r)" explain="adv.到处，处处" sound="nj_07b_06.mp3" from="  4:39.036" to="  4:40.996" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="nothing" symbol="5nQWiN" explain="pron.没有什么；没有东西" sound="nj_07b_06.mp3" from="  4:41.281" to="  4:42.799" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="disappointed" symbol="7disE5pCintid" explain="adj.失望的；沮丧的" sound="nj_07b_06.mp3" from="  4:43.431" to="  4:44.823" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="out of" symbol="aut Cv" explain="从......里出来" sound="nj_07b_06.mp3" from="  4:45.613" to="  4:46.973" allWordsNum="2"/>
+			<record rec_id="17" rec_time="3" name="sadly" symbol="5sAdli" explain="adv.伤心地" sound="nj_07b_06.mp3" from="  4:47.953" to="  4:48.996" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="The four seasons" page="38">
+			<record rec_id="0" rec_time="25" sound="nj_07b_06.mp3">
+				<subrecord rec_id="1" rec_time="5" name="The sun starts shining. " sound="nj_07b_06.mp3" from="  0:19.469" to="  0:22.601" allWordsNum="4"/>
+				<subrecord rec_id="2" rec_time="3" name="Plants start growing. " sound="nj_07b_06.mp3" from="  0:22.657" to="  0:25.230" allWordsNum="3"/>
+				<subrecord rec_id="3" rec_time="3" name="Flowers start opening. " sound="nj_07b_06.mp3" from="  0:25.789" to="  0:28.530" allWordsNum="3"/>
+				<subrecord rec_id="4" rec_time="3" name="Birds start singing. " sound="nj_07b_06.mp3" from="  0:29.369" to="  0:31.439" allWordsNum="3"/>
+				<subrecord rec_id="5" rec_time="5" name="And making their nests. " sound="nj_07b_06.mp3" from="  0:31.408" to="  0:33.357" allWordsNum="4"/>
+				<subrecord rec_id="6" rec_time="3" name="Spring is here. " sound="nj_07b_06.mp3" from="  0:34.023" to="  0:35.402" allWordsNum="3"/>
+			</record>
+			<record rec_id="1" rec_time="26" sound="nj_07b_06.mp3">
+				<subrecord rec_id="7" rec_time="5" name="The hot sun's shining. " sound="nj_07b_06.mp3" from="  0:37.304" to="  0:39.040" allWordsNum="4"/>
+				<subrecord rec_id="8" rec_time="5" name="We start having fun. " sound="nj_07b_06.mp3" from="  0:39.658" to="  0:41.251" allWordsNum="4"/>
+				<subrecord rec_id="9" rec_time="3" name="We start swimming. " sound="nj_07b_06.mp3" from="  0:41.988" to="  0:43.462" allWordsNum="3"/>
+				<subrecord rec_id="10" rec_time="5" name="We start eating ice cream. " sound="nj_07b_06.mp3" from="  0:44.389" to="  0:46.125" allWordsNum="5"/>
+				<subrecord rec_id="11" rec_time="5" name="The holidays are coming. " sound="nj_07b_06.mp3" from="  0:46.862" to="  0:48.431" allWordsNum="4"/>
+				<subrecord rec_id="12" rec_time="3" name="Summer is here. " sound="nj_07b_06.mp3" from="  0:48.716" to="  0:50.214" allWordsNum="3"/>
+			</record>
+			<record rec_id="2" rec_time="25" sound="nj_07b_06.mp3">
+				<subrecord rec_id="13" rec_time="5" name="The wind starts blowing. " sound="nj_07b_06.mp3" from="  0:51.688" to="  0:53.519" allWordsNum="4"/>
+				<subrecord rec_id="14" rec_time="3" name="Kites start flying. " sound="nj_07b_06.mp3" from="  0:54.375" to="  0:56.514" allWordsNum="3"/>
+				<subrecord rec_id="15" rec_time="3" name="Leaves start falling. " sound="nj_07b_06.mp3" from="  0:57.109" to="  0:58.963" allWordsNum="3"/>
+				<subrecord rec_id="16" rec_time="5" name="We start having barbecues. " sound="nj_07b_06.mp3" from="  1:00.057" to="  1:02.244" allWordsNum="4"/>
+				<subrecord rec_id="17" rec_time="5" name="The holidays are ending. " sound="nj_07b_06.mp3" from="  1:03.005" to="  1:04.812" allWordsNum="4"/>
+				<subrecord rec_id="18" rec_time="3" name="Autumn is here. " sound="nj_07b_06.mp3" from="  1:05.573" to="  1:06.904" allWordsNum="3"/>
+			</record>
+			<record rec_id="3" rec_time="25" sound="nj_07b_06.mp3">
+				<subrecord rec_id="19" rec_time="5" name="The snow starts falling. " sound="nj_07b_06.mp3" from="  1:07.950" to="  1:09.662" allWordsNum="4"/>
+				<subrecord rec_id="20" rec_time="3" name="Animals start sleeping. " sound="nj_07b_06.mp3" from="  1:10.304" to="  1:12.135" allWordsNum="3"/>
+				<subrecord rec_id="21" rec_time="5" name="Dark days are coming. " sound="nj_07b_06.mp3" from="  1:12.682" to="  1:14.441" allWordsNum="4"/>
+				<subrecord rec_id="22" rec_time="5" name="The temperature's dropping. " sound="nj_07b_06.mp3" from="  1:15.131" to="  1:16.985" allWordsNum="3"/>
+				<subrecord rec_id="23" rec_time="3" name="We start shivering. " sound="nj_07b_06.mp3" from="  1:17.603" to="  1:19.149" allWordsNum="3"/>
+				<subrecord rec_id="24" rec_time="3" name="Winter is here. " sound="nj_07b_06.mp3" from="  1:19.529" to="  1:21.288" allWordsNum="3"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>	
+	 <part part_index="1" name="The grasshopper and the ant" page="40">
+			<record rec_id="0" rec_time="20" sound="nj_07b_06.mp3">
+				<subrecord rec_id="1" rec_time="5" name="The seasons make me think of a story. " sound="nj_07b_06.mp3" from="  2:14.786" to="  2:17.414" allWordsNum="8"/>
+				<subrecord rec_id="2" rec_time="5" name="It's about a hard-working ant and a lazy grasshopper. " sound="nj_07b_06.mp3" from="  2:17.582" to="  2:22.169" allWordsNum="9"/>
+				<subrecord rec_id="3" rec_time="5" name="The grasshopper and the ant lived in a forest. " sound="nj_07b_06.mp3" from="  2:23.176" to="  2:26.252" allWordsNum="9"/>
+				<subrecord rec_id="4" rec_time="5" name="The grasshopper was lazy and the ant was hard-working. " sound="nj_07b_06.mp3" from="  2:26.979" to="  2:31.398" allWordsNum="9"/>
+			</record>
+			<record rec_id="1" rec_time="25" sound="nj_07b_06.mp3">
+				<subrecord rec_id="5" rec_time="7" name="All summer, the grasshopper sat in the sun and sang happily all the time. " sound="nj_07b_06.mp3" from="  2:31.902" to="  2:37.369" allWordsNum="8"/>
+				<subrecord rec_id="6" rec_time="4" name="The ant made a house under the ground. " sound="nj_07b_06.mp3" from="  2:38.000" to="  2:40.692" allWordsNum="8"/>
+				<subrecord rec_id="7" rec_time="5" name="Autumn came and the ant worked harder. " sound="nj_07b_06.mp3" from="  2:41.911" to="  2:45.318" allWordsNum="6"/>
+				<subrecord rec_id="8" rec_time="5" name="He collected food and took it into his house. " sound="nj_07b_06.mp3" from="  2:45.907" to="  2:49.145" allWordsNum="9"/>
+			</record>			
+			<record rec_id="2" rec_time="20" sound="nj_07b_06.mp3">	
+				<subrecord rec_id="9" rec_time="5" name="'Why do you work so hard?' asked the grasshopper. " sound="nj_07b_06.mp3" from="  2:50.407" to="  2:54.192" allWordsNum="9"/>
+				<subrecord rec_id="10" rec_time="3" name="'Winter is coming soon. " sound="nj_07b_06.mp3" from="  2:54.612" to="  2:56.505" allWordsNum="4"/>
+				<subrecord rec_id="11" rec_time="5" name="It'll be very cold and it'll snow, too. " sound="nj_07b_06.mp3" from="  2:56.631" to="  3:00.416" allWordsNum="8"/>
+				<subrecord rec_id="12" rec_time="5" name="It'll be difficult to find any food,' said the ant. " sound="nj_07b_06.mp3" from="  3:00.500" to="  3:04.285" allWordsNum="10"/>
+			</record>
+			<record rec_id="3" rec_time="20" sound="nj_07b_06.mp3">
+				<subrecord rec_id="13" rec_time="5" name="'Don't be silly, my friend,' laughed the grasshopper. " sound="nj_07b_06.mp3" from="  3:04.622" to="  3:08.869" allWordsNum="8"/>
+				<subrecord rec_id="14" rec_time="5" name="'There will be plenty of food in the forest in winter. " sound="nj_07b_06.mp3" from=" 3:08.971" to=" 3:12.341" allWordsNum="11"/>
+				<subrecord rec_id="15" rec_time="3" name=" Let's sing and play.' " sound="nj_07b_06.mp3" from="  3:12.788" to="  3:14.238" allWordsNum="4"/>
+				<subrecord rec_id="16" rec_time="5" name="At last, winter came. " sound="nj_07b_06.mp3" from="  3:16.117" to="  3:17.947" allWordsNum="4"/>
+			</record>
+			<record rec_id="4" rec_time="20" sound="nj_07b_06.mp3">
+				<subrecord rec_id="17" rec_time="5" name="The ant stayed in his warm house. " sound="nj_07b_06.mp3" from="  3:18.780" to="  3:21.205" allWordsNum="7"/>
+				<subrecord rec_id="18" rec_time="3" name="He had a lot of food. " sound="nj_07b_06.mp3" from="  3:21.751" to="  3:23.154" allWordsNum="6"/>
+				<subrecord rec_id="19" rec_time="5" name="The grasshopper was outside in the snow. " sound="nj_07b_06.mp3" from="  3:24.200" to="  3:26.625" allWordsNum="7"/>
+				<subrecord rec_id="20" rec_time="6" name="He looked for food everywhere, but he found nothing. " sound="nj_07b_06.mp3" from="  3:26.780" to="  3:30.822" allWordsNum="7"/>
+			</record>
+			<record rec_id="5" rec_time="25" sound="nj_07b_06.mp3">				
+				<subrecord rec_id="21" rec_time="5" name="He felt cold, hungry and disappointed. " sound="nj_07b_06.mp3" from="  3:31.900" to="  3:35.515" allWordsNum="6"/>
+				<subrecord rec_id="22" rec_time="5" name="The ant heard the grasshopper and came out of his house. " sound="nj_07b_06.mp3" from="  3:37.155" to="  3:40.098" allWordsNum="11"/>
+				<subrecord rec_id="23" rec_time="5" name="'What's the matter, my friend?' asked the ant. " sound="nj_07b_06.mp3" from="  3:41.147" to="  3:44.480" allWordsNum="8"/>
+				<subrecord rec_id="24" rec_time="7" name="'I'm cold and hungry,' answered the grasshopper sadly. " sound="nj_07b_06.mp3" from="  3:45.354" to="  3:48.942" allWordsNum="8"/>
+			</record>
+			<record rec_id="6" rec_time="25" sound="nj_07b_06.mp3">
+				<subrecord rec_id="25" rec_time="5" name="'Come into my house,' said the ant. " sound="nj_07b_06.mp3" from="  3:50.179" to="  3:52.545" allWordsNum="7"/>
+				<subrecord rec_id="26" rec_time="6" name="'It's warm inside and I've got enough food for both of us.' " sound="nj_07b_06.mp3" from="  3:53.190" to="  3:56.993" allWordsNum="12"/>
+				<subrecord rec_id="27" rec_time="10" name="The grasshopper thanked the ant and promised, 'When spring comes, I'll work hard like you.' " sound="nj_07b_06.mp3" from="  3:58.324" to="  4:05.125" allWordsNum="15"/>
+			</record>
+			<exercise type="4" index="0"/>
+   </part>	
+   <part part_index="2" name="Hard-working animals" page="0" source="2">
+			<record rec_id="0" rec_time="17" sound="7B Unit 6.mp3">
+				<subrecord rec_id="1" rec_time="9" name="It's not just humans who need to work hard in order to earn a living, many animals also have to work hard to survive. " sound="7B Unit 6.mp3" from="  0:06.017" to="  0:14.116" allWordsNum="24"/>
+				<subrecord rec_id="2" rec_time="5" name="If they would stop working, they would no longer exist. " sound="7B Unit 6.mp3" from="  0:14.701" to="  0:19.027" allWordsNum="10"/>
+				<subrecord rec_id="3" rec_time="3" name="Here are the top three hard-working animals. " sound="7B Unit 6.mp3" from="  0:19.580" to="  0:22.507" allWordsNum="7"/>
+			</record>
+			<record rec_id="1" rec_time="2" sound="7B Unit 6.mp3">
+				<subrecord rec_id="4" rec_time="2" name="Salmon" sound="7B Unit 6.mp3" from="  0:24.004" to="  0:25.012" allWordsNum="1"/>
+			</record>
+			<record rec_id="2" rec_time="19" sound="7B Unit 6.mp3">
+				<subrecord rec_id="5" rec_time="3" name="The salmon is the hardest working animal. " sound="7B Unit 6.mp3" from="  0:26.606" to="  0:29.533" allWordsNum="7"/>
+				<subrecord rec_id="6" rec_time="6" name="They are born in fresh-water rivers, but they go to live in salty oceans. " sound="7B Unit 6.mp3" from="  0:29.956" to="  0:35.648" allWordsNum="14"/>
+				<subrecord rec_id="7" rec_time="5" name="When they reach adulthood, they go back to the river where they were born. " sound="7B Unit 6.mp3" from="  0:36.233" to="  0:40.819" allWordsNum="14"/>
+				<subrecord rec_id="8" rec_time="5" name="Along the way, they have to fight against hungry bears. " sound="7B Unit 6.mp3" from="  0:41.242" to="  0:45.633" allWordsNum="10"/>
+			</record>
+			<record rec_id="3" rec_time="2" sound="7B Unit 6.mp3">
+				<subrecord rec_id="9" rec_time="2" name="Hummingbird" sound="7B Unit 6.mp3" from="  0:47.195" to="  0:48.170" allWordsNum="1"/>
+			</record>
+			<record rec_id="4" rec_time="17" sound="7B Unit 6.mp3">
+				<subrecord rec_id="10" rec_time="5" name="The hummingbirds have to perform lots of work in order to fly. " sound="7B Unit 6.mp3" from="  0:49.667" to="  0:53.895" allWordsNum="12"/>
+				<subrecord rec_id="11" rec_time="7" name="Every bird has to flap its wings to fly, but the hummingbird has to work harder than the other birds. " sound="7B Unit 6.mp3" from="  0:54.448" to="  1:01.343" allWordsNum="20"/>
+				<subrecord rec_id="12" rec_time="5" name="They need to flap their wings 40-50 times per second! " sound="7B Unit 6.mp3" from="  1:01.831" to="  1:06.190" allWordsNum="11"/>
+			</record>
+			<record rec_id="5" rec_time="2" sound="7B Unit 6.mp3">
+				<subrecord rec_id="13" rec_time="2" name="Honeybee" sound="7B Unit 6.mp3" from="  1:07.816" to="  1:08.792" allWordsNum="1"/>
+			</record>
+			<record rec_id="6" rec_time="20" sound="7B Unit 6.mp3">
+				<subrecord rec_id="14" rec_time="3" name="The honeybees are known for their hard work. " sound="7B Unit 6.mp3" from="  1:10.332" to="  1:13.325" allWordsNum="8"/>
+				<subrecord rec_id="15" rec_time="7" name="They go from flower to flower collecting nectar, taking it back home and going back again. " sound="7B Unit 6.mp3" from="  1:13.715" to="  1:20.090" allWordsNum="16"/>
+				<subrecord rec_id="16" rec_time="6" name="The reason why they work so much is because the nectar is mostly made out of water. " sound="7B Unit 6.mp3" from="  1:20.676" to="  1:25.880" allWordsNum="17"/>
+				<subrecord rec_id="17" rec_time="4" name="They have to work ten hours a day in order to create honey. " sound="7B Unit 6.mp3" from="  1:26.433" to="  1:30.076" allWordsNum="13"/>
+				</record>
+		<exercise type="4" index="0"/>
+      </part>	
+   <part part_index="3" name="Hard-working animals" page="0" source="2">
+      	<article allWordsNum="186">
+            	<![CDATA[
+It's not just humans who need to work hard in order to earn a living, many animals also have to work hard to survive. If they would stop working, they would no longer exist. Here are the top three hard-working animals.
+▲ Salmon
+The salmon (大马哈鱼) is the hardest working animal. They are born in fresh-water rivers, but they go to live in salty oceans. When they reach adulthood, they go back to the river where they were born. Along the way, they have to fight against hungry bears.
+▲ Hummingbird
+The hummingbirds (蜂鸟) have to perform lots of work in order to fly. Every bird has to flap (拍打) its wings to fly, but the hummingbird has to work harder than the other birds. They need to flap their wings 40-50 times per second!
+▲ Honeybee
+The honeybees are known for their hard work. They go from flower to flower collecting nectar (花蜜), taking it back home and going back again. The reason why they work so much is because the nectar is mostly made out of water. They have to work ten hours a day in order to create honey.
+	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="0" name="Choose the best answer. " qtype="1" >
+					<question rec_id="0" choice="B">
+						<![CDATA[_____ is the hardest working animal.]]>
+						<choice item="A" name="The hummingbird"/>
+						<choice item="B" name="The salmon "/>
+						<choice item="C" name="The honeybee"/>
+						<choice item="D" name="The bear "/>
+					</question>
+					<question rec_id="1" choice="C">
+						<![CDATA[Where are salmon born?]]>
+						<choice item="A" name="In salty oceans. "/>
+						<choice item="B" name="On trees. "/>
+						<choice item="C" name="In fresh-water rivers. "/>
+						<choice item="D" name="None of the above. "/>
+					</question>
+					<question rec_id="2" choice="C">
+						<![CDATA[Which of the following statements is false?]]>
+						<choice item="A" name="Every bird needs to flap its wings to fly. "/>
+						<choice item="B" name="The hummingbirds need to flap their wings about 40 times per second. "/>
+						<choice item="C" name="The nectar is made out of water only. "/>
+						<choice item="D" name="Nectar and honey are different. "/>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="About the seasons" page="39">
+			<record rec_id="0" rec_time="8" name="Look at the blackboard. What does spring make you think of?" sound="nj_07b_06.mp3" from="  1:32.891" to="  1:37.289" allWordsNum="11"/>
+			<record rec_id="1" rec_time="10" name="Spring makes me thinks of rain. It's awful to walk in wet and dirty streets. " sound="nj_07b_06.mp3" from="  1:38.407" to="  1:45.801" allWordsNum="15"/>
+			<record rec_id="2" rec_time="10" name="Spring makes me think of butterflies. It's interesting to see them flying around the flowers. " sound="nj_07b_06.mp3" from="  1:47.108" to="  1:53.409" allWordsNum="15"/>
+			<record rec_id="3" rec_time="10" name="Spring makes me think of outings. It's nice to have picnics in the park. " sound="nj_07b_06.mp3" from="  1:56.690" to="  2:02.063" allWordsNum="14"/>
+			<exercise type="5" index="0"/>
+      </part>
+    </dialogs>
+</package>
+ 

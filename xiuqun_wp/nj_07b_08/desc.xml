@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_07b</book_id>
+	<unit_id>nj_07b_08</unit_id>
+	<version>7</version>
+	<unit>unit8</unit>
+	<title>A more enjoyable school life</title>
+	<words>
+		<part part_index="0" page="53">
+			<record rec_id="0" rec_time="3" name="enjoyable" symbol="in5dVCiEbl" explain="adj.有乐趣的；使人快乐的，令人愉快的" sound="nj_07b_08.mp3" from="  3:13.843" to="  3:15.837" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="ideal" symbol="ai5di:El" explain="adj.理想的；完美的；最合适的" sound="nj_07b_08.mp3" from="  3:16.460" to="  3:18.455" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="conduct" symbol="kEn5dQkt" explain="v.组织；安排" sound="nj_07b_08.mp3" from="  3:18.953" to="  3:20.200" allWordsNum="1"/>
+			<record rec_id="3" rec_time="3" name="modern" symbol="5mCdn" explain="adj.现代化的" sound="nj_07b_08.mp3" from="  3:21.073" to="  3:23.379" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="laboratory" symbol="lE5bCrEtri" explain="n.实验室" sound="nj_07b_08.mp3" from="  3:23.566" to="  3:25.435" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="experiment" symbol="ik5sperimEnt" explain="n.实验；试验" sound="nj_07b_08.mp3" from="  3:26.246" to="  3:28.988" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="organize" symbol="5R:gEnaiz" explain="v.组织；筹备" sound="nj_07b_08.mp3" from="  3:29.487" to="  3:31.481" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="impossible" symbol="im5pCsEbl" explain="adj.不可能存在（或做到）的；不可能的" sound="nj_07b_08.mp3" from="  3:32.042" to="  3:34.535" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="necessary" symbol="5nesEsEri" explain="adj.必需的；必要的" sound="nj_07b_08.mp3" from="  3:35.159" to="  3:37.153" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="unnecessary" symbol="Qn5nesEsEri" explain="adj.不需要的；不必要的；多余的" sound="nj_07b_08.mp3" from="  3:37.839" to="  3:40.269" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="uninteresting" symbol="Qn5intrEstiN" explain="adj.不吸引人的；无趣的；无聊的" sound="nj_07b_08.mp3" from="  3:41.142" to="  3:43.199" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="yourselves" symbol="jR:5selvz" explain="pron.你们自己" sound="nj_07b_08.mp3" from="  3:43.573" to="  3:45.817" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="ourselves" symbol="9auE5selvz" explain="pron.我们自己" sound="nj_07b_08.mp3" from="  3:46.502" to="  3:48.746" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="put up" symbol="put Qp" explain="张贴；置.......于明显处" sound="nj_07b_08.mp3" from="  3:49.307" to="  3:51.177" allWordsNum="2"/>
+			<record rec_id="14" rec_time="3" name="themselves" symbol="TEm5selvz" explain="pron.他们自己；她们自己；它们自己" sound="nj_07b_08.mp3" from="  3:51.925" to="  3:54.044" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="clean up" symbol="kli:n Qp" explain="打扫（或清除）干净" sound="nj_07b_08.mp3" from="  3:54.480" to="  3:56.662" allWordsNum="2"/>
+			<record rec_id="16" rec_time="3" name="herself" symbol="hE:5self" explain="pron.她自己" sound="nj_07b_08.mp3" from="  3:56.973" to="  3:58.718" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="himself" symbol="him5self" explain="pron.他自己" sound="nj_07b_08.mp3" from="  3:59.342" to="  4:01.398" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="World's first wizard school" page="0" source="2">
+			<record rec_id="0" rec_time="19" sound="7B Unit 8.mp3">
+				<subrecord rec_id="1" rec_time="1" name="Look! " sound="7B Unit 8.mp3" from="  0:06.183" to="  0:07.019" allWordsNum="1"/>
+				<subrecord rec_id="2" rec_time="4" name="The man wears a wizard costume and has a wand. " sound="7B Unit 8.mp3" from="  0:07.521" to="  0:10.640" allWordsNum="10"/>
+				<subrecord rec_id="3" rec_time="5" name="He dresses like Dumbledore, Harry Potter's headmaster. " sound="7B Unit 8.mp3" from="  0:11.170" to="  0:15.682" allWordsNum="7"/>
+				<subrecord rec_id="4" rec_time="2" name="Do you know who he is? " sound="7B Unit 8.mp3" from="  0:16.156" to="  0:17.632" allWordsNum="6"/>
+			  <subrecord rec_id="5" rec_time="3" name="He is Oberon Zell Ravenheart. " sound="7B Unit 8.mp3" from="  0:18.245" to="  0:20.529" allWordsNum="4"/>
+				<subrecord rec_id="6" rec_time="4" name="He opened the world's first wizard school in America. " sound="7B Unit 8.mp3" from="  0:20.947" to="  0:24.262" allWordsNum="9"/>
+			</record>
+			<record rec_id="1" rec_time="17" sound="7B Unit 8.mp3">
+				<subrecord rec_id="7" rec_time="5" name="In the magic school, there are 735 students. " sound="7B Unit 8.mp3" from="  0:25.794" to="  0:30.446" allWordsNum="8"/>
+				<subrecord rec_id="8" rec_time="12" name="Like Hogwarts, students who attend the school are split into four different  houses  and like Harry Potter, they need to learn how to practise magic. " sound="7B Unit 8.mp3" from="  0:31.114" to="  0:42.145" allWordsNum="25"/>
+			</record>
+			<record rec_id="2" rec_time="14" sound="7B Unit 8.mp3">
+				<subrecord rec_id="9" rec_time="10" name="The school teaches 16 courses, including alchemy, horse whispering, wand making and spell casting. " sound="7B Unit 8.mp3" from="  0:43.679" to="  0:53.290" allWordsNum="14"/>
+				<subrecord rec_id="10" rec_time="4" name="Oberon says his students are future Harry Potters. " sound="7B Unit 8.mp3" from="  0:53.791" to="  0:57.357" allWordsNum="8"/>
+			</record>
+		<exercise type="4" index="0"/>
+      </part>	
+		<part part_index="1" name="World's first wizard school" page="0" source="2">
+      	<article allWordsNum="92">
+            	<![CDATA[
+Look! The man wears a wizard costume and has a wand (魔杖). He dresses like Dumbledore, Harry Potter's headmaster. Do you know who he is? He is Oberon Zell Ravenheart. He opened the world's first wizard school in America.
+In the magic school, there are 735 students. Like Hogwarts, students who attend the school are split into (分成) four different "houses (家族)" and like Harry Potter, they need to learn how to practise magic.
+The school teaches 16 courses, including alchemy (炼金术), horse whispering (马语), wand making and spell casting (施咒语术). Oberon says his students are future Harry Potters.
+          	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="80">
+				<section rec_id="2" name="True or false. " qtype="2">
+					<question rec_id="0" choice="false">
+						<![CDATA[Dumbledore opened the first wizard school in America.]]>
+					</question>
+					<question rec_id="1" choice="true">
+						<![CDATA[There are about 700 students in the school.]]>
+					</question>
+					<question rec_id="2" choice="true">
+						<![CDATA[The school teaches students how to cast spells and talk to horses.]]>
+					</question>
+					</section>
+			</exercise>
+    </part>
+		</texts>
+	<dialogs>
+		<part part_index="0" name="My ideal school" page="49">
+			<record rec_id="0" rec_time="10" name="Children, I want you to find out what changes the younger students would like to see in our school." sound="nj_07b_08.mp3" from="  0:27.299" to="  0:35.962" allWordsNum="19"/>
+			<record rec_id="1" rec_time="5" name="That's a good idea." sound="nj_07b_08.mp3" from="  0:36.461" to="  0:39.203" allWordsNum="4"/>
+			<record rec_id="2" rec_time="5" name="What changes would you like to see in our school?" sound="nj_07b_08.mp3" from="  0:42.943" to="  0:47.493" allWordsNum="10"/>
+			<record rec_id="3" rec_time="5" name="I'd like to have a swimming pool in our school." sound="nj_07b_08.mp3" from="  0:47.929" to="  0:51.981" allWordsNum="10"/>
+			<record rec_id="4" rec_time="5" name="What changes would you like to see in our school?" sound="nj_07b_08.mp3" from="  0:55.346" to="  0:59.086" allWordsNum="10"/>
+			<record rec_id="5" rec_time="5" name="I'd like to have more computer lessons." sound="nj_07b_08.mp3" from="  0:59.896" to="  1:03.573" allWordsNum="7"/>
+			<record rec_id="6" rec_time="6" name="I'd like to have more activities and trips to other places." sound="nj_07b_08.mp3" from="  1:08.435" to="  1:13.857" allWordsNum="11"/>
+			<record rec_id="7" rec_time="5" name="I'd like to have an air conditioned classroom." sound="nj_07b_08.mp3" from="  1:14.481" to="  1:18.532" allWordsNum="8"/>
+			<record rec_id="8" rec_time="5" name="I'd like to have less homework." sound="nj_07b_08.mp3" from="  1:19.342" to="  1:22.833" allWordsNum="6"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="1" name="Idea about the future of our school" page="51">
+			<record rec_id="0" rec_time="8" name="What do you think of the suggestions?" sound="nj_07b_08.mp3" from="  1:39.038" to="  1:41.905" allWordsNum="7"/>
+			<record rec_id="1" rec_time="8" name="It would be possible to have more books in our library." sound="nj_07b_08.mp3" from="  1:42.466" to="  1:47.016" allWordsNum="11"/>
+			<record rec_id="2" rec_time="8" name="It would be impossible to have a swimming pool in our school." sound="nj_07b_08.mp3" from="  1:48.449" to="  1:53.747" allWordsNum="12"/>
+			<record rec_id="3" rec_time="8" name="It would be difficult to have less homework." sound="nj_07b_08.mp3" from="  1:54.807" to="  1:58.546" allWordsNum="8"/>
+			<record rec_id="4" rec_time="8" name="It would be nice to have more computer lessons in our school." sound="nj_07b_08.mp3" from="  1:59.606" to="  2:05.340" allWordsNum="12"/>
+			<exercise type="5" index="0"/>
+		</part>
+		<part part_index="2" name="Changes of the classroom" page="52">
+		  <record rec_id="0" rec_time="12" name="Our classroom looks old, untidy and uninteresting. Can you make some changes to it yourselves?" sound="nj_07b_08.mp3" from="  2:21.109" to="  2:31.829" allWordsNum="15"/>
+			<record rec_id="1" rec_time="12" name="We can decorate the display board ourselves. Peter and Jill can put up some posters on the wall themselves." sound="nj_07b_08.mp3" from="  2:32.889" to="  2:42.861" allWordsNum="19"/>
+			<record rec_id="2" rec_time="10" name="I can sweep the floor myself. Alice can clean up the desks herself." sound="nj_07b_08.mp3" from="  2:48.533" to="  2:55.700" allWordsNum="13"/>
+			<record rec_id="3" rec_time="5" name="Shall we help Joe put the books on the shelves?" sound="nj_07b_08.mp3" from="  2:59.627" to="  3:03.180" allWordsNum="10"/>
+			<record rec_id="4" rec_time="5" name="No. He can do it himself." sound="nj_07b_08.mp3" from="  3:03.554" to="  3:07.169" allWordsNum="6"/>
+			<exercise type="5" index="0"/>
+      </part>
+    </dialogs>
+</package>
+ 

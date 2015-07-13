@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_09a</book_id>
+	<unit_id>nj_09a_01</unit_id>
+	<version>7</version>
+	<unit>unit1</unit>
+	<title>Ancient Greece</title>
+	<words>
+		<part part_index="0" page="17">
+			<record rec_id="0" rec_time="3" name="stair" symbol="stZE(r)" explain="n.楼梯" sound="nj_09a_01.mp3" from="  6:08.978" to="  6:10.236" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="at a time" symbol="At E taim" explain="每次" sound="nj_09a_01.mp3" from="  6:11.320" to="  6:12.521" allWordsNum="3"/>
+			<record rec_id="2" rec_time="3" name="plain" symbol="plein" explain="n.平原" sound="nj_09a_01.mp3" from="  6:13.912" to="  6:14.971" allWordsNum="1"/>
+			<record rec_id="3" rec_time="3" name="no longer" symbol="nEu lCNgE" explain="不再" sound="nj_09a_01.mp3" from="  6:15.733" to="  6:16.925" allWordsNum="2"/>
+			<record rec_id="4" rec_time="3" name="Troy" symbol="trCi" explain="n.特洛伊" sound="nj_09a_01.mp3" from="  6:17.951" to="  6:18.845" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="beyond" symbol="bi5jCnd" explain="prep.在（或向）......较远的一边" sound="nj_09a_01.mp3" from="  6:20.071" to="  6:21.561" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="Greek" symbol="gri:k" explain="n.希腊人" sound="nj_09a_01.mp3" from="  6:22.654" to="  6:23.581" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="capture" symbol="5kAptFE(r)" explain="v.攻占,夺取" sound="nj_09a_01.mp3" from="  6:24.541" to="  6:25.832" allWordsNum="1"/>
+			<record rec_id="8" rec_time="3" name="wheel" symbol="wi:l" explain="n.轮子" sound="nj_09a_01.mp3" from="  6:26.594" to="  6:27.455" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="Trojan" symbol="5trEudVEn" explain="n.特洛伊人" sound="nj_09a_01.mp3" from="  6:28.316" to="  6:29.442" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="drag" symbol="drAg" explain="v.（使劲而吃力地）拖,拉" sound="nj_09a_01.mp3" from="  6:30.303" to="  6:30.965" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="citizen" symbol="5sitizn" explain="n.居民,市民,公民" sound="nj_09a_01.mp3" from="  6:31.859" to="  6:32.819" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="joke" symbol="dVEuk" explain="n.笑话,玩笑" sound="nj_09a_01.mp3" from="  6:33.713" to="  6:34.740" allWordsNum="1"/>
+			<record rec_id="13" rec_time="3" name="enemy" symbol="5enEmi" explain="n.敌人" sound="nj_09a_01.mp3" from="  6:35.402" to="  6:36.396" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="securely" symbol="si5kjuEli" explain="adv.牢牢地" sound="nj_09a_01.mp3" from="  6:37.157" to="  6:38.184" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="go to sleep" symbol="gEu tu sli:p" explain="入睡,睡着" sound="nj_09a_01.mp3" from="  6:39.210" to="  6:40.369" allWordsNum="3"/>
+			<record rec_id="16" rec_time="3" name="including" symbol="in5klu:diN" explain="prep.包括......在内" sound="nj_09a_01.mp3" from="  6:41.296" to="  6:42.455" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="midnight" symbol="5midnait" explain="n.午夜,子夜" sound="nj_09a_01.mp3" from="  6:43.350" to="  6:44.409" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="except for" symbol="ik5sept fR:" explain="除......之外" sound="nj_09a_01.mp3" from="  6:45.237" to="  6:46.495" allWordsNum="2"/>
+			<record rec_id="19" rec_time="3" name="army" symbol="5B:mi" explain="n.军队,部队" sound="nj_09a_01.mp3" from="  6:47.555" to="  6:48.383" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="darkness" symbol="5dB:knEs" explain="n.黑暗,漆黑" sound="nj_09a_01.mp3" from="  6:49.361" to="  6:50.586" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="seize" symbol="si:z" explain="v.捉拿,俘获" sound="nj_09a_01.mp3" from="  6:51.414" to="  6:52.407" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="succeed" symbol="sEk5si:d" explain="v.实现目标,成功" sound="nj_09a_01.mp3" from="  6:53.268" to="  6:54.394" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="fit" symbol="fit" explain="v.适合" sound="nj_09a_01.mp3" from="  6:55.387" to="  6:56.348" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="refuse" symbol="ri5fju:z" explain="v.谢绝,拒绝" sound="nj_09a_01.mp3" from="  6:57.076" to="  6:58.070" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="manage" symbol="5mAnidV" explain="v.完成（困难的事）" sound="nj_09a_01.mp3" from="  6:59.030" to="  6:59.990" allWordsNum="1"/>
+			<record rec_id="26" rec_time="3" name="come on" symbol="kQm Cn" explain="得了吧" sound="nj_09a_01.mp3" from="  7:00.851" to="  7:01.811" allWordsNum="2"/>
+			<record rec_id="27" rec_time="3" name="independent" symbol="7indi5pendEnt" explain="adj,独立的" sound="nj_09a_01.mp3" from="  7:02.706" to="  7:03.732" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="The night of the horse" page="3">
+			<record rec_id="0" rec_time="60" sound="nj_09a_01.mp3">
+				<subrecord rec_id="1" rec_time="8" name="The soldier came down the stairs-two at a time. " sound="nj_09a_01.mp3" from="0:02.882" to="0:06.971" allWordsNum="10"/>
+				<subrecord rec_id="2" rec_time="6" name="Captain, they've gone, he cried. " sound="nj_09a_01.mp3" from="0:06.971" to="0:09.535" allWordsNum="5"/>
+				<subrecord rec_id="3" rec_time="6" name="they've disappeared-all of them. " sound="nj_09a_01.mp3" from="0:09.485" to="0:12.174" allWordsNum="5"/>
+				<subrecord rec_id="4" rec_time="3" name="The plain is... " sound="nj_09a_01.mp3" from="0:12.199" to="0:13.743" allWordsNum="3"/>
+				<subrecord rec_id="5" rec_time="6" name="But the captain was no longer listening. " sound="nj_09a_01.mp3" from="0:13.818" to="0:16.033" allWordsNum="7"/>
+				<subrecord rec_id="6" rec_time="6" name="He was going up the stairs-three at a time. " sound="nj_09a_01.mp3" from="0:16.083" to="0:19.295" allWordsNum="9"/>
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_09a_01.mp3">
+				<subrecord rec_id="7" rec_time="10" name="Seconds later, the captain stood on the high wall of the city of Troy. " sound="nj_09a_01.mp3" from="0:19.843" to="0:24.125" allWordsNum="14"/>
+				<subrecord rec_id="8" rec_time="10" name="He looked down at the empty plain and, beyond it, at the empty sea. " sound="nj_09a_01.mp3" from="0:24.449" to="0:28.980" allWordsNum="14"/>
+				<subrecord rec_id="9" rec_time="6" name=" they've gone and we've won, he said. " sound="nj_09a_01.mp3" from="0:29.553" to="0:32.217" allWordsNum="7"/>
+				<subrecord rec_id="10" rec_time="8" name="The Greeks have tried for ten years to capture our city. " sound="nj_09a_01.mp3" from="0:32.565" to="0:35.578" allWordsNum="11"/>
+				<subrecord rec_id="11" rec_time="3" name="Now they've sailed away. " sound="nj_09a_01.mp3" from="0:35.678" to="0:37.620" allWordsNum="4"/>
+				<subrecord rec_id="12" rec_time="5" name="And they've taken everything with them. " sound="nj_09a_01.mp3" from="0:37.620" to="0:39.686" allWordsNum="6"/>
+			</record>
+			<record rec_id="2" rec_time="25" sound="nj_09a_01.mp3">	
+				<subrecord rec_id="13" rec_time="10" name="Not everything sir, the soldier said,They've left their horse, " sound="nj_09a_01.mp3" from="0:40.159" to="0:44.914" allWordsNum="10"/>
+				<subrecord rec_id="14" rec_time="10" name="Outside the main gates of the city stood a huge wooden horse. " sound="nj_09a_01.mp3" from="0:45.039" to="0:49.421" allWordsNum="12"/>
+				</record>
+			<record rec_id="3" rec_time="60" sound="nj_09a_01.mp3">
+				<subrecord rec_id="15" rec_time="5" name="Ah,yes, the captain said. " sound="nj_09a_01.mp3" from="0:49.545" to="0:51.662" allWordsNum="5"/>
+				<subrecord rec_id="16" rec_time="10" name="that wooden horse.It's so big that they couldn't take it with them. " sound="nj_09a_01.mp3" from="0:51.729" to="0:56.258" allWordsNum="13"/>
+				<subrecord rec_id="17" rec_time="3" name="Well, it's ours now. " sound="nj_09a_01.mp3" from="0:56.459" to="0:58.047" allWordsNum="4"/>
+				<subrecord rec_id="18" rec_time="5" name="Get some help and pull it into city. " sound="nj_09a_01.mp3" from=" 0:58.269" to="1:00.481" allWordsNum="8"/>
+				<subrecord rec_id="19" rec_time="5" name="That won't be diffcult. " sound="nj_09a_01.mp3" from="1:00.957" to="1:02.386" allWordsNum="4"/>
+				<subrecord rec_id="20" rec_time="3" name="It's on wheels. " sound="nj_09a_01.mp3" from="1:02.534" to="1:03.761" allWordsNum="3"/>
+			</record>
+			<record rec_id="4" rec_time="25" sound="nj_09a_01.mp3">	
+				<subrecord rec_id="21" rec_time="5" name="But why is it on wheels?the solider asked. " sound="nj_09a_01.mp3" from=" 1:04.830" to="1:07.772" allWordsNum="9"/>
+				<subrecord rec_id="22" rec_time="5" name="I think that maybe the Greeks want us to... " sound="nj_09a_01.mp3" from="1:08.079" to="1:10.630" allWordsNum="9"/>
+				</record>
+			<record rec_id="5" rec_time="60" sound="nj_09a_01.mp3">	
+				<subrecord rec_id="23" rec_time="10" name="The captain interrupted him, You're a solider, he said. " sound="nj_09a_01.mp3" from=" 1:10.937" to=" 1:15.022" allWordsNum="9"/>
+				<subrecord rec_id="24" rec_time="15" name=" You don't have to think. You have to obey orders,and I'm giving you one now. Move that horse. " sound="nj_09a_01.mp3" from="  1:15.106" to="  1:22.112" allWordsNum="19"/>
+				<subrecord rec_id="25" rec_time="5" name="So the Trojans dragged it into the city with ropes. " sound="nj_09a_01.mp3" from="  1:23.075" to="  1:25.922" allWordsNum="10"/>
+			</record>
+			<record rec_id="6" rec_time="25" sound="nj_09a_01.mp3">	
+				<subrecord rec_id="26" rec_time="10" name="That night ,in the main square, all the citizens of Troy celebrated. " sound="nj_09a_01.mp3" from="  1:27.647" to="  1:32.504" allWordsNum="12"/>
+				<subrecord rec_id="27" rec_time="12" name="They sang and danced around the horse, and made jokes about their enemies,the stupid Greeks. " sound="nj_09a_01.mp3" from="  1:32.652" to="  1:38.462" allWordsNum="16"/>
+				<subrecord rec_id="28" rec_time="15" name="Then the Trojans made sure all the gates of the city were securely locked,and they all went to sleep,including the gate  guards. " sound="nj_09a_01.mp3" from="  1:38.970" to="  1:46.516" allWordsNum="24"/>
+			</record>
+			<record rec_id="7" rec_time="60" sound="nj_09a_01.mp3">	
+				<subrecord rec_id="29" rec_time="10" name="By midnight, the square was empty, except for the giant horse. " sound="nj_09a_01.mp3" from="  1:47.278" to="  1:51.701" allWordsNum="11"/>
+				<subrecord rec_id="30" rec_time="8" name="The six Greek soldiers waited for another hour,to be sure. " sound="nj_09a_01.mp3" from="  1:52.336" to="  1:55.977" allWordsNum="11"/>
+				<subrecord rec_id="31" rec_time="10" name="Then,very quietly,they opened the secret door on the side of the horse and climbed out. " sound="nj_09a_01.mp3" from="  1:56.591" to="  2:02.051" allWordsNum="17"/>
+				</record>
+			<record rec_id="8" rec_time="60" sound="nj_09a_01.mp3">	
+				<subrecord rec_id="32" rec_time="7" name="No guards stopped them as they opened the main gates. " sound="nj_09a_01.mp3" from="  2:03.692" to="  2:07.057" allWordsNum="10"/>
+				<subrecord rec_id="33" rec_time="5" name="Outside stood the Greek army. " sound="nj_09a_01.mp3" from=" 2:07.332" to="  2:09.428" allWordsNum="5"/>
+				<subrecord rec_id="34" rec_time="7" name="It had returned in the darkness when the citizens were celebrated inside. " sound="nj_09a_01.mp3" from="  2:09.819" to="  2:13.470" allWordsNum="12"/>
+				<subrecord rec_id="35" rec_time="5" name="Now the army entered the city. " sound="nj_09a_01.mp3" from="  2:14.349" to="  2:16.412" allWordsNum="6"/>
+				<subrecord rec_id="36" rec_time="3" name="The Greeks seized the captain. " sound="nj_09a_01.mp3" from="  2:17.016" to="  2:18.942" allWordsNum="5"/>
+				<subrecord rec_id="37" rec_time="15" name="For ten years,they could not capture the city by fighting, but in one night, they succeeded in capturing it through a trick. " sound="nj_09a_01.mp3" from="  2:19.502" to="  2:26.984" allWordsNum="23"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+			<part part_index="1" name="Archimedes and the crown" page="14">
+			<record rec_id="0" rec_time="60" sound="nj_09a_01.mp3">
+				<subrecord rec_id="1" rec_time="20" name="King Hiero asked the crown-maker to make him a gold crown,but when the king got the crown, he suspected that the crown was not entirely made of gold. " sound="nj_09a_01.mp3" from="  4:34.041" to="  4:44.041" allWordsNum="30"/>
+				<subrecord rec_id="2" rec_time="12" name="Then the king sent the crown to Archimedes, the best scientist in the kingdom. " sound="nj_09a_01.mp3" from="4:44.637" to="4:50.035" allWordsNum="14"/>
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_09a_01.mp3">
+				<subrecord rec_id="3" rec_time="12" name="Archimedes thought about the problem while a servant poured some water into a bath for him. " sound="nj_09a_01.mp3" from="4:50.730" to="  4:56.227" allWordsNum="15"/>
+				<subrecord rec_id="4" rec_time="10" name="Archimedes got in the bath and some water came out of it, onto the floor. " sound="nj_09a_01.mp3" from="4:56.757" to="5:01.492" allWordsNum="15"/>
+				<subrecord rec_id="5" rec_time="5" name="Archimedes was very excited. " sound="nj_09a_01.mp3" from="  5:01.360" to="  5:04.207" allWordsNum="4"/>
+				</record>
+			<record rec_id="2" rec_time="60" sound="nj_09a_01.mp3">
+				<subrecord rec_id="6" rec_time="6" name=" That's it!  shouted Archimedes to the servant. " sound="nj_09a_01.mp3" from="  5:04.406" to="5:07.850" allWordsNum="7"/>
+				<subrecord rec_id="7" rec_time="10" name="if we put an object in a pot full of water, some of the water will come out. " sound="nj_09a_01.mp3" from="5:07.949" to="5:12.982" allWordsNum="18"/>
+				<subrecord rec_id="8" rec_time="5" name="The object displaces the water. " sound="nj_09a_01.mp3" from=" 5:13.115" to="  5:15.996" allWordsNum="5"/>
+				<subrecord rec_id="9" rec_time="6" name="A big object will displace a lot of water. " sound="nj_09a_01.mp3" from="  5:16.128" to="  5:19.473" allWordsNum="9"/>
+				<subrecord rec_id="10" rec_time="6" name="A small object will displace only a little water. " sound="nj_09a_01.mp3" from="5:19.605" to="5:23.347" allWordsNum="9"/>
+				</record>
+			<record rec_id="3" rec_time="60" sound="nj_09a_01.mp3">
+				<subrecord rec_id="11" rec_time="6" name="Archimedes went to the palace to weigh the crown. " sound="nj_09a_01.mp3" from="5:23.811" to="5:27.486" allWordsNum="9"/>
+				<subrecord rec_id="12" rec_time="5" name="It weighed one kilogram. " sound="nj_09a_01.mp3" from="  5:27.519" to="5:29.937" allWordsNum="4"/>
+				<subrecord rec_id="13" rec_time="5" name="He put the crown in a pot of water. " sound="nj_09a_01.mp3" from="  5:30.268" to="  5:32.950" allWordsNum="9"/>
+				<subrecord rec_id="14" rec_time="5" name="Five centimetres of water came out. " sound="nj_09a_01.mp3" from="  5:32.950" to="  5:35.732" allWordsNum="6"/>
+				<subrecord rec_id="15" rec_time="8" name="He then put one kilogram of gold in another pot of water. " sound="nj_09a_01.mp3" from="  5:35.864" to="  5:40.036" allWordsNum="12"/>
+				<subrecord rec_id="16" rec_time="6" name="Three centimetres of water came out of this pot. " sound="nj_09a_01.mp3" from="  5:40.235" to="  5:43.546" allWordsNum="9"/>
+				</record>
+			<record rec_id="4" rec_time="60" sound="nj_09a_01.mp3">
+				<subrecord rec_id="17" rec_time="10" name="Archimedes said to King Hiero,  Silver made the crown bigger. " sound="nj_09a_01.mp3" from="  5:43.613" to="  5:48.845" allWordsNum="10"/>
+				<subrecord rec_id="18" rec_time="6" name="That is why the crown displaced more water . " sound="nj_09a_01.mp3" from="  5:48.944" to="  5:52.090" allWordsNum="8"/>
+				<subrecord rec_id="19" rec_time="12" name="So, the crown is not made entirely of gold, it is made of both gold and silver. " sound="nj_09a_01.mp3" from="  5:52.255" to="  5:58.216" allWordsNum="17"/>
+				</record>
+			<record rec_id="5" rec_time="25" sound="nj_09a_01.mp3">
+				<subrecord rec_id="20" rec_time="10" name="King Hiero was very angry when he heard this, and he sent the crown-maker to prison. " sound="nj_09a_01.mp3" from="  5:59.010" to="  6:04.309" allWordsNum="17"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="Offering, accepting and refusing help" page="11">
+			<record rec_id="0" rec_time="8" name="Hello, Jenny, you look busy. Anything I can do to help?" sound="nj_09a_01.mp3" from="2:51.352" to="2:55.676" allWordsNum="11"/>
+			<record rec_id="1" rec_time="5" name="Thanks very much, but I can manage. " sound="nj_09a_01.mp3" from="2:55.994" to="  2:58.484" allWordsNum="7"/>
+			<record rec_id="2" rec_time="8" name="Come on, let me give you a hand. Don't be so independent all the time !" sound="nj_09a_01.mp3" from="  2:58.484" to="  3:03.239" allWordsNum="15"/>
+			<record rec_id="3" rec_time="5" name="No, thanks. I'm OK. " sound="nj_09a_01.mp3" from="  3:03.370" to="  3:05.429" allWordsNum="4"/>
+			<record rec_id="4" rec_time="5" name="If you want, I could do some typing. " sound="nj_09a_01.mp3" from="  3:05.822" to=" 3:08.574" allWordsNum="8"/>
+			<record rec_id="5" rec_time="10" name="Typing ? Oh, that would be good. I didn't know you could type. Thanks a lot. " sound="nj_09a_01.mp3" from="  3:08.649" to="  3:14.452" allWordsNum="15"/>
+			<exercise type="5" index="0"/>
+		</part>
+	</dialogs>
+</package>
+ 

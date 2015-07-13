@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_08a</book_id>
+	<unit_id>nj_08a_03</unit_id>
+	<version>6</version>
+	<unit>unit3</unit>
+	<title>Trouble!</title>
+	<words>
+		<part part_index="0" page="51">
+			<record rec_id="0" rec_time="3" name="ever" symbol="5evE(r)" explain="adv.在任何时候；从来" sound="nj_08a_03.mp3" from="4:16.185" to="4:16.795" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="argue" symbol="5B:gju:" explain="v.争论；争吵；争辩" sound="nj_08a_03.mp3" from="4:18.492" to="4:19.366" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="deal with" symbol="5di:l wiT" explain="解决；处理；应付" sound="nj_08a_03.mp3" from="4:20.973" to="4:21.706" allWordsNum="2"/>
+		  <record rec_id="3" rec_time="3" name="trouble" symbol="5trQbl" explain="n.问题；困难" sound="nj_08a_03.mp3" from="4:23.239" to="4:23.824" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="unusual" symbol="Qn5ju:VUEl" explain="adj.特别的；不寻常的" sound="nj_08a_03.mp3" from="4:24.994" to="4:26.164" allWordsNum="1"/>
+			<record rec_id="5" rec_time="3" name="happen to" symbol="5hAp(E)n tE" explain="遭到；遇到" sound="nj_08a_03.mp3" from="4:27.598" to="4:28.471" allWordsNum="2"/>
+			<record rec_id="6" rec_time="3" name="argument" symbol="5B:gjUmEnt" explain="n.争论；争吵；争辩" sound="nj_08a_03.mp3" from="4:30.127" to="4:31.050" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="hold out" symbol="hEuld aut" explain="递出东西；伸出手（或胳膊）" sound="nj_08a_03.mp3" from="4:32.912" to="4:34.074" allWordsNum="2"/>
+			<record rec_id="8" rec_time="3" name="crowd" symbol="kraud" explain="n.人群；观众" sound="nj_08a_03.mp3" from="4:35.640" to="4:36.456" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="stare" symbol="stZE(r)" explain="v.盯着看；凝视" sound="nj_08a_03.mp3" from="4:37.832" to="4:38.903" allWordsNum="1"/>
+			<record rec_id="10" rec_time="3" name="through" symbol="Wru:" explain="prep.从......一端至另一端；穿过；贯穿" sound="nj_08a_03.mp3" from="4:40.279" to="4:41.062" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="quietly" symbol="5kwaiEtli" explain="adv.轻轻地；安静地" sound="nj_08a_03.mp3" from="4:42.298" to="4:43.237" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="be going on" symbol="bi: 5gEuiN Cn" explain="发生" sound="nj_08a_03.mp3" from="4:44.580" to="4:46.088" allWordsNum="3"/>
+			<record rec_id="13" rec_time="3" name="steal" symbol="sti:l" explain="v.偷；窃取" sound="nj_08a_03.mp3" from="4:47.744" to="4:48.700" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="purse" symbol="pE:s" explain="n.（尤指女用的）钱包" sound="nj_08a_03.mp3" from="4:49.994" to="4:51.008" allWordsNum="1"/>
+			<record rec_id="15" rec_time="3" name="postcard" symbol="5pEustkB:d" explain="n.明信片" sound="nj_08a_03.mp3" from="4:52.169" to="4:53.183" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="gone" symbol="gCn" explain="adj.不复存在；离开了；走了" sound="nj_08a_03.mp3" from="4:54.674" to="4:55.531" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="gate" symbol="geit" explain="n.大门" sound="nj_08a_03.mp3" from="4:56.924" to=" 4:57.624" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="aboard" symbol="E5bR:d" explain="adv.上船（或飞机、公共汽车、火车等）" sound="nj_08a_03.mp3" from="4:58.695" to="4:59.651" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="go after" symbol="gEu 5B:ftE" explain="追赶某人；跟在某人后面" sound="nj_08a_03.mp3" from="5:01.184" to="5:02.371" allWordsNum="2"/>
+			<record rec_id="20" rec_time="3" name="strange" symbol="streindV" explain="adj.奇怪的；异常的" sound="nj_08a_03.mp3" from="5:03.887" to="5:05.032" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="(be) afraid of" symbol="(bi:) E5freid Cv" explain="害怕；畏惧" sound="nj_08a_03.mp3" from="5:06.622" to="5:07.735" allWordsNum="3"/>
+			<record rec_id="22" rec_time="3" name="dial" symbol="5daiEl" explain="v.拨（电话号码）" sound="nj_08a_03.mp3" from="5:09.490" to="5:10.536" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="theft" symbol="Weft" explain="n.偷；偷窃；盗窃罪" sound="nj_08a_03.mp3" from="5:11.781" to="5:12.638" allWordsNum="1"/>
+			<record rec_id="24" rec_time="3" name="detail" symbol="5di:teil" explain="n.（关于某事物的）资料；信息" sound="nj_08a_03.mp3" from="5:13.923" to="5:14.895" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="put ... down" symbol="put daun " explain="放下" sound="nj_08a_03.mp3" from="5:16.074" to="5:17.895" allWordsNum="2"/>
+			<record rec_id="26" rec_time="3" name="get off" symbol="get Cf" explain="下车；下船" sound="nj_08a_03.mp3" from="5:20.045" to="5:21.010" allWordsNum="2"/>
+			<record rec_id="27" rec_time="3" name="worried" symbol="5wQrid" explain="adj.担心的；发愁的" sound="nj_08a_03.mp3" from="5:22.279" to="5:23.094" allWordsNum="1"/>
+			<record rec_id="28" rec_time="3" name="well done" symbol="wel dQn" explain="干得好" sound="nj_08a_03.mp3" from="5:24.808" to="5:25.748" allWordsNum="2"/>
+			<record rec_id="29" rec_time="3" name="realize" symbol="5ri:Elaiz" explain="v.领会；意识到" sound="nj_08a_03.mp3" from="5:27.001" to="5:28.253" allWordsNum="1"/>
+			<record rec_id="30" rec_time="3" name="fight" symbol="fait" explain="v.打斗；打架" sound="nj_08a_03.mp3" from="5:29.502" to="5:30.616" allWordsNum="1"/>
+			<record rec_id="31" rec_time="3" name="rather" symbol="5rB:TE(r)" explain="adv.相当；在某种程度上" sound="nj_08a_03.mp3" from="5:31.520" to="5:32.635" allWordsNum="1"/>
+			<record rec_id="32" rec_time="3" name="downstairs" symbol="7daun5stZEz" explain="adv.在楼下；往楼下" sound="nj_08a_03.mp3" from="5:33.629" to="5:35.075" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<sentences>
+		<part part_index="0" name="More practice" page="48">
+			<record rec_id="0" rec_time="8" name="I remember arresting a 'thief' in a clothes shop once. " sound="nj_08a_03.mp3" from="2:29.560" to="2:33.709" allWordsNum="10"/>
+			<record rec_id="1" rec_time="5" name="It was a strange case. " sound="nj_08a_03.mp3" from="2:33.852" to="2:36.019" allWordsNum="5"/>
+			<record rec_id="2" rec_time="15" name="The man was hiding a yellow sweater inside his coat. I thought he had stolen it, so I arrested him. " sound="nj_08a_03.mp3" from="2:36.332" to="2:44.251" allWordsNum="20"/>
+			<record rec_id="3" rec_time="12" name="We found out later that his wife gave him the sweater for his birthday, but he hated it. " sound="nj_08a_03.mp3" from="2:44.605" to="2:50.991" allWordsNum="18"/>
+			<record rec_id="4" rec_time="12" name="He just wanted to return it to the shop for a refund, but he didn't want his wife to see him! " sound="nj_08a_03.mp3" from="2:51.263" to="2:57.427" allWordsNum="21"/>
+			<record rec_id="5" rec_time="3" name="We soon released him. " sound="nj_08a_03.mp3" from="2:57.616" to="2:59.371" allWordsNum="4"/>
+			<exercise type="3" index="0"/>
+		</part>
+		<part part_index="1" name="More practice" page="48">
+			<record rec_id="0" rec_time="12" name="One day, when I was working in Candy Town, a man robbed a bank on Sixth Street. " sound="nj_08a_03.mp3" from="3:02.165" to="3:08.806" allWordsNum="17"/>
+			<record rec_id="1" rec_time="14" name="He wrote on the back of an envelope, 'This is a robbery. Give me money!' and gave it to the teller. " sound="nj_08a_03.mp3" from="3:09.070" to="3:16.206" allWordsNum="24"/>
+			<record rec_id="2" rec_time="8" name="She gave him usd $100,000, and the man ran away. " sound="nj_08a_03.mp3" from="3:16.478" to="3:21.323" allWordsNum="9"/>
+			<record rec_id="3" rec_time="4" name="Then we received a phone call from the teller. " sound="nj_08a_03.mp3" from="3:21.710" to="3:24.619" allWordsNum="9"/>
+			<record rec_id="4" rec_time="10" name="She told us to go to the man's flat in Candy Town and get him. " sound="nj_08a_03.mp3" from="3:24.883" to="3:29.274" allWordsNum="15"/>
+			<record rec_id="5" rec_time="6" name="We arrested him as soon as he got out of the lift. " sound="nj_08a_03.mp3" from="3:29.719" to="3:32.917" allWordsNum="12"/>
+			<record rec_id="6" rec_time="12" name="He admitted that he had robbed the bank, but he couldn't believe that we found him so quickly. " sound="nj_08a_03.mp3" from="3:33.559" to="3:39.583" allWordsNum="18"/>
+			<record rec_id="7" rec_time="12" name="We told him that the front of the envelope he used in the robbery had his name and address on it!" sound="nj_08a_03.mp3" from="3:40.011" to="3:46.496" allWordsNum="21"/>
+			<exercise type="3" index="0"/>
+		</part>
+		<part part_index="2" name="More practice" page="48">
+			<record rec_id="0" rec_time="10" name="I once read a funny story about a man from Australia. " sound="nj_08a_03.mp3" from="3:49.875" to="3:54.003" allWordsNum="11"/>
+			<record rec_id="1" rec_time="10" name="He was trying to smuggle some rare birds from Thailand into Australia. " sound="nj_08a_03.mp3" from="3:54.473" to="3:59.664" allWordsNum="12"/>
+			<record rec_id="2" rec_time="6" name="He hid the birds inside a special pocket in his trousers. " sound="nj_08a_03.mp3" from="4:00.232" to="4:04.179" allWordsNum="11"/>
+			<record rec_id="3" rec_time="10" name="But as he was going through customs, the birds started to sing!" sound="nj_08a_03.mp3" from="4:04.723" to="4:09.931" allWordsNum="12"/>
+			<exercise type="3" index="0"/>
+		</part>
+	</sentences>
+	<texts>
+		<part part_index="0" name="Reading" page="39">
+			<record rec_id="0" rec_time="5" sound="nj_08a_03.mp3">
+			<subrecord rec_id="1" rec_time="5" name="Friday, 28 June" sound="nj_08a_03.mp3" from="0:18.769" to="0:21.519" allWordsNum="3"/>	
+			</record>
+			<record rec_id="1" rec_time="30" sound="nj_08a_03.mp3">
+			<subrecord rec_id="2" rec_time="10" name="Today my dad and I were waiting for the ferry when suddenly we heard a big argument. " sound="nj_08a_03.mp3" from="0:21.639" to="0:28.323" allWordsNum="17"/>
+			<subrecord rec_id="3" rec_time="10" name="Two women tourists and a young man were shouting at each other. " sound="nj_08a_03.mp3" from="0:28.374" to="0:33.025" allWordsNum="12"/>
+			<subrecord rec_id="4" rec_time="10" name="The man held out a bag, and showed everyone that it was empty. " sound="nj_08a_03.mp3" from="0:33.105" to="0:37.502" allWordsNum="13"/>
+			</record>
+			<record rec_id="2" rec_time="25" sound="nj_08a_03.mp3">
+			<subrecord rec_id="5" rec_time="5" name="The crowd stared at the three people. " sound="nj_08a_03.mp3" from="0:37.732" to="0:40.418" allWordsNum="7"/>
+			<subrecord rec_id="6" rec_time="5" name="No one knew what was happening. " sound="nj_08a_03.mp3" from="0:40.519" to="0:42.904" allWordsNum="6"/>
+			</record>
+			<record rec_id="3" rec_time="25" sound="nj_08a_03.mp3">
+			<subrecord rec_id="7" rec_time="12" name="My dad moved through the crowd and said quietly to one of the women, 'What's going on?' " sound="nj_08a_03.mp3" from="0:43.005" to="0:49.499" allWordsNum="17"/>
+			</record>
+			<record rec_id="4" rec_time="35" sound="nj_08a_03.mp3">
+			<subrecord rec_id="8" rec_time="6" name="'They stole my friend's purse,' said the woman. " sound="nj_08a_03.mp3" from="0:49.700" to="0:52.861" allWordsNum="8"/>
+			<subrecord rec_id="9" rec_time="5" name="'We were in the bookshop, buying postcards. " sound="nj_08a_03.mp3" from="0:53.134" to="0:56.051" allWordsNum="7"/>
+			<subrecord rec_id="10" rec_time="5" name="Three young men started talking to us. " sound="nj_08a_03.mp3" from="0:56.194" to="0:58.738" allWordsNum="7"/>
+			<subrecord rec_id="11" rec_time="5" name="Suddenly my friend noticed that her purse was gone. " sound="nj_08a_03.mp3" from="0:58.795" to="1:02.689" allWordsNum="9"/>
+			<subrecord rec_id="12" rec_time="5" name="Two of the men ran away. " sound="nj_08a_03.mp3" from="1:02.919" to="1:04.686" allWordsNum="6"/>
+			<subrecord rec_id="13" rec_time="5" name="We followed this man here.' " sound="nj_08a_03.mp3" from="1:04.758" to="1:06.884" allWordsNum="5"/>
+			</record>
+			<record rec_id="5" rec_time="25" sound="nj_08a_03.mp3">
+			<subrecord rec_id="14" rec_time="5" name="Then the gates opened. " sound="nj_08a_03.mp3" from="1:07.933" to="1:09.643" allWordsNum="4"/>
+			<subrecord rec_id="15" rec_time="10" name="The man hurried aboard, and the two women tourists went after him. " sound="nj_08a_03.mp3" from="1:09.830" to="1:14.643" allWordsNum="12"/>
+			</record>
+			<record rec_id="6" rec_time="35" sound="nj_08a_03.mp3">	
+			<subrecord rec_id="16" rec_time="5" name="'Wait,' said my dad. " sound="nj_08a_03.mp3" from="1:14.945" to="1:17.229" allWordsNum="4"/>
+			<subrecord rec_id="17" rec_time="5" name="'Let's take the next ferry.' " sound="nj_08a_03.mp3" from="1:17.560" to="1:19.772" allWordsNum="5"/>
+			<subrecord rec_id="18" rec_time="3" name="This was strange. " sound="nj_08a_03.mp3" from="1:20.490" to="1:21.999" allWordsNum="3"/>
+			<subrecord rec_id="19" rec_time="3" name="Was my dad afraid of that man?" sound="nj_08a_03.mp3" from="1:22.302" to="1:24.445" allWordsNum="7"/>
+			<subrecord rec_id="20" rec_time="5" name="I followed him to a shop nearby. " sound="nj_08a_03.mp3" from="1:24.994" to="1:27.366" allWordsNum="7"/>
+			<subrecord rec_id="21" rec_time="10" name="He picked up the phone and quickly dialled 110. " sound="nj_08a_03.mp3" from="1:27.812" to="1:31.978" allWordsNum="11"/>
+			</record>
+			<record rec_id="7" rec_time="30" sound="nj_08a_03.mp3">
+			<subrecord rec_id="22" rec_time="3" name="'I want to report a theft. " sound="nj_08a_03.mp3" from="1:32.561" to="1:34.487" allWordsNum="6"/>
+			<subrecord rec_id="23" rec_time="6" name="The man is on No.3 Ferry now. " sound="nj_08a_03.mp3" from="1:34.830" to="1:37.871" allWordsNum="8"/>
+			<subrecord rec_id="24" rec_time="5" name="It just left a few minutes ago. " sound="nj_08a_03.mp3" from="1:38.191" to="1:40.757" allWordsNum="7"/>
+			<subrecord rec_id="25" rec_time="3" name="Please meet the ferry.' " sound="nj_08a_03.mp3" from="1:40.980" to="1:42.477" allWordsNum="4"/>
+			<subrecord rec_id="26" rec_time="10" name="He gave some more details, and then put the phone down. " sound="nj_08a_03.mp3" from="1:43.094" to="1:47.204" allWordsNum="11"/>
+			</record>
+			<record rec_id="8" rec_time="35" sound="nj_08a_03.mp3">
+			<subrecord rec_id="27" rec_time="3" name="We took the next ferry. " sound="nj_08a_03.mp3" from="1:48.061" to="1:49.999" allWordsNum="5"/>
+			<subrecord rec_id="28" rec_time="20" name="As we got off, we saw the two women tourists and four policemen standing around the man and he looked worried. " sound="nj_08a_03.mp3" from="1:50.307" to="1:59.006" allWordsNum="21"/>
+			<subrecord rec_id="29" rec_time="6" name="'Well done, Dad,' I said as we walked by. " sound="nj_08a_03.mp3" from="1:59.555" to="2:03.007" allWordsNum="9"/>
+			<subrecord rec_id="30" rec_time="3" name="Dad just smiled. " sound="nj_08a_03.mp3" from="2:03.332" to="2:05.093" allWordsNum="3"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+	</texts>
+</package>
+ 

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<book_id>nj_09b</book_id>
+	<unit_id>nj_09b_03</unit_id>
+	<version>3</version>
+	<unit>unit3</unit>
+	<title>Going places</title>
+	<words>
+		<part part_index="0" page="51">
+			<record rec_id="0" rec_time="3" name="population" symbol="7pCpjU5leiFn" explain="n.(地区，国家等的)人口，人口数量" sound="nj_09b_03.mp3" from=" 17:46.548" to=" 17:49.429" allWordsNum="1"/>
+			<record rec_id="1" rec_time="3" name="architecture" symbol="5B:kitektFE(r)" explain="n.建筑风格" sound="nj_09b_03.mp3" from=" 17:51.899" to=" 17:54.882" allWordsNum="1"/>
+			<record rec_id="2" rec_time="3" name="such" symbol="sQtF" explain="pron.这样的，那样的" sound="nj_09b_03.mp3" from=" 17:56.631" to=" 17:58.895" allWordsNum="1"/>
+		  <record rec_id="3" rec_time="3" name="exhausting" symbol="ig5zR:stiN" explain="adj.令人筋疲力尽的" sound="nj_09b_03.mp3" from=" 18:00.953" to=" 18:03.216" allWordsNum="1"/>
+			<record rec_id="4" rec_time="3" name="set out" symbol="set aut" explain="出发，启程" sound="nj_09b_03.mp3" from=" 18:04.657" to=" 18:07.023" allWordsNum="2"/>
+			<record rec_id="5" rec_time="3" name="marvellous" symbol="5mB:vElEz" explain="adj.极好的，非凡的" sound="nj_09b_03.mp3" from=" 18:09.081" to=" 18:11.756" allWordsNum="1"/>
+			<record rec_id="6" rec_time="3" name="recreation" symbol="7rekri5eiFn" explain="n.娱乐" sound="nj_09b_03.mp3" from=" 18:14.122" to=" 18:16.900" allWordsNum="1"/>
+			<record rec_id="7" rec_time="3" name="ballroom dancing" symbol="7bR:lru:m 5dB:nsiN" explain="交际舞，交谊舞" sound="nj_09b_03.mp3" from=" 18:19.678" to=" 18:22.147" allWordsNum="2"/>
+			<record rec_id="8" rec_time="3" name="teenager" symbol="5ti:neidVE(r)" explain="n.(13至19岁之间的)青少年，青少年男女" sound="nj_09b_03.mp3" from=" 18:24.925" to=" 18:26.983" allWordsNum="1"/>
+			<record rec_id="9" rec_time="3" name="roller skate" symbol="5rEulE skeit" explain="滑旱冰，溜旱冰" sound="nj_09b_03.mp3" from=" 18:29.144" to=" 18:31.304" allWordsNum="2"/>
+			<record rec_id="10" rec_time="3" name="sword" symbol="sR:d" explain="n.剑，刀" sound="nj_09b_03.mp3" from=" 18:33.156" to=" 18:34.700" allWordsNum="1"/>
+			<record rec_id="11" rec_time="3" name="while" symbol="wail" explain="n.一段时间，一会儿" sound="nj_09b_03.mp3" from=" 18:36.170" to=" 18:38.336" allWordsNum="1"/>
+			<record rec_id="12" rec_time="3" name="for a while" symbol="fR: A wail" explain="一会儿" sound="nj_09b_03.mp3" from=" 18:40.116" to=" 18:42.746" allWordsNum="3"/>
+			<record rec_id="13" rec_time="4" name="couple" symbol="5kQpl" explain="n.几个（人或事务）" sound="nj_09b_03.mp3" from=" 18:44.912" to=" 18:46.846" allWordsNum="1"/>
+			<record rec_id="14" rec_time="3" name="a couple of" symbol="A 5kQpl Cv" explain="几个，一些" sound="nj_09b_03.mp3" from=" 18:48.316" to=" 18:50.482" allWordsNum="3"/>
+			<record rec_id="15" rec_time="4" name="European" symbol="7juErE5pi:En" explain="adj.欧洲的" sound="nj_09b_03.mp3" from=" 18:52.957" to=" 18:55.278" allWordsNum="1"/>
+			<record rec_id="16" rec_time="3" name="style" symbol="stail" explain="n.风格" sound="nj_09b_03.mp3" from=" 18:57.057" to=" 18:59.068" allWordsNum="1"/>
+			<record rec_id="17" rec_time="3" name="nickname" symbol="5nikneim" explain="n.外号" sound="nj_09b_03.mp3" from=" 19:00.693" to=" 19:02.782" allWordsNum="1"/>
+			<record rec_id="18" rec_time="3" name="commercial" symbol="kE5mE:Fl" explain="adj.贸易的，商业的" sound="nj_09b_03.mp3" from=" 19:05.102" to=" 19:07.655" allWordsNum="1"/>
+			<record rec_id="19" rec_time="3" name="waterfront" symbol="5wR:tEfrQnt" explain="n.滨水路，滨水区" sound="nj_09b_03.mp3" from=" 19:09.357" to=" 19:11.833" allWordsNum="1"/>
+			<record rec_id="20" rec_time="3" name="jade" symbol="dVeid" explain="n.玉" sound="nj_09b_03.mp3" from=" 19:13.844" to=" 19:15.855" allWordsNum="1"/>
+			<record rec_id="21" rec_time="3" name="trade" symbol="treid" explain="n.贸易" sound="nj_09b_03.mp3" from=" 19:17.712" to=" 19:20.110" allWordsNum="1"/>
+			<record rec_id="22" rec_time="3" name="amazed" symbol="E5meizd" explain="adj.大为惊奇" sound="nj_09b_03.mp3" from=" 19:21.889" to=" 19:24.210" allWordsNum="1"/>
+			<record rec_id="23" rec_time="3" name="(be) amazed at" symbol="(bi:) E5meizd et" explain="对...感到惊奇" sound="nj_09b_03.mp3" from=" 19:26.453" to=" 19:29.084" allWordsNum="3"/>
+			<record rec_id="24" rec_time="3" name="artist" symbol="B:tist" explain="n.艺术家，（尤指）画家" sound="nj_09b_03.mp3" from=" 19:31.946" to=" 19:34.963" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="pavilion" symbol="pE5viliEn" explain="n.(公园中的)亭，阁" sound="nj_09b_03.mp3" from=" 19:36.665" to=" 19:39.527" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="zigzag" symbol="5zigzAg" explain="adj.之字形的，弯弯曲曲的" sound="nj_09b_03.mp3" from=" 19:41.306" to=" 19:43.008" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="pay a visit" symbol="pei A 5vizit" explain="参观" sound="nj_09b_03.mp3" from=" 19:44.788" to=" 19:47.340" allWordsNum="3"/>
+			<record rec_id="25" rec_time="3" name="introduce" symbol="7intrE5dju:s" explain="v.介绍" sound="nj_09b_03.mp3" from=" 19:49.274" to=" 19:51.363" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="request" symbol="ri5kwest" explain="n.(正式或礼貌的)要求，请求" sound="nj_09b_03.mp3" from=" 19:53.142" to=" 19:55.231" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="career" symbol="kE5riE(r)" explain="n.生涯，职业" sound="nj_09b_03.mp3" from=" 19:57.165" to=" 19:59.254" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="aim" symbol="eim" explain="n.目的，目标" sound="nj_09b_03.mp3" from=" 20:02.271" to=" 20:03.663" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="industry" symbol="5indEstri" explain="n.行业" sound="nj_09b_03.mp3" from=" 20:05.829" to=" 20:08.227" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="available" symbol="E5veilEbl" explain="adj.可获得的" sound="nj_09b_03.mp3" from=" 20:12.637" to=" 20:14.493" allWordsNum="1"/>
+			<record rec_id="25" rec_time="3" name="appreciate" symbol="E5pri:Fieit" explain="v.感激，感谢" sound="nj_09b_03.mp3" from=" 20:14.493" to=" 20:16.273" allWordsNum="1"/>
+			<exercise type="1" index="0"/>
+			<exercise type="2" index="1"/>
+			<!--exercise type="2" index="2"/>
+			<exercise type="2" index="3"/>
+			<exercise type="2" index="4"/>
+			<exercise type="2" index="5"/>
+			<exercise type="2" index="6"/>
+			<exercise type="2" index="7"/-->
+		</part>
+	</words>
+	<texts>
+		<part part_index="0" name="On holiday" page="39">
+			<record rec_id="0" rec_time="5" sound="nj_09b_03.mp3">
+			<subrecord rec_id="1" rec_time="3" name="18 February" sound="nj_09b_03.mp3" from="  7:04.791" to="  7:06.674" allWordsNum="2"/>
+			</record>
+			<record rec_id="1" rec_time="5" sound="nj_09b_03.mp3">
+			<subrecord rec_id="2" rec_time="3" name="Dear Connie," sound="nj_09b_03.mp3" from="  7:06.943" to="  7:08.594" allWordsNum="2"/>
+			</record>
+			<record rec_id="2" rec_time="10" sound="nj_09b_03.mp3">
+			<subrecord rec_id="3" rec_time="3" name="I'm in Shanghai at last. " sound="nj_09b_03.mp3" from="  7:08.851" to="  7:10.832" allWordsNum="7"/>
+			<subrecord rec_id="4" rec_time="5" name="My parents and I flew here last night from Beijing. " sound="nj_09b_03.mp3" from="  7:11.199" to="  7:15.089" allWordsNum="10"/>
+			</record>
+			<record rec_id="3" rec_time="60" sound="nj_09b_03.mp3">
+			<subrecord rec_id="5" rec_time="5" name="We've had such an exhausting day! " sound="nj_09b_03.mp3" from="  7:15.566" to="  7:18.171" allWordsNum="8"/>
+			<subrecord rec_id="6" rec_time="12" name="After we had eaten a huge breakfast at the hotel, we set out on foot down Nanjing Road, the main road in Shanghai. " sound="nj_09b_03.mp3" from="  7:18.575" to="  7:27.345" allWordsNum="23"/>
+			<subrecord rec_id="7" rec_time="5" name="The weather was warmer than in Beijing. " sound="nj_09b_03.mp3" from="  7:27.859" to="  7:30.354" allWordsNum="7"/>
+			<subrecord rec_id="8" rec_time="5" name="It was sunny and the sky was clear and blue. " sound="nj_09b_03.mp3" from="  7:30.831" to="  7:34.574" allWordsNum="10"/>
+			</record>
+			<record rec_id="4" rec_time="60" sound="nj_09b_03.mp3">
+			<subrecord rec_id="9" rec_time="6" name="We soon came to People's Square, a marvellous recreation area. " sound="nj_09b_03.mp3" from="  7:35.161" to="  7:40.570" allWordsNum="12"/>
+			<subrecord rec_id="10" rec_time="5" name="We walked around the beautiful fountain. " sound="nj_09b_03.mp3" from="  7:40.687" to="  7:43.362" allWordsNum="6"/>
+			<subrecord rec_id="11" rec_time="5" name="There was a nice atmosphere. " sound="nj_09b_03.mp3" from="  7:43.246" to="  7:45.747" allWordsNum="5"/>
+			<subrecord rec_id="12" rec_time="8" name="Some elderly people were doing ballroom dancing, and children were flying kites. " sound="nj_09b_03.mp3" from="  7:46.038" to="  7:51.970" allWordsNum="12"/>
+			</record>
+			<record rec_id="5" rec_time="30" sound="nj_09b_03.mp3">
+			<subrecord rec_id="13" rec_time="7" name="Teenagers were roller skating, and some men were practising sword fighting. " sound="nj_09b_03.mp3" from="  7:52.378" to="  7:58.136" allWordsNum="11"/>
+			<subrecord rec_id="14" rec_time="6" name="After we had watched for a while, we went into Shanghai Museum. " sound="nj_09b_03.mp3" from="  7:58.718" to="  8:03.283" allWordsNum="12"/>
+			<subrecord rec_id="15" rec_time="6" name="We spent a couple of hours there, looking at the displays. " sound="nj_09b_03.mp3" from="  8:03.283" to="  8:07.350" allWordsNum="11"/>
+			</record>
+			<record rec_id="6" rec_time="30" sound="nj_09b_03.mp3">
+			<subrecord rec_id="16" rec_time="12" name="Next we walked on down to the Bund, the old part of the city with lots of European style buildings. " sound="nj_09b_03.mp3" from="  8:07.919" to="  8:15.922" allWordsNum="20"/>
+			<subrecord rec_id="17" rec_time="7" name="A Chinese nickname for the Bund is  'the exhibition of world architecture'. " sound="nj_09b_03.mp3" from="  8:16.316" to="  8:21.826" allWordsNum="15"/>
+			<subrecord rec_id="18" rec_time="6" name="It is a big commercial centre with lots of banks and businesses. " sound="nj_09b_03.mp3" from="  8:22.045" to="  8:27.249" allWordsNum="12"/>
+			</record>
+			<record rec_id="7" rec_time="60" sound="nj_09b_03.mp3">
+			<subrecord rec_id="19" rec_time="8" name="We walked along the waterfront and looked up at the Oriental Pearl TV Tower across the Huangpu River. " sound="nj_09b_03.mp3" from="  8:28.000" to="8:34.989" allWordsNum="18"/>				
+			<subrecord rec_id="20" rec_time="12" name="I read that the designer's idea came from a line in an old Chinese poem, 'It was like large and small pearls dropping on a plate of jade.'" sound="nj_09b_03.mp3" from="8:35.563" to="8:46.386" allWordsNum="32"/>
+			<subrecord rec_id="21" rec_time="6" name="The big financial and trade area of Pudong is behind the tower. " sound="nj_09b_03.mp3" from="  8:47.289" to="  8:51.893" allWordsNum="12"/>
+			<subrecord rec_id="22" rec_time="5" name="Dad visited that area fifteen years ago. " sound="nj_09b_03.mp3" from="  8:52.781" to="  8:56.003" allWordsNum="7"/>
+			<subrecord rec_id="23" rec_time="5" name="He was amazed at how much it had changed. " sound="nj_09b_03.mp3" from="  8:56.365" to="  8:58.995" allWordsNum="9"/>
+			</record>
+			<record rec_id="8" rec_time="60" sound="nj_09b_03.mp3">
+			<subrecord rec_id="24" rec_time="9" name="Then we turned away from the river, walked down some narrow streets, and reached the Chenghuang Miao area. " sound="nj_09b_03.mp3" from="  8:59.982" to="  9:07.380" allWordsNum="18"/>
+			<subrecord rec_id="25" rec_time="6" name="There are lots of craft shops, with artists doing things like paper cutting. " sound="nj_09b_03.mp3" from="  9:08.038" to="  9:13.299" allWordsNum="13"/>
+			<subrecord rec_id="26" rec_time="5" name="There is also a lake with a pavilion in the middle. " sound="nj_09b_03.mp3" from="  9:13.858" to="  9:17.606" allWordsNum="11"/>
+			<subrecord rec_id="27" rec_time="7" name="We can go over a zigzag bridge to get to the pavilion and enjoy the nice view around. " sound="nj_09b_03.mp3" from="  9:18.494" to="  9:25.005" allWordsNum="18"/>
+			</record>
+			<record rec_id="9" rec_time="60" sound="nj_09b_03.mp3">
+      <subrecord rec_id="28" rec_time="6" name="After that, we ate a tasty meal in an old restaurant nearby. " sound="nj_09b_03.mp3" from="  9:25.925" to="  9:30.792" allWordsNum="12"/>				
+			<subrecord rec_id="29" rec_time="5" name="Finally, we walked into Yu Garden. " sound="nj_09b_03.mp3" from="  9:31.614" to="  9:34.573" allWordsNum="6"/>
+			<subrecord rec_id="30" rec_time="3" name="It was so beautiful!" sound="nj_09b_03.mp3" from="  9:34.935" to="  9:36.711" allWordsNum="4"/>
+			<subrecord rec_id="31" rec_time="6" name="I loved the long dragons all along the tops of the walls. " sound="nj_09b_03.mp3" from="  9:36.743" to="  9:41.182" allWordsNum="12"/>
+			</record>
+			<record rec_id="10" rec_time="25" sound="nj_09b_03.mp3">
+			<subrecord rec_id="32" rec_time="8" name="By this time we were so tired that we took a taxi back to our hotel to rest our feet! " sound="nj_09b_03.mp3" from="  9:41.676" to="  9:48.614" allWordsNum="20"/>
+			<subrecord rec_id="33" rec_time="8" name="I've drawn you a map so you can see where we went today, and I will enclose a few photos. " sound="nj_09b_03.mp3" from="  9:49.370" to="  9:55.946" allWordsNum="22"/>
+			<subrecord rec_id="34" rec_time="6" name="Shanghai is great! I wish we could stay longer. " sound="nj_09b_03.mp3" from="  9:56.177" to=" 10:00.385" allWordsNum="9"/>				
+			</record>
+			<record rec_id="11" rec_time="25" sound="nj_09b_03.mp3">
+			<subrecord rec_id="35" rec_time="3" name="Lots of love to everyone. " sound="nj_09b_03.mp3" from=" 10:00.353" to=" 10:02.424" allWordsNum="5"/>
+		  </record>
+		  <record rec_id="12" rec_time="25" sound="nj_09b_03.mp3">
+		  	<subrecord rec_id="36" rec_time="3" name="Wendy" sound="nj_09b_03.mp3" from=" 10:02.391" to=" 10:03.509" allWordsNum="1"/>
+		  </record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="1" name="A wonderful year in New Zealand" page="48">
+			<record rec_id="0" rec_time="18" sound="nj_09b_03.mp3">
+			<subrecord rec_id="1" rec_time="6" name="If I went to New Zealand, would I be able to understand the local people?" sound="nj_09b_03.mp3" from=" 15:37.931" to=" 15:42.633" allWordsNum="15"/>
+			<subrecord rec_id="2" rec_time="6" name="This was the question which first worried me when the American Field. " sound="nj_09b_03.mp3" from=" 15:43.192" to=" 15:48.059" allWordsNum="12"/>
+			<subrecord rec_id="3" rec_time="6" name="Service accepted me as part of their educational exchange programme. " sound="nj_09b_03.mp3" from=" 15:48.026" to=" 15:52.037" allWordsNum="10"/>
+			</record>
+			<record rec_id="1" rec_time="17" sound="nj_09b_03.mp3">
+			<subrecord rec_id="4" rec_time="6" name="I stayed with a New Zealand family in Auckland for one year. " sound="nj_09b_03.mp3" from=" 15:52.100" to=" 15:57.134" allWordsNum="12"/>
+			<subrecord rec_id="5" rec_time="5" name="At first, I found that communicating was quite difficult. " sound="nj_09b_03.mp3" from=" 15:57.529" to=" 16:01.507" allWordsNum="9"/>
+			<subrecord rec_id="6" rec_time="6" name="But my hosts were very patient, and they helped me learn fast. " sound="nj_09b_03.mp3" from=" 16:01.803" to=" 16:05.979" allWordsNum="12"/>
+			</record>
+			<record rec_id="2" rec_time="24" sound="nj_09b_03.mp3">
+			<subrecord rec_id="7" rec_time="6" name="As exchange students, we were required to tell people about our own culture. " sound="nj_09b_03.mp3" from=" 16:06.000" to=" 16:11.931" allWordsNum="13"/>
+			<subrecord rec_id="8" rec_time="8" name="I took many photos and postcards from China with me, as well as some simple Chinese books. " sound="nj_09b_03.mp3" from=" 16:12.523" to=" 16:19.559" allWordsNum="17"/>
+			<subrecord rec_id="9" rec_time="8" name="I gave a talk about China to my classmates, and I even did some simple Chinese cooking. " sound="nj_09b_03.mp3" from=" 16:20.118" to=" 16:26.234" allWordsNum="17"/>
+			</record>
+			<record rec_id="3" rec_time="25" sound="nj_09b_03.mp3">
+      <subrecord rec_id="10" rec_time="8" name="It was a wonderful year. I learnt about a new culture, and I became more confident. " sound="nj_09b_03.mp3" from=" 16:26.300" to=" 16:33.304" allWordsNum="16"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="2" name="Scholarship to Japan" page="48">
+			<record rec_id="0" rec_time="60" sound="nj_09b_03.mp3">
+			<subrecord rec_id="1" rec_time="8" name="I visited Japan for six weeks after I won a Japan Airlines scholarship. " sound="nj_09b_03.mp3" from=" 16:43.925" to=" 16:50.205" allWordsNum="13"/>
+			<subrecord rec_id="2" rec_time="8" name="For five weeks, I lived with other foreign students in a hotel and attended Japanese language classes. " sound="nj_09b_03.mp3" from=" 16:50.698" to=" 16:58.524" allWordsNum="17"/>
+			<subrecord rec_id="3" rec_time="6" name="We also had classes on Japanese culture and customs. " sound="nj_09b_03.mp3" from=" 16:58.820" to=" 17:03.588" allWordsNum="9"/>
+			<subrecord rec_id="4" rec_time="5" name="We learnt how to arrange flowers and make tea. " sound="nj_09b_03.mp3" from=" 17:03.621" to=" 17:07.172" allWordsNum="9"/>
+			<subrecord rec_id="5" rec_time="5" name="We went on sightseeing tours and visited a television station. " sound="nj_09b_03.mp3" from=" 17:07.896" to=" 17:12.762" allWordsNum="10"/>
+			<subrecord rec_id="6" rec_time="6" name="For the last week, I stayed with a friendly family in Kyoto. " sound="nj_09b_03.mp3" from=" 17:13.354" to=" 17:18.089" allWordsNum="12"/>
+			</record>
+			<record rec_id="1" rec_time="60" sound="nj_09b_03.mp3">
+      <subrecord rec_id="7" rec_time="14" name="I made friends with students from the USA, New Zealand and Australia, as well as many from Japan. " sound="nj_09b_03.mp3" from=" 17:17.891" to="17:26.277" allWordsNum="18"/>
+			<subrecord rec_id="8" rec_time="14" name="I returned to China three months ago and since then I have kept in touch with my new friends by writing e-mails and chatting on my computer at home. " sound="nj_09b_03.mp3" from=" 17:27.131" to=" 17:38.278" allWordsNum="29"/>
+			</record>
+			<exercise type="4" index="0"/>
+		</part>
+		<part part_index="3" name="London is calling!" page="0" source="2">
+			<record rec_id="0" rec_time="20" sound="9B Unit 3.mp3">
+				<subrecord rec_id="1" rec_time="8" name="Lily is going to London during the Olympic Games this summer, but she doesn't know where to visit. " sound="9B Unit 3.mp3" from="0:05.668" to="0:12.524" allWordsNum="18"/>
+				<subrecord rec_id="2" rec_time="6" name="So she wrote a letter to her friend Jenny, who lives in London. " sound="9B Unit 3.mp3" from="0:12.866" to="0:17.275" allWordsNum="13"/>
+				<subrecord rec_id="3" rec_time="3" name="Here's Jenny's reply. " sound="9B Unit 3.mp3" from="0:17.617" to="0:19.614" allWordsNum="3"/>
+			</record>
+			<record rec_id="1" rec_time="2" sound="9B Unit 3.mp3">
+				<subrecord rec_id="4" rec_time="2" name="March 1" sound="9B Unit 3.mp3" from="0:20.838" to="0:22.350" allWordsNum="2"/>
+			</record>
+			<record rec_id="2" rec_time="2" sound="9B Unit 3.mp3">
+				<subrecord rec_id="5" rec_time="2" name="Dear Lily, " sound="9B Unit 3.mp3" from="0:23.771" to="0:24.851" allWordsNum="2"/>
+			</record>
+			<record rec_id="3" rec_time="25" sound="9B Unit 3.mp3">
+				<subrecord rec_id="6" rec_time="5" name="I'm so excited to hear that you are coming to London this summer! " sound="9B Unit 3.mp3" from="0:26.165" to="0:30.646" allWordsNum="13"/>
+				<subrecord rec_id="7" rec_time="5" name="We can watch some Olympic matches together. " sound="9B Unit 3.mp3" from="0:30.898" to="0:34.065" allWordsNum="7"/>
+				<subrecord rec_id="8" rec_time="8" name="Besides, I can be your guide and take you to some really interesting places in London. " sound="9B Unit 3.mp3" from="0:34.389" to="0:41.083" allWordsNum="16"/>
+			</record>
+			<record rec_id="4" rec_time="20" sound="9B Unit 3.mp3">
+				<subrecord rec_id="9" rec_time="5" name="The first place we should visit is Buckingham Palace. " sound="9B Unit 3.mp3" from="0:42.361" to="0:46.086" allWordsNum="9"/>
+				<subrecord rec_id="10" rec_time="6" name="Built by the Duke of Buckingham, it is now the residence of the Queen of England. " sound="9B Unit 3.mp3" from="0:46.410" to="0:52.204" allWordsNum="16"/>
+				<subrecord rec_id="11" rec_time="8" name="Today it houses U.K. government offices and is the site of official events and receptions hosted by the Queen. " sound="9B Unit 3.mp3" from="0:52.438" to="1:00.338" allWordsNum="19"/>
+			</record>
+			<record rec_id="5" rec_time="25" sound="9B Unit 3.mp3">
+				<subrecord rec_id="12" rec_time="4" name="The palace contains more than 700 rooms. " sound="9B Unit 3.mp3" from=" 1:01.634" to="  1:05.233" allWordsNum="7"/>
+				<subrecord rec_id="13" rec_time="20" name="State Rooms, which are for guests, are nicely decorated with treasures from the Royal Collection, famous works of art, and fine English and French furniture. " sound="9B Unit 3.mp3" from="  1:05.449" to="1:17.667" allWordsNum="25"/>
+			</record>
+			<record rec_id="6" rec_time="25" sound="9B Unit 3.mp3">
+				<subrecord rec_id="14" rec_time="5" name="One thing we can't miss at the palace is the Changing of the Guard. " sound="9B Unit 3.mp3" from="1:18.747" to="1:23.336" allWordsNum="14"/>
+				<subrecord rec_id="15" rec_time="6" name="It is a 30-minute ceremony where a new guard exchanges duty with the old guard. " sound="9B Unit 3.mp3" from="  1:23.516" to="  1:28.915" allWordsNum="15"/>
+				<subrecord rec_id="16" rec_time="8" name="A Guards band plays traditional marching songs or even popular music during the ceremony. " sound="9B Unit 3.mp3" from="1:29.202" to="  1:35.357" allWordsNum="14"/>
+			</record>
+				<record rec_id="7" rec_time="30" sound="9B Unit 3.mp3">
+				<subrecord rec_id="17" rec_time="5" name="I bet you must have heard of the London Eye. " sound="9B Unit 3.mp3" from="  1:36.563" to="  1:39.712" allWordsNum="10"/>
+				<subrecord rec_id="18" rec_time="6" name="How wonderful it is to see the whole of London from more than 400 feet off the ground! " sound="9B Unit 3.mp3" from="  1:40.198" to="  1:46.010" allWordsNum="18"/>
+				<subrecord rec_id="19" rec_time="15" name="Since its opening in 2000 as part of London's millennium festivities, the wheel has won more than 70 honors for tourism, architecture and engineering success. " sound="9B Unit 3.mp3" from="1:46.244" to="1:58.625" allWordsNum="25"/>
+			</record>
+			<record rec_id="8" rec_time="22" sound="9B Unit 3.mp3">
+				<subrecord rec_id="20" rec_time="15" name="If it is a clear day, we will see for more than 40 miles from the top of the wheel, and view such landmarks as Buckingham Palace and St. Paul's Cathedral. " sound="9B Unit 3.mp3" from="1:59.867" to="2:12.265" allWordsNum="31"/>
+				<subrecord rec_id="21" rec_time="3" name="It is a wonderful view! " sound="9B Unit 3.mp3" from="  2:12.571" to="2:14.425" allWordsNum="5"/>
+			</record>
+			<record rec_id="9" rec_time="25" sound="9B Unit 3.mp3">
+				<subrecord rec_id="22" rec_time="6" name="You've said that you have a great interest in Gothic architecture, haven't you? " sound="9B Unit 3.mp3" from="2:15.613" to="2:21.443" allWordsNum="13"/>
+				<subrecord rec_id="23" rec_time="5" name="Then you must love Westminster Abbey a lot! " sound="9B Unit 3.mp3" from="2:21.713" to="2:25.042" allWordsNum="8"/>
+				<subrecord rec_id="24" rec_time="8" name="It is a well-known landmark which is more than 700 years old, and it is still an active church. " sound="9B Unit 3.mp3" from="  2:25.276" to="2:32.240" allWordsNum="19"/>
+			</record>
+			<record rec_id="10" rec_time="35" sound="9B Unit 3.mp3">
+				<subrecord rec_id="25" rec_time="8" name="The abbey hosts such ceremonies as royal weddings, coronations and funerals. " sound="9B Unit 3.mp3" from="2:33.428" to="2:39.654" allWordsNum="11"/>
+				<subrecord rec_id="26" rec_time="8" name="Within it are the tombs of many English monarchs, including Queen Elizabeth I. " sound="9B Unit 3.mp3" from="2:39.924" to="2:46.636" allWordsNum="13"/>
+				<subrecord rec_id="27" rec_time="12" name="The abbey's Poet's Corner houses the tombs and memorials of famous English writers, including Charles Dickens and William Shakespeare. " sound="9B Unit 3.mp3" from="2:46.780" to="2:56.912" allWordsNum="19"/>
+			</record>
+			<record rec_id="11" rec_time="10" sound="9B Unit 3.mp3">
+				<subrecord rec_id="28" rec_time="8" name="If there are any questions or any other places that you want to visit, write to me. " sound="9B Unit 3.mp3" from="2:58.208" to="3:04.524" allWordsNum="17"/>
+			</record>
+			<record rec_id="12" rec_time="2" sound="9B Unit 3.mp3">
+				<subrecord rec_id="29" rec_time="2" name="Love, " sound="9B Unit 3.mp3" from="3:05.694" to="3:06.773" allWordsNum="1"/>
+			</record>
+			<record rec_id="13" rec_time="2" sound="9B Unit 3.mp3">
+				<subrecord rec_id="30" rec_time="2" name="Jenny" sound="9B Unit 3.mp3" from="3:08.136" to="3:09.000" allWordsNum="1"/>
+				</record>
+		<exercise type="4" index="0"/>
+      </part>	
+      <part part_index="4" name="London is calling!" page="0" source="2">
+      	<article allWordsNum="384">
+            	<![CDATA[
+Lily is going to London during the Olympic Games this summer, but she doesn’t know where to visit. So she wrote a letter to her friend Jenny, who lives in London. Here’s Jenny’s reply.
+March 1
+Dear Lily,
+I’m so excited to hear that you are coming to London this summer! We can watch some Olympic matches together. Besides, I can be your guide and take you to some really interesting places in London.
+The first place we should visit is Buckingham Palace (白金汉宫). Built by the Duke of Buckingham (白金汉公爵), it is now the residence (住所) of the Queen of England. Today it houses U.K. government offices and is the site of official events and receptions hosted by the Queen.
+The palace contains more than 700 rooms. State Rooms (国事厅), which are for guests, are nicely decorated with treasures from the Royal Collection (皇家珍藏), famous works of art, and fine English and French furniture.
+One thing we can’t miss at the palace is the Changing of the Guard. It is a 30-minute ceremony where a new guard exchanges duty with the old guard. A Guards band plays traditional marching songs or even popular music during the ceremony.
+I bet you must have heard of the London Eye. How wonderful it is to see the whole of London from more than 400 feet off the ground! Since its opening in 2000 as part of London’s millennium festivities (千禧年庆祝活动), the wheel has won more than 70 honors for tourism, architecture and engineering success.
+if it is a clear day, we will see for more than 40 miles from the top of  the wheel, and view such landmarks as Buckingham Palace and St. Paul’s Cathedral (圣保罗大教堂). It is a wonderful view!
+You’ve said that you have a great interest in Gothic (哥特式的) architecture, haven’t you? Then you must love Westminster Abbey (威斯敏斯特修道院) a lot! It is a well-known landmark which is more than 700 years old, and it is still an active church.
+The abbey hosts such ceremonies as royal weddings, coronations (加冕礼) and funerals. Within it are the tombs of many English monarchs (君王), including Queen Elizabeth I. The abbey’s Poet’s Corner houses the tombs and memorials (纪念碑) of famous English writers, including Charles Dickens and William Shakespeare.
+if there are any questions or any other places that you want to visit, write to me.
+Love,
+Jenny
+	]]>
+            </article>
+	     <exercise type="6" index="0" timeout="120">
+				<section rec_id="0" name="Choose the best answer. " qtype="1" >
+					<question rec_id="0" choice="B">
+						<![CDATA[Buckingham Palace ______.
+     ① is the residence of the Duke of Buckingham
+     ② is where the Queen hosts official events and receptions
+     ③ has more than 700 rooms 
+     ④ houses U.K. government offices]]>
+						<choice item="A" name="①②③"/>
+						<choice item="B" name="②③④"/>
+						<choice item="C" name="①②④"/>
+						<choice item="D" name="①③④"/>
+					</question>
+					<question rec_id="1" choice="A">
+						<![CDATA[Which of the following statements is false about the Changing of the Guard?]]>
+						<choice item="A" name="It usually lasts for an hour. "/>
+						<choice item="B" name="It is a ceremony where a new guard exchanges duty with the old guard. "/>
+						<choice item="C" name="It is a must-see for visitors. "/>
+						<choice item="D" name="It is usually accompanied by music played by a Guards band. "/>
+					</question>
+					<question rec_id="2" choice="B">
+						<![CDATA[The London Eye ______.]]>
+						<choice item="A" name="can take visitors to as high as 40 feet"/>
+						<choice item="B" name="has been heavily awarded for its success in different aspects"/>
+						<choice item="C" name="was opened for the upcoming Olympic Games"/>
+						<choice item="D" name="only opens on clear days"/>
+					</question>
+					<question rec_id="3" choice="B">
+						<![CDATA[Westminster Abbey hosts all the following ceremonies except _____.]]>
+						<choice item="A" name="royal weddings"/>
+						<choice item="B" name="receptions"/>
+						<choice item="C" name="coronations"/>
+						<choice item="D" name="funerals"/>
+					</question>
+					<question rec_id="4" choice="D">
+						<![CDATA[Westminster Abbey ______.]]>
+						<choice item="A" name="holds the tomb of Queen Elizabeth I"/>
+						<choice item="B" name="holds tombs and memorials of famous English writers"/>
+						<choice item="C" name="has a history of more than 700 years"/>
+						<choice item="D" name="all of the above"/>
+					</question>
+					</section>
+			</exercise>
+    </part>
+	</texts>
+	<dialogs>
+		<part part_index="0" name="Making a phone call for information" page="46">
+			<record rec_id="0" rec_time="3" name="Hello.May I help you?" sound="nj_09b_03.mp3" from=" 14:20.364" to=" 14:21.581" allWordsNum="5"/>
+			<record rec_id="1" rec_time="5" name="Hello,My name's Ken. I'm doing a project on your city. " sound="nj_09b_03.mp3" from=" 14:20.364" to=" 14:21.581" allWordsNum="11"/>
+			<record rec_id="2" rec_time="3" name="I see. " sound="nj_09b_03.mp3" from=" 14:20.364" to=" 14:21.581" allWordsNum="2"/>
+			<record rec_id="3" rec_time="8" name="I wonder if you could give me some information to help me with my project. " sound="nj_09b_03.mp3" from=" 14:20.364" to=" 14:21.581" allWordsNum="15"/>
+			<record rec_id="4" rec_time="6" name="Yes, certainly.You can get a brochure about the city from here. " sound="nj_09b_03.mp3" from=" 14:20.364" to=" 14:21.581" allWordsNum="12"/>
+			<record rec_id="5" rec_time="3" name="Oh, thanks very much. Do you have any books about the city?" sound="nj_09b_03.mp3" from=" 14:20.364" to=" 14:21.581" allWordsNum="12"/>
+			<record rec_id="6" rec_time="10" name="Well, we don't have any here, but there's a library in the city centre, It's open from nine to five, Monday to Saturday. " sound="nj_09b_03.mp3" from=" 14:20.364" to=" 14:21.581" allWordsNum="23"/>
+			<record rec_id="7" rec_time="5" name="Oh. Could I use the library?" sound="nj_09b_03.mp3" from=" 14:20.364" to=" 14:21.581" allWordsNum="6"/>
+			<record rec_id="8" rec_time="5" name="Yes, of course. It's open to the public. " sound="nj_09b_03.mp3" from=" 13:56.652" to=" 13:59.743" allWordsNum="10"/>
+			<record rec_id="9" rec_time="8" name="That's wonderful. Oh, one more thing. Could you give me a map of the city. " sound="nj_09b_03.mp3" from=" 14:00.006" to=" 14:06.451" allWordsNum="17"/>
+			<record rec_id="10" rec_time="6" name="I'm very sorry, we don't have any free maps left today, but you can find them in the library. " sound="nj_09b_03.mp3" from=" 14:07.487" to=" 14:12.353" allWordsNum="23"/>
+			<record rec_id="11" rec_time="6" name="Right. Thanks very much for your help. It's very kind of you. " sound="nj_09b_03.mp3" from=" 14:12.736" to=" 14:17.964" allWordsNum="14"/>
+			<record rec_id="12" rec_time="5" name="You're welcome. Goodbye. " sound="nj_09b_03.mp3" from=" 14:17.931" to=" 14:19.904" allWordsNum="5"/>
+			<record rec_id="13" rec_time="3" name="Goodbye. " sound="nj_09b_03.mp3" from=" 14:20.364" to=" 14:21.581" allWordsNum="1"/>
+			<exercise type="5" index="0"/>
+		</part>
+	</dialogs>
+</package>
+ 
